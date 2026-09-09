@@ -7,14 +7,14 @@ fs_id: KWJR-J45
 generation: 7
 born: 12 March 1776 · Loudoun, Virginia, British Colonial America
 died: 30 October 1838 · Hawn's Mill, Caldwell, Missouri, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas White McBride
 
-Born 12 March 1776 · Loudoun, Virginia, British Colonial America · Died 30 October 1838 · Hawn's Mill, Caldwell, Missouri, United States · Generation 7
+Born 12 March 1776 · Loudoun, Virginia, British Colonial America · Died 30 October 1838 · Hawn's Mill, Caldwell, Missouri, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[James McBride (GWDD-PBS)|James McBride]]
@@ -27,58 +27,94 @@ Born 12 March 1776 · Loudoun, Virginia, British Colonial America · Died 30 Oct
 - **Residence**: 1810 · Lancaster, Fairfield, Ohio, United States · "moved to New Lancaster, Fairfield Co., Ohio"
 - **Residence**: March 1820 · Red Haw, Wayne, Ohio, United States · "moved from Fairfield Co., to Wayne Co."
 - **Residence**: 1823 · Jackson Township, Wayne, Ohio, United States
-- **data:,Missionaries%20that%20preached,%20baptized%20and%20confirmed**: 1831 · Redhaw, Ashland, Ohio, United States · Thomas Tripp & Harvey Green
+- **Missionaries%20that%20preached,%20baptized%20and%20confirmed**: 1831 · Redhaw, Ashland, Ohio, United States · Thomas Tripp & Harvey Green
 - **Residence**: August 1833 · Wintered in Richland County, Ohio, United States · Started for Jackson County, Missouri
 - **Residence**: June 1834 · Pike, Missouri, United States · "we arrived in Pike County Mo."
 - **Residence**: 1836 · Ray, Missouri, United States · "In the Spring of 1836, the Company above mentioned, moved to Ray County, and there joined with a branch of the Church."
-- **data:,Land+Entry**: 30 August 1836 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, three-quarter mile east of Hawn's Mill where the family lived. Township 56N, Range 26W, Section 9, Aliquots SE¼SW¼. 
+- **Land+Entry**: 30 August 1836 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, three-quarter mile east of Hawn's Mill where the family lived. Township 56N, Range 26W, Section 9, Aliquots SE¼SW¼. 
 - **Residence**: September 1836 · Caldwell, Missouri, United States · "moved to Caldwell County, and settled about three fourths of a mile from Haun's Mill, on Shoal creek"
-- **data:,Land+Entry**: 18 April 1838 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, four miles west of Hawn's Mill where Thomas' son Amos McBride lived. Township 56N, Range 26W, Section 11, Aliquots SW¼SE¼. 
+- **Land+Entry**: 18 April 1838 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, four miles west of Hawn's Mill where Thomas' son Amos McBride lived. Township 56N, Range 26W, Section 11, Aliquots SW¼SE¼. 
 - **Occupation**: 1838 · Caldwell, Missouri, United States · Grand River Township Magistrate
-- **data:,Land+Patent**: 7 September 1838 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, three-quarter mile east of Hawn's Mill where the family lived. Township 56N, Range 26W, Section 9, Aliquots SE¼SW¼. 
-- **data:,Cause+of+Death**: 30 October 1838 · Hawn's Mill, Caldwell, Missouri, United States · Casualty of Hawn's Mill Massacre
+- **Land+Patent**: 7 September 1838 · Hawn's Mill, Caldwell, Missouri, United States · Forty-acre parcel, three-quarter mile east of Hawn's Mill where the family lived. Township 56N, Range 26W, Section 9, Aliquots SE¼SW¼. 
+- **Cause+of+Death**: 30 October 1838 · Hawn's Mill, Caldwell, Missouri, United States · Casualty of Hawn's Mill Massacre
 - **Burial**: 31 October 1838 · Fairview Township, Hawn's Mill, Caldwell, Missouri, United States
-- **data:,Sale+of+forty-acre+parcel%2C+three-quarter+mile+east+of+Hawn%27s+Mill**: 16 February 1839 · Chillicothe, Livingston, Missouri, United States · Certificate No. 8573
-- **data:,Land+Patent%2C+**: 1 May 1843 · Hawn's Mill, Caldwell, Missouri, United States · Likely abandoned, forty -acre parcel, four miles west of Hawn's Mill where Thomas' son Amos McBride lived. Township 56N, Range 26W, Section 11, Aliquots SW¼SE¼. 
+- **Sale+of+forty-acre+parcel%2C+three-quarter+mile+east+of+Hawn%27s+Mill**: 16 February 1839 · Chillicothe, Livingston, Missouri, United States · Certificate No. 8573
+- **Land+Patent%2C+**: 1 May 1843 · Hawn's Mill, Caldwell, Missouri, United States · Likely abandoned, forty -acre parcel, four miles west of Hawn's Mill where Thomas' son Amos McBride lived. Township 56N, Range 26W, Section 11, Aliquots SW¼SE¼. 
 
 ## Stories
 
 ### Amos Evans McBride-1802-1885
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1329222)_
+
 ### Thomas White McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1656918)_
 
 ### Thomas White McBride biography
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1656997)_
+
 ### Thomas McBride 1776-1838 Haun’s Mill Martyr 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2031381)_
 
 ### From the Book of Mrs. Lon Rowberry
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2882402)_
+
 ### A Rare Account of the Haun’s Mill Massacre	
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3499235)_
 
 ### Haun’s Mill
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4811356)_
+
 ### Hawn's Mill Massacre First Hand Accounts Excerpts
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7537310)_
 
 ### Rebecca McBride Green, Thomas McBride, and Catherine John
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7784250)_
+
 ### Death and Burial of Thomas McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10858415)_
 
 ### Hawn's Mill Sources
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10873039)_
+
 ### Short Biography of Thomas White McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12311331)_
 
 ### Autobiography of James McBride April 4th, 1876
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12944249)_
+
 ### Thomas McBride at Hawn's Mill 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19376159)_
 
 ### Pappa Thomas W.  McBride's death by Alma M. Richie 2017
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/34115826)_
+
 ### TALES OF THE MOHICAN COUNTRY MORMONS FROM RICHLAND DIRED AT HANDS OF MISSOURI MOB By D. W. Garber
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/53755887)_
 
 ### THOMAS MCBRIDE OF THE HAUN'S MILL MASSACRE
 	Maurice N. McBride
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/178954295)_
+
 ### RESEARCH - McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/178955109)_
 
 ## Photos & documents
 
@@ -91,7 +127,7 @@ Born 12 March 1776 · Loudoun, Virginia, British Colonial America · Died 30 Oct
 ![[AI Library/12 Family/_media/KWJR-J45/3658406.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/3658453.png|photo]]
+![[AI Library/12 Family/_media/KWJR-J45/3658453.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJR-J45/4019773.jpg|Marriage Bond and Church Record of Thomas McBride & Catherine John, page 1 of 2]]
@@ -160,7 +196,7 @@ _Excerpts from "Beautiful upon the Mountains" - pioneer journals, letters and di
 ![[AI Library/12 Family/_media/KWJR-J45/11417509.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/11469544.png|Hawn's Mill Settlement 1838]]
+![[AI Library/12 Family/_media/KWJR-J45/11469544.jpg|Hawn's Mill Settlement 1838]]
 
 
 ![[AI Library/12 Family/_media/KWJR-J45/11546279.pdf|Partial List of Hawn's Mill Massacre Survivors]]
@@ -211,16 +247,16 @@ _Story sent by Family Search - Persecution written by Parley P Pratt with Thomas
 ![[AI Library/12 Family/_media/KWJR-J45/51439940.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/52185115.jpeg|photo]]
+![[AI Library/12 Family/_media/KWJR-J45/52185115.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/69884131.jpeg|180th Anniversary of the Attack on Hawn’s Mill]]
+![[AI Library/12 Family/_media/KWJR-J45/69884131.jpg|180th Anniversary of the Attack on Hawn’s Mill]]
 _Name read in remembrance during Missouri Mormon Frontier Foundation presentation._
 
-![[AI Library/12 Family/_media/KWJR-J45/74092823.jpeg|Encyclopedic History of the LDS Church]]
+![[AI Library/12 Family/_media/KWJR-J45/74092823.jpg|Encyclopedic History of the LDS Church]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/74093160.jpeg|Latter-day Saint Biographical Encyclopedia]]
+![[AI Library/12 Family/_media/KWJR-J45/74093160.jpg|Latter-day Saint Biographical Encyclopedia]]
 
 
 ![[AI Library/12 Family/_media/KWJR-J45/83368355.pdf|Thomas McBride and Catherine John McBride - A Brief History ]]
@@ -247,7 +283,7 @@ _These are those that were shot and killed then stuffed into a large well at the
 ![[AI Library/12 Family/_media/KWJR-J45/112210572.jpg|Biddlecome. Cornelius Biddlecome, brief history pg 2]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/113061743.jpeg|Hawn’s Mill]]
+![[AI Library/12 Family/_media/KWJR-J45/113061743.jpg|Hawn’s Mill]]
 _Courtesy of Ryan Jenkins._
 
 ![[AI Library/12 Family/_media/KWJR-J45/116250423.pdf|Thomas White McBride and Catherine John, Their Life Story, compiled by Keith L. Dayley]]
@@ -305,7 +341,7 @@ _Intersection of Catawba Road and Hawn's Mill Drive._
 ![[AI Library/12 Family/_media/KWJR-J45/174856878.jpg|"Northeast of Eden, A Historical Atlas of Missouri's Mormon County"]]
 _Thomas McBride's forty-acre parcel 3/4 mile east of Hawn's Mill. "Northeast of Eden, A Historical Atlas of Missouri's Mormon County", John Hamer, 2004 p. 24._
 
-![[AI Library/12 Family/_media/KWJR-J45/175172151.jpeg|MCBRIDE John, Captain (b. 1618) family chart and info. ]]
+![[AI Library/12 Family/_media/KWJR-J45/175172151.jpg|MCBRIDE John, Captain (b. 1618) family chart and info. ]]
 
 
 ![[AI Library/12 Family/_media/KWJR-J45/182801077.jpg|photo]]
@@ -337,7 +373,7 @@ https://archive.org/details/reminiscencesofl00litt/page/69/mode/1up_
 ![[AI Library/12 Family/_media/KWJR-J45/239549287.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJR-J45/240379725.jpeg|Family Group Sheet for Thomas White McBride.jpeg]]
+![[AI Library/12 Family/_media/KWJR-J45/240379725.jpg|Family Group Sheet for Thomas White McBride.jpeg]]
 
 
 ![[AI Library/12 Family/_media/KWJR-J45/247569055.pdf|Thomas White McBride - Article in Mansfield News Journal 4 Mar 1962 (d807b9b5d8e2).pdf]]
@@ -418,6 +454,15 @@ https://archive.org/details/reminiscencesofl00litt/page/69/mode/1up_
 - [Family Group Records Collection, Archives Section, 1942-1969; pal:/MM9.3.1/TH-1951-31514-894-2](https://familysearch.org/ark:/61903/3:1:3QS7-997M-X15?cc=2060211&wc=MW44-6TL%3A352088401%2C352092501)
 - [Thomas White McBride, "Family Group Records Collection", Archives Section, 1942-1969; pal:/MM9.3.1/TH-1942-31514-892-95](https://familysearch.org/ark:/61903/3:1:3QSQ-G97M-X1G?cc=2060211&wc=MW44-6TL%3A352088401%2C352092501)
 - [Thomas White McBride History](http://gordon.buttars.me/familyhistory/McBride,%20Thomas%20White/Thomas%20White%20McBride.pdf)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 44)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 53)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 54)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 60)_
+- **1838** — The Saints driven from Missouri _(age 62)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJR-J45)

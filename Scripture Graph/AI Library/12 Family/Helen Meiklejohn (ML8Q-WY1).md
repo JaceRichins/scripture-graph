@@ -6,14 +6,14 @@ sg-id: fs:ML8Q-WY1
 fs_id: ML8Q-WY1
 generation: 7
 born: 1750 · Watten, Caithness, Scotland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Helen Meiklejohn
 
-Born 1750 · Watten, Caithness, Scotland · Generation 7
+Born 1750 · Watten, Caithness, Scotland · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Benjamin Meiklejohn (KXFJ-HWS)|Benjamin Meiklejohn]]
@@ -59,6 +59,13 @@ Vol. 1. Baptisms 1740-1819 (one entry for 1827 on same page as 1771, and one ent
 - [Helen Meiklejohn in entry for Betty Budge, "Scotland, Births and Baptisms, 1564-1950"](https://familysearch.org/ark:/61903/1:1:XT5Y-16G)
 - [Helen Meiklejohn in entry for Betty Budge, "Scotland, Births and Baptisms, 1564-1950"](https://familysearch.org/ark:/61903/1:1:XT5Y-16G)
 - [Helen Meiklejohn in entry for William Bridge, "Scotland, Births and Baptisms, 1564-1950"](https://familysearch.org/ark:/61903/1:1:XT5B-B7N)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 70)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 79)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 80)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/ML8Q-WY1)

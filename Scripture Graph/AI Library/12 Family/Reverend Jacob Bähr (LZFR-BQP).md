@@ -7,14 +7,14 @@ fs_id: LZFR-BQP
 generation: 7
 born: about 1760 · Orangeburgh District, South Carolina
 died: 1824 · Orangeburgh District, South Carolina
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Reverend Jacob Bähr
 
-Born about 1760 · Orangeburgh District, South Carolina · Died 1824 · Orangeburgh District, South Carolina · Generation 7
+Born about 1760 · Orangeburgh District, South Carolina · Died 1824 · Orangeburgh District, South Carolina · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Johannes Bähr (LZFT-95D)|Johannes Bähr]]
@@ -24,6 +24,11 @@ Born about 1760 · Orangeburgh District, South Carolina · Died 1824 · Orangebu
 ## Life
 - **Birth**: about 1760 · Orangeburgh District, South Carolina
 - **Death**: 1824 · Orangeburgh District, South Carolina
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 60)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZFR-BQP)

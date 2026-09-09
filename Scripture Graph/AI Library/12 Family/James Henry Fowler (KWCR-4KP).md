@@ -7,14 +7,14 @@ fs_id: KWCR-4KP
 generation: 4
 born: 2 August 1876 · Henefer, Summit, Utah, United States
 died: 11 May 1930 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Henry Fowler
 
-Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 · Henefer, Summit, Utah, United States · Generation 4
+Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[James Macefield Fowler (KWNL-J7K)|James Macefield Fowler]]
@@ -30,6 +30,8 @@ Born 2 August 1876 · Henefer, Summit, Utah, United States · Died 11 May 1930 �
 ## Stories
 
 ### Life Story of Susannah Jones Stephens and James Henry Fowler
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/55850422)_
 
 ## Photos & documents
 
@@ -51,10 +53,10 @@ _James Henry Fowler-about 1921_
 ![[AI Library/12 Family/_media/KWCR-4KP/115308962.jpg|Death certificate]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KP/127847090.jpeg|Letter to A Howard Jensen regarding death of Orlando Fowler (pages 1 & 2)]]
+![[AI Library/12 Family/_media/KWCR-4KP/127847090.jpg|Letter to A Howard Jensen regarding death of Orlando Fowler (pages 1 & 2)]]
 _This letter was written to a former missionary companion (A Howard Jensen) regarding the death of Orlando Fowler and kept in Howard Jensen's missionary journal._
 
-![[AI Library/12 Family/_media/KWCR-4KP/127847096.jpeg|Letter to A Howard Jensen regarding death of Orlando Fowler (page 3 of 3)]]
+![[AI Library/12 Family/_media/KWCR-4KP/127847096.jpg|Letter to A Howard Jensen regarding death of Orlando Fowler (page 3 of 3)]]
 
 
 ![[AI Library/12 Family/_media/KWCR-4KP/129613694.pdf|Funeral -- Morgan County News 1930-5-22]]
@@ -93,13 +95,13 @@ _This letter was written to a former missionary companion (A Howard Jensen) rega
 ![[AI Library/12 Family/_media/KWCR-4KP/241289875.jpg|Elva and her Papa]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KP/241909101.tif|10 abt_-James doing chores]]
+![[AI Library/12 Family/_media/KWCR-4KP/241909101.jpg|10 abt_-James doing chores]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KP/241909150.tif|1888 abt_-James Fowler]]
+![[AI Library/12 Family/_media/KWCR-4KP/241909150.jpg|1888 abt_-James Fowler]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KP/241909225.tif|Susannah & Jim after children were born]]
+![[AI Library/12 Family/_media/KWCR-4KP/241909225.jpg|Susannah & Jim after children were born]]
 
 
 ## Sources
@@ -137,6 +139,15 @@ _This letter was written to a former missionary companion (A Howard Jensen) rega
 - [James H. Fowler in household of James Fowler, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMR5-VBJ)
 - [James H Fowler in household of James Fowler, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNS2-5VV)
 - [James Henry Fowler, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZG1-BQ4)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 1)_
+- **1890** — The Manifesto ends plural marriage _(age 14)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 17)_
+- **1896** — Utah becomes a state _(age 20)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 42)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCR-4KP)

@@ -6,14 +6,14 @@ sg-id: fs:2HSD-57X
 fs_id: 2HSD-57X
 generation: 8
 died: Coates, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Seth Newport
 
-Died Coates, Gloucestershire, England, United Kingdom · Generation 8
+Died Coates, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Newport Tipper (LCJ5-1Z3)|William Newport Tipper]]
@@ -23,8 +23,8 @@ Died Coates, Gloucestershire, England, United Kingdom · Generation 8
 - **Christening**: 17 June 1773 · Coates, Gloucestershire, England
 - **Residence**: 14 February 1798 · Oaksey
 - **Burial**: 6 February 1810 · Coates, Gloucestershire, England, United Kingdom
-- **data:,**: Seth TIPPER · Name at Marriage
-- **data:,Name%20at%20Death**: Seth TIPPER
+- **Event**: Seth TIPPER · Name at Marriage
+- **Name%20at%20Death**: Seth TIPPER
 
 ## Sources
 - [Seth Tipper in entry for William Smith, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NF2P-TMZ)

@@ -7,14 +7,14 @@ fs_id: LLQX-D8P
 generation: 7
 born: 1778 · Frederick, Frederick, Maryland, United States
 died: 27 July 1841 · Nauvoo, Hancock, Illinois, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catherine Ruth John
 
-Born 1778 · Frederick, Frederick, Maryland, United States · Died 27 July 1841 · Nauvoo, Hancock, Illinois, United States · Generation 7
+Born 1778 · Frederick, Frederick, Maryland, United States · Died 27 July 1841 · Nauvoo, Hancock, Illinois, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas John (LDPT-PS8)|Thomas John]]
@@ -26,7 +26,7 @@ Born 1778 · Frederick, Frederick, Maryland, United States · Died 27 July 1841 
 - **Death**: 27 July 1841 · Nauvoo, Hancock, Illinois, United States
 - **Residence**: Spring 1810 · New Lancaster, Fairfield, Ohio, United States · Moved to New Lancaster, Fairfield, Ohio
 - **Residence**: March 1820 · Red Haw, Wayne, Ohio, United States · Moved to Red Haw, Wayne, Ohio
-- **data:,Missionaries%20preached%2C%20baptized%20and%20confirmed**: 1831 · Redhaw, Ashland, Ohio, United States · Thomas Tripp & Harvey Green
+- **Missionaries%20preached%2C%20baptized%20and%20confirmed**: 1831 · Redhaw, Ashland, Ohio, United States · Thomas Tripp & Harvey Green
 - **Residence**: August 1833 · Wintered in Richland, Ohio, United States · Started for Jackson County, Missouri
 - **Residence**: Spring 1834 · Pike, Missouri, United States · Started for Missouri again
 - **Residence**: Spring 1836 · Ray, Missouri, United States · Moved to Ray, Missouri
@@ -40,17 +40,31 @@ Born 1778 · Frederick, Frederick, Maryland, United States · Died 27 July 1841 
 
 ### From the Book of Mrs. Lon Rowberry
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2882402)_
+
 ### Haun’s Mill
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4811356)_
 
 ### Rebecca McBride Green, Thomas McBride, and Catherine John
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7784250)_
+
 ### Excerpt from Rebecca McBride Wilson
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9986708)_
 
 ### Short Biography of Thomas White McBride
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12311331)_
+
 ### Autobiography of James McBride April 4th, 1876
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12944249)_
+
 ### A person's life is part of a larger tapestry interwoven with relationships and experiences.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/13537387)_
 
 ## Photos & documents
 
@@ -190,6 +204,15 @@ _From the records of Virginia Wilson._
 - [Catherine John, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSX-38B4)
 - [Catherine John in entry for Dorcas Mcbride Severe, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSX-T9N2)
 - [Review Member Tree hints for Catherine John](http://trees.ancestry.com/pt/PersonMatch.aspx?pid=36366641907)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 42)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 51)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 52)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 58)_
+- **1838** — The Saints driven from Missouri _(age 60)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQX-D8P)

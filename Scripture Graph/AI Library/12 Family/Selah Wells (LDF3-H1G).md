@@ -7,14 +7,14 @@ fs_id: LDF3-H1G
 generation: 8
 born: 1 April 1750 · Southold, Suffolk, New York, British Colonial America
 died: 3 March 1842 · Newberry, Orange, Vermont, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Selah Wells
 
-Born 1 April 1750 · Southold, Suffolk, New York, British Colonial America · Died 3 March 1842 · Newberry, Orange, Vermont, United States · Generation 8
+Born 1 April 1750 · Southold, Suffolk, New York, British Colonial America · Died 3 March 1842 · Newberry, Orange, Vermont, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mehitable Wells (KN6W-2R1)|Mehitable Wells]]
@@ -22,7 +22,7 @@ Born 1 April 1750 · Southold, Suffolk, New York, British Colonial America · Di
 ## Life
 - **Birth**: 1 April 1750 · Southold, Suffolk, New York, British Colonial America
 - **Death**: 3 March 1842 · Newberry, Orange, Vermont, United States
-- **data:,Membership**: 1 Apr 1750 · Utah, United States
+- **Membership**: 1 Apr 1750 · Utah, United States
 - **Christening**: 19 December 1750 · Cutchogue, Suffolk, New York Colony, British Colonial America
 - **MilitaryService**: 8 July 1775 · United States
 - **Residence**: 1790 · Amenia, Dutchess, New York
@@ -33,13 +33,23 @@ Born 1 April 1750 · Southold, Suffolk, New York, British Colonial America · Di
 
 ### History of Selah Wells
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20348413)_
+
 ### History of Marshfield, Washington County, Vermont
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20348602)_
 
 ### Excerpt from "History of Plymouth, New Hampshire"
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20358607)_
+
 ### The Refugees of 1776 from Long Island to Connecticut
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20360924)_
+
 ### Selah Wells, from my grandfather, Wayne L. Cheney's genealogy book. Typed by Roxcy Susanne Wilson Pugh
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108635141)_
 
 ## Photos & documents
 
@@ -52,13 +62,13 @@ Born 1 April 1750 · Southold, Suffolk, New York, British Colonial America · Di
 ![[AI Library/12 Family/_media/LDF3-H1G/79350410.jpg|NY; Suffolk co, [Long Island, New York] Riverhead, Aquebogue Cemetery]]
 
 
-![[AI Library/12 Family/_media/LDF3-H1G/79350411.png|NY; Suffolk co, [Long Island, New York] Aquebogue census map]]
+![[AI Library/12 Family/_media/LDF3-H1G/79350411.jpg|NY; Suffolk co, [Long Island, New York] Aquebogue census map]]
 
 
 ![[AI Library/12 Family/_media/LDF3-H1G/79350409.jpg|NY; Suffolk co, [Long Island, New York] Riverhead, Aquebogue Cemetery]]
 _Aquebogue Cemetery_
 
-![[AI Library/12 Family/_media/LDF3-H1G/129408280.png|Daughters of the American Revolution]]
+![[AI Library/12 Family/_media/LDF3-H1G/129408280.jpg|Daughters of the American Revolution]]
 
 
 ![[AI Library/12 Family/_media/LDF3-H1G/163132533.jpg|NY; Suffolk co. [on Long Island, New York]; Peconic Bay from Riverhead, [Jamesport to left and Southport to the right]]]
@@ -82,7 +92,7 @@ _Aquebogue Cemetery_
 ![[AI Library/12 Family/_media/LDF3-H1G/163132541.jpg|NY; Suffolk co. [on Long Island, New York]; Aquebogue [hamlet], Riverhead[town], Corwin House]]
 
 
-![[AI Library/12 Family/_media/LDF3-H1G/163132543.png|NY; Suffolk co. [on Long Island, New York];Peconic Waterway; Riverhead]]
+![[AI Library/12 Family/_media/LDF3-H1G/163132543.jpg|NY; Suffolk co. [on Long Island, New York];Peconic Waterway; Riverhead]]
 
 
 ## Sources
@@ -112,6 +122,15 @@ _Aquebogue Cemetery_
 - Legacy NFS Source: Deacon Selah Wells - 
 - Legacy NFS Source: Deacon Selah Wells - 
 - Legacy NFS Source: Deacon Selah Wells - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 70)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 79)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 80)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 86)_
+- **1838** — The Saints driven from Missouri _(age 88)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LDF3-H1G)

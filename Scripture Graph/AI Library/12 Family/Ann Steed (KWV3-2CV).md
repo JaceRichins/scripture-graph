@@ -7,14 +7,14 @@ fs_id: KWV3-2CV
 generation: 7
 born: 27 April 1813 · Great Malvern, Worcestershire, England
 died: 13 June 1898 · Farmington, Davis, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Steed
 
-Born 27 April 1813 · Great Malvern, Worcestershire, England · Died 13 June 1898 · Farmington, Davis, Utah, United States · Generation 7
+Born 27 April 1813 · Great Malvern, Worcestershire, England · Died 13 June 1898 · Farmington, Davis, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Steed Jr (LLQ2-3RG)|Thomas Steed Jr]]
@@ -25,20 +25,20 @@ Born 27 April 1813 · Great Malvern, Worcestershire, England · Died 13 June 189
 - **Birth**: 27 April 1813 · Great Malvern, Worcestershire, England
 - **Death**: 13 June 1898 · Farmington, Davis, Utah, United States
 - **Christening**: 23 May 1813 · Great Malvern, Worcestershire, England
-- **data:,LDS+baptism**: 11 May 1840 · Wynds Point, Herefordshire, England · Baptised and confirmed by Wilford Woodruff
+- **LDS+baptism**: 11 May 1840 · Wynds Point, Herefordshire, England · Baptised and confirmed by Wilford Woodruff
 - **Residence**: 1841 · Leigh, Worcestershire, England
 - **Residence**: 1851 · Great Malvern, Worcestershire, England
 - **Residence**: 1855 · New York City, New York County, New York, United States
 - **Residence**: 1855 · E.D. 1, Ward 8, New York City, New York, New York, United States
 - **Burial**: 16 June 1898 · Farmington, Davis, Utah, United States
-- **data:,Sealed%20to%20child%20(LDS)**: 15 Mar 1950
+- **Sealed%20to%20child%20(LDS)**: 15 Mar 1950
 
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/KWV3-2CV/252774.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWV3-2CV/1739782.png|photo]]
+![[AI Library/12 Family/_media/KWV3-2CV/1739782.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWV3-2CV/5121057.jpg|photo]]
@@ -168,6 +168,24 @@ _Ann Steed Turner_
 - [Ann S Turner Headstone](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=turner&GSfn=ann&GSbyrel=all&GSdyrel=all&GSst=47&GScntry=4&GSob=n&GRid=137198&df=all&)
 - [Ann Steed Turner Obituary](https://www.familysearch.org/photos/artifacts/6749137)
 - [Ann Steed Turner Pioneer Overland Travel - Pioneer Detail](http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=55024)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 7)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 16)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 17)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 23)_
+- **1838** — The Saints driven from Missouri _(age 25)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 31)_
+- **1846** — The exodus from Nauvoo begins _(age 33)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 34)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 43)_
+- **1869** — The railroad reaches Utah _(age 56)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 64)_
+- **1890** — The Manifesto ends plural marriage _(age 77)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 80)_
+- **1896** — Utah becomes a state _(age 83)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV3-2CV)

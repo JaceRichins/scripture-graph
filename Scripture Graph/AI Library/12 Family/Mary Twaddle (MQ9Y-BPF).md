@@ -5,14 +5,14 @@ content_type: ancestor
 sg-id: fs:MQ9Y-BPF
 fs_id: MQ9Y-BPF
 generation: 8
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Twaddle
 
-Generation 8
+Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Richard Shepherd (K2H7-3LS)|Richard Shepherd]]

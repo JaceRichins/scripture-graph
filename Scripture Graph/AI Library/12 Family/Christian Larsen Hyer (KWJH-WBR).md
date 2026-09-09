@@ -7,14 +7,14 @@ fs_id: KWJH-WBR
 generation: 6
 born: 8 September 1817 · Mæl, Tinn, Telemark, Norway
 died: 20 September 1901 · Richmond, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Christian Larsen Hyer
 
-Born 8 September 1817 · Mæl, Tinn, Telemark, Norway · Died 20 September 1901 · Richmond, Cache, Utah, United States · Generation 6
+Born 8 September 1817 · Mæl, Tinn, Telemark, Norway · Died 20 September 1901 · Richmond, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Lars Andersen Heyer (LKK2-XKN)|Lars Andersen Heyer]]
@@ -31,20 +31,36 @@ Born 8 September 1817 · Mæl, Tinn, Telemark, Norway · Died 20 September 1901 
 
 ### John Telford
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/222176)_
+
 ### Conversion, Migration West, & Short Anecdotes
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2840846)_
 
 ### THE TREK WEST EXPERIENCE OF CHRISTIAN HYER
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2913348)_
+
 ### Life Sketch of Rozina Shepard Knapp Francis Hyer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/21574124)_
 
 ### Baptism
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/125626298)_
+
 ### Autobiography of Christian Hyer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/127730583)_
 
 ### Christian Hyer:  Conversion and Travel to SLC
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/131528463)_
+
 ### Notes on the life of Goudy Hogan, Christian Hyer, Mariner W. Merrill, and Edwin Pace
 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/170643086)_
 
 ## Photos & documents
 
@@ -225,7 +241,7 @@ _Indian Wars Affidavit filed by his widow._
 ![[AI Library/12 Family/_media/KWJH-WBR/153362623.pdf|Christian Larsen Hyer History]]
 
 
-![[AI Library/12 Family/_media/KWJH-WBR/154794241.png|Hyer, Christian Larsen Church Emigration of 1849 Fifth Company]]
+![[AI Library/12 Family/_media/KWJH-WBR/154794241.jpg|Hyer, Christian Larsen Church Emigration of 1849 Fifth Company]]
 _Historical Department journal history of the Church, 1830-2008 / 1840-1849 / 1849 July-December
 869
 / 896
@@ -246,7 +262,7 @@ CR 100 137_
 ![[AI Library/12 Family/_media/KWJH-WBR/186123098.pdf|The Life and Times of Christian Larsen Hyer]]
 
 
-![[AI Library/12 Family/_media/KWJH-WBR/215749381.png|Møli farm, Tinn, Telemark, Norway (2025)]]
+![[AI Library/12 Family/_media/KWJH-WBR/215749381.jpg|Møli farm, Tinn, Telemark, Norway (2025)]]
 _birthplace of Christian Hyer_
 
 ![[AI Library/12 Family/_media/KWJH-WBR/228708344.jpg|Christian L HyerPed.jpg]]
@@ -342,6 +358,24 @@ _This headstone was cleaned by descendents on July 25, 2026_
 - [Pioneers and prominent men of Utah](https://archive.org/stream/pioneersprominen00esshrich#page/952/mode/2up)
 - [Membership of The Church of Jesus Christ of Latter-day Saints, 1830-1848 about Christian Hyer](https://www.familysearch.org/photos/artifacts/9631824)
 - [Millennium File about Christian Larsen Hyer](https://www.familysearch.org/photos/artifacts/9631296)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 3)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 12)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 13)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 19)_
+- **1838** — The Saints driven from Missouri _(age 21)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 27)_
+- **1846** — The exodus from Nauvoo begins _(age 29)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 30)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 39)_
+- **1869** — The railroad reaches Utah _(age 52)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 60)_
+- **1890** — The Manifesto ends plural marriage _(age 73)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 76)_
+- **1896** — Utah becomes a state _(age 79)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJH-WBR)

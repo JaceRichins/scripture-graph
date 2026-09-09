@@ -7,14 +7,14 @@ fs_id: KWJF-WJ6
 generation: 8
 born: 13 September 1780 · Saint Peter Port, Guernsey
 died: June 1855 · Atchison, Kansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Pill
 
-Born 13 September 1780 · Saint Peter Port, Guernsey · Died June 1855 · Atchison, Kansas, United States · Generation 8
+Born 13 September 1780 · Saint Peter Port, Guernsey · Died June 1855 · Atchison, Kansas, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Pill (KWJX-JHF)|Elizabeth Pill]]
@@ -25,11 +25,13 @@ Born 13 September 1780 · Saint Peter Port, Guernsey · Died June 1855 · Atchis
 - **Christening**: 21 September 1780 · Saint Peter Port, Guernsey
 - **Residence**: 1851 · Saint Peter Port, Guernsey
 - **Burial**: June 1855 · Atchison, Kansas, United States
-- **data:,Death**: June 1855 · Atchison, Kansas, United States · Probable cause: Cholera
+- **Death**: June 1855 · Atchison, Kansas, United States · Probable cause: Cholera
 
 ## Stories
 
 ### Thomas Colley Stayner      Sea Captain, Pioneer, Missionary
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1356809)_
 
 ## Photos & documents
 
@@ -88,6 +90,18 @@ _This was a Christmas present from my great-grandmother, Leora Cook Barrus, to h
 - [John Pill, "England and Wales Census, 1841"](https://familysearch.org/ark:/61903/1:1:M7WM-S66)
 - [John Pill, "England and Wales Census, 1851"](https://familysearch.org/ark:/61903/1:1:SG8P-SPB)
 - [June 1855 Atchison, Kansas findagrave index for John Pill in the U.S., Find a Grave Index, 1600s](https://www.ancestry.com/discoveryui-content/view/141368932:60525?indiv=try&h&_phsrc=Vll955&db)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 40)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 49)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 50)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 56)_
+- **1838** — The Saints driven from Missouri _(age 58)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 64)_
+- **1846** — The exodus from Nauvoo begins _(age 66)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJF-WJ6)

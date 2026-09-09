@@ -7,14 +7,14 @@ fs_id: KWJX-JHN
 generation: 7
 born: 22 June 1802 · Brentwood, Essex, England, United Kingdom
 died: 7 October 1869 · Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Colley Stayner
 
-Born 22 June 1802 · Brentwood, Essex, England, United Kingdom · Died 7 October 1869 · Salt Lake, Utah Territory, United States · Generation 7
+Born 22 June 1802 · Brentwood, Essex, England, United Kingdom · Died 7 October 1869 · Salt Lake, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Stayner (LQ5G-79D)|Thomas Stayner]]
@@ -26,24 +26,36 @@ Born 22 June 1802 · Brentwood, Essex, England, United Kingdom · Died 7 October
 - **Death**: 7 October 1869 · Salt Lake, Utah Territory, United States
 - **Christening**: 26 June 1802 · Brentwood, Essex, England, United Kingdom
 - **Occupation**: after 1827 · Captain of a passenger steamer for 40 years. Capt. Stayner visited ports all over the world. His wife, Elizabeth, accompanied him around the world nine times!
-- **data:,Emigration**: 13 June 1855
-- **data:,Immigration**: 7 September 1855 · Utah Territory, United States
+- **Emigration**: 13 June 1855
+- **Immigration**: 7 September 1855 · Utah Territory, United States
 - **Burial**: 1869 · Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah Territory, United States
-- **data:,Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Farmington, Davis, Utah, United States
 
 ## Stories
 
 ### Thomas Colley Stayner      Sea Captain, Pioneer, Missionary
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1356809)_
+
 ### Thomas Stayner Hudson Bay Chief Factor, Governor, Trader, Explorer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1357808)_
 
 ### Thomas C. Stayner trail letter to Brigham Young on return with Elizabeth from British Mission
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1740231)_
+
 ### Arthur Stayner Pioneer, Businessman, Legislator, Missionary, Educator
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7281384)_
 
 ### Secrist/Guymon Emmigration Information and Summary
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8839493)_
+
 ### grandpa 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/154768223)_
 
 ## Photos & documents
 
@@ -120,6 +132,20 @@ _Stayner Family place marker at SLC cemetery. It lists the children of Thomas an
 - [Thos Colley Stayner, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F858-8QN)
 - [Thos Colley Stayner, "Utah, Salt Lake County Death Records, 1908-1949"](https://familysearch.org/ark:/61903/1:1:NQHL-HPD)
 - [Tomestone for Thomas Collie Stayner 1802-1869](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Stayner&GSfn=Thomas+&GSbyrel=all&GSdyrel=all&GSst=47&GScnty=2791&GScntry=4&GSob=n&GRid=37776021&df=all&)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 18)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 27)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 28)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 34)_
+- **1838** — The Saints driven from Missouri _(age 36)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 42)_
+- **1846** — The exodus from Nauvoo begins _(age 44)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 45)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 54)_
+- **1869** — The railroad reaches Utah _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJX-JHN)

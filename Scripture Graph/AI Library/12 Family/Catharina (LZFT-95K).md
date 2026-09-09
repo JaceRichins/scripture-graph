@@ -7,14 +7,14 @@ fs_id: LZFT-95K
 generation: 8
 born: 3 September 1738 · Bruchsal, Karlsruhe, Baden-Württemberg, Germany
 died: South Carolina
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catharina
 
-Born 3 September 1738 · Bruchsal, Karlsruhe, Baden-Württemberg, Germany · Died South Carolina · Generation 8
+Born 3 September 1738 · Bruchsal, Karlsruhe, Baden-Württemberg, Germany · Died South Carolina · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Reverend Jacob Bähr (LZFR-BQP)|Reverend Jacob Bähr]]
@@ -22,6 +22,11 @@ Born 3 September 1738 · Bruchsal, Karlsruhe, Baden-Württemberg, Germany · Die
 ## Life
 - **Birth**: 3 September 1738 · Bruchsal, Karlsruhe, Baden-Württemberg, Germany
 - **Death**: South Carolina
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZFT-95K)

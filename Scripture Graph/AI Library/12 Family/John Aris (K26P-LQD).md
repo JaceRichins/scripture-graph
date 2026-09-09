@@ -7,14 +7,14 @@ fs_id: K26P-LQD
 generation: 8
 born: 1765 · Bodicote, Oxfordshire, England
 died: 1851 · Banbury, Oxfordshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Aris
 
-Born 1765 · Bodicote, Oxfordshire, England · Died 1851 · Banbury, Oxfordshire, England, United Kingdom · Generation 8
+Born 1765 · Bodicote, Oxfordshire, England · Died 1851 · Banbury, Oxfordshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Aris (LCXR-6VS)|Sarah Aris]]
@@ -34,6 +34,18 @@ Born 1765 · Bodicote, Oxfordshire, England · Died 1851 · Banbury, Oxfordshire
 - Legacy NFS Source: John ARIS - 
 - [John Aris, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3JR-LHK)
 - [John Aris, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3JR-LHK)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 55)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 64)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 65)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 71)_
+- **1838** — The Saints driven from Missouri _(age 73)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 79)_
+- **1846** — The exodus from Nauvoo begins _(age 81)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K26P-LQD)

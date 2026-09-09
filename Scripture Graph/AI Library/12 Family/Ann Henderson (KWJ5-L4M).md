@@ -7,14 +7,14 @@ fs_id: KWJ5-L4M
 generation: 6
 born: 6 June 1807 · Howdon Pans, Northumberland, England, United Kingdom
 died: 6 May 1854 · Arsenal Island (Quarantine Island), St. Louis, St. Louis, Missouri, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Henderson
 
-Born 6 June 1807 · Howdon Pans, Northumberland, England, United Kingdom · Died 6 May 1854 · Arsenal Island (Quarantine Island), St. Louis, St. Louis, Missouri, United States · Generation 6
+Born 6 June 1807 · Howdon Pans, Northumberland, England, United Kingdom · Died 6 May 1854 · Arsenal Island (Quarantine Island), St. Louis, St. Louis, Missouri, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Thomas Henderson (LC28-S85)|Thomas Henderson]]
@@ -29,11 +29,13 @@ Born 6 June 1807 · Howdon Pans, Northumberland, England, United Kingdom · Died
 - **Residence**: 1851 · Tynemouth, Northumberland, England · Marital home with her children and Niece
 - **Residence**: 1851 · Bishops Froome, Herefordshire, England
 - **Burial**: 1854 · Arsenal Island Cemetery, St. Louis, St. Louis, Missouri, United States
-- **data:,Memorial%20Cenotaph**: Salt Lake City, Salt Lake, Utah, United States · Ann's Memorial Cenotaph is in the Salt Lake City Cemetary
+- **Memorial%20Cenotaph**: Salt Lake City, Salt Lake, Utah, United States · Ann's Memorial Cenotaph is in the Salt Lake City Cemetary
 
 ## Stories
 
 ### Mary Park Shepherd (1836-1924)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30906309)_
 
 ## Photos & documents
 
@@ -98,6 +100,18 @@ _
 - [Ann in entry for Sarah Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDJQ-148)
 - [Ann in entry for Margaret Hannah Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDJC-GM5)
 - [Ann in entry for Mary Park Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDJW-F4H)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 13)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 22)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 23)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 29)_
+- **1838** — The Saints driven from Missouri _(age 31)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 37)_
+- **1846** — The exodus from Nauvoo begins _(age 39)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 40)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ5-L4M)

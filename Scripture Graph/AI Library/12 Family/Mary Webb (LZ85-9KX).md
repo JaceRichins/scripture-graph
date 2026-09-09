@@ -7,14 +7,14 @@ fs_id: LZ85-9KX
 generation: 8
 born: 1747 · Brailes, Warwickshire, England
 died: 4 November 1808 · Brailes, Warwickshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Webb
 
-Born 1747 · Brailes, Warwickshire, England · Died 4 November 1808 · Brailes, Warwickshire, England, United Kingdom · Generation 8
+Born 1747 · Brailes, Warwickshire, England · Died 4 November 1808 · Brailes, Warwickshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[John Stowe (LCXR-6Q6)|John Stowe]]

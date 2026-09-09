@@ -7,14 +7,14 @@ fs_id: LZPH-MJC
 generation: 6
 born: 12 December 1812 · Syde, Gloucestershire, England, United Kingdom
 died: 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Shill
 
-Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom · Generation 6
+Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 16 August 1848 · Brimpsfield, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Robert Chapel Shill (KWJ7-586)|Robert Chapel Shill]]
@@ -31,6 +31,8 @@ Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 
 
 ### Life History of Thomas Henry and Mary Jones Stephens
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/LZPH-MJC/1396246.jpg|Mary Shill Jones--death certificate]]
@@ -39,10 +41,10 @@ Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 
 ![[AI Library/12 Family/_media/LZPH-MJC/48017849.pdf|William Jones and Mary Shill]]
 
 
-![[AI Library/12 Family/_media/LZPH-MJC/70666807.png|Jones, William S (B 1805) Records]]
+![[AI Library/12 Family/_media/LZPH-MJC/70666807.jpg|Jones, William S (B 1805) Records]]
 
 
-![[AI Library/12 Family/_media/LZPH-MJC/103539848.jpeg|Robert Jones death certificate]]
+![[AI Library/12 Family/_media/LZPH-MJC/103539848.jpg|Robert Jones death certificate]]
 
 
 ![[AI Library/12 Family/_media/LZPH-MJC/109547465.jpg|document]]
@@ -74,6 +76,18 @@ Born 12 December 1812 · Syde, Gloucestershire, England, United Kingdom · Died 
 - Legacy NFS Source: Mary Shill - Church record: birth-name: Mary Shill
 - Legacy NFS Source: Mary Shill - 
 - Membership of The Church of Jesus Christ of Latter-day Saints
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 8)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 17)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 18)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 24)_
+- **1838** — The Saints driven from Missouri _(age 26)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 32)_
+- **1846** — The exodus from Nauvoo begins _(age 34)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 35)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZPH-MJC)

@@ -7,14 +7,14 @@ fs_id: GCNP-F93
 generation: 8
 born: 7 September 1753 · Loudoun, Virginia, British Colonial America
 died: 1787 · Orange, Orange, Virginia, British Colonial America
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary White
 
-Born 7 September 1753 · Loudoun, Virginia, British Colonial America · Died 1787 · Orange, Orange, Virginia, British Colonial America · Generation 8
+Born 7 September 1753 · Loudoun, Virginia, British Colonial America · Died 1787 · Orange, Orange, Virginia, British Colonial America · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas White McBride (KWJR-J45)|Thomas White McBride]]

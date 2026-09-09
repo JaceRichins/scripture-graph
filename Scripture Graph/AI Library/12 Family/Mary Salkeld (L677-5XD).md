@@ -7,14 +7,14 @@ fs_id: L677-5XD
 generation: 7
 born: about 1770
 died: 1837 · Tynemouth, Northumberland, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Salkeld
 
-Born about 1770 · Died 1837 · Tynemouth, Northumberland, England, United Kingdom · Generation 7
+Born about 1770 · Died 1837 · Tynemouth, Northumberland, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Luke Salkeld (MXKK-4FX)|Luke Salkeld]]
@@ -60,6 +60,14 @@ Born about 1770 · Died 1837 · Tynemouth, Northumberland, England, United Kingd
 - [Mary Salkeld in entry for George Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NRK8-83G)
 - [Mary Salkeld in entry for Richard Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J789-LRR)
 - [Mary Salkeld in entry for Richard Shepherd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NRKD-8QZ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 50)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 59)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 60)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L677-5XD)

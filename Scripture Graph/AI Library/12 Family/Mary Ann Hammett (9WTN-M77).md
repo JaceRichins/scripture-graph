@@ -7,14 +7,14 @@ fs_id: 9WTN-M77
 generation: 6
 born: 20 September 1825 · Buchanan, Botetourt, Virginia, United States
 died: 18 October 1922 · Cassville, Barry, Missouri, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Ann Hammett
 
-Born 20 September 1825 · Buchanan, Botetourt, Virginia, United States · Died 18 October 1922 · Cassville, Barry, Missouri, United States · Generation 6
+Born 20 September 1825 · Buchanan, Botetourt, Virginia, United States · Died 18 October 1922 · Cassville, Barry, Missouri, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Charles S Hammett (LYPZ-8CH)|Charles S Hammett]]
@@ -48,6 +48,24 @@ Born 20 September 1825 · Buchanan, Botetourt, Virginia, United States · Died 1
 - [Mary Ann Hamet in entry for James Flaherty, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRDZ-J8S)
 - [Mary Ann Hammett in entry for James Flaherty, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRCM-26R)
 - [Mary Ann Hammett, "Virginia Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRDH-VFH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 4)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 5)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 11)_
+- **1838** — The Saints driven from Missouri _(age 13)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 19)_
+- **1846** — The exodus from Nauvoo begins _(age 21)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 22)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 31)_
+- **1869** — The railroad reaches Utah _(age 44)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 52)_
+- **1890** — The Manifesto ends plural marriage _(age 65)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 68)_
+- **1896** — Utah becomes a state _(age 71)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 93)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/9WTN-M77)

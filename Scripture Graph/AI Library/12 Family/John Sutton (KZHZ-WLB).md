@@ -7,14 +7,14 @@ fs_id: KZHZ-WLB
 generation: 8
 born: Abt 1766 · Of Leire,Leicester,England
 died: '1801'
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Sutton
 
-Born Abt 1766 · Of Leire,Leicester,England · Died 1801 · Generation 8
+Born Abt 1766 · Of Leire,Leicester,England · Died 1801 · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Sutton (LH85-KC8)|Thomas Sutton]]
@@ -22,8 +22,8 @@ Born Abt 1766 · Of Leire,Leicester,England · Died 1801 · Generation 8
 ## Life
 - **Birth**: Abt 1766 · Of Leire,Leicester,England
 - **Death**: 1801
-- **data:,Baptism**: 30 Jul 1753 · Leire, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 30 Jul 1753
+- **Baptism**: 30 Jul 1753 · Leire, Leicestershire, England, United Kingdom
+- **Baptism**: 30 Jul 1753
 - **Christening**: 30 July 1753 · Leire, Leicestershire, England
 - **Burial**: 4 January 1801 · Leire, Leicestershire, England
 - **Residence**: Leire

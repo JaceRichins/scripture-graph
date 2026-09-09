@@ -7,14 +7,14 @@ fs_id: KWVM-M24
 generation: 6
 born: 3 February 1795 · Marlboro, Windham, Vermont, United States
 died: 23 September 1850 · Great Salt Lake City, Great Salt Lake, Utah Territory
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Newel Kimball Whitney
 
-Born 3 February 1795 · Marlboro, Windham, Vermont, United States · Died 23 September 1850 · Great Salt Lake City, Great Salt Lake, Utah Territory · Generation 6
+Born 3 February 1795 · Marlboro, Windham, Vermont, United States · Died 23 September 1850 · Great Salt Lake City, Great Salt Lake, Utah Territory · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Samuel Whitney (M2QG-9Q2)|Samuel Whitney]]
@@ -24,7 +24,7 @@ Born 3 February 1795 · Marlboro, Windham, Vermont, United States · Died 23 Sep
 ## Life
 - **Birth**: 3 February 1795 · Marlboro, Windham, Vermont, United States
 - **Death**: 23 September 1850 · Great Salt Lake City, Great Salt Lake, Utah Territory
-- **data:,Emigration**: 07 Jun 1848
+- **Emigration**: 07 Jun 1848
 - **Immigration**: 24 Sep 1848 · Deseret, United States
 - **Burial**: Kimball-Whitney Cemetery, Salt Lake City, Salt Lake, Utah, United States
 
@@ -32,15 +32,27 @@ Born 3 February 1795 · Marlboro, Windham, Vermont, United States · Died 23 Sep
 
 ### Runaway Horses
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3008984)_
+
 ### Anne Houston
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4357837)_
 
 ### "Our Travels Beyond the Mississippi" By Helen Mar Kimball Whitney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29847963)_
+
 ### The Newel K. Whitney Family by D. Michael Quinn
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29869823)_
 
 ### Newel Kimball Whitney Chronology
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29871639)_
+
 ### Life Sketch of Newel Kimball Whitney
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29871858)_
 
 ## Photos & documents
 
@@ -127,6 +139,18 @@ _
 - [Newel K. Whitney, "BillionGraves Index"](https://familysearch.org/ark:/61903/1:1:27ML-WZH)
 - [Newel Whitney, "Vermont, Vital Records, 1760-1954"](https://familysearch.org/ark:/61903/1:1:V898-825)
 - [Newel Whitney, "Vermont, Births and Christenings, 1765-1908"](https://familysearch.org/ark:/61903/1:1:F8LX-BNY)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 25)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 34)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 35)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 41)_
+- **1838** — The Saints driven from Missouri _(age 43)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 49)_
+- **1846** — The exodus from Nauvoo begins _(age 51)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 52)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWVM-M24)

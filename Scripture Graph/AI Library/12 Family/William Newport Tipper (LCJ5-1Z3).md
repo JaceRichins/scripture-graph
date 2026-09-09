@@ -7,14 +7,14 @@ fs_id: LCJ5-1Z3
 generation: 7
 born: 1798 · Coates, Gloucestershire, England
 died: 1880 · Coates, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Newport Tipper
 
-Born 1798 · Coates, Gloucestershire, England · Died 1880 · Coates, Gloucestershire, England, United Kingdom · Generation 7
+Born 1798 · Coates, Gloucestershire, England · Died 1880 · Coates, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Seth Newport (2HSD-57X)|Seth Newport]]
@@ -24,11 +24,11 @@ Born 1798 · Coates, Gloucestershire, England · Died 1880 · Coates, Gloucester
 ## Life
 - **Birth**: 1798 · Coates, Gloucestershire, England
 - **Death**: 1880 · Coates, Gloucestershire, England, United Kingdom
-- **data:,Christened**: 24 APR 1798 · Oaksey, Wiltshire
+- **Christened**: 24 APR 1798 · Oaksey, Wiltshire
 - **Christening**: 24 April 1798 · Oaksey, Wiltshire, England, United Kingdom
-- **data:,Baptism**: 24 April 1798 · Oaksey, Wiltshire, England
+- **Baptism**: 24 April 1798 · Oaksey, Wiltshire, England
 - **Residence**: 1871 · Cowley St Mary's, Gloucestershire, England, United Kingdom
-- **data:,Name%20at%20Death**: William TIPPER
+- **Name%20at%20Death**: William TIPPER
 - **Burial**: Coates, Gloucestershire, England, United Kingdom
 
 ## Photos & documents
@@ -45,15 +45,15 @@ _Marriages, parish registers of Gloucester, St Mary de Lode, Gloucestershire, En
 ![[AI Library/12 Family/_media/LCJ5-1Z3/106186795.jpg|Tipper, William & Jane; 1841 England Census in Cowley, Gloucestershire, England; William 42 & Jane 40 + William 15, Ellen 12, Maria 10, Mary]]
 
 
-![[AI Library/12 Family/_media/LCJ5-1Z3/148266217.jpeg|This field is where Family Search says William Tipper is buried.]]
+![[AI Library/12 Family/_media/LCJ5-1Z3/148266217.jpg|This field is where Family Search says William Tipper is buried.]]
 _No Tippers were found in the cemetery in Coates, Gloucestershire, England and all headstones were checked.  
 
 _
 
-![[AI Library/12 Family/_media/LCJ5-1Z3/148266265.jpeg|One Hundred Yards from where Family Search says that William Tipper is buried.  ]]
+![[AI Library/12 Family/_media/LCJ5-1Z3/148266265.jpg|One Hundred Yards from where Family Search says that William Tipper is buried.  ]]
 
 
-![[AI Library/12 Family/_media/LCJ5-1Z3/148268250.jpeg|Every headstone that could be read was checked to see if it said Tipper.  None were found.]]
+![[AI Library/12 Family/_media/LCJ5-1Z3/148268250.jpg|Every headstone that could be read was checked to see if it said Tipper.  None were found.]]
 
 
 ## Sources
@@ -75,6 +75,21 @@ _
 - [William Tipper in entry for George Nutting, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NF5T-CMB)
 - [William Tipper, "England, Bristol, Parish Registers, 1538-1900"](https://familysearch.org/ark:/61903/1:1:XT9W-KDM)
 - [Tipper, William & Blackel, Jane; "England Marriages, 1538–1973"; m 9 February 1824 at Gloucester, Gloucestershire, England](https://familysearch.org/ark:/61903/1:1:NJF6-7JB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 22)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 31)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 32)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 38)_
+- **1838** — The Saints driven from Missouri _(age 40)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 46)_
+- **1846** — The exodus from Nauvoo begins _(age 48)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 49)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 58)_
+- **1869** — The railroad reaches Utah _(age 71)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 79)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCJ5-1Z3)

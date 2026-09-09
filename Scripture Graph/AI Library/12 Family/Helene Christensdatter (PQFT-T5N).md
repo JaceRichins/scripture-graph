@@ -7,14 +7,14 @@ fs_id: PQFT-T5N
 generation: 8
 born: 19 January 1744 · Ålborg, Denmark
 died: 28 November 1813 · Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Helene Christensdatter
 
-Born 19 January 1744 · Ålborg, Denmark · Died 28 November 1813 · Ålborg, Denmark · Generation 8
+Born 19 January 1744 · Ålborg, Denmark · Died 28 November 1813 · Ålborg, Denmark · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Christen Mikkelsen (MSG2-892)|Christen Mikkelsen]]

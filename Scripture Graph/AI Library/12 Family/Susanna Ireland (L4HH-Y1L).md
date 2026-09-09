@@ -7,14 +7,14 @@ fs_id: L4HH-Y1L
 generation: 6
 born: 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom
 died: 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susanna Ireland
 
-Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom · Generation 6
+Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died 12 January 1891 · Camp Miserden, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[James Ireland (KV2Y-213)|James Ireland]]
@@ -55,6 +55,22 @@ Born 23 July 1815 · Painswick, Gloucestershire, England, United Kingdom · Died
 - Legacy NFS Source: Susannah Ireland - 
 - [Susannah, "Utah, Salt Lake County Death Records, 1849-1949"](https://familysearch.org/ark:/61903/1:1:NQH3-LB5)
 - [Susannah in entry for Thomas H. Stephens, "Utah Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85J-7HL)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 5)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 14)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 15)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 21)_
+- **1838** — The Saints driven from Missouri _(age 23)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 29)_
+- **1846** — The exodus from Nauvoo begins _(age 31)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 32)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 41)_
+- **1869** — The railroad reaches Utah _(age 54)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 62)_
+- **1890** — The Manifesto ends plural marriage _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L4HH-Y1L)

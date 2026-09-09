@@ -7,14 +7,14 @@ fs_id: LLQ2-3RG
 generation: 8
 born: 10 August 1788 · Mathon, Herefordshire, England, United Kingdom
 died: 21 June 1855 · Malvern, Worcestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Steed Jr
 
-Born 10 August 1788 · Mathon, Herefordshire, England, United Kingdom · Died 21 June 1855 · Malvern, Worcestershire, England, United Kingdom · Generation 8
+Born 10 August 1788 · Mathon, Herefordshire, England, United Kingdom · Died 21 June 1855 · Malvern, Worcestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Steed (KWV3-2CV)|Ann Steed]]
@@ -32,9 +32,15 @@ Born 10 August 1788 · Mathon, Herefordshire, England, United Kingdom · Died 21
 
 ### Thomas Steed II & Charlotte Niblet by Son Thomas Steed III
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9284295)_
+
 ### About Peter Stead and Jane Ashton Connecting to Thomas Steed I
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9757330)_
+
 ### Thomas Stead Conversion and Immigration 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/17229451)_
 
 ## Photos & documents
 
@@ -108,6 +114,18 @@ _Page 1) Biography of Louise Turner Haight &amp; Her parents Henry and Ann Steed
 - [Thomas Steed in entry for Elizabeth Steed, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JS6N-19P)
 - [Thomas Steed in entry for Sarah Steed, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N1JJ-BHQ)
 - [Thomas Steed in entry for Henry Steed, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQZZ-RZH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 32)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 41)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 42)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 48)_
+- **1838** — The Saints driven from Missouri _(age 50)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 56)_
+- **1846** — The exodus from Nauvoo begins _(age 58)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 59)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQ2-3RG)

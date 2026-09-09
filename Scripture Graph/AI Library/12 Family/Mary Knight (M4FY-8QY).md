@@ -5,20 +5,20 @@ content_type: ancestor
 sg-id: fs:M4FY-8QY
 fs_id: M4FY-8QY
 generation: 8
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Knight
 
-Generation 8
+Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Charles Allen (KZKF-H8R)|Charles Allen]]
 
 ## Life
-- **data:,Baptism**: 29 May 1737 · North Kilworth, Leicestershire, England, United Kingdom
+- **Baptism**: 29 May 1737 · North Kilworth, Leicestershire, England, United Kingdom
 - **Christening**: 29 May 1737 · North Kilworth, Leicester, England
 - **Burial**: 24 June 1799 · North Kilworth, Leicester, England
 

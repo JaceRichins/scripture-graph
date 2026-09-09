@@ -7,14 +7,14 @@ fs_id: MGDS-KDZ
 generation: 8
 born: about 1734 · Derby, New Haven, Connecticut, British Colonial America
 died: before 10 February 1808
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Smith
 
-Born about 1734 · Derby, New Haven, Connecticut, British Colonial America · Died before 10 February 1808 · Generation 8
+Born about 1734 · Derby, New Haven, Connecticut, British Colonial America · Died before 10 February 1808 · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Gibson Smith (L41T-FHY)|Gibson Smith]]

@@ -7,14 +7,14 @@ fs_id: L4HH-YY2
 generation: 6
 born: '       1811 · Stroud, Gloucestershire, England, United Kingdom'
 died: 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Stephens
 
-Born        1811 · Stroud, Gloucestershire, England, United Kingdom · Died 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom · Generation 6
+Born        1811 · Stroud, Gloucestershire, England, United Kingdom · Died 16 April 1893 · Oakridge, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Stephens (KL14-BPD)|John Stephens]]
@@ -71,6 +71,23 @@ Born        1811 · Stroud, Gloucestershire, England, United Kingdom · Died 16 
 - [Henry Stephens, "England and Wales, Death Registration Index 1837-1920"](https://familysearch.org/ark:/61903/1:1:2JK1-SZC)
 - Legacy NFS Source: Henry Stephens - Individual or family possessions: death: 16 April 1893; England, United Kingdom
 - [Henry Stephens, "Utah, Salt Lake County Death Records, 1849-1949"](https://familysearch.org/ark:/61903/1:1:NQH3-LBP)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 9)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 18)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 19)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 25)_
+- **1838** — The Saints driven from Missouri _(age 27)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 33)_
+- **1846** — The exodus from Nauvoo begins _(age 35)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 36)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 45)_
+- **1869** — The railroad reaches Utah _(age 58)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 66)_
+- **1890** — The Manifesto ends plural marriage _(age 79)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L4HH-YY2)

@@ -7,14 +7,14 @@ fs_id: LC28-382
 generation: 7
 born: 16 February 1784 · Wallbottle, Northumberland, England
 died: 15 February 1838 · Tynemouth, Northumberland, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Eltringham
 
-Born 16 February 1784 · Wallbottle, Northumberland, England · Died 15 February 1838 · Tynemouth, Northumberland, England, United Kingdom · Generation 7
+Born 16 February 1784 · Wallbottle, Northumberland, England · Died 15 February 1838 · Tynemouth, Northumberland, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Eltringham (LC28-QX9)|William Eltringham]]
@@ -58,6 +58,15 @@ Born 16 February 1784 · Wallbottle, Northumberland, England · Died 15 February
 - [Sarah Aleringham Henderson, "England, Northumberland, Parish Registers, 1538-1950"](https://familysearch.org/ark:/61903/1:1:QGRB-YJ31)
 - [Sarah in entry for William Eltringham Henderson, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDXB-QJN)
 - [Sarah Eltringham, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:N6PQ-H4Y)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 36)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 45)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 46)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 52)_
+- **1838** — The Saints driven from Missouri _(age 54)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LC28-382)

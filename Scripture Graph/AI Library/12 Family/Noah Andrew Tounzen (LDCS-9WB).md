@@ -7,14 +7,14 @@ fs_id: LDCS-9WB
 generation: 5
 born: 10 March 1860 · Hickman Township, Scott, Arkansas, United States
 died: 1907 · Crawford, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Noah Andrew Tounzen
 
-Born 10 March 1860 · Hickman Township, Scott, Arkansas, United States · Died 1907 · Crawford, Arkansas, United States · Generation 5
+Born 10 March 1860 · Hickman Township, Scott, Arkansas, United States · Died 1907 · Crawford, Arkansas, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Daniel L Townsend (K8QN-LMD)|Daniel L Townsend]]
@@ -46,6 +46,15 @@ Born 10 March 1860 · Hickman Township, Scott, Arkansas, United States · Died 1
 - [Noa A Townsend, "United States, Census, 1860"](https://familysearch.org/ark:/61903/1:1:M87R-BYY)
 - [Andrew Tounzen, "Find A Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVS-Q514)
 - [Noah Andrew Tounzen, "Find A Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVS-Q51D)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 9)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 17)_
+- **1890** — The Manifesto ends plural marriage _(age 30)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 33)_
+- **1896** — Utah becomes a state _(age 36)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LDCS-9WB)

@@ -7,14 +7,14 @@ fs_id: LH6L-2YY
 generation: 8
 born: 1750 · Haslingden, Lancashire, England
 died: 1 May 1821 · Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Oldham
 
-Born 1750 · Haslingden, Lancashire, England · Died 1 May 1821 · Lancashire, England, United Kingdom · Generation 8
+Born 1750 · Haslingden, Lancashire, England · Died 1 May 1821 · Lancashire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Oldham (LT3V-JGX)|William Oldham]]
@@ -28,6 +28,8 @@ Born 1750 · Haslingden, Lancashire, England · Died 1 May 1821 · Lancashire, E
 ## Stories
 
 ### Gravestone coordinates
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/241437709)_
 
 ## Photos & documents
 
@@ -93,6 +95,11 @@ Born 1750 · Haslingden, Lancashire, England · Died 1 May 1821 · Lancashire, E
 - [John Oldham in entry for Alice Oldham, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDFG-QMH)
 - [John Oldham, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N5LR-9LV)
 - Legacy NFS Source: John Oldham - christening: 10 November 1754; Lancashire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LH6L-2YY)

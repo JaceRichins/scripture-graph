@@ -7,14 +7,14 @@ fs_id: LHR1-KH8
 generation: 6
 born: 1808 · North Kilworth, Leicestershire, England
 died: 7 June 1868 · Leire, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Allen
 
-Born 1808 · North Kilworth, Leicestershire, England · Died 7 June 1868 · Leire, Leicestershire, England · Generation 6
+Born 1808 · North Kilworth, Leicestershire, England · Died 7 June 1868 · Leire, Leicestershire, England · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Charles Allen (KZKF-H8R)|Charles Allen]]
@@ -76,6 +76,19 @@ Born 1808 · North Kilworth, Leicestershire, England · Died 7 June 1868 · Leir
 - [Anne Allen in entry for Maria Allen, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NP48-R78)
 - Legacy NFS Source: Ann Allen - 
 - [Ann in entry for John Sutton, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NVDD-5X9)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 12)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 21)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 22)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 28)_
+- **1838** — The Saints driven from Missouri _(age 30)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 36)_
+- **1846** — The exodus from Nauvoo begins _(age 38)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 39)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 48)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHR1-KH8)

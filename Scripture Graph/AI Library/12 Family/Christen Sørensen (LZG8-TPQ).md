@@ -7,14 +7,14 @@ fs_id: LZG8-TPQ
 generation: 7
 born: 21 November 1779 · Vognsild, Gislum, Ålborg, Denmark
 died: 29 December 1850 · Farsø, Gislum, Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Christen Sørensen
 
-Born 21 November 1779 · Vognsild, Gislum, Ålborg, Denmark · Died 29 December 1850 · Farsø, Gislum, Ålborg, Denmark · Generation 7
+Born 21 November 1779 · Vognsild, Gislum, Ålborg, Denmark · Died 29 December 1850 · Farsø, Gislum, Ålborg, Denmark · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Soren Alstrup Christensen (MNPJ-F8P)|Soren Alstrup Christensen]]
@@ -52,6 +52,18 @@ _Farsoe Ericks datter Anne Catherina og ungkarl xstien (Christien) Sorensen of S
 - [Xsten Sorensen, "Denmark, Marriages, 1635-1916"](https://familysearch.org/ark:/61903/1:1:FK9R-QJ7)
 - [Kristen Sorensen in entry for Erich, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:HKFR-JRN2)
 - [Kristen Sorensen, "Denmark, Church Records, 1484-1941"](https://familysearch.org/ark:/61903/1:1:QG3P-6KMR)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 41)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 50)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 51)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 57)_
+- **1838** — The Saints driven from Missouri _(age 59)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 65)_
+- **1846** — The exodus from Nauvoo begins _(age 67)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZG8-TPQ)

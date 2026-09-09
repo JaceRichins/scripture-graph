@@ -7,14 +7,14 @@ fs_id: KGMB-PP9
 generation: 7
 born: 1775 · Stroud, Gloucestershire, England
 died: 1816 · Stroud, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Pitt
 
-Born 1775 · Stroud, Gloucestershire, England · Died 1816 · Stroud, Gloucestershire, England · Generation 7
+Born 1775 · Stroud, Gloucestershire, England · Died 1816 · Stroud, Gloucestershire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Edward Pitt (L4GB-C65)|Edward Pitt]]
@@ -29,7 +29,7 @@ Born 1775 · Stroud, Gloucestershire, England · Died 1816 · Stroud, Gloucester
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KGMB-PP9/20826312.tif|Mary Pitt--Christening, Marriage and Burial]]
+![[AI Library/12 Family/_media/KGMB-PP9/20826312.jpg|Mary Pitt--Christening, Marriage and Burial]]
 
 
 ## Sources

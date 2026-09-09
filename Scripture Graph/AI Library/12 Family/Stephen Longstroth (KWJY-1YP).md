@@ -7,14 +7,14 @@ fs_id: KWJY-1YP
 generation: 6
 born: 29 June 1789 · Langcliffe, North Yorkshire, England
 died: 4 February 1861 · Salt Lake City, Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Stephen Longstroth
 
-Born 29 June 1789 · Langcliffe, North Yorkshire, England · Died 4 February 1861 · Salt Lake City, Salt Lake, Utah Territory, United States · Generation 6
+Born 29 June 1789 · Langcliffe, North Yorkshire, England · Died 4 February 1861 · Salt Lake City, Salt Lake, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Stephen Longstroth (LKKM-XKG)|Stephen Longstroth]]
@@ -25,42 +25,58 @@ Born 29 June 1789 · Langcliffe, North Yorkshire, England · Died 4 February 186
 - **Birth**: 29 June 1789 · Langcliffe, North Yorkshire, England
 - **Death**: 4 February 1861 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: 1702 until about 1832-1833 · “Westside Farm” (also called Westside House), Henside Road, Lancliffe, Settle, North Yorkshire, BD24 9PR. · Westside Farm (aka Westside House); BD23-9PR.
-- **data:,Baptism**: 19 July 1789 · Giggleswick, Yorks, England
+- **Baptism**: 19 July 1789 · Giggleswick, Yorks, England
 - **Christening**: 19 July 1789 · Giggleswick, Yorkshire, England
-- **data:,Baptism**: 19 Jul 1789 · Giggleswick, Yorkshire, England, United Kingdom
-- **data:,High%20Priest%20Ordination**: 22 Mar 1841
+- **Baptism**: 19 Jul 1789 · Giggleswick, Yorkshire, England, United Kingdom
+- **High%20Priest%20Ordination**: 22 Mar 1841
 - **Residence**: 1841 · Whalley, Lancashire, England, United Kingdom
 - **Residence**: from 1844 to 1846 · Nauvoo, Hancock, Illinois, United States · Lived in Nauvoo, Illinois
-- **data:,Biography**: 1848 · Utah, United States
+- **Biography**: 1848 · Utah, United States
 - **Residence**: 1848 · Utah, United States
-- **data:,Immigration**: 10-19 October 1848 · Utah, United States
-- **data:,Immigration**: 19 Oct 1848
-- **data:,Membership**: 1851 · Salt Lake, Utah, United States
+- **Immigration**: 10-19 October 1848 · Utah, United States
+- **Immigration**: 19 Oct 1848
+- **Membership**: 1851 · Salt Lake, Utah, United States
 - **Burial**: 6 February 1861 · Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
-- **data:,Obituary**: 13 Feb 1861 · Utah, United States
+- **Obituary**: 13 Feb 1861 · Utah, United States
 - **Residence**: Halton Gill, Yorkshire, England, United Kingdom
-- **data:,Membership**: Utah, United States
-- **data:,Membership**: Salt Lake City, Salt Lake, Utah, United States
+- **Membership**: Utah, United States
+- **Membership**: Salt Lake City, Salt Lake, Utah, United States
 
 ## Stories
 
 ### Stephen Longstroth
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5918675)_
+
 ### Alice Longstroth Whitaker Watt
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/38022719)_
+
 ### Life of Wm Longstroth written by daughter, Alice Longstroth Petterborg
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/67025451)_
 
 ### 1837-1851: The first missionaries of The Church of Jesus Christ of Latter-day Saints began preaching in the Preston, Lancashire, area. 
 
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/106743262)_
+
 ### The Longstroth Seal of the Langstroth Coat of Arms
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/106815419)_
 
 ### Longstroth Seal
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/106816551)_
+
 ### HOW TO FIND "WESTSIDE FARM" (USE THE POSTAL CODE BELOW IN A GPS) 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/129701829)_
+
 ### Alice's Bio
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/129919809)_
 
 ## Photos & documents
 
@@ -306,6 +322,19 @@ Home was built in 1702, probably by the Langstroth (aka Longstroth) family._
 - [Stephen, "Utah, Salt Lake County Death Records, 1849-1949"](https://familysearch.org/ark:/61903/1:1:NQHP-Q9L)
 - [Stephen Longstroth, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QV2S-GRP8)
 - [Stephen Longstroth, "Utah, Salt Lake County Death Records, 1908-1949"](https://familysearch.org/ark:/61903/1:1:NQH2-92Y)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 31)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 40)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 41)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 47)_
+- **1838** — The Saints driven from Missouri _(age 49)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 55)_
+- **1846** — The exodus from Nauvoo begins _(age 57)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 58)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJY-1YP)

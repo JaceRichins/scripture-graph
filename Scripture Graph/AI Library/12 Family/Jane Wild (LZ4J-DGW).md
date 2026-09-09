@@ -7,14 +7,14 @@ fs_id: LZ4J-DGW
 generation: 8
 born: 1756 · Hanmer, Flintshire, Wales
 died: 23 April 1834 · Hanmer, Flintshire, Wales
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Jane Wild
 
-Born 1756 · Hanmer, Flintshire, Wales · Died 23 April 1834 · Hanmer, Flintshire, Wales · Generation 8
+Born 1756 · Hanmer, Flintshire, Wales · Died 23 April 1834 · Hanmer, Flintshire, Wales · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Peter Price (LCRJ-433)|Peter Price]]
@@ -23,7 +23,7 @@ Born 1756 · Hanmer, Flintshire, Wales · Died 23 April 1834 · Hanmer, Flintshi
 - **Birth**: 1756 · Hanmer, Flintshire, Wales
 - **Death**: 23 April 1834 · Hanmer, Flintshire, Wales
 - **Residence**: 29 Nov 1756 · , , Cheshire, England
-- **data:,Baptism**: 29 Nov 1756 · Hanmer, Flintshire, Wales
+- **Baptism**: 29 Nov 1756 · Hanmer, Flintshire, Wales
 - **Christening**: 29 November 1756 · Hanmer, Flintshire, Wales
 - **Burial**: 23 April 1834 · Hanmer, Flintshire, Wales
 - **Residence**: Hanmer, Flintshire, Wales
@@ -56,6 +56,13 @@ Born 1756 · Hanmer, Flintshire, Wales · Died 23 April 1834 · Hanmer, Flintshi
 - [Jane Price in entry for Ann Price, "Wales, Births and Baptisms, 1541-1907"](https://familysearch.org/ark:/61903/1:1:FMMS-VQR)
 - [Price, "Wales, Births and Baptisms, 1541-1907"](https://familysearch.org/ark:/61903/1:1:X1TB-PXF)
 - International Genealogical Index
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 64)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 73)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 74)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZ4J-DGW)

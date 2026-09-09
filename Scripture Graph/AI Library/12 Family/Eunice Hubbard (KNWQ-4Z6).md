@@ -7,14 +7,14 @@ fs_id: KNWQ-4Z6
 generation: 8
 born: 13 May 1757 · Wells, York, Massachusetts Bay Colony, British Colonial America
 died: 1807 · Freedom, Cattaraugus, New York, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Eunice Hubbard
 
-Born 13 May 1757 · Wells, York, Massachusetts Bay Colony, British Colonial America · Died 1807 · Freedom, Cattaraugus, New York, United States · Generation 8
+Born 13 May 1757 · Wells, York, Massachusetts Bay Colony, British Colonial America · Died 1807 · Freedom, Cattaraugus, New York, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Aaron Cheney (KNX4-J2Z)|Aaron Cheney]]
@@ -27,6 +27,8 @@ Born 13 May 1757 · Wells, York, Massachusetts Bay Colony, British Colonial Amer
 ## Stories
 
 ### Benjamin Cheney and Eunice Hubbard History
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196415602)_
 
 ## Photos & documents
 
@@ -63,10 +65,10 @@ _The birthplace of Benjamin Cheney_
 ![[AI Library/12 Family/_media/KNWQ-4Z6/102084788.jpg|Aaron Cheney Sr - Grave Site]]
 
 
-![[AI Library/12 Family/_media/KNWQ-4Z6/120194151.png|NY; history- pre-Revolution settlement of Long Island, early claims of NY and Connecticut]]
+![[AI Library/12 Family/_media/KNWQ-4Z6/120194151.jpg|NY; history- pre-Revolution settlement of Long Island, early claims of NY and Connecticut]]
 
 
-![[AI Library/12 Family/_media/KNWQ-4Z6/129202213.png|NY; Battlesights in NY of the Rev. War-map]]
+![[AI Library/12 Family/_media/KNWQ-4Z6/129202213.jpg|NY; Battlesights in NY of the Rev. War-map]]
 _map of Revolutionary war_
 
 ![[AI Library/12 Family/_media/KNWQ-4Z6/247105880.pdf|Cheney Lineage (Written before 1929).pdf]]

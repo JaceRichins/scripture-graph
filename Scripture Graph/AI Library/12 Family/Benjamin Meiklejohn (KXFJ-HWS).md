@@ -6,14 +6,14 @@ sg-id: fs:KXFJ-HWS
 fs_id: KXFJ-HWS
 generation: 8
 born: November 1721 · Thurso, Caithness, Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Benjamin Meiklejohn
 
-Born November 1721 · Thurso, Caithness, Scotland, United Kingdom · Generation 8
+Born November 1721 · Thurso, Caithness, Scotland, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Helen Meiklejohn (ML8Q-WY1)|Helen Meiklejohn]]
@@ -25,7 +25,7 @@ Born November 1721 · Thurso, Caithness, Scotland, United Kingdom · Generation 
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KXFJ-HWS/244760453.png|Giese Littles Location Map]]
+![[AI Library/12 Family/_media/KXFJ-HWS/244760453.jpg|Giese Littles Location Map]]
 _Record lists Donald Mucklejohn (Meiklejohn) as living as farmer in Gooslitles (Giese Little) at the time of Benjamin’s birth/baptism. Benjamin was listed as living in the adjacent Shalmstry in his marriage record to Jean Sutherland in 1748._
 
 ![[AI Library/12 Family/_media/KXFJ-HWS/246178239.jpg|baptism Jan 2 1773 in Bower parish,  Janet dau of William Budge & Helen Meiklejohn]]

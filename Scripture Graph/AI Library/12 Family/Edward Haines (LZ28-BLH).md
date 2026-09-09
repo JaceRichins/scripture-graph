@@ -6,14 +6,14 @@ sg-id: fs:LZ28-BLH
 fs_id: LZ28-BLH
 generation: 8
 died: 25 May 1817 · Painswick, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Haines
 
-Died 25 May 1817 · Painswick, Gloucestershire, England, United Kingdom · Generation 8
+Died 25 May 1817 · Painswick, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Haines or Haynes (LTLX-XC3)|Sarah Haines or Haynes]]

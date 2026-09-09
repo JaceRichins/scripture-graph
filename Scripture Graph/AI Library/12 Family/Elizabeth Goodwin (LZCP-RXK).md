@@ -7,14 +7,14 @@ fs_id: LZCP-RXK
 generation: 7
 born: 23 June 1773 · Brimpsfield, Gloucestershire, England
 died: 30 January 1841 · Brimpsfield, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Goodwin
 
-Born 23 June 1773 · Brimpsfield, Gloucestershire, England · Died 30 January 1841 · Brimpsfield, Gloucestershire, England, United Kingdom · Generation 7
+Born 23 June 1773 · Brimpsfield, Gloucestershire, England · Died 30 January 1841 · Brimpsfield, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Samuel Goodwin (MNRB-L7W)|Samuel Goodwin]]
@@ -29,10 +29,10 @@ Born 23 June 1773 · Brimpsfield, Gloucestershire, England · Died 30 January 18
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LZCP-RXK/20826948.tif|Elizabeth Goodwin--Christening, Marriage, Death and Burial]]
+![[AI Library/12 Family/_media/LZCP-RXK/20826948.jpg|Elizabeth Goodwin--Christening, Marriage, Death and Burial]]
 
 
-![[AI Library/12 Family/_media/LZCP-RXK/20827012.tif|Elizabeth Goodwin Jones--Death Certificate]]
+![[AI Library/12 Family/_media/LZCP-RXK/20827012.jpg|Elizabeth Goodwin Jones--Death Certificate]]
 
 
 ![[AI Library/12 Family/_media/LZCP-RXK/69975795.jpg|Marriage of William Jones and Elizabeth Goodwin]]
@@ -60,6 +60,15 @@ Born 23 June 1773 · Brimpsfield, Gloucestershire, England · Died 30 January 18
 - [Elizabeth in entry for William Jones (b.1810 Bristol), "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPJ3-K97)
 - [Elizabeth in entry for dau, Ann Jones (b.1811Brimpsfield), "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NLTY-L87)
 - Legacy NFS Source: Elizabeth Goodwin - Church record: Marriage record or certificate: birth-name: Elizabeth Goodwin
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 47)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 56)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 57)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 63)_
+- **1838** — The Saints driven from Missouri _(age 65)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZCP-RXK)

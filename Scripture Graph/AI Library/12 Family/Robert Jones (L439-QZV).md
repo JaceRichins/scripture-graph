@@ -7,14 +7,14 @@ fs_id: L439-QZV
 generation: 8
 born: 12 September 1751 · Cowley, Gloucestershire, England
 died: 12 May 1798 · Cowley, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Jones
 
-Born 12 September 1751 · Cowley, Gloucestershire, England · Died 12 May 1798 · Cowley, Gloucestershire, England · Generation 8
+Born 12 September 1751 · Cowley, Gloucestershire, England · Died 12 May 1798 · Cowley, Gloucestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Jones (LVH4-PMR)|William Jones]]

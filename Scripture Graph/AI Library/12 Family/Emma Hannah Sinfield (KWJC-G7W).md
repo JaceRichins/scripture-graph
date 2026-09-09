@@ -7,14 +7,14 @@ fs_id: KWJC-G7W
 generation: 6
 born: 6 January 1844 · Bedford, Bedfordshire, England
 died: 1 January 1914 · Pleasant Grove, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Emma Hannah Sinfield
 
-Born 6 January 1844 · Bedford, Bedfordshire, England · Died 1 January 1914 · Pleasant Grove, Utah, Utah, United States · Generation 6
+Born 6 January 1844 · Bedford, Bedfordshire, England · Died 1 January 1914 · Pleasant Grove, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Samuel Sinfield (KWJ4-5LW)|Samuel Sinfield]]
@@ -25,24 +25,32 @@ Born 6 January 1844 · Bedford, Bedfordshire, England · Died 1 January 1914 · 
 - **Birth**: 6 January 1844 · Bedford, Bedfordshire, England
 - **Death**: 1 January 1914 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1851 · Eversholt, Bedfordshire, England
-- **data:,Immigration**: 1853
-- **data:,Immigration**: 1853 · Utah, United States
-- **data:,Emigration**: 1853
+- **Immigration**: 1853
+- **Immigration**: 1853 · Utah, United States
+- **Emigration**: 1853
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1900 · Pleasant Grove Precinct Pleasant Grove city, Utah, Utah, United States
 - **Burial**: 4 January 1914 · Pleasant Grove, Utah, Utah, United States
-- **data:,Obituary**: 10 Jan 1914 · Utah, United States
+- **Obituary**: 10 Jan 1914 · Utah, United States
 
 ## Stories
 
 ### Daniel Miley Smith, Jr.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/572976)_
+
 ### Emma Hannah Sinfield
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3585971)_
 
 ### Biography of Daniel Miley Smith by Alvira Olpin
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18547924)_
+
 ### Biography of Emma H. Sinfield by Alvira S. Olpin
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18551286)_
 
 ## Photos & documents
 
@@ -67,7 +75,7 @@ Born 6 January 1844 · Bedford, Bedfordshire, England · Died 1 January 1914 · 
 ![[AI Library/12 Family/_media/KWJC-G7W/33969137.jpg|Emma Hannah Sinfield (retouched)]]
 _Emma Hannah Sinfield (retouched)_
 
-![[AI Library/12 Family/_media/KWJC-G7W/34052606.jpeg|Daniel Miley Smith and Emma Hannah Sinfield  Wedding Picture]]
+![[AI Library/12 Family/_media/KWJC-G7W/34052606.jpg|Daniel Miley Smith and Emma Hannah Sinfield  Wedding Picture]]
 _Wedding Picture of Daniel and Emma Smith_
 
 ![[AI Library/12 Family/_media/KWJC-G7W/37979137.pdf|Obituary  American Fork Citizen 1914-1-10]]
@@ -152,6 +160,19 @@ _Gravestone of Daniel Miley Smith and wife, Emma H Sinfield in the Pleasant Grov
 - Legacy NFS Source: Emma Hannah Sinfield - Government record: Death record or certificate: burial: 4 January 1914; Pleasant Grove, Utah, Utah, United States
 - Legacy NFS Source: Emma Hannah Sinfield - 
 - [1851 England, Wales & Scotland Census Image | findmypast.com](http://search.findmypast.com/record?id=gbc%2f1851%2f4355317%2f00420&parentid=gbc%2f1851%2f0007507176)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 0)_
+- **1846** — The exodus from Nauvoo begins _(age 2)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 3)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 12)_
+- **1869** — The railroad reaches Utah _(age 25)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 33)_
+- **1890** — The Manifesto ends plural marriage _(age 46)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 49)_
+- **1896** — Utah becomes a state _(age 52)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-G7W)

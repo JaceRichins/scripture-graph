@@ -7,14 +7,14 @@ fs_id: LCRJ-433
 generation: 7
 born: 24 August 1788 · Halghton, Hanmer, Flint, Wales
 died: 5 July 1862 · Ellesmere, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Peter Price
 
-Born 24 August 1788 · Halghton, Hanmer, Flint, Wales · Died 5 July 1862 · Ellesmere, Shropshire, England, United Kingdom · Generation 7
+Born 24 August 1788 · Halghton, Hanmer, Flint, Wales · Died 5 July 1862 · Ellesmere, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Edward Price (LZ4J-D11)|William Edward Price]]
@@ -25,15 +25,15 @@ Born 24 August 1788 · Halghton, Hanmer, Flint, Wales · Died 5 July 1862 · Ell
 - **Birth**: 24 August 1788 · Halghton, Hanmer, Flint, Wales
 - **Death**: 5 July 1862 · Ellesmere, Shropshire, England, United Kingdom
 - **Christening**: 24 August 1788 · Hanmere, Flintshire, Wales
-- **data:,Baptism**: 24 August 1788 · Hanmer, Flintshire, Wales
+- **Baptism**: 24 August 1788 · Hanmer, Flintshire, Wales
 - **Residence**: 1841 · Ellesmere, Shropshire, England, United Kingdom · Census
-- **data:,census**: 1851 · Ellesmere, Shropshire, England, United Kingdom · England
-- **data:,Agricultural%20Laborer**: 1851 · Ellesmere, Shropshire, England
+- **census**: 1851 · Ellesmere, Shropshire, England, United Kingdom · England
+- **Agricultural%20Laborer**: 1851 · Ellesmere, Shropshire, England
 - **Residence**: 1851 · England
 - **Residence**: 1861 · Ellesmere, Shropshire, England
-- **data:,Census**: 1861 · 7 Charlotte Row, Ellesmere, Shropshire, England
+- **Census**: 1861 · 7 Charlotte Row, Ellesmere, Shropshire, England
 - **Burial**: 9 July 1862 · Ellesmere, Shropshire, England, United Kingdom
-- **data:,Ancestral%20File%20Number**: BT85-N1
+- **Ancestral%20File%20Number**: BT85-N1
 - **Residence**: Charlotte Row
 
 ## Photos & documents
@@ -113,6 +113,19 @@ Born 24 August 1788 · Halghton, Hanmer, Flint, Wales · Died 5 July 1862 · Ell
 - Legacy NFS Source: Peter Price - Published information: Family genealogies: Agricultural Laborer: 1851; Ellesmere, Shropshire, England
 - Legacy NFS Source: Peter Price - Individual or family possessions: christening: 
 - [Peter Price, "England and Wales, Census, 1851"](https://familysearch.org/ark:/61903/1:1:SG6D-SWY)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 32)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 41)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 42)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 48)_
+- **1838** — The Saints driven from Missouri _(age 50)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 56)_
+- **1846** — The exodus from Nauvoo begins _(age 58)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 59)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCRJ-433)

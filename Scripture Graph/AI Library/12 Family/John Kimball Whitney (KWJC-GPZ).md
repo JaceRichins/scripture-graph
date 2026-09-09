@@ -7,14 +7,14 @@ fs_id: KWJC-GPZ
 generation: 5
 born: 13 September 1832 · Kirtland, Lake, Ohio, United States
 died: 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Kimball Whitney
 
-Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
+Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1915 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Newel Kimball Whitney (KWVM-M24)|Newel Kimball Whitney]]
@@ -35,6 +35,8 @@ Born 13 September 1832 · Kirtland, Lake, Ohio, United States · Died 4 August 1
 ## Stories
 
 ### Martin Handcart Company Rescuer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8657098)_
 
 ## Photos & documents
 
@@ -93,6 +95,21 @@ _Headstone Cemetery, Cache Valley, Utah_
 - [John Kimball Whitney, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSF-CHPH)
 - [John Whiting, "Utah, Salt Lake County Death Records, 1849-1949"](https://familysearch.org/ark:/61903/1:1:NQ4X-XBZ)
 - [John Whiting in entry for George Chase Whiting, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85C-MSH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 4)_
+- **1838** — The Saints driven from Missouri _(age 6)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 12)_
+- **1846** — The exodus from Nauvoo begins _(age 14)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 15)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 24)_
+- **1869** — The railroad reaches Utah _(age 37)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 45)_
+- **1890** — The Manifesto ends plural marriage _(age 58)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 61)_
+- **1896** — Utah becomes a state _(age 64)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-GPZ)

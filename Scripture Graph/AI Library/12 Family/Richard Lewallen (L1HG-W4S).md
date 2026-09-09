@@ -7,14 +7,14 @@ fs_id: L1HG-W4S
 generation: 8
 born: 1763 · Jefferson, Prince Edward, Virginia, British Colonial America
 died: 8 May 1833 · Oak Ridge, Anderson, Tennessee, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Lewallen
 
-Born 1763 · Jefferson, Prince Edward, Virginia, British Colonial America · Died 8 May 1833 · Oak Ridge, Anderson, Tennessee, United States · Generation 8
+Born 1763 · Jefferson, Prince Edward, Virginia, British Colonial America · Died 8 May 1833 · Oak Ridge, Anderson, Tennessee, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Isabelle Lewallen (99B1-HR6)|Mary Isabelle Lewallen]]
@@ -238,6 +238,13 @@ _Richard Lewallen Page_42_Revolutionary_War_Pension_and_BountyLand_Warrant_Appli
 - Legacy NFS Source: Anderson Grant Llewellyn - Published information: birth-name: Edmund Anderson Lewallen
 - Legacy NFS Source: Richard Burton S. Lewallen - Government record: birth-name: Richard Burton S. Lewallen
 - [Daniel Richard Lewallen, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVF-GDFL)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 57)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 66)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L1HG-W4S)

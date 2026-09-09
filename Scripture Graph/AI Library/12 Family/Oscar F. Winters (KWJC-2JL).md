@@ -7,14 +7,14 @@ fs_id: KWJC-2JL
 generation: 6
 born: 7 February 1825 · Alexandria, St. Albans Township, Licking, Ohio, United States
 died: 22 January 1903 · Provo, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Oscar F. Winters
 
-Born 7 February 1825 · Alexandria, St. Albans Township, Licking, Ohio, United States · Died 22 January 1903 · Provo, Utah, Utah, United States · Generation 6
+Born 7 February 1825 · Alexandria, St. Albans Township, Licking, Ohio, United States · Died 22 January 1903 · Provo, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Hiram Winters (L5C5-KC7)|Hiram Winters]]
@@ -24,7 +24,7 @@ Born 7 February 1825 · Alexandria, St. Albans Township, Licking, Ohio, United S
 ## Life
 - **Birth**: 7 February 1825 · Alexandria, St. Albans Township, Licking, Ohio, United States
 - **Death**: 22 January 1903 · Provo, Utah, Utah, United States
-- **data:,Membership**: 7 February 1825 · Utah, United States
+- **Membership**: 7 February 1825 · Utah, United States
 - **Residence**: 1850 · Clark, Missouri, United States · Home of James Baldwin
 - **Residence**: 1852 · Pleasant Grove, Utah, Utah, United States · Pleasant Grove Farm in Battle Creek
 - **Residence**: 1860 · Moroni, Sanpete, Utah, United States · Mission in Mt. Pleasant Utah
@@ -152,37 +152,37 @@ Utah, Pioneers and Prominent Men of Utah, 1847-1868. The photo (image) was downl
 ![[AI Library/12 Family/_media/KWJC-2JL/163693332.pdf|Oscar Winters' Obituary]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167804744.png|Obituary of Oscar Winters 1903]]
+![[AI Library/12 Family/_media/KWJC-2JL/167804744.jpg|Obituary of Oscar Winters 1903]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167805199.png|Court Date for Probate 1903]]
+![[AI Library/12 Family/_media/KWJC-2JL/167805199.jpg|Court Date for Probate 1903]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167805488.png|Helnn May's Wedding Announcement 1897]]
+![[AI Library/12 Family/_media/KWJC-2JL/167805488.jpg|Helnn May's Wedding Announcement 1897]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167805817.png|Coalville Notice 1903]]
+![[AI Library/12 Family/_media/KWJC-2JL/167805817.jpg|Coalville Notice 1903]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167805936.png|Land Office Filings]]
+![[AI Library/12 Family/_media/KWJC-2JL/167805936.jpg|Land Office Filings]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167806231.png|Not Related to Parley P Pratt]]
+![[AI Library/12 Family/_media/KWJC-2JL/167806231.jpg|Not Related to Parley P Pratt]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167807240.png|Land Sale 1888]]
+![[AI Library/12 Family/_media/KWJC-2JL/167807240.jpg|Land Sale 1888]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167808007.png|Helen Winters Woodruff's Obituary]]
+![[AI Library/12 Family/_media/KWJC-2JL/167808007.jpg|Helen Winters Woodruff's Obituary]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167809915.png|Remembrance of  Joseph Smith]]
+![[AI Library/12 Family/_media/KWJC-2JL/167809915.jpg|Remembrance of  Joseph Smith]]
 
 
-![[AI Library/12 Family/_media/KWJC-2JL/167810354.png|Mary Ann Stearns Winters Obituary 1912]]
+![[AI Library/12 Family/_media/KWJC-2JL/167810354.jpg|Mary Ann Stearns Winters Obituary 1912]]
 _In Salt Lake Telegraph pg. 12_
 
-![[AI Library/12 Family/_media/KWJC-2JL/167810751.png|Wedding Announcement for Susie and Heber Bennion 1885]]
+![[AI Library/12 Family/_media/KWJC-2JL/167810751.jpg|Wedding Announcement for Susie and Heber Bennion 1885]]
 
 
 ![[AI Library/12 Family/_media/KWJC-2JL/179828541.pdf|AMONG THE REMNANT WHO LINGERED -- THE HISTORY OF REBECCA BURDICK AND HIRAM WINTERS AND THEIR FAMILIES -- By Beth Radmall Olsen]]
@@ -250,6 +250,23 @@ _In Salt Lake Telegraph pg. 12_
 - [Oscar Winters in household of Abraham O. Woodruff, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRP-9YG)
 - [Oskar Winters, "United States Census, 1870"](https://familysearch.org/ark:/61903/1:1:MNCB-R3L)
 - [Oscar Winter in household of John B Baldwin, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:MDZ7-NSB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 4)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 5)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 11)_
+- **1838** — The Saints driven from Missouri _(age 13)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 19)_
+- **1846** — The exodus from Nauvoo begins _(age 21)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 22)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 31)_
+- **1869** — The railroad reaches Utah _(age 44)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 52)_
+- **1890** — The Manifesto ends plural marriage _(age 65)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 68)_
+- **1896** — Utah becomes a state _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-2JL)

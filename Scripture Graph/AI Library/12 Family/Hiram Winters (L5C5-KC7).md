@@ -7,14 +7,14 @@ fs_id: L5C5-KC7
 generation: 7
 born: 5 April 1805 · Westfield, Chautauqua, New York, United States
 died: 20 October 1889 · Pleasant Grove, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hiram Winters
 
-Born 5 April 1805 · Westfield, Chautauqua, New York, United States · Died 20 October 1889 · Pleasant Grove, Utah, Utah, United States · Generation 7
+Born 5 April 1805 · Westfield, Chautauqua, New York, United States · Died 20 October 1889 · Pleasant Grove, Utah, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Andrew Winters (LZJM-FKS)|Andrew Winters]]
@@ -31,11 +31,19 @@ Born 5 April 1805 · Westfield, Chautauqua, New York, United States · Died 20 O
 
 ### Journey West
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1547284)_
+
 ### Hiram Winters and Rebecca Burdick
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9074482)_
 
 ### The First Member in the Family
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29477092)_
+
 ### A Record Written by Hyrum Winters of Pleasant Grove, Utah
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29861646)_
 
 ## Photos & documents
 
@@ -120,6 +128,21 @@ _Nauvoo Temple Endowment Register, 70s, Zions Camp Files, Conquerors of the West
 - [Hyrum Winters in entry for Mrs Rebecca Winters Tucker, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QK9T-7R1J)
 - ————————————  Death Records and Sources.
 - [Hyrum, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-TJ4Z)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 15)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 24)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 25)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 31)_
+- **1838** — The Saints driven from Missouri _(age 33)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 39)_
+- **1846** — The exodus from Nauvoo begins _(age 41)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 42)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 51)_
+- **1869** — The railroad reaches Utah _(age 64)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5C5-KC7)

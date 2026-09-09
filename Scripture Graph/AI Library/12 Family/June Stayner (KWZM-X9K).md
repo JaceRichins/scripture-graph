@@ -7,14 +7,14 @@ fs_id: KWZM-X9K
 generation: 3
 born: 19170602 · Price, Carbon, Utah
 died: 20070607 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # June Stayner
 
-Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, United States · Generation 3
+Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Ralph James Stayner (KWZB-ZQP)|Ralph James Stayner]]
@@ -24,19 +24,25 @@ Born 19170602 · Price, Carbon, Utah · Died 20070607 · Logan, Cache, Utah, Uni
 - **Birth**: 19170602 · Price, Carbon, Utah
 - **Death**: 20070607 · Logan, Cache, Utah, United States
 - **Christening**: 1 Jul 1917 · Price, Carbon, Utah
-- **data:,Blessing**: 1 July 1917
+- **Blessing**: 1 July 1917
 - **Residence**: 07 Jun 2007 · Logan, Utah
-- **data:,Obituary**: 11 Jun 2007 · Logan, Utah, United States
+- **Obituary**: 11 Jun 2007 · Logan, Utah, United States
 - **Burial**: Smithfield, Cache, Utah, United States
-- **data:,Membership**: Carbon, Utah, United States
+- **Membership**: Carbon, Utah, United States
 
 ## Stories
 
 ### Budge Cabin up Logan Canyon
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
+
 ### Budge Family Reunion
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/66174006)_
+
 ### Life Memories of June
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108011401)_
 
 ## Photos & documents
 
@@ -171,6 +177,14 @@ _June Ann, Mike, Bonnie, Cort with June and Bob in the back row._
 - [June Stayner in household of Ralph James Stayner, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWY-19L)
 - [June Stayner in household of Ralph Stayner, "United States Census, 1920"](https://familysearch.org/ark:/61903/1:1:M8PC-THD)
 - [June W Staynor in household of Ralph J Staynor, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH67-9CB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 1)_
+- **1936** — The Church welfare program begins _(age 19)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 61)_
+- **2000** — [[Temples|The 100th temple dedicated]] _(age 83)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZM-X9K)

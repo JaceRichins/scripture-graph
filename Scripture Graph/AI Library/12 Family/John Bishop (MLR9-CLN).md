@@ -7,14 +7,14 @@ fs_id: MLR9-CLN
 generation: 7
 born: 3 February 1785 · Welshpool, Montgomeryshire, Wales
 died: 13 October 1838 · Shrewsbury, Shropshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Bishop
 
-Born 3 February 1785 · Welshpool, Montgomeryshire, Wales · Died 13 October 1838 · Shrewsbury, Shropshire, England · Generation 7
+Born 3 February 1785 · Welshpool, Montgomeryshire, Wales · Died 13 October 1838 · Shrewsbury, Shropshire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John  S  Bishop (PSCK-W4L)|John "S" Bishop]]
@@ -31,6 +31,8 @@ Born 3 February 1785 · Welshpool, Montgomeryshire, Wales · Died 13 October 183
 
 ### John's Death
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/54540731)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/MLR9-CLN/9564733.jpg|Certificate of Marriage]]
@@ -42,7 +44,7 @@ _William Bishop death certificate. William died on 21 May 1921 in Paradise, Utah
 ![[AI Library/12 Family/_media/MLR9-CLN/88789044.jpg|John Bishop and Catherine Evans' 1813 Certificate of Marriage]]
 _Record of "Certificate of Marriage" for John Bishop (chr. 13 Jan 1777 in Berriw, Montgomery, Wales) and Catherine Evans (b. 1786 in Welshpool, Montgomery, Wales) dated 8 May 1813 in Berriw, Montgomery, Wales. Courtesy Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/MLR9-CLN/88817910.tif|William Bishop and Mary Pocock's 1852 Marriage Entry]]
+![[AI Library/12 Family/_media/MLR9-CLN/88817910.jpg|William Bishop and Mary Pocock's 1852 Marriage Entry]]
 _Certified copy of marriage entry for William Bishop and Mary Pocock's marriage in Shrewsbury on 8 February 1852 in Shrewsbury. William was 21 years old, a bachelor and laborer. Mary is listed as a spinster at 18 years of age. William lived in the Canal Buildings and Mary lived at Abbey Foregate. Coutesty of Jessie Bishop Lewis._
 
 ![[AI Library/12 Family/_media/MLR9-CLN/90001324.pdf|Richard Bishop Letter to John Bishop 13 June 1867]]
@@ -54,22 +56,22 @@ _From Vicky Steenblik Library_
 ![[AI Library/12 Family/_media/MLR9-CLN/179473941.pdf|Ancestors & Descendants of John Bishop By Arlene Pulsipher Hemsley 1990 Descendancy Chart & Photos]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234203.png|Potential clues to Bishop's in the area who may be related]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234203.jpg|Potential clues to Bishop's in the area who may be related]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234204.png|We know that John and Catherine were born in Wales]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234204.jpg|We know that John and Catherine were born in Wales]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234201.png|Tregynon is a key piece of evidence]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234201.jpg|Tregynon is a key piece of evidence]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234202.png|John Bishop Birth date 1780]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234202.jpg|John Bishop Birth date 1780]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234752.png|Death on 13th October 1838 aged 58]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234752.jpg|Death on 13th October 1838 aged 58]]
 
 
-![[AI Library/12 Family/_media/MLR9-CLN/227234939.png|Marriage details]]
+![[AI Library/12 Family/_media/MLR9-CLN/227234939.jpg|Marriage details]]
 
 
 ## Sources
@@ -116,6 +118,15 @@ _From Vicky Steenblik Library_
 - [John Bishop, "Wales, Montgomeryshire, Parish Registers, 1538-1912"](https://familysearch.org/ark:/61903/1:1:KC15-Q75)
 - [John Edward, "Wales Births and Baptisms, 1541-1907"](https://familysearch.org/ark:/61903/1:1:FMMB-NR2)
 - [John Bishop in entry for Mary Bishop, "Wales Births and Baptisms, 1541-1907"](https://familysearch.org/ark:/61903/1:1:X1BT-CHL)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 35)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 44)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 45)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 51)_
+- **1838** — The Saints driven from Missouri _(age 53)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MLR9-CLN)

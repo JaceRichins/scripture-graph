@@ -7,14 +7,14 @@ fs_id: L8WF-WK4
 generation: 7
 born: 28 March 1791 · Ellesmere, Shropshire, England, United Kingdom
 died: 11 December 1869 · Ellesmere, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Lloyd
 
-Born 28 March 1791 · Ellesmere, Shropshire, England, United Kingdom · Died 11 December 1869 · Ellesmere, Shropshire, England, United Kingdom · Generation 7
+Born 28 March 1791 · Ellesmere, Shropshire, England, United Kingdom · Died 11 December 1869 · Ellesmere, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Lloyd (LZW3-QYR)|Thomas Lloyd]]
@@ -27,7 +27,7 @@ Born 28 March 1791 · Ellesmere, Shropshire, England, United Kingdom · Died 11 
 - **Christening**: 15 May 1791 · Trench, Ellesmere, Shropshire, England
 - **Residence**: 1841 · Ellesmere, Shropshire, England, United Kingdom · Census
 - **Residence**: 1851 · , Shropshire, England
-- **data:,Birth+Place%3A+Ellesmere%2C+Shropshire%2C+England**: 1861 · Ellesmere, Shropshire, England, United Kingdom · England & Wales Census 1861
+- **Birth+Place%3A+Ellesmere%2C+Shropshire%2C+England**: 1861 · Ellesmere, Shropshire, England, United Kingdom · England & Wales Census 1861
 - **Residence**: 1861 · Ellesmere, Shropshire, England
 - **Residence**: Charlotte Row
 
@@ -100,6 +100,20 @@ Born 28 March 1791 · Ellesmere, Shropshire, England, United Kingdom · Died 11 
 - [Mary Lloyd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQTS-G9K)
 - Legacy NFS Source: Mary Lloyd - 
 - Legacy NFS Source: Mary Lloyd - Church record: birth-name: Mary Lloyd
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 29)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 38)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 39)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 45)_
+- **1838** — The Saints driven from Missouri _(age 47)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 53)_
+- **1846** — The exodus from Nauvoo begins _(age 55)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 56)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 65)_
+- **1869** — The railroad reaches Utah _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L8WF-WK4)

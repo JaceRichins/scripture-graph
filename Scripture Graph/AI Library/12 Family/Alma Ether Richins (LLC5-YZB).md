@@ -7,14 +7,14 @@ fs_id: LLC5-YZB
 generation: 4
 born: 3 December 1866 · Echo, Summit, Utah Territory, United States
 died: 30 April 1952 · Hoytsville, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alma Ether Richins
 
-Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 April 1952 · Hoytsville, Summit, Utah, United States · Generation 4
+Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 April 1952 · Hoytsville, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Edward Richins (KW8L-N6R)|Edward Richins]]
@@ -38,21 +38,39 @@ Born 3 December 1866 · Echo, Summit, Utah Territory, United States · Died 30 A
 
 ###  ALMA E RICHINS (my father in law)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20638389)_
+
 ### Sheep in Henefer by Marguerite Reiser Paskett
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20865032)_
 
 ### Life Story of Sarah Ellen Richins Calderwood
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/80630366)_
+
 ### Christmas at Alma & Hattie Richins Home
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/186214421)_
 
 ### Tradition of Visiting Richins Relatives- Ron Richins Interview
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195414954)_
+
 ### Alma & Pearl's Relationship After Hattie's Death- Ron Richins Interview
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195415675)_
 
 ### Glenn Sees a Golf Course for the 1st Time- Ron Richins Interview
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/195415905)_
+
 ### Glenn's Early Years- Douglas Richins Interview
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
+
 ### Shirlene Was the 1st Grandchild Born at Alma & Hattie's- Shirlene Richins Drury Burt Interview
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196828743)_
 
 ## Photos & documents
 
@@ -133,7 +151,7 @@ _Richins, Alma Ether and Richins Emeline Hattie abt. 1920_
 ![[AI Library/12 Family/_media/LLC5-YZB/25512259.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LLC5-YZB/26696167.tif|document]]
+![[AI Library/12 Family/_media/LLC5-YZB/26696167.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/LLC5-YZB/29238124.pdf|Life Stories of Alma Ether Richins and Emeline Hattie Richins by J. Alden Richins]]
@@ -391,7 +409,7 @@ _Family home in Henefer Found in LaRene Richins Book of Rememberance_
 ![[AI Library/12 Family/_media/LLC5-YZB/147265052.jpg|Enhanced photo Alma the Sheepman]]
 _Picture found in LaRene Richins Book of Remembrance. Picture enhanced through My Heritage Program._
 
-![[AI Library/12 Family/_media/LLC5-YZB/161287971.png|about 1911 Norman, Alma, Reed, and Lyle in yard]]
+![[AI Library/12 Family/_media/LLC5-YZB/161287971.jpg|about 1911 Norman, Alma, Reed, and Lyle in yard]]
 
 
 ![[AI Library/12 Family/_media/LLC5-YZB/180354730.jpg|Family Home]]
@@ -503,6 +521,17 @@ _Life Story of Edward Nowell Edgeworth_
 - [Alma E Richins, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-15R4)
 - [Alma E Richins, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-18HS)
 - [Alma E Richins, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKDW-15RZ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 3)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 11)_
+- **1890** — The Manifesto ends plural marriage _(age 24)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 27)_
+- **1896** — Utah becomes a state _(age 30)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 52)_
+- **1936** — The Church welfare program begins _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLC5-YZB)

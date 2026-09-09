@@ -7,14 +7,14 @@ fs_id: KWC8-FFB
 generation: 3
 born: 3 April 1905 · Henefer, Summit, Utah, United States
 died: 15 May 1987 · Ogden, Weber, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Norman Tipper Richins
 
-Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 · Ogden, Weber, Utah, United States · Generation 3
+Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 · Ogden, Weber, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Alma Ether Richins (LLC5-YZB)|Alma Ether Richins]]
@@ -23,21 +23,25 @@ Born 3 April 1905 · Henefer, Summit, Utah, United States · Died 15 May 1987 ·
 ## Life
 - **Birth**: 3 April 1905 · Henefer, Summit, Utah, United States
 - **Death**: 15 May 1987 · Ogden, Weber, Utah, United States
-- **data:,Baptism**: 6 Jul 1913
-- **data:,Membership**: 1917 · Summit, Utah, United States
+- **Baptism**: 6 Jul 1913
+- **Membership**: 1917 · Summit, Utah, United States
 - **Residence**: 1935 · Same House
 - **Residence**: 1940 · Henefer Election Precinct, Summit, Utah, United States
-- **data:,Military%20Draft%20Registration**: 16 Oct 1940 · Henefer, Summit, Utah, United States
+- **Military%20Draft%20Registration**: 16 Oct 1940 · Henefer, Summit, Utah, United States
 - **Residence**: 13 Apr 1950 · Henefer, Summit, Utah, United States
 - **Burial**: 19 May 1987 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Henefer, Summit, Utah
-- **data:,Membership**: Summit, Utah, United States
+- **Membership**: Summit, Utah, United States
 
 ## Stories
 
 ###  LIFE STORIES OF NORMAN TIPPER RICHINS,  	ELVA MARY FOWLER AND LEOLA MANZEL FARR
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20841948)_
+
 ### "The Ding Ho"- Douglas Richins Interview
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196823523)_
 
 ## Photos & documents
 
@@ -95,7 +99,7 @@ _Wedding Picture _
 ![[AI Library/12 Family/_media/KWC8-FFB/29040738.jpg|1907 Norman - 2 years old]]
 
 
-![[AI Library/12 Family/_media/KWC8-FFB/29040814.tif|1926 - Norman]]
+![[AI Library/12 Family/_media/KWC8-FFB/29040814.jpg|1926 - Norman]]
 
 
 ![[AI Library/12 Family/_media/KWC8-FFB/29040903.jpg|1926 - Norman and friends]]
@@ -304,7 +308,7 @@ _Found in LaRene Richins Book of Rememberance. Enhanced through My Heritage prog
 ![[AI Library/12 Family/_media/KWC8-FFB/157589986.jpg|Norman Richins Siblings and Cousins at his burial]]
 
 
-![[AI Library/12 Family/_media/KWC8-FFB/161287971.png|about 1911 Norman, Alma, Reed, and Lyle in yard]]
+![[AI Library/12 Family/_media/KWC8-FFB/161287971.jpg|about 1911 Norman, Alma, Reed, and Lyle in yard]]
 
 
 ![[AI Library/12 Family/_media/KWC8-FFB/170721609.jpg|1930s (circa) Richins Reunion]]
@@ -706,6 +710,13 @@ _Henefer Ward Bishops 1861 to 1951_
 - [Norman T Richins, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH6K-WT3)
 - [Norman Richins, "United States Social Security Death Index"](https://familysearch.org/ark:/61903/1:1:JB9F-GMJ)
 - [Headstone image of Norman Tipper Richins from billiongraves.com](http://billiongraves.com/pages/record/NormanTipperRichins/1193881?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 13)_
+- **1936** — The Church welfare program begins _(age 31)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 73)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWC8-FFB)

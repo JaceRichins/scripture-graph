@@ -7,14 +7,14 @@ fs_id: KWJ6-HVN
 generation: 6
 born: 12 August 1830 · Albany, Albany Co, New York,
 died: 29 March 1916 · Farmington, Davis Co, Utah,
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Stevenson
 
-Born 12 August 1830 · Albany, Albany Co, New York, · Died 29 March 1916 · Farmington, Davis Co, Utah, · Generation 6
+Born 12 August 1830 · Albany, Albany Co, New York, · Died 29 March 1916 · Farmington, Davis Co, Utah, · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Joseph Stevenson (LLQF-3QR)|Joseph Stevenson]]
@@ -24,37 +24,55 @@ Born 12 August 1830 · Albany, Albany Co, New York, · Died 29 March 1916 · Far
 ## Life
 - **Birth**: 12 August 1830 · Albany, Albany Co, New York,
 - **Death**: 29 March 1916 · Farmington, Davis Co, Utah,
-- **data:,Baptism**: 1838
-- **data:,Emigration**: 3 July 1848
-- **data:,Immigration**: 19 October 1848 · Great Salt Lake Valley
-- **data:,Census**: 1860 · Farmington, Davis, Utah Territory, United States
+- **Baptism**: 1838
+- **Emigration**: 3 July 1848
+- **Immigration**: 19 October 1848 · Great Salt Lake Valley
+- **Census**: 1860 · Farmington, Davis, Utah Territory, United States
 - **Residence**: 1870 · Farmington, Davis, Utah, United States
-- **data:,Baptism**: 29 Sep 1877
-- **data:,High%20Priest%20Ordination**: 4 Feb 1894
+- **Baptism**: 29 Sep 1877
+- **High%20Priest%20Ordination**: 4 Feb 1894
 - **Burial**: 31 March 1916 · Farmington, Davis Co, Utah,
-- **data:,Membership**: Farmington, Davis, Utah, United States
-- **data:,Membership**: Davis, Utah, United States
-- **data:,Membership**: Utah, United States
+- **Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Davis, Utah, United States
+- **Membership**: Utah, United States
 
 ## Stories
 
 ### Autobiography of Mary Stevenson Clark
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1542747)_
+
 ### James Stevenson (12 August 1830 – 29 March 1916)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14564592)_
 
 ### Life stories of Sarah Elnora White
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14887417)_
+
 ### Excerpt from Life Sketch of Sarah Elnora White
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14887972)_
 
 ### By James' granddaughter Gladys
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14889870)_
+
 ### JAMES STEVENSON (1830-1916) by his granddaughter Gladys
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14987532)_
 
 ### SARAH ELNORA WHITE and her father, JOSEPH WHITE
 
-### A. Frank Stevenson tells about his father, James Stevenson, at the 1964 Stevenson Reunion
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15020980)_
 
 ### A. Frank Stevenson tells about his father, James Stevenson, at the 1964 Stevenson Reunion
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/73918833)_
+
+### A. Frank Stevenson tells about his father, James Stevenson, at the 1964 Stevenson Reunion
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/164147743)_
 
 ## Photos & documents
 
@@ -73,7 +91,7 @@ Born 12 August 1830 · Albany, Albany Co, New York, · Died 29 March 1916 · Far
 ![[AI Library/12 Family/_media/KWJ6-HVN/77216656.jpg|James Stevenson about 1905]]
 
 
-![[AI Library/12 Family/_media/KWJ6-HVN/130154426.jpeg|James Stevenson in 1852 (age 22)]]
+![[AI Library/12 Family/_media/KWJ6-HVN/130154426.jpg|James Stevenson in 1852 (age 22)]]
 
 
 ![[AI Library/12 Family/_media/KWJ6-HVN/145445602.jpg|photo]]
@@ -163,6 +181,22 @@ The names written on the back are left to right: Mr. Riggs, Joseph Walker, James
 - [James Stevenson, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSJ-LKF)
 - [James Stevenson, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRV-3BJ)
 - [James Stevenson, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5XS-N79)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 0)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 6)_
+- **1838** — The Saints driven from Missouri _(age 8)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 14)_
+- **1846** — The exodus from Nauvoo begins _(age 16)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 17)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 26)_
+- **1869** — The railroad reaches Utah _(age 39)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 47)_
+- **1890** — The Manifesto ends plural marriage _(age 60)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 63)_
+- **1896** — Utah becomes a state _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ6-HVN)

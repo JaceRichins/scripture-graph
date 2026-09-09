@@ -7,14 +7,14 @@ fs_id: KNX4-J2Z
 generation: 7
 born: 14 July 1787 · Berwick, York, Massachusetts, United States
 died: 18 September 1862 · Ogden, Weber, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Aaron Cheney
 
-Born 14 July 1787 · Berwick, York, Massachusetts, United States · Died 18 September 1862 · Ogden, Weber, Utah, United States · Generation 7
+Born 14 July 1787 · Berwick, York, Massachusetts, United States · Died 18 September 1862 · Ogden, Weber, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Benjamin Cheney (KNWL-4MX)|Benjamin Cheney]]
@@ -24,7 +24,7 @@ Born 14 July 1787 · Berwick, York, Massachusetts, United States · Died 18 Sept
 ## Life
 - **Birth**: 14 July 1787 · Berwick, York, Massachusetts, United States
 - **Death**: 18 September 1862 · Ogden, Weber, Utah, United States
-- **data:,Custom%20event**: 1787 · Berwick, York, Maine, United States · Aaron Cheney Sr.
+- **Custom%20event**: 1787 · Berwick, York, Maine, United States · Aaron Cheney Sr.
 - **Residence**: 1810 · Concord, Essex, Vermont, United States
 - **Residence**: 1830 · Cattaraugus, Cattaraugus, New York, United States
 - **Residence**: 1840 · Macon, Illinois, United States
@@ -32,48 +32,82 @@ Born 14 July 1787 · Berwick, York, Massachusetts, United States · Died 18 Sept
 - **Residence**: 1850 · Weber, Utah, United States
 - **Residence**: 1860 · Weber, Utah Territory, United States
 - **Burial**: 21 September 1862 · Ogden City Cemetery, Ogden, Weber, Utah, United States
-- **data:,LifeSketch**: Unknown · Son of Benjamin Cheney and Eunice Hubbard. He married Mehitable Wells on 14 August 1807 in Marshfield, Vermont and they had 14 known children: Selah, Amasa F., Infant, Infant, Oren, Olive, Infant, Aaron, Elam, Ezekiel Wells, Hurd, Infant, Infant and Eliza
+- **LifeSketch**: Unknown · Son of Benjamin Cheney and Eunice Hubbard. He married Mehitable Wells on 14 August 1807 in Marshfield, Vermont and they had 14 known children: Selah, Amasa F., Infant, Infant, Oren, Olive, Infant, Aaron, Elam, Ezekiel Wells, Hurd, Infant, Infant and Eliza
 
 ## Stories
 
 ### History of Mehitable Wells
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1305805)_
+
 ### HISTORY OF ELAM CHENEY
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4680856)_
 
 ### Aaron and Mehitable Wells Cheney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/11695589)_
+
 ### Aaron Cheny, Father of Elam Cheney
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28619315)_
 
 ### Aaron and Mehitable Wells   (without pictures)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30997273)_
+
 ### AARON CHENEY SR.   (1787 - 1862)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30997474)_
+
 ### Life Story of Ezekial Wells Cheney and Lucy Elizada Hardy Cheney, by Arlene Ellis Melis
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/34142604)_
 
 ### Emma Ford Hatch
 from:  Pioneer Women of Faith and Fortitude
 p. 1285-1286
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/74847239)_
+
 ### Script: Aaron & Mehitable & Sons tell about Joseph Smith and joining the Church of Jesus Christ of Latter-Day Saints
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/102422178)_
 
 ### Life Story of Aaron Cheney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108613826)_
+
 ### Conversion of Aaron and Mehitable Cheney (my maternal gr gr gr grandparents) to the Gospel of Jesus Christ of Latter-day Saints.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/117823462)_
 
 ### Aaron Cheney, conversion and migration
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/130615902)_
+
 ### Aaron Cheney in Kirtland
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/141979803)_
+
 ### My gr gr grandfather, Elam Cheney Sr. (1825-1912)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/189823826)_
 
 ### History of Mehitable Wells (1787 – 1869)
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197697981)_
+
 ### History of Aaron Cheney (1787-1862)  
 & Mehitable Wells (1787-1869)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197820594)_
+
 ### 2 Page History Compilation - Aaron Cheney (and Wife Mehitable Wells)
 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197872466)_
 
 ## Photos & documents
 
@@ -101,7 +135,7 @@ _Ogden City Cemetery, Ogden, Utah_
 ![[AI Library/12 Family/_media/KNX4-J2Z/5226479.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KNX4-J2Z/7124800.jpeg|Archer Ward Sunday School ]]
+![[AI Library/12 Family/_media/KNX4-J2Z/7124800.jpg|Archer Ward Sunday School ]]
 
 
 ![[AI Library/12 Family/_media/KNX4-J2Z/10185061.pdf|Elam Cheney History (1825-1912)]]
@@ -170,7 +204,7 @@ _Aaron and Mehitable moved here and had 11 children here. Benjamin & Eunice were
 ![[AI Library/12 Family/_media/KNX4-J2Z/51376443.jpg|IL; Hancock, Nauvoo [Illinois]Nauvoo, drawing]]
 
 
-![[AI Library/12 Family/_media/KNX4-J2Z/51598228.png|document]]
+![[AI Library/12 Family/_media/KNX4-J2Z/51598228.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KNX4-J2Z/54912486.jpg|1916, January 2, 2, Laurence Philander Stevens Letter to Fritz and Mary Zuliema Young Techentien, page 2]]
@@ -197,7 +231,7 @@ _Title page of the book about the Cheney family_
 ![[AI Library/12 Family/_media/KNX4-J2Z/77017447.jpg|G. & G Cheney @ Nauvoo Temple]]
 _This is a picture of the Nauvoo temple where Aaron & Mehitable Cheney were married.  I also have a piece of stone from the original temple in a shadow box.  Plus a picture of them._
 
-![[AI Library/12 Family/_media/KNX4-J2Z/79350117.jfif|VT: Marshfield, Vermont]]
+![[AI Library/12 Family/_media/KNX4-J2Z/79350117.jpg|VT: Marshfield, Vermont]]
 
 
 ![[AI Library/12 Family/_media/KNX4-J2Z/83500863.pdf|History of Cattaraugus: Town of Freedom]]
@@ -215,7 +249,7 @@ _This is a picture of the Nauvoo temple where Aaron & Mehitable Cheney were marr
 ![[AI Library/12 Family/_media/KNX4-J2Z/93317509.jpg|map: Freedom NY; Cemetery]]
 _indicates where [top yellow] the children were buried_
 
-![[AI Library/12 Family/_media/KNX4-J2Z/93317616.png|CT: Fairfield co, [Connecticut]; modern map]]
+![[AI Library/12 Family/_media/KNX4-J2Z/93317616.jpg|CT: Fairfield co, [Connecticut]; modern map]]
 
 
 ![[AI Library/12 Family/_media/KNX4-J2Z/97199684.jpg|CHENEY, Aaron (father to Elam Cheney)]]
@@ -266,7 +300,7 @@ _portrait_
 ![[AI Library/12 Family/_media/KNX4-J2Z/197872476.pdf|History of Aaron Cheney (and Wife Mehitable Wells) 2 Page]]
 
 
-![[AI Library/12 Family/_media/KNX4-J2Z/237436424.png|AI Enhanced/Colorized Photo of Aaron Cheney]]
+![[AI Library/12 Family/_media/KNX4-J2Z/237436424.jpg|AI Enhanced/Colorized Photo of Aaron Cheney]]
 _This an AI enhanced photo of Aaron Cheney.  Taken from one of the photos of him and colorized._
 
 ![[AI Library/12 Family/_media/KNX4-J2Z/244028618.jpg|1 John Baxter Sr (1712–1757) - Some Maryland Baxters]]
@@ -322,6 +356,19 @@ _Excerpt from "Genealogical surveys of LDS members : autobiographies and ancesto
 - [Aaron Cheney in entry for Ezekiel Wells Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-5VKS)
 - [Aaron Cheney in entry for Elam Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-5V5Y)
 - [Aaron Cheney in entry for Olive Mehitable Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-JBR3)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 49)_
+- **1838** — The Saints driven from Missouri _(age 51)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 57)_
+- **1846** — The exodus from Nauvoo begins _(age 59)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 60)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KNX4-J2Z)

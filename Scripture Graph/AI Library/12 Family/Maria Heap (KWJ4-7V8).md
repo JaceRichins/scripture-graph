@@ -7,14 +7,14 @@ fs_id: KWJ4-7V8
 generation: 6
 born: 28 December 1816 · Haslingden, Lancashire, England, United Kingdom
 died: 1 January 1886 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Maria Heap
 
-Born 28 December 1816 · Haslingden, Lancashire, England, United Kingdom · Died 1 January 1886 · Paradise, Cache, Utah, United States · Generation 6
+Born 28 December 1816 · Haslingden, Lancashire, England, United Kingdom · Died 1 January 1886 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Heap (LH1S-ZNZ)|John Heap]]
@@ -28,9 +28,9 @@ Born 28 December 1816 · Haslingden, Lancashire, England, United Kingdom · Died
 - **Residence**: 1841 · Manchester, Lancashire, England, United Kingdom
 - **Residence**: 1851 · Bury, Lancashire, England, United Kingdom
 - **Residence**: 1861 · Oldham, Lancashire, England
-- **data:,Immigration**: 04 Oct 1864
-- **data:,Immigration**: 04 Oct 1864 · Utah, United States
-- **data:,immigration**: 4 October 1864 · Deseret, Millard, Utah, United States · Came to Utah with husband and 7 children on the William S. Warren Co.
+- **Immigration**: 04 Oct 1864
+- **Immigration**: 04 Oct 1864 · Utah, United States
+- **immigration**: 4 October 1864 · Deseret, Millard, Utah, United States · Came to Utah with husband and 7 children on the William S. Warren Co.
 - **Residence**: 1871 · Manchester, Lancashire, England, United Kingdom
 - **Burial**: 3 January 1886 · Paradise Cemetery, Paradise, Cache, Utah, United States
 - **Residence**: Copestick Street
@@ -58,19 +58,19 @@ Born 28 December 1816 · Haslingden, Lancashire, England, United Kingdom · Died
 ![[AI Library/12 Family/_media/KWJ4-7V8/7046723.pdf|document]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7V8/7685421.jpeg|Life Of John & Maria Heap Oldham      page 1  ]]
+![[AI Library/12 Family/_media/KWJ4-7V8/7685421.jpg|Life Of John & Maria Heap Oldham      page 1  ]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7V8/7685612.jpeg|Life Of John & Maria Heap Oldham      page  2]]
+![[AI Library/12 Family/_media/KWJ4-7V8/7685612.jpg|Life Of John & Maria Heap Oldham      page  2]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7V8/7685688.jpeg|Life Of John & Maria Heap Oldham      page  3]]
+![[AI Library/12 Family/_media/KWJ4-7V8/7685688.jpg|Life Of John & Maria Heap Oldham      page  3]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7V8/7694071.jpeg|Life Of John & Maria Heap Oldham      page  4]]
+![[AI Library/12 Family/_media/KWJ4-7V8/7694071.jpg|Life Of John & Maria Heap Oldham      page  4]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7V8/7697272.jpeg|History of Maria Heaps Oldham]]
+![[AI Library/12 Family/_media/KWJ4-7V8/7697272.jpg|History of Maria Heaps Oldham]]
 
 
 ![[AI Library/12 Family/_media/KWJ4-7V8/7852410.jpg|document]]
@@ -195,6 +195,21 @@ https://archive.org/details/heartthrobsofwes0000kate_i4t3/mode/2up_
 - [Headstone image of Maria Heap Oldham from billiongraves.com](http://billiongraves.com/pages/record/MariaHeapOldham/4956644?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink)
 - [Maria Olden in household of John Olden, "United States Census, 1870"](https://familysearch.org/ark:/61903/1:1:MNCR-XM3)
 - [Moriah Oldham in household of Samuel Oldham, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSJ-XPQ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 4)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 13)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 14)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 20)_
+- **1838** — The Saints driven from Missouri _(age 22)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 28)_
+- **1846** — The exodus from Nauvoo begins _(age 30)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 31)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 40)_
+- **1869** — The railroad reaches Utah _(age 53)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 61)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ4-7V8)

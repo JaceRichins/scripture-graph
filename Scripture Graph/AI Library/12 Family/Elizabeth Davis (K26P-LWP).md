@@ -7,14 +7,14 @@ fs_id: K26P-LWP
 generation: 7
 born: about 1790 · Beckbury, Shropshire, England
 died: after 1841 · Worfield, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Davis
 
-Born about 1790 · Beckbury, Shropshire, England · Died after 1841 · Worfield, Shropshire, England, United Kingdom · Generation 7
+Born about 1790 · Beckbury, Shropshire, England · Died after 1841 · Worfield, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[James Davies (K6HB-B1M)|James Davies]]
@@ -52,6 +52,15 @@ Born about 1790 · Beckbury, Shropshire, England · Died after 1841 · Worfield,
 - [Elizabeth in entry for Eliza Macefield, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NGRP-T6Y)
 - [1841 England Census - Elizabeth Mesfield & Geo (son) and Martha (dau)](http://search.ancestry.com/cgi-bin/sse.dll?rank=1&new=1&MSAV=1&msT=1&gss=angs-g&gsfn=Elizabeth&gsln=Macefield&msydy=1841&msypn__ftp=Beckbury%2c+Shropshire%2c+England&msypn=86929&msypn_PInfo=8-%7c0%7c0%7c3257%7c3251%7c0%7c0%7c0%7c5282%7c86929%7c0%7c&cpxt=0&catBucket=rstp&uidh=e2i&_83004003-n_xcl=m&cp=4&mscng0=Charles&mscns0=Macefield&pcat=ROOT_CATEGORY&h=9552382&recoff=8+20+21&db=uki1841&indiv=1&ml_rpos=1&hovR=1)
 - Legacy NFS Source: Elizabeth Derbyshire - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 30)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 39)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 40)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 46)_
+- **1838** — The Saints driven from Missouri _(age 48)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K26P-LWP)

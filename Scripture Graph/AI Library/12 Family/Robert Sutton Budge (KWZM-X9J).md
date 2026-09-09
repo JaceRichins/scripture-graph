@@ -7,14 +7,14 @@ fs_id: KWZM-X9J
 generation: 3
 born: 17 April 1917 · Logan, Cache, Utah, United States
 died: 31 July 1995 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Sutton Budge
 
-Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · Logan, Cache, Utah, United States · Generation 3
+Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · Logan, Cache, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Dr Oliver Hyer Budge (KWCQ-H83)|Dr Oliver Hyer Budge]]
@@ -31,7 +31,11 @@ Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · 
 
 ### Budge Cabin up Logan Canyon
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
+
 ### Budge Family Reunion
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/66174006)_
 
 ## Photos & documents
 
@@ -98,7 +102,7 @@ Born 17 April 1917 · Logan, Cache, Utah, United States · Died 31 July 1995 · 
 ![[AI Library/12 Family/_media/KWZM-X9J/4168840.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWZM-X9J/5604796.jpeg|Lt. Col in Korea]]
+![[AI Library/12 Family/_media/KWZM-X9J/5604796.jpg|Lt. Col in Korea]]
 _Dr. Robert S Budge in Korea as a Mash Doctor_
 
 ![[AI Library/12 Family/_media/KWZM-X9J/15610820.jpg|Robert S. Budge  December 1932 in Berlin Deutschland]]
@@ -444,6 +448,13 @@ _Obituary of Oliver H Budge in Box Elder News 13 July 1965_
 - [Robert Budge in household of O H Budge, "United States Census, 1920"](https://familysearch.org/ark:/61903/1:1:M8P8-S42)
 - [Robert S Budge in household of Olivar H Budge, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWB-R4W)
 - [Robert S Budge in household of Oliver H Budge, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH67-PFL)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 1)_
+- **1936** — The Church welfare program begins _(age 19)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 61)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZM-X9J)

@@ -7,14 +7,14 @@ fs_id: LHFT-LVR
 generation: 7
 born: 18 March 1802 · Leyden, Franklin, Massachusetts, United States
 died: 1875 · Farmington, Davis, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruby Elnora Stearns
 
-Born 18 March 1802 · Leyden, Franklin, Massachusetts, United States · Died 1875 · Farmington, Davis, Utah, United States · Generation 7
+Born 18 March 1802 · Leyden, Franklin, Massachusetts, United States · Died 1875 · Farmington, Davis, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Charles Stearns (L4QB-P3T)|Charles Stearns]]
@@ -26,7 +26,7 @@ Born 18 March 1802 · Leyden, Franklin, Massachusetts, United States · Died 187
 - **Death**: 1875 · Farmington, Davis, Utah, United States
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
 - **Immigration**: 1849 · Deseret, United States
-- **data:,Emigration**: 1849
+- **Emigration**: 1849
 - **Residence**: 1850 · Davis, Utah, United States
 - **Residence**: 1870 · Farmington, Davis, Utah, United States
 - **Burial**: Farmington City Cemetery, Plot: F-4-20, 500 South 200 East, Farmington, Davis, Utah, United States
@@ -35,16 +35,28 @@ Born 18 March 1802 · Leyden, Franklin, Massachusetts, United States · Died 187
 
 ### Joseph White (30 May 1801 – 18 August 1851)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4009321)_
+
 ### Ruby Elnora Stearns White History 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/6805836)_
 
 ### Mary Brush -- or Russell -- or Wait -- or Durfee???
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9346030)_
+
 ### Joseph and Ruby White
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14886964)_
 
 ### SARAH ELNORA WHITE and her father, JOSEPH WHITE
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15020980)_
+
 ### Ruby Elnora Stearns White
 (18 March 1798–1875)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/130145137)_
 
 ## Photos & documents
 
@@ -83,6 +95,20 @@ _Battalion members are trying to forward $ to the last location they remember th
 - [Ruby Sterns White, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QVSF-NFYM)
 - [Ruby E. White, "BillionGraves Index"](https://familysearch.org/ark:/61903/1:1:K3T8-S5F)
 - Legacy NFS Source: Ruby Elnora Stearns - Individual or family possessions: Family genealogies: birth-name: Ruby Elnora Stearns
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 18)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 27)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 28)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 34)_
+- **1838** — The Saints driven from Missouri _(age 36)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 42)_
+- **1846** — The exodus from Nauvoo begins _(age 44)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 45)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 54)_
+- **1869** — The railroad reaches Utah _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHFT-LVR)

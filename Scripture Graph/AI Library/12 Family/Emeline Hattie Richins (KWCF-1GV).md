@@ -7,14 +7,14 @@ fs_id: KWCF-1GV
 generation: 4
 born: 15 November 1873 · Henefer, Summit, Utah, United States
 died: 15 July 1936 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Emeline Hattie Richins
 
-Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 1936 · Henefer, Summit, Utah, United States · Generation 4
+Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 1936 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Charles Wager Richins (KVP1-SVD)|Charles Wager Richins]]
@@ -33,11 +33,19 @@ Born 15 November 1873 · Henefer, Summit, Utah, United States · Died 15 July 19
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
+
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### Christmas at Alma & Hattie Richins Home
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/186214421)_
+
 ### Glenn's Early Years- Douglas Richins Interview
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
 
 ## Photos & documents
 
@@ -261,6 +269,16 @@ Reference #: https://newspapers.lib.utah.edu/ark:/87278/s65r0x35/30499023_
 - Legacy NFS Source: Emeline Hattie RICHINS - 
 - Legacy NFS Source: Emeline Hattie RICHINS - 
 - [Utah Death Certificates, Emeline Hattie Richins](http://images.archives.utah.gov/data/81448/2260104/2260104_0000506.jpg)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 4)_
+- **1890** — The Manifesto ends plural marriage _(age 17)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 20)_
+- **1896** — Utah becomes a state _(age 23)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 45)_
+- **1936** — The Church welfare program begins _(age 63)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCF-1GV)

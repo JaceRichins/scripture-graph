@@ -7,14 +7,14 @@ fs_id: L4QB-P3T
 generation: 8
 born: 19 October 1758 · Tolland, Connecticut Colony, British Colonial America
 died: 19 March 1829 · Henderson Harbor, Henderson, Jefferson, New York, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Stearns
 
-Born 19 October 1758 · Tolland, Connecticut Colony, British Colonial America · Died 19 March 1829 · Henderson Harbor, Henderson, Jefferson, New York, United States · Generation 8
+Born 19 October 1758 · Tolland, Connecticut Colony, British Colonial America · Died 19 March 1829 · Henderson Harbor, Henderson, Jefferson, New York, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ruby Elnora Stearns (LHFT-LVR)|Ruby Elnora Stearns]]
@@ -48,6 +48,12 @@ _Henderson Harbor, NY records for marriage of Charles Stearns Bulfinch to Sarah 
 - [Charles Stans in entry for Ruby Stans, "Massachusetts, Births and Christenings, 1639-1915"](https://familysearch.org/ark:/61903/1:1:FC44-KQ3)
 - Legacy NFS Source: Charles Stearns - Church record: Yearbook: birth-name: Charles Stearns
 - Legacy NFS Source: Charles Stearns - Published information: death: 19 March 1829; Henderson Harbor, Jefferson, New York, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 62)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L4QB-P3T)

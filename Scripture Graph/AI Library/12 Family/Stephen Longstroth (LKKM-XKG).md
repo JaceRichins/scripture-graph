@@ -7,14 +7,14 @@ fs_id: LKKM-XKG
 generation: 7
 born: 4 August 1726 · Kirkby Malham, Yorkshire, England
 died: 6 January 1809 · Langcliffe, Yorkshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Stephen Longstroth
 
-Born 4 August 1726 · Kirkby Malham, Yorkshire, England · Died 6 January 1809 · Langcliffe, Yorkshire, England, United Kingdom · Generation 7
+Born 4 August 1726 · Kirkby Malham, Yorkshire, England · Died 6 January 1809 · Langcliffe, Yorkshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Longstroth (LXWW-ZC7)|John Longstroth]]
@@ -25,7 +25,7 @@ Born 4 August 1726 · Kirkby Malham, Yorkshire, England · Died 6 January 1809 �
 - **Birth**: 4 August 1726 · Kirkby Malham, Yorkshire, England
 - **Death**: 6 January 1809 · Langcliffe, Yorkshire, England, United Kingdom
 - **Christening**: 4 August 1726 · Kirkby Malham, Yorkshire, England
-- **data:,Baptism**: 4 Aug 1726 · Kirby, Yorkshire, England
+- **Baptism**: 4 Aug 1726 · Kirby, Yorkshire, England
 - **Residence**: 6 Mar 1750 · Kirkby Malham
 - **Burial**: 6 January 1809 · St Alkelda's Church, Giggleswick, North Yorkshire, England, United Kingdom
 
@@ -34,7 +34,7 @@ Born 4 August 1726 · Kirkby Malham, Yorkshire, England · Died 6 January 1809 �
 ![[AI Library/12 Family/_media/LKKM-XKG/40785566.jpg|Westside Farm, Henside Road, Malham Moor, Settle, Yorkshire, England in 2016]]
 _Westside Farm on Henside Road between Settle and Arncliffe, Yorkshire, England.  The home of Stephen Longstroth (1789-1861) family.  Also believed to be the home of his parents and grandparents._
 
-![[AI Library/12 Family/_media/LKKM-XKG/226423063.jpeg|LONGSTROTH Stephen, burial record in Giggleswick Parish, St Alkelda’s Church,  6 Jan 1809.]]
+![[AI Library/12 Family/_media/LKKM-XKG/226423063.jpg|LONGSTROTH Stephen, burial record in Giggleswick Parish, St Alkelda’s Church,  6 Jan 1809.]]
 
 
 ## Sources

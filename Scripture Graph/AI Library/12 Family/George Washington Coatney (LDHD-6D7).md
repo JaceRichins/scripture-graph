@@ -7,14 +7,14 @@ fs_id: LDHD-6D7
 generation: 7
 born: 1800 · North Carolina, United States
 died: 20 June 1888 · Rudy Township, Crawford, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Washington Coatney
 
-Born 1800 · North Carolina, United States · Died 20 June 1888 · Rudy Township, Crawford, Arkansas, United States · Generation 7
+Born 1800 · North Carolina, United States · Died 20 June 1888 · Rudy Township, Crawford, Arkansas, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Archibald Courtney (LDHD-6K8)|Archibald Courtney]]
@@ -29,7 +29,7 @@ Born 1800 · North Carolina, United States · Died 20 June 1888 · Rudy Township
 - **Residence**: 1860 · Cedar Creek Township, Crawford, Arkansas, United States
 - **Residence**: 1870 · Cedar Creek Township, Crawford, Arkansas, United States
 - **Residence**: 1880 · Lafayette Township, Crawford, Arkansas, United States
-- **data:,Land%20Assessment**: 22 October 1880 · Arkansas, United States
+- **Land%20Assessment**: 22 October 1880 · Arkansas, United States
 - **Burial**: Oliver Springs Cemetery, Crawford, Arkansas, United States
 
 ## Sources
@@ -59,6 +59,21 @@ Born 1800 · North Carolina, United States · Died 20 June 1888 · Rudy Township
 - [1860 United States Federal Census](http://search.ancestry.com/collections/7667/records/13013906)
 - [1870 United States Federal Census](http://search.ancestry.com/collections/7163/records/12501400)
 - Ancestry Family Trees
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 20)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 29)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 30)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 36)_
+- **1838** — The Saints driven from Missouri _(age 38)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 44)_
+- **1846** — The exodus from Nauvoo begins _(age 46)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 47)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 56)_
+- **1869** — The railroad reaches Utah _(age 69)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LDHD-6D7)

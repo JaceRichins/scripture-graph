@@ -7,14 +7,14 @@ fs_id: KL14-BPD
 generation: 7
 born: 23 May 1775 · Gloucestershire, England, United Kingdom
 died: after 1861
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Stephens
 
-Born 23 May 1775 · Gloucestershire, England, United Kingdom · Died after 1861 · Generation 7
+Born 23 May 1775 · Gloucestershire, England, United Kingdom · Died after 1861 · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Richard Stephens (KFDQ-NCB)|Richard Stephens]]
@@ -60,6 +60,19 @@ _Census 1851, listed as a widow_
 - [1851 Painswick, Gloucestersire, England - Census 1851](http://www.ancestry.com)
 - [John Stephens, "England and Wales, Census, 1841"](https://familysearch.org/ark:/61903/1:1:M7MH-NRX)
 - [1861 England Census for John Stephens Gloucestershire Painswick - 1861](https://www.ancestry.com)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 45)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 54)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 55)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 61)_
+- **1838** — The Saints driven from Missouri _(age 63)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 69)_
+- **1846** — The exodus from Nauvoo begins _(age 71)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 72)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 81)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KL14-BPD)

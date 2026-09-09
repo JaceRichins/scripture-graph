@@ -7,14 +7,14 @@ fs_id: L8B9-Y6C
 generation: 8
 born: 20 Sep 1763 · Morgan, West Virginia, United States
 died: 18 October 1822 · Knoxville, Knox, Tennessee, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Isabella Frazier
 
-Born 20 Sep 1763 · Morgan, West Virginia, United States · Died 18 October 1822 · Knoxville, Knox, Tennessee, United States · Generation 8
+Born 20 Sep 1763 · Morgan, West Virginia, United States · Died 18 October 1822 · Knoxville, Knox, Tennessee, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Jesse Harlan Patton (LZNN-TVM)|Jesse Harlan Patton]]
@@ -31,6 +31,11 @@ Born 20 Sep 1763 · Morgan, West Virginia, United States · Died 18 October 1822
 
 ## Sources
 - [Isabelle Fraizer Patton, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QV2V-G1DX)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 57)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L8B9-Y6C)

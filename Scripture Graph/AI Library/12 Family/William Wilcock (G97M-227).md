@@ -7,14 +7,14 @@ fs_id: G97M-227
 generation: 8
 born: 1 August 1750 · Hindley Green, Lancashire, England
 died: 18 January 1826 · Hindley, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Wilcock
 
-Born 1 August 1750 · Hindley Green, Lancashire, England · Died 18 January 1826 · Hindley, Lancashire, England, United Kingdom · Generation 8
+Born 1 August 1750 · Hindley Green, Lancashire, England · Died 18 January 1826 · Hindley, Lancashire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[James Wilcock (2778-4FX)|James Wilcock]]
@@ -63,6 +63,11 @@ Born 1 August 1750 · Hindley Green, Lancashire, England · Died 18 January 1826
 - [William Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPMD-SM3)
 - [William Wilcock in entry for Ralph Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQTK-65N)
 - [William Wilcock in entry for Ralph Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NY5F-K9B)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/G97M-227)

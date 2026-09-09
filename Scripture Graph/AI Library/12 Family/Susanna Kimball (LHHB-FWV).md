@@ -7,14 +7,14 @@ fs_id: LHHB-FWV
 generation: 7
 born: 21 July 1767 · Mendon, Worcester, Massachusetts Bay, British Colonial America
 died: 3 April 1859 · Kirtland, Lake, Ohio, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susanna Kimball
 
-Born 21 July 1767 · Mendon, Worcester, Massachusetts Bay, British Colonial America · Died 3 April 1859 · Kirtland, Lake, Ohio, United States · Generation 7
+Born 21 July 1767 · Mendon, Worcester, Massachusetts Bay, British Colonial America · Died 3 April 1859 · Kirtland, Lake, Ohio, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Boyce Kimball (LH5H-324)|Boyce Kimball]]
@@ -31,6 +31,8 @@ Born 21 July 1767 · Mendon, Worcester, Massachusetts Bay, British Colonial Amer
 ## Stories
 
 ### The Newel K. Whitney Family by D. Michael Quinn
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29869823)_
 
 ## Photos & documents
 
@@ -68,6 +70,19 @@ _Original Grave Marker_
 - [Susanna, "Vermont, Vital Records, 1760-1954"](https://familysearch.org/ark:/61903/1:1:V898-82P)
 - Legacy NFS Source: Susannah Kimball - Published information: Cemetery record or headstone: burial: 5 April 1855; 
 - Legacy NFS Source: Susannah Kimball - Published information: Cemetery record or headstone: death: 3 April 1855; Kirtland, Lake, Ohio, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 53)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 62)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 63)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 69)_
+- **1838** — The Saints driven from Missouri _(age 71)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 77)_
+- **1846** — The exodus from Nauvoo begins _(age 79)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 80)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 89)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHHB-FWV)

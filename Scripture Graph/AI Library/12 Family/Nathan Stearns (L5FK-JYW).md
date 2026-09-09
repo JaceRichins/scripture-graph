@@ -7,14 +7,14 @@ fs_id: L5FK-JYW
 generation: 7
 born: 1 April 1809 · Bethel, Oxford, Maine, United States
 died: 25 August 1833 · Bethel, Oxford, Maine, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Nathan Stearns
 
-Born 1 April 1809 · Bethel, Oxford, Maine, United States · Died 25 August 1833 · Bethel, Oxford, Maine, United States · Generation 7
+Born 1 April 1809 · Bethel, Oxford, Maine, United States · Died 25 August 1833 · Bethel, Oxford, Maine, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Charles Stearns (LHQ8-M96)|Charles Stearns]]
@@ -30,18 +30,20 @@ Born 1 April 1809 · Bethel, Oxford, Maine, United States · Died 25 August 1833
 
 ### Nathan Stearns Militia Man
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/243563515)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/L5FK-JYW/30793544.pdf|Mary Ann Frost and Mary Ann Winters part 1]]
 
 
-![[AI Library/12 Family/_media/L5FK-JYW/71728035.png|photo]]
+![[AI Library/12 Family/_media/L5FK-JYW/71728035.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/L5FK-JYW/136166314.jpg|1833 Aug 25 Nathan Stearns DEATH Bethel Oxford Maine]]
 
 
-![[AI Library/12 Family/_media/L5FK-JYW/160076287.png|photo]]
+![[AI Library/12 Family/_media/L5FK-JYW/160076287.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/L5FK-JYW/167812184.jpg|Deseret_Evening_News_Sat__Jul_23__1910_]]
@@ -64,6 +66,13 @@ _Letter from Genealogical Society approving sealing of Mary Ann Frost to her fir
 - [Nathan Stearns, "Maine, Marriages, 1771-1907"](https://familysearch.org/ark:/61903/1:1:F4FM-JMD)
 - [Nathan Stearns, "Maine, Faylene Hutton Cemetery Collection, ca. 1780-1991"](https://familysearch.org/ark:/61903/1:1:QKM1-4Q33)
 - [Ens Nathan Stearns, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVY-T221)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 11)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 20)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 21)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5FK-JYW)

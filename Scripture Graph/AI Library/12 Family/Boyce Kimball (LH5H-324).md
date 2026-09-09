@@ -7,14 +7,14 @@ fs_id: LH5H-324
 generation: 8
 born: 18 June 1731 · Wenham, Essex, Massachusetts, United States
 died: 13 May 1802 · Shutesbury, Franklin, Massachusetts, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Boyce Kimball
 
-Born 18 June 1731 · Wenham, Essex, Massachusetts, United States · Died 13 May 1802 · Shutesbury, Franklin, Massachusetts, United States · Generation 8
+Born 18 June 1731 · Wenham, Essex, Massachusetts, United States · Died 13 May 1802 · Shutesbury, Franklin, Massachusetts, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Susanna Kimball (LHHB-FWV)|Susanna Kimball]]
@@ -29,6 +29,8 @@ Born 18 June 1731 · Wenham, Essex, Massachusetts, United States · Died 13 May 
 ## Stories
 
 ### Life Story
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/188202081)_
 
 ## Sources
 - [Boyce Kimball, "United States, Census, 1810"](https://familysearch.org/ark:/61903/1:1:XH2B-1YL)

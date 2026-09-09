@@ -7,14 +7,14 @@ fs_id: MSG2-892
 generation: 7
 born: Bef 14 January 1781 · Illeris, Alstrup, Ålborg, Denmark
 died: 9 August 1847 · Kaersgaard, Strandby, Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Christen Mikkelsen
 
-Born Bef 14 January 1781 · Illeris, Alstrup, Ålborg, Denmark · Died 9 August 1847 · Kaersgaard, Strandby, Ålborg, Denmark · Generation 7
+Born Bef 14 January 1781 · Illeris, Alstrup, Ålborg, Denmark · Died 9 August 1847 · Kaersgaard, Strandby, Ålborg, Denmark · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Mikkel Laustsen (LDDT-8DQ)|Mikkel Laustsen]]
@@ -59,6 +59,18 @@ _Gertrude Christensen Sorensen, by her great granddaughter, Jessie Erma Taysom H
 - [Kristen Mikkelsen in entry for Helle, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-C49)
 - [Christen Mikkelsen in entry for Gjertrud, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-CWB)
 - [Christen Mikkelsen in entry for Ane Kirstine, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-C91)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 39)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 48)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 49)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 55)_
+- **1838** — The Saints driven from Missouri _(age 57)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 63)_
+- **1846** — The exodus from Nauvoo begins _(age 65)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MSG2-892)

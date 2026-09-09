@@ -7,14 +7,14 @@ fs_id: LYB9-K1C
 generation: 6
 born: 15 May 1817 · Freedom, Cattaraugus, New York, United States
 died: 4 April 1907 · Marion, Cassia, Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Olive Mehitable Cheney
 
-Born 15 May 1817 · Freedom, Cattaraugus, New York, United States · Died 4 April 1907 · Marion, Cassia, Idaho, United States · Generation 6
+Born 15 May 1817 · Freedom, Cattaraugus, New York, United States · Died 4 April 1907 · Marion, Cassia, Idaho, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Aaron Cheney (KNX4-J2Z)|Aaron Cheney]]
@@ -26,7 +26,7 @@ Born 15 May 1817 · Freedom, Cattaraugus, New York, United States · Died 4 Apri
 - **Death**: 4 April 1907 · Marion, Cassia, Idaho, United States
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
 - **Residence**: 1850 · Tooele, Utah, United States
-- **data:,Mormon+Pioneer**: from 21 June 1850 to 14 October 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
+- **Mormon+Pioneer**: from 21 June 1850 to 14 October 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
 - **Residence**: 1860 · Grantsville, Tooele, Utah, United States
 - **Residence**: 1870 · Grantsville, Tooele, Utah, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah, United States
@@ -37,9 +37,15 @@ Born 15 May 1817 · Freedom, Cattaraugus, New York, United States · Died 4 Apri
 
 ### AUTOBIOGRAPHY OF JAMES MCBRIDE
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1216311)_
+
 ### Amos Orin McBride, Sr.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9543412)_
+
 ### In Her Own Hand... part 1 [Autobiography by Talitha Cumi Garlick]
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93766544)_
 
 ## Photos & documents
 
@@ -107,7 +113,7 @@ wife of James John McBride]]
 ![[AI Library/12 Family/_media/LYB9-K1C/120302802.jpg|Olive Mehitable Cheney Headstone]]
 
 
-![[AI Library/12 Family/_media/LYB9-K1C/160429512.jpeg|Olive Mehitable Cheney McBride headstone ]]
+![[AI Library/12 Family/_media/LYB9-K1C/160429512.jpg|Olive Mehitable Cheney McBride headstone ]]
 
 
 ![[AI Library/12 Family/_media/LYB9-K1C/183703300.jpg|Olive M McBride Obituary]]
@@ -163,6 +169,24 @@ _History of Robert Wells McBride_
 - [Olive Cheney in entry for Heber K McBride, "Idaho Death Certificates, 1911-1937"](https://familysearch.org/ark:/61903/1:1:FLYP-H2V)
 - [Olive Cheney in entry for James Orson McBride, "Idaho Death Certificates, 1911-1937"](https://familysearch.org/ark:/61903/1:1:FLYV-C4G)
 - Legacy NFS Source: Olive Mehitable Cheney - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 3)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 12)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 13)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 19)_
+- **1838** — The Saints driven from Missouri _(age 21)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 27)_
+- **1846** — The exodus from Nauvoo begins _(age 29)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 30)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 39)_
+- **1869** — The railroad reaches Utah _(age 52)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 60)_
+- **1890** — The Manifesto ends plural marriage _(age 73)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 76)_
+- **1896** — Utah becomes a state _(age 79)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LYB9-K1C)

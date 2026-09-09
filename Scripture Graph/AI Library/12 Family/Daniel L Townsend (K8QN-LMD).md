@@ -7,14 +7,14 @@ fs_id: K8QN-LMD
 generation: 6
 born: 28 February 1828 · Henry, Henry, Tennessee, United States
 died: 9 April 1883 · Fayetteville, Washington, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Daniel L Townsend
 
-Born 28 February 1828 · Henry, Henry, Tennessee, United States · Died 9 April 1883 · Fayetteville, Washington, Arkansas, United States · Generation 6
+Born 28 February 1828 · Henry, Henry, Tennessee, United States · Died 9 April 1883 · Fayetteville, Washington, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Joseph Elias Townsend (KC2D-CQS)|Joseph Elias Townsend]]
@@ -73,6 +73,20 @@ Born 28 February 1828 · Henry, Henry, Tennessee, United States · Died 9 April 
 - [Daniel Townsend, "Kentucky, County Marriages, 1786-1965"](https://familysearch.org/ark:/61903/1:1:Q2DC-C7HG)
 - [Daniel Townsend, "Kentucky, County Marriages, 1786-1965"](https://familysearch.org/ark:/61903/1:1:Q28Z-CKRC)
 - [Daniel Townsend, "United States, Census, 1850"](https://familysearch.org/ark:/61903/1:1:MCD7-VM2)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 1)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 2)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 8)_
+- **1838** — The Saints driven from Missouri _(age 10)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 16)_
+- **1846** — The exodus from Nauvoo begins _(age 18)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 19)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 28)_
+- **1869** — The railroad reaches Utah _(age 41)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 49)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K8QN-LMD)

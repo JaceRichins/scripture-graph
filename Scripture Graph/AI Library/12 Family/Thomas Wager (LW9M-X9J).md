@@ -7,14 +7,14 @@ fs_id: LW9M-X9J
 generation: 8
 born: 17 July 1739 · Painswick, Gloucestershire, England
 died: 18 October 1770 · Painswick, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Wager
 
-Born 17 July 1739 · Painswick, Gloucestershire, England · Died 18 October 1770 · Painswick, Gloucestershire, England · Generation 8
+Born 17 July 1739 · Painswick, Gloucestershire, England · Died 18 October 1770 · Painswick, Gloucestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[John Wager (9HTV-VNT)|John Wager]]

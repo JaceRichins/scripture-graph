@@ -7,14 +7,14 @@ fs_id: KWJH-X5P
 generation: 5
 born: 18520509 · Orangeburg,South Carolina
 died: 4 December 1930 · Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Barton Bair
 
-Born 18520509 · Orangeburg,South Carolina · Died 4 December 1930 · Idaho, United States · Generation 5
+Born 18520509 · Orangeburg,South Carolina · Died 4 December 1930 · Idaho, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Joshua A. Bair (LLSM-N3D)|Joshua A. Bair]]
@@ -48,6 +48,17 @@ Born 18520509 · Orangeburg,South Carolina · Died 4 December 1930 · Idaho, Uni
 - [S J Barton Bair in household of Joshua Bair, "United States Census, 1860"](https://familysearch.org/ark:/61903/1:1:MZT6-FQL)
 - [Barton Bair, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:M6SP-Y6R)
 - [Barton Bair, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:M3TX-NVB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 4)_
+- **1869** — The railroad reaches Utah _(age 17)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 25)_
+- **1890** — The Manifesto ends plural marriage _(age 38)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 41)_
+- **1896** — Utah becomes a state _(age 44)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJH-X5P)

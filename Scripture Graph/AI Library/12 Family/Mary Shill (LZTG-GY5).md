@@ -7,14 +7,14 @@ fs_id: LZTG-GY5
 generation: 8
 born: 1 March 1767 · Colesborne,,Gloucestershire,England
 died: 24 April 1842 · Colesbourne, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Shill
 
-Born 1 March 1767 · Colesborne,,Gloucestershire,England · Died 24 April 1842 · Colesbourne, Gloucestershire, England, United Kingdom · Generation 8
+Born 1 March 1767 · Colesborne,,Gloucestershire,England · Died 24 April 1842 · Colesbourne, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Robert Chapel Shill (KWJ7-586)|Robert Chapel Shill]]
@@ -25,8 +25,8 @@ Born 1 March 1767 · Colesborne,,Gloucestershire,England · Died 24 April 1842 �
 - **Christening**: 1 March 1761 · Colesborne, Gloucestershire, England
 - **Residence**: 1841 · Colesborne, Gloucestershire, England, United Kingdom
 - **Burial**: 27 April 1842 · Colesbourne, Gloucestershire, England, United Kingdom
-- **data:,BAPL**: 15 OCT 1889 · Logan, Cache, Utah, United States
-- **data:,ENDL**: 29 MAR 1894 · Salt Lake, Utah, United States
+- **BAPL**: 15 OCT 1889 · Logan, Cache, Utah, United States
+- **ENDL**: 29 MAR 1894 · Salt Lake, Utah, United States
 
 ## Photos & documents
 
@@ -74,6 +74,15 @@ Prepared 2 March 2025_
 - [Mary Shill, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NLSH-YPP)
 - [Mary Shill in entry for Ann Shill, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NGWN-Z3Y)
 - Baptismal Certificate for Robert Shill son of Mary Shill and Robert Chappel
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 53)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 62)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 63)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 69)_
+- **1838** — The Saints driven from Missouri _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZTG-GY5)

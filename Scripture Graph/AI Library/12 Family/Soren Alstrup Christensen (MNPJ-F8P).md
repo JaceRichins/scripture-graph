@@ -7,14 +7,14 @@ fs_id: MNPJ-F8P
 generation: 8
 born: 3 June 1738 · Fandrup, Farsø, Gislum, Ålborg, Denmark
 died: 19 June 1806 · Svoldrup, Vognsild, Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Soren Alstrup Christensen
 
-Born 3 June 1738 · Fandrup, Farsø, Gislum, Ålborg, Denmark · Died 19 June 1806 · Svoldrup, Vognsild, Ålborg, Denmark · Generation 8
+Born 3 June 1738 · Fandrup, Farsø, Gislum, Ålborg, Denmark · Died 19 June 1806 · Svoldrup, Vognsild, Ålborg, Denmark · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Christen Sørensen (LZG8-TPQ)|Christen Sørensen]]

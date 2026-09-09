@@ -7,14 +7,14 @@ fs_id: LS9F-BQX
 generation: 8
 born: 1752 · Atherton, Lancashire, England
 died: 10 May 1827 · Hindley, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Martha Higginson
 
-Born 1752 · Atherton, Lancashire, England · Died 10 May 1827 · Hindley, Lancashire, England, United Kingdom · Generation 8
+Born 1752 · Atherton, Lancashire, England · Died 10 May 1827 · Hindley, Lancashire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[James Wilcock (2778-4FX)|James Wilcock]]
@@ -53,6 +53,11 @@ Born 1752 · Atherton, Lancashire, England · Died 10 May 1827 · Hindley, Lanca
 - [Martha in entry for Ann Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J34H-ZY5)
 - [Martha in entry for William Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPM6-FFX)
 - [Martha in entry for John Wilcock, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPM6-WYH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LS9F-BQX)

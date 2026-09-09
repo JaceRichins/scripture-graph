@@ -6,21 +6,21 @@ sg-id: fs:L7TG-7MZ
 fs_id: L7TG-7MZ
 generation: 8
 born: 1729 · Kirkby Malham, Yorkshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Shaw
 
-Born 1729 · Kirkby Malham, Yorkshire, England · Generation 8
+Born 1729 · Kirkby Malham, Yorkshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Agnes Nancy Shaw (LL92-59X)|Agnes Nancy Shaw]]
 
 ## Life
 - **Birth**: 1729 · Kirkby Malham, Yorkshire, England
-- **data:,Baptism**: 26 Dec 1729 · Kirby, Yorkshire, England
+- **Baptism**: 26 Dec 1729 · Kirby, Yorkshire, England
 - **Christening**: 26 December 1729 · Kirkby Malham, Yorkshire, England
 - **Residence**: 12 Jun 1760 · Arncliffe, Yorkshire, England
 

@@ -7,14 +7,14 @@ fs_id: LKKM-XKC
 generation: 8
 born: 1688 · Giggleswick, Yorkshire, England
 died: 1793 · England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catherine Taylor
 
-Born 1688 · Giggleswick, Yorkshire, England · Died 1793 · England · Generation 8
+Born 1688 · Giggleswick, Yorkshire, England · Died 1793 · England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Stephen Longstroth (LKKM-XKG)|Stephen Longstroth]]
@@ -22,7 +22,7 @@ Born 1688 · Giggleswick, Yorkshire, England · Died 1793 · England · Generati
 ## Life
 - **Birth**: 1688 · Giggleswick, Yorkshire, England
 - **Death**: 1793 · England
-- **data:,Baptism**: 22 Nov 1688 · Giggleswick, Yorkshire, England, United Kingdom
+- **Baptism**: 22 Nov 1688 · Giggleswick, Yorkshire, England, United Kingdom
 - **Christening**: 22 November 1688 · Giggleswick, Yorkshire, England
 - **Burial**: 14 November 1793 · Sheffield, Yorkshire, England
 

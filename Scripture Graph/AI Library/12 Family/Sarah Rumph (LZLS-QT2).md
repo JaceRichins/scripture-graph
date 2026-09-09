@@ -7,14 +7,14 @@ fs_id: LZLS-QT2
 generation: 8
 born: 7 May 1753 · Orangeburg, Orangeburg, South Carolina, United States
 died: 1808 · Orangeburg, South Carolina, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Rumph
 
-Born 7 May 1753 · Orangeburg, Orangeburg, South Carolina, United States · Died 1808 · Orangeburg, South Carolina, United States · Generation 8
+Born 7 May 1753 · Orangeburg, Orangeburg, South Carolina, United States · Died 1808 · Orangeburg, South Carolina, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Rumph Dewitt (G6CT-KV2)|Sarah Rumph Dewitt]]
@@ -29,7 +29,7 @@ Born 7 May 1753 · Orangeburg, Orangeburg, South Carolina, United States · Died
 ![[AI Library/12 Family/_media/LZLS-QT2/141531284.pdf|Genealogy of the Rumph Family of South Carolina, by A. S. Salley]]
 
 
-![[AI Library/12 Family/_media/LZLS-QT2/141840092.png|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 34]]
+![[AI Library/12 Family/_media/LZLS-QT2/141840092.jpg|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 34]]
 _THE
 RUMPH and FREDERICK FAMILIES
 Genealogical and Biographical
@@ -41,7 +41,7 @@ Everett, Haslam, Walker, Norris, Rowe, and Other Families.
 By
 LOUISE FREDERICK HAYS_
 
-![[AI Library/12 Family/_media/LZLS-QT2/142265777.png|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 38]]
+![[AI Library/12 Family/_media/LZLS-QT2/142265777.jpg|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 38]]
 _THE
 RUMPH and FREDERICK FAMILIES
 Genealogical and Biographical

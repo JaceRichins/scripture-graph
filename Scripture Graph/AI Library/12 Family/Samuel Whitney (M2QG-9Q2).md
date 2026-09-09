@@ -7,14 +7,14 @@ fs_id: M2QG-9Q2
 generation: 7
 born: 18 April 1774 · Marlboro, Windham, Republic of Vermont
 died: 17 February 1846 · Kirtland Township, Lake, Ohio, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Whitney
 
-Born 18 April 1774 · Marlboro, Windham, Republic of Vermont · Died 17 February 1846 · Kirtland Township, Lake, Ohio, United States · Generation 7
+Born 18 April 1774 · Marlboro, Windham, Republic of Vermont · Died 17 February 1846 · Kirtland Township, Lake, Ohio, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Samuel Whitney Junior (LHB1-HJS)|Samuel Whitney Junior]]
@@ -29,6 +29,8 @@ Born 18 April 1774 · Marlboro, Windham, Republic of Vermont · Died 17 February
 ## Stories
 
 ### The Newel K. Whitney Family by D. Michael Quinn
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29869823)_
 
 ## Photos & documents
 
@@ -66,6 +68,17 @@ Born 18 April 1774 · Marlboro, Windham, Republic of Vermont · Died 17 February
 - [Samuel Whitney in entry for Prissila Whitney, "Vermont, Births and Christenings, 1765-1908"](https://familysearch.org/ark:/61903/1:1:F82T-89K)
 - [Samuel Whitney, "Vermont, Vital Records, 1760-1954"](https://familysearch.org/ark:/61903/1:1:V898-8T2)
 - [Samuel Whitney in entry for Rebecka Whitney, "Vermont, Births and Christenings, 1765-1908"](https://familysearch.org/ark:/61903/1:1:F82T-ZYN)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 46)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 55)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 56)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 62)_
+- **1838** — The Saints driven from Missouri _(age 64)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 70)_
+- **1846** — The exodus from Nauvoo begins _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/M2QG-9Q2)

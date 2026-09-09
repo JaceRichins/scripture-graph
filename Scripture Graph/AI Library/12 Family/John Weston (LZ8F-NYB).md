@@ -7,14 +7,14 @@ fs_id: LZ8F-NYB
 generation: 8
 born: 1731 · Ebrington, Gloucestershire, England
 died: 21 October 1811 · Ebrington, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Weston
 
-Born 1731 · Ebrington, Gloucestershire, England · Died 21 October 1811 · Ebrington, Gloucestershire, England · Generation 8
+Born 1731 · Ebrington, Gloucestershire, England · Died 21 October 1811 · Ebrington, Gloucestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Hannah Weston (LCCZ-MB8)|Hannah Weston]]

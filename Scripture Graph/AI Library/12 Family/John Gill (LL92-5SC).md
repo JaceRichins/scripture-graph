@@ -6,22 +6,22 @@ sg-id: fs:LL92-5SC
 fs_id: LL92-5SC
 generation: 8
 born: 1730 · Arncliffe, Yorkshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Gill
 
-Born 1730 · Arncliffe, Yorkshire, England · Generation 8
+Born 1730 · Arncliffe, Yorkshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[George Gill (LL92-592)|George Gill]]
 
 ## Life
 - **Birth**: 1730 · Arncliffe, Yorkshire, England
-- **data:,Marriage+Notice**: 16 February 1755 · York, Yorkshire, England · Marriage to: Susanna PRESTON
-- **data:,LdsEndowment**: 12 May 1896
+- **Marriage+Notice**: 16 February 1755 · York, Yorkshire, England · Marriage to: Susanna PRESTON
+- **LdsEndowment**: 12 May 1896
 - **Residence**: Kirkby Malham, Yorkshire, England
 
 ## Sources

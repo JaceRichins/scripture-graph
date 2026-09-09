@@ -7,14 +7,14 @@ fs_id: KWJ5-DHB
 generation: 6
 born: 9 May 1818 · Lancaster, Fairfield, Ohio, United States
 died: 6 January 1881 · Grantsville, Tooele, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James John McBride
 
-Born 9 May 1818 · Lancaster, Fairfield, Ohio, United States · Died 6 January 1881 · Grantsville, Tooele, Utah, United States · Generation 6
+Born 9 May 1818 · Lancaster, Fairfield, Ohio, United States · Died 6 January 1881 · Grantsville, Tooele, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Thomas White McBride (KWJR-J45)|Thomas White McBride]]
@@ -28,7 +28,7 @@ Born 9 May 1818 · Lancaster, Fairfield, Ohio, United States · Died 6 January 1
 - **Residence**: 1833 · Richland, Ohio, United States
 - **Residence**: 1834 · Pike, Missouri, United States
 - **Residence**: 1836 · Caldwell, Missouri, United States
-- **data:,Baptism**: June 1838 · Caldwell, Missouri, United States
+- **Baptism**: June 1838 · Caldwell, Missouri, United States
 - **Residence**: 1840 · Hancock, Illinois, United States
 - **Residence**: 1842 · Nauvoo, Hancock, Illinois, United States
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
@@ -37,39 +37,63 @@ Born 9 May 1818 · Lancaster, Fairfield, Ohio, United States · Died 6 January 1
 - **Residence**: 1860 · Grantsville, Tooele, Utah, United States
 - **Occupation**: from 1860 to 1870 · Grantsville, Tooele, Utah, United States · Farmer
 - **Residence**: 1870 · Grantsville, Tooele, Utah, United States
-- **data:,Apple+Orchard**: 24 September 1871 · Grantsville, Tooele, Utah, United States
+- **Apple+Orchard**: 24 September 1871 · Grantsville, Tooele, Utah, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah, United States
 - **Burial**: 8 January 1881 · Grantsville City Cemetery, Grantsville, Tooele, Utah, United States
-- **data:,Membership**: Grantsville, Tooele, Utah, United States
+- **Membership**: Grantsville, Tooele, Utah, United States
 
 ## Stories
 
 ### James McBride Biography including Haun's Mill Massacre
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/390333)_
+
 ### AUTOBIOGRAPHY OF JAMES MCBRIDE
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1216311)_
 
 ### Historical Sketch of James John McBride
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1300805)_
+
 ### James John McBride 1818-1881 By Clain Barrus
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2036742)_
 
 ### Amos Orin McBride, Sr.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9543412)_
+
 ### Autobiography of James McBride April 4th, 1876
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12944249)_
+
 ### Adelaide Miner tells about James John McBride.mp3
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/26791956)_
 
 ### THE FOUNDING AND DEVELOPMENT OF 
 GRANTSVILLE, UTAH
 1850-1950
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/82999531)_
+
 ### In Her Own Hand... part 1 [Autobiography by Talitha Cumi Garlick]
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93766544)_
 
 ### When the Brimhalls Got Organized                        
  By William O. Nelson
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/106805366)_
+
 ### James McBride Biography
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/125870585)_
+
 ### The Legacy of Charlotte Gailey Clark 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/133720534)_
 
 ## Photos & documents
 
@@ -103,13 +127,13 @@ _Death Certificate - Amos Orin McBride (1850-1924). Also mentions Emma Goddard (
 ![[AI Library/12 Family/_media/KWJ5-DHB/9174267.pdf|Autobiography of James McBride]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/11469544.png|Hawn's Mill Settlement 1838]]
+![[AI Library/12 Family/_media/KWJ5-DHB/11469544.jpg|Hawn's Mill Settlement 1838]]
 
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/11987807.pdf|Autobiography of James Mcbride]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/13273953.png|Haun's Mill- Missouri Counties - photo by C.C.A. Christensen]]
+![[AI Library/12 Family/_media/KWJ5-DHB/13273953.jpg|Haun's Mill- Missouri Counties - photo by C.C.A. Christensen]]
 
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/13274056.jpg|Haun's Mill- Missouri Counties]]
@@ -149,10 +173,10 @@ brother to Kit Pope]]
 ![[AI Library/12 Family/_media/KWJ5-DHB/51779167.jpg|James John McBride, burial site in Grantsville, Utah]]
 _James John McBride burial site in Grantsville, Utah_
 
-![[AI Library/12 Family/_media/KWJ5-DHB/74093515.jpeg|Grantsville Fort]]
+![[AI Library/12 Family/_media/KWJ5-DHB/74093515.jpg|Grantsville Fort]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/85680457.jpeg|Kirtland, Ohio land ownership]]
+![[AI Library/12 Family/_media/KWJ5-DHB/85680457.jpg|Kirtland, Ohio land ownership]]
 
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/86791458.pdf|A Prophet's Warning (Haun's Mill)]]
@@ -183,7 +207,7 @@ _Excerpts from Rungs on Our Ladder of Life by Lillian Marie Pearson Bagley._
 _29th Quorum
 CR 351 70's Book B code name list for those defending Church members in Nauvoo area fall of 1845.  20% names on this sheet enlist in Mormon Battalion a year later.  Most code names are names of fathers this sheet._
 
-![[AI Library/12 Family/_media/KWJ5-DHB/145129598.jpeg|1842 Nauvoo 2nd Ward Census]]
+![[AI Library/12 Family/_media/KWJ5-DHB/145129598.jpg|1842 Nauvoo 2nd Ward Census]]
 _https://catalog.churchofjesuschrist.org/assets/2febcd71-25e6-470f-94c1-d1bcb53cdfca/1/25_
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/149480277.pdf|Autobiography of James McBride]]
@@ -195,31 +219,31 @@ _https://catalog.churchofjesuschrist.org/assets/2febcd71-25e6-470f-94c1-d1bcb53c
 ![[AI Library/12 Family/_media/KWJ5-DHB/162161332.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/163802687.png|Death -- Deseret News 1881-1-19]]
+![[AI Library/12 Family/_media/KWJ5-DHB/163802687.jpg|Death -- Deseret News 1881-1-19]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765485.png|James McBride biography3]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765485.jpg|James McBride biography3]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765483.png|James McBride biography4]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765483.jpg|James McBride biography4]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765486.png|James McBride biography5]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765486.jpg|James McBride biography5]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765484.png|James McBride biography6.5 ]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765484.jpg|James McBride biography6.5 ]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765488.png|James McBride biography1]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765488.jpg|James McBride biography1]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765487.png|James McBride biography2]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765487.jpg|James McBride biography2]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765490.png|James McBride biography6]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765490.jpg|James McBride biography6]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/171765489.png|James McBride biography7]]
+![[AI Library/12 Family/_media/KWJ5-DHB/171765489.jpg|James McBride biography7]]
 
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/184002900.jpg|Grantsville, UT cemetery, Section G on west side]]
@@ -228,10 +252,10 @@ _https://catalog.churchofjesuschrist.org/assets/2febcd71-25e6-470f-94c1-d1bcb53c
 ![[AI Library/12 Family/_media/KWJ5-DHB/184002909.jpg|Grantsville, UT cemetery, Section G on west side]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/190489430.jpeg|James McBride Autobiography, 1818-1876, page 17]]
+![[AI Library/12 Family/_media/KWJ5-DHB/190489430.jpg|James McBride Autobiography, 1818-1876, page 17]]
 
 
-![[AI Library/12 Family/_media/KWJ5-DHB/202855854.jpeg|James & Marion Louisa Redden McBride]]
+![[AI Library/12 Family/_media/KWJ5-DHB/202855854.jpg|James & Marion Louisa Redden McBride]]
 _The Higleys and Their Ancestry, Volume II by Grover S. Higley (1982), page 1436_
 
 ![[AI Library/12 Family/_media/KWJ5-DHB/216337500.pdf|History of Robert Wells McBride 1877-1961.pdf]]
@@ -341,6 +365,21 @@ _History of Robert Wells McBride_
 - [James McBride, "BillionGraves Index"](https://familysearch.org/ark:/61903/1:1:KN7X-DCB)
 - [James McBride, "Illinois, County Marriages, 1810-1934"](https://familysearch.org/ark:/61903/1:1:KFK3-LG9)
 - [James McBride, "Utah, Pioneers and Prominent Men of Utah, 1847-1868"](https://familysearch.org/ark:/61903/1:1:KL71-W9F)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 2)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 11)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 12)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 18)_
+- **1838** — The Saints driven from Missouri _(age 20)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 26)_
+- **1846** — The exodus from Nauvoo begins _(age 28)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 29)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 38)_
+- **1869** — The railroad reaches Utah _(age 51)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 59)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ5-DHB)

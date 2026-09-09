@@ -7,14 +7,14 @@ fs_id: KWCB-YC7
 generation: 3
 born: 27 November 1911 · Burley, Cassia, Idaho, United States
 died: 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruth Minter McBride
 
-Born 27 November 1911 · Burley, Cassia, Idaho, United States · Died 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States · Generation 3
+Born 27 November 1911 · Burley, Cassia, Idaho, United States · Died 1 February 1955 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Henry Francis McBride (KW8L-S3Z)|Henry Francis McBride]]
@@ -56,6 +56,12 @@ Born 27 November 1911 · Burley, Cassia, Idaho, United States · Died 1 February
 - [Ruth McBride Oldham, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZPY-ZBK)
 - [Ruth Mc Bride, "United States, Census, 1930"](https://familysearch.org/ark:/61903/1:1:XKJL-CMK)
 - [Ruth McBride, "United States, Census, 1920"](https://familysearch.org/ark:/61903/1:1:M6PR-FQD)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 7)_
+- **1936** — The Church welfare program begins _(age 25)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCB-YC7)

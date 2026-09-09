@@ -6,14 +6,14 @@ sg-id: fs:MX3F-V6S
 fs_id: MX3F-V6S
 generation: 8
 born: 1742 · Frolesworth, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Sleath
 
-Born 1742 · Frolesworth, Leicestershire, England · Generation 8
+Born 1742 · Frolesworth, Leicestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Nason (G21K-9XP)|Mary Nason]]
@@ -21,8 +21,8 @@ Born 1742 · Frolesworth, Leicestershire, England · Generation 8
 ## Life
 - **Birth**: 1742 · Frolesworth, Leicestershire, England
 - **Christening**: 15 June 1742 · Frolesworth, Leicestershire, England
-- **data:,Baptism**: 15 Jun 1742 · Frolesworth, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 15 Jun 1742
+- **Baptism**: 15 Jun 1742 · Frolesworth, Leicestershire, England, United Kingdom
+- **Baptism**: 15 Jun 1742
 - **Residence**: Broughton Astley
 
 ## Sources
@@ -46,6 +46,11 @@ Born 1742 · Frolesworth, Leicestershire, England · Generation 8
 - [Elizabeth Sleath, "England, Leicestershire, Parish Registers, 1533-1991"](https://familysearch.org/ark:/61903/1:1:QP47-VHGJ)
 - [Elizabeth, "England, Leicestershire, Parish Registers, 1533-1991"](https://familysearch.org/ark:/61903/1:1:QPWB-1Y4Q)
 - [Elizabeth in entry for Mary Nason, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NYTC-XJN)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MX3F-V6S)

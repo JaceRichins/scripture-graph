@@ -7,14 +7,14 @@ fs_id: KWZ1-FBS
 generation: 5
 born: 3 March 1852 · Bury, Lancashire, England, United Kingdom
 died: 24 July 1921 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Oldham
 
-Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1921 · Paradise, Cache, Utah, United States · Generation 5
+Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1921 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[John Oldham (KWJ4-7VD)|John Oldham]]
@@ -26,12 +26,12 @@ Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1
 - **Death**: 24 July 1921 · Paradise, Cache, Utah, United States
 - **Christening**: 17 Jul 1842 · Manchester, Lancashire, England
 - **Residence**: 1861 · Oldham, Lancashire, England
-- **data:,Baptism**: March 1863
-- **data:,Immigration**: 4 October 1864
-- **data:,Immigration**: 4 October 1864 · Utah, United States
+- **Baptism**: March 1863
+- **Immigration**: 4 October 1864
+- **Immigration**: 4 October 1864 · Utah, United States
 - **Residence**: 1870 · Paradise, Cache, Utah, United States
 - **Residence**: 1880 · Paradise, Cache, Utah, United States · School Teacher
-- **data:,Mission**: about 7 April 1881 · Southern States Mission, United States
+- **Mission**: about 7 April 1881 · Southern States Mission, United States
 - **Residence**: 1900 · Avon, Paradise Precincts Paradise, Cache, Utah, United States
 - **Residence**: 1910 · Paradise, Cache, Utah, United States
 - **Residence**: 1920 · Paradise, Cache, Utah, United States
@@ -41,11 +41,19 @@ Born 3 March 1852 · Bury, Lancashire, England, United Kingdom · Died 24 July 1
 
 ### Edward Jeremiah Price
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/899802)_
+
 ### Hundreds of Tramps
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12729989)_
 
 ### Grandfather Oldham (Samuel Heap Oldham) by Granddaughter Alice Olsen Norman
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16819959)_
+
 ### Great Great Grandpa Samuel Oldham’s Cane
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/145566294)_
 
 ## Photos & documents
 
@@ -114,7 +122,7 @@ _Ruth Shaw was very proud of her relatives mentioned in this newspaper article i
 ![[AI Library/12 Family/_media/KWZ1-FBS/68820364.pdf|Oldham Samuel record book]]
 
 
-![[AI Library/12 Family/_media/KWZ1-FBS/87881513.tif|Edward Jeremiah Price & Mary Jane Bishop Family]]
+![[AI Library/12 Family/_media/KWZ1-FBS/87881513.jpg|Edward Jeremiah Price & Mary Jane Bishop Family]]
 _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps Oldham, Samuel Price Oldham, Edward Jeremiah Price, John Lloyd Price, Mary Jane Bishop and Ernest Price Oldham. ca 1879. Courtesy Mary Jean Garrison._
 
 ![[AI Library/12 Family/_media/KWZ1-FBS/88651965.jpg|Samuel Oldham]]
@@ -216,7 +224,7 @@ _From Vicky Steenblik Library_
 ![[AI Library/12 Family/_media/KWZ1-FBS/225584440.jpg|Samuel & Mary Jane Price Oldham Family Group Sheet]]
 _Samuel and Mary Jane's family_
 
-![[AI Library/12 Family/_media/KWZ1-FBS/236079300.png|Samuel Oldham]]
+![[AI Library/12 Family/_media/KWZ1-FBS/236079300.jpg|Samuel Oldham]]
 _Distinguished Educator_
 
 ## Sources
@@ -319,6 +327,17 @@ _Distinguished Educator_
 - [Samuel Oldham in entry for Russell Brown Oldham & Mary Emelia Swensen, "Utah Marriages"](https://familysearch.org/ark:/61903/1:1:F8PX-HKK)
 - [Samuel Oldham in entry for Samuel Price Oldham, "Idaho Death Certificates"](https://familysearch.org/ark:/61903/1:1:FLYJ-GGV)
 - [Samuel Oldham in entry for Minnie Price Oldham Biggs, "Idaho, Southeast Counties Obituaries"](https://familysearch.org/ark:/61903/1:1:QVSD-NVV7)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 4)_
+- **1869** — The railroad reaches Utah _(age 17)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 25)_
+- **1890** — The Manifesto ends plural marriage _(age 38)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 41)_
+- **1896** — Utah becomes a state _(age 44)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZ1-FBS)

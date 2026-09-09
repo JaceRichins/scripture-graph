@@ -7,14 +7,14 @@ fs_id: KWCN-ST1
 generation: 5
 born: 9 September 1864 · Pleasant Grove, Utah, Utah, United States
 died: 14 April 1952 · Garland, Box Elder, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Oscar Lycortas Winters
 
-Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 April 1952 · Garland, Box Elder, Utah, United States · Generation 5
+Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 April 1952 · Garland, Box Elder, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Oscar F. Winters (KWJC-2JL)|Oscar F. Winters]]
@@ -24,11 +24,11 @@ Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 Ap
 ## Life
 - **Birth**: 9 September 1864 · Pleasant Grove, Utah, Utah, United States
 - **Death**: 14 April 1952 · Garland, Box Elder, Utah, United States
-- **data:,Blessing**: 3 Feb 1865
+- **Blessing**: 3 Feb 1865
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
-- **data:,Baptism**: 1872
+- **Baptism**: 1872
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah Territory, United States
-- **data:,Elder%20Ordination**: 7 Sep 1890
+- **Elder%20Ordination**: 7 Sep 1890
 - **Residence**: 1900 · Ogden, Weber, Utah, United States
 - **Residence**: 1910 · Ogden, Weber, Utah, United States
 - **Residence**: 1920 · Garland, Box Elder, Utah, United States
@@ -39,8 +39,8 @@ Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 Ap
 - **Occupation**: Utah, United States · Salesman and Manager, Implement Company
 - **MilitaryService**: Utah, United States · Military Service
 - **Residence**: Garland, Box Elder, Utah
-- **data:,Membership**: Utah, United States
-- **data:,Membership**: Ogden, Weber, Utah, United States
+- **Membership**: Utah, United States
+- **Membership**: Ogden, Weber, Utah, United States
 
 ## Photos & documents
 
@@ -50,7 +50,7 @@ Born 9 September 1864 · Pleasant Grove, Utah, Utah, United States · Died 14 Ap
 ![[AI Library/12 Family/_media/KWCN-ST1/27851960.jpg|Oscar Lycortas Winters, Rebecca, and Florence Ella. O L Winters home on South Washington Ave Ogden, UT. Blaine was born here.]]
 
 
-![[AI Library/12 Family/_media/KWCN-ST1/27944903.png|photo]]
+![[AI Library/12 Family/_media/KWCN-ST1/27944903.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWCN-ST1/27994843.jpg|Family home in Garland Utah]]
@@ -173,10 +173,10 @@ Hulda Augusta Winters' node or name in the tree is read only._
 ![[AI Library/12 Family/_media/KWCN-ST1/113053484.pdf|document]]
 
 
-![[AI Library/12 Family/_media/KWCN-ST1/167805199.png|Court Date for Probate 1903]]
+![[AI Library/12 Family/_media/KWCN-ST1/167805199.jpg|Court Date for Probate 1903]]
 
 
-![[AI Library/12 Family/_media/KWCN-ST1/178400720.png|Grandma Grandpapa Ella at Rebecca Winters Grave]]
+![[AI Library/12 Family/_media/KWCN-ST1/178400720.jpg|Grandma Grandpapa Ella at Rebecca Winters Grave]]
 
 
 ![[AI Library/12 Family/_media/KWCN-ST1/210520796.jpg|photo]]
@@ -257,6 +257,17 @@ Hulda Augusta Winters' node or name in the tree is read only._
 - [Oscar Lycortas Winters, "Find A Grave 38617"](https://familysearch.org/ark:/61903/1:1:QVVH-NNN9)
 - [Oscar L Winters, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWB-QJW)
 - [Oscar L Winters in household of Csear Winters, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSL-K1Z)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 5)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 13)_
+- **1890** — The Manifesto ends plural marriage _(age 26)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 29)_
+- **1896** — Utah becomes a state _(age 32)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 54)_
+- **1936** — The Church welfare program begins _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCN-ST1)

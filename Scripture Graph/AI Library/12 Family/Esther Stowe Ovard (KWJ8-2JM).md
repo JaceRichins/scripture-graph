@@ -7,14 +7,14 @@ fs_id: KWJ8-2JM
 generation: 5
 born: 7 December 1842 · Loxley, Warwickshire, England, United Kingdom
 died: 30 July 1924 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Stowe Ovard
 
-Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30 July 1924 · Henefer, Summit, Utah, United States · Generation 5
+Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30 July 1924 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Thomas Ovard (KWJD-SCG)|Thomas Ovard]]
@@ -25,12 +25,12 @@ Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30
 - **Birth**: 7 December 1842 · Loxley, Warwickshire, England, United Kingdom
 - **Death**: 30 July 1924 · Henefer, Summit, Utah, United States
 - **Christening**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
-- **data:,Christened**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
+- **Christened**: 24 March 1844 · Loxley, Warwickshire, England, United Kingdom
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
-- **data:,Immigration**: 1859
+- **Immigration**: 1859
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **data:,Immigration**: 30 Aug 1860
-- **data:,Immigration**: 30 August 1860 · Utah, United States
+- **Immigration**: 30 Aug 1860
+- **Immigration**: 30 August 1860 · Utah, United States
 - **Residence**: 1900 · Henefer, Summit, Utah, United States
 - **Burial**: 2 August 1924 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: England
@@ -39,11 +39,19 @@ Born 7 December 1842 · Loxley, Warwickshire, England, United Kingdom · Died 30
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
+
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### Glenn's Early Years- Douglas Richins Interview
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196660473)_
+
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 
@@ -107,7 +115,7 @@ _"The Big House" in Henefer, Utah where Esther Stowe Ovard Richins lived with he
 ![[AI Library/12 Family/_media/KWJ8-2JM/21399639.jpg|Esther Stowe Ovard with her parents and siblings.]]
 
 
-![[AI Library/12 Family/_media/KWJ8-2JM/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/KWJ8-2JM/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJ8-2JM/27326902.pdf|Life Story of Charles Richins, Louisa Shill, Esther Stowe Ovard and Agnes Mary Willmott - written and compiled by J. Alden Richins in 2007]]
@@ -275,7 +283,7 @@ _Writings from the book An Enduring Legacy_
 ![[AI Library/12 Family/_media/KWJ8-2JM/162417404.pdf|Esther Stowe Ovard]]
 
 
-![[AI Library/12 Family/_media/KWJ8-2JM/164719551.png|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
+![[AI Library/12 Family/_media/KWJ8-2JM/164719551.jpg|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
 _George Washington March-April 1857, A Compilation of General Voyage Notes, Departure day;
 
 https://saintsbysea.lib.byu.edu/mii/account/461._
@@ -309,6 +317,20 @@ https://saintsbysea.lib.byu.edu/mii/account/461._
 - [1910 United States Census](http://Ancestry.com)
 - [1900 United States Federal Census about Esther Richens](http://search.ancestryinstitution.com/cgi-bin/sse.dll?db=1900usfedcen&h=61768144&indiv=try&o_vc=Record:OtherRecord&rhSource=8860)
 - [England, Warwickshire, Loxley - 1844  Esther Ovard Christening Record](https://familysearch.org/ark:/61903/1:1:XX5NNQG:)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 2)_
+- **1846** — The exodus from Nauvoo begins _(age 4)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 5)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 14)_
+- **1869** — The railroad reaches Utah _(age 27)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 35)_
+- **1890** — The Manifesto ends plural marriage _(age 48)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 51)_
+- **1896** — Utah becomes a state _(age 54)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ8-2JM)

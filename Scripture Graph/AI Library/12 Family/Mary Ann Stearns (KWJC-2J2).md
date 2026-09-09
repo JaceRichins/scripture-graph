@@ -7,14 +7,14 @@ fs_id: KWJC-2J2
 generation: 6
 born: 6 April 1833 · Bethel, Oxford, Maine, United States
 died: 4 April 1912 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Ann Stearns
 
-Born 6 April 1833 · Bethel, Oxford, Maine, United States · Died 4 April 1912 · Salt Lake City, Salt Lake, Utah, United States · Generation 6
+Born 6 April 1833 · Bethel, Oxford, Maine, United States · Died 4 April 1912 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Nathan Stearns (L5FK-JYW)|Nathan Stearns]]
@@ -24,14 +24,14 @@ Born 6 April 1833 · Bethel, Oxford, Maine, United States · Died 4 April 1912 �
 ## Life
 - **Birth**: 6 April 1833 · Bethel, Oxford, Maine, United States
 - **Death**: 4 April 1912 · Salt Lake City, Salt Lake, Utah, United States
-- **data:,Membership**: 6 April 1833 · Utah, United States
+- **Membership**: 6 April 1833 · Utah, United States
 - **Residence**: 1841 · Manchester, Lancashire, England, United Kingdom
 - **Residence**: 1850 · Bethel, Oxford, Maine, United States
-- **data:,Membership**: 1852 · Utah Territory, United States
+- **Membership**: 1852 · Utah Territory, United States
 - **Residence**: 1852 · Pleasant Grove, Utah, Utah, United States · Home Farm Including Ice House
 - **Residence**: 1859 · Mount Pleasant, Sanpete, Utah, United States · Move to Mt. Pleasant, Utah for mission
 - **Residence**: 1860 · Moroni, Sanpete, Utah Territory, United States · Mission to Mt. Pleasant
-- **data:,Obituary**: 5 April 1912 · Utah, United States
+- **Obituary**: 5 April 1912 · Utah, United States
 - **Burial**: April 1912 · Pleasant Grove City Cemetery, Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1912 · Pleasant Grove, Utah
 
@@ -39,11 +39,19 @@ Born 6 April 1833 · Bethel, Oxford, Maine, United States · Died 4 April 1912 �
 
 ### The scar on her Arm
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10808729)_
+
 ### Mary Ann's Testimony of Joseph Smith
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/63276067)_
 
 ### Winters, Mary Ann Stearns, Reminiscences, 22-30.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/63276422)_
+
 ### Mary Ann's memories of Joseph Smith
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/63280491)_
 
 ## Photos & documents
 
@@ -134,7 +142,7 @@ Hulda Augusta Winters' name is read only in the tree._
 ![[AI Library/12 Family/_media/KWJC-2J2/108950539.jpg|Daughters of the Pioneers meeting held under the direction of the Winters family, 1928]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/113054847.tif|MaryAnn Stern Winters, source and date unknown.  Photo is also on family group sheet]]
+![[AI Library/12 Family/_media/KWJC-2J2/113054847.jpg|MaryAnn Stern Winters, source and date unknown.  Photo is also on family group sheet]]
 
 
 ![[AI Library/12 Family/_media/KWJC-2J2/115779653.pdf|Mary Ann Winters' Pleasant Grove Cemetery deed, Sept 6, 1987]]
@@ -155,58 +163,58 @@ _Chapter 39: An Act to dissolve the bonds of matrimony between Aaron M. York and
 ![[AI Library/12 Family/_media/KWJC-2J2/146995898.pdf|Descendants of Gideon Burdick]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167805488.png|Helnn May's Wedding Announcement 1897]]
+![[AI Library/12 Family/_media/KWJC-2J2/167805488.jpg|Helnn May's Wedding Announcement 1897]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167806822.png|Mary Ann Pratt Obituary 1891]]
+![[AI Library/12 Family/_media/KWJC-2J2/167806822.jpg|Mary Ann Pratt Obituary 1891]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167807641.png|Grandson Adopted Part 1 1901]]
+![[AI Library/12 Family/_media/KWJC-2J2/167807641.jpg|Grandson Adopted Part 1 1901]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167807821.png|Dedication of John Edge Booth's Home 1903]]
+![[AI Library/12 Family/_media/KWJC-2J2/167807821.jpg|Dedication of John Edge Booth's Home 1903]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167808007.png|Helen Winters Woodruff's Obituary]]
+![[AI Library/12 Family/_media/KWJC-2J2/167808007.jpg|Helen Winters Woodruff's Obituary]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167808445.png|Olivia Pratt Driggs 1906]]
+![[AI Library/12 Family/_media/KWJC-2J2/167808445.jpg|Olivia Pratt Driggs 1906]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167808889.png|Woman' Exponent 1909 Kirtland Party Reunion]]
+![[AI Library/12 Family/_media/KWJC-2J2/167808889.jpg|Woman' Exponent 1909 Kirtland Party Reunion]]
 _pg. 6 Woman's Exponent_
 
-![[AI Library/12 Family/_media/KWJC-2J2/167809200.png|Testimony at Alpine Stake Relief Society Conference 1908]]
+![[AI Library/12 Family/_media/KWJC-2J2/167809200.jpg|Testimony at Alpine Stake Relief Society Conference 1908]]
 _Quarterly Stake Relief Society Conference May 1908 Re ported in the Woman's Exponent pg. 8_
 
 ![[AI Library/12 Family/_media/KWJC-2J2/167809553.jpg|Woman's Exponent 1904 Obituary Helen Winter's Woodruff]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167809915.png|Remembrance of  Joseph Smith]]
+![[AI Library/12 Family/_media/KWJC-2J2/167809915.jpg|Remembrance of  Joseph Smith]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167810232.png|Annoucement of Freeman Winters Marriage 1880]]
+![[AI Library/12 Family/_media/KWJC-2J2/167810232.jpg|Annoucement of Freeman Winters Marriage 1880]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167810354.png|Mary Ann Stearns Winters Obituary 1912]]
+![[AI Library/12 Family/_media/KWJC-2J2/167810354.jpg|Mary Ann Stearns Winters Obituary 1912]]
 _In Salt Lake Telegraph pg. 12_
 
-![[AI Library/12 Family/_media/KWJC-2J2/167810634.png|Daily Herald Obituary]]
+![[AI Library/12 Family/_media/KWJC-2J2/167810634.jpg|Daily Herald Obituary]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167810751.png|Wedding Announcement for Susie and Heber Bennion 1885]]
+![[AI Library/12 Family/_media/KWJC-2J2/167810751.jpg|Wedding Announcement for Susie and Heber Bennion 1885]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167810933.png|Obituary in the Salina Call 1912]]
+![[AI Library/12 Family/_media/KWJC-2J2/167810933.jpg|Obituary in the Salina Call 1912]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167811154.png|Grandson Adopted 1905 part 2]]
+![[AI Library/12 Family/_media/KWJC-2J2/167811154.jpg|Grandson Adopted 1905 part 2]]
 
 
 ![[AI Library/12 Family/_media/KWJC-2J2/167812184.jpg|Deseret_Evening_News_Sat__Jul_23__1910_]]
 
 
-![[AI Library/12 Family/_media/KWJC-2J2/167812904.png|On the Front Page 1885]]
+![[AI Library/12 Family/_media/KWJC-2J2/167812904.jpg|On the Front Page 1885]]
 
 
 ![[AI Library/12 Family/_media/KWJC-2J2/179828541.pdf|AMONG THE REMNANT WHO LINGERED -- THE HISTORY OF REBECCA BURDICK AND HIRAM WINTERS AND THEIR FAMILIES -- By Beth Radmall Olsen]]
@@ -269,6 +277,21 @@ _In Salt Lake Telegraph pg. 12_
 ## In the library
 - [[Chapter 43 ‘He Was a Prophet of God’ Contemporaries of Joseph Smith Testify of His Prophetic Mission]]
 - [[Sources Cited]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 3)_
+- **1838** — The Saints driven from Missouri _(age 5)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 11)_
+- **1846** — The exodus from Nauvoo begins _(age 13)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 14)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 23)_
+- **1869** — The railroad reaches Utah _(age 36)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 44)_
+- **1890** — The Manifesto ends plural marriage _(age 57)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 60)_
+- **1896** — Utah becomes a state _(age 63)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-2J2)

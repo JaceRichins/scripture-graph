@@ -7,14 +7,14 @@ fs_id: KWC8-FF1
 generation: 3
 born: 10 September 1908 · Henefer, Summit, Utah, United States
 died: 1 August 1965 · Ogden, Weber, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elva Mary Fowler
 
-Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 1965 · Ogden, Weber, Utah, United States · Generation 3
+Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 1965 · Ogden, Weber, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[James Henry Fowler (KWCR-4KP)|James Henry Fowler]]
@@ -23,7 +23,7 @@ Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 
 ## Life
 - **Birth**: 10 September 1908 · Henefer, Summit, Utah, United States
 - **Death**: 1 August 1965 · Ogden, Weber, Utah, United States
-- **data:,Blessing**: 1 November 1908
+- **Blessing**: 1 November 1908
 - **Residence**: 1910 · Henefer, , Utah
 - **Residence**: 1920 · Henefer, Summit, Utah, United States
 - **Residence**: 1930 · Henefer, Summit, Utah
@@ -33,7 +33,7 @@ Born 10 September 1908 · Henefer, Summit, Utah, United States · Died 1 August 
 - **Residence**: 1940 · Henefer Election Precinct, Summit, Utah, United States
 - **Residence**: 13 Apr 1950 · Henefer, Summit, Utah, United States
 - **Burial**: 4 August 1965 · Henefer, Summit, Utah, United States
-- **data:,Membership**: Summit, Utah, United States
+- **Membership**: Summit, Utah, United States
 
 ## Photos & documents
 
@@ -78,7 +78,7 @@ _
 ![[AI Library/12 Family/_media/KWC8-FF1/103253710.jpg|Elizabeth Fawcett, Elva Richins, and John Paskett prepare meat for lamb banquet]]
 
 
-![[AI Library/12 Family/_media/KWC8-FF1/103261122.png|Cromar, Elizabeth May (B 1904) Henefer Relief Society]]
+![[AI Library/12 Family/_media/KWC8-FF1/103261122.jpg|Cromar, Elizabeth May (B 1904) Henefer Relief Society]]
 _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, first Counselor; Clairene Fawcett, second counselor, and Irma Richins, secretary.  _
 
 ![[AI Library/12 Family/_media/KWC8-FF1/105821098.jpg|photo]]
@@ -246,10 +246,10 @@ _1987 Norman Tipper Richins and Elva M. Fowler, she died in 1965, gravestone loc
 ![[AI Library/12 Family/_media/KWC8-FF1/241282869.jpg|1938-abt-Norman and Elva at Merl and Grace's]]
 
 
-![[AI Library/12 Family/_media/KWC8-FF1/241283617.tif|abt 1964 Susannah and Elva]]
+![[AI Library/12 Family/_media/KWC8-FF1/241283617.jpg|abt 1964 Susannah and Elva]]
 
 
-![[AI Library/12 Family/_media/KWC8-FF1/241289273.tif|Elva 1924]]
+![[AI Library/12 Family/_media/KWC8-FF1/241289273.jpg|Elva 1924]]
 
 
 ![[AI Library/12 Family/_media/KWC8-FF1/241289818.jpg|Susannah and Elva by home]]
@@ -421,6 +421,12 @@ _1987 Norman Tipper Richins and Elva M. Fowler, she died in 1965, gravestone loc
 - Legacy NFS Source: Elva Mary Fowler - 
 - [Elva M Fowler, "United States, Census, 1920"](https://familysearch.org/ark:/61903/1:1:M8PK-9NQ)
 - [James H Fowler, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5X4-LHX)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 10)_
+- **1936** — The Church welfare program begins _(age 28)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWC8-FF1)

@@ -7,14 +7,14 @@ fs_id: K82P-HKF
 generation: 6
 born: 28 February 1830 · Princeton, Caldwell, Kentucky, United States
 died: 17 February 1920 · Van Buren, Crawford, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Elizabeth Frazee
 
-Born 28 February 1830 · Princeton, Caldwell, Kentucky, United States · Died 17 February 1920 · Van Buren, Crawford, Arkansas, United States · Generation 6
+Born 28 February 1830 · Princeton, Caldwell, Kentucky, United States · Died 17 February 1920 · Van Buren, Crawford, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Samuel Frazee (9ZHD-2JW)|Samuel Frazee]]
@@ -59,6 +59,23 @@ Born 28 February 1830 · Princeton, Caldwell, Kentucky, United States · Died 17
 - [Mary Elizabeth Frazer in entry for David Townsend, "Kentucky, Marriages, 1785-1979"](https://familysearch.org/ark:/61903/1:1:F4SH-6X3)
 - [Mary E Townsend, "United States, Census, 1860"](https://familysearch.org/ark:/61903/1:1:M87R-BYR)
 - [Mary E. Frazee in entry for Wm H. J. Townsend, "Kentucky, Births and Christenings, 1839-1960"](https://familysearch.org/ark:/61903/1:1:FWKC-62C)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 0)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 6)_
+- **1838** — The Saints driven from Missouri _(age 8)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 14)_
+- **1846** — The exodus from Nauvoo begins _(age 16)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 17)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 26)_
+- **1869** — The railroad reaches Utah _(age 39)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 47)_
+- **1890** — The Manifesto ends plural marriage _(age 60)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 63)_
+- **1896** — Utah becomes a state _(age 66)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 88)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K82P-HKF)

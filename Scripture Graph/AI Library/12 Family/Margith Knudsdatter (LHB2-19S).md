@@ -7,14 +7,14 @@ fs_id: LHB2-19S
 generation: 8
 born: 8 March 1769 · Ål, Buskerud, Norway
 died: 15 May 1842 · Midbøen, Telemark, Norway
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Margith Knudsdatter
 
-Born 8 March 1769 · Ål, Buskerud, Norway · Died 15 May 1842 · Midbøen, Telemark, Norway · Generation 8
+Born 8 March 1769 · Ål, Buskerud, Norway · Died 15 May 1842 · Midbøen, Telemark, Norway · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Eric Gautesson Midtboen Hogan (M1X3-FWK)|Eric Gautesson Midtboen Hogan]]
@@ -23,7 +23,7 @@ Born 8 March 1769 · Ål, Buskerud, Norway · Died 15 May 1842 · Midbøen, Tele
 - **Birth**: 8 March 1769 · Ål, Buskerud, Norway
 - **Death**: 15 May 1842 · Midbøen, Telemark, Norway
 - **Christening**: 12 March 1769 · Aal, Buskerud, Norway
-- **data:,Census**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
+- **Census**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
 - **Residence**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
 - **Burial**: 7 June 1842 · Midbøen, Tinn, Telemark, Norway
 
@@ -31,7 +31,11 @@ Born 8 March 1769 · Ål, Buskerud, Norway · Died 15 May 1842 · Midbøen, Tele
 
 ### Eric's Life Story
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1310978)_
+
 ### Erik GM Hogan from Latter-day Saint Biographical Encyclopedia
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4556494)_
 
 ## Photos & documents
 
@@ -126,6 +130,15 @@ https://archive.org/details/heartthrobsofwes0000kate/page/n1/mode/2up_
 - Legacy NFS Source: Margit Knutsdotter Sveinunggard - 
 - Legacy NFS Source: Margit Knutsdotter Sveinunggard - 
 - Legacy NFS Source: Margit Knutsdotter Sveinunggard - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 51)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 60)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 61)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 67)_
+- **1838** — The Saints driven from Missouri _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHB2-19S)

@@ -7,14 +7,14 @@ fs_id: L5FC-V4D
 generation: 7
 born: 11 November 1802 · Quincy Township, Franklin, Pennsylvania, United States
 died: 26 February 1854 · Quincy Township, Franklin, Pennsylvania, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Conrad Smith
 
-Born 11 November 1802 · Quincy Township, Franklin, Pennsylvania, United States · Died 26 February 1854 · Quincy Township, Franklin, Pennsylvania, United States · Generation 7
+Born 11 November 1802 · Quincy Township, Franklin, Pennsylvania, United States · Died 26 February 1854 · Quincy Township, Franklin, Pennsylvania, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Jacob Smith (L212-RLP)|Jacob Smith]]
@@ -31,6 +31,8 @@ Born 11 November 1802 · Quincy Township, Franklin, Pennsylvania, United States 
 
 ### Biography of Daniel Miley Smith by Alvira Olpin
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18547924)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/L5FC-V4D/1988681.jpg|photo]]
@@ -39,7 +41,7 @@ Born 11 November 1802 · Quincy Township, Franklin, Pennsylvania, United States 
 ![[AI Library/12 Family/_media/L5FC-V4D/15651374.jpg|document]]
 
 
-![[AI Library/12 Family/_media/L5FC-V4D/33041225.png|Conrad Smith, 1850 census]]
+![[AI Library/12 Family/_media/L5FC-V4D/33041225.jpg|Conrad Smith, 1850 census]]
 
 
 ![[AI Library/12 Family/_media/L5FC-V4D/158008663.jpg|Registration of Death of Conrad Smith]]
@@ -84,6 +86,18 @@ _An excerpt taken from "THE FAMILY OF WILLIAM MARTIN AND MINA MAY SMITH OVARD", 
 - [Conard Smith in entry for Daniel Miley Smith, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZLG-RJB)
 - [Conrad Smith in entry for Benjiman Franklin Smith, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZG1-C14)
 - [Pennsylvania, Deaths, 1852-1854](http://search.ancestry.com/collections/2487/records/32110)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 18)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 27)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 28)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 34)_
+- **1838** — The Saints driven from Missouri _(age 36)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 42)_
+- **1846** — The exodus from Nauvoo begins _(age 44)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 45)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5FC-V4D)

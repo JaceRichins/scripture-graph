@@ -7,14 +7,14 @@ fs_id: KWCR-4KR
 generation: 4
 born: 23 July 1880 · Henefer, Summit, Utah, United States
 died: 24 December 1978 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susannah Jones Stephens
 
-Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 1978 · Henefer, Summit, Utah, United States · Generation 4
+Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 1978 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
@@ -32,12 +32,14 @@ Born 23 July 1880 · Henefer, Summit, Utah, United States · Died 24 December 19
 
 ### Life Story of Susannah Jones Stephens and James Henry Fowler
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/55850422)_
+
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KWCR-4KR/110739.jpeg|Susannah Stephens Fowler]]
+![[AI Library/12 Family/_media/KWCR-4KR/110739.jpg|Susannah Stephens Fowler]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KR/111141.jpeg|Susannah Fowler my grandmother]]
+![[AI Library/12 Family/_media/KWCR-4KR/111141.jpg|Susannah Fowler my grandmother]]
 _One of my favorite photos of my grandmother Fowler._
 
 ![[AI Library/12 Family/_media/KWCR-4KR/790147.jpg|Thomas Henry Stephens & Mary Jones-picture pedigree]]
@@ -79,7 +81,7 @@ _This home was built by Thomas Henry Stephens, lived in by William Thomas Stephe
 ![[AI Library/12 Family/_media/KWCR-4KR/82603166.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KR/103261122.png|Cromar, Elizabeth May (B 1904) Henefer Relief Society]]
+![[AI Library/12 Family/_media/KWCR-4KR/103261122.jpg|Cromar, Elizabeth May (B 1904) Henefer Relief Society]]
 _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, first Counselor; Clairene Fawcett, second counselor, and Irma Richins, secretary.  _
 
 ![[AI Library/12 Family/_media/KWCR-4KR/105159961.jpg|Susannah Jones Stephens Fowler]]
@@ -328,7 +330,7 @@ _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, fi
 ![[AI Library/12 Family/_media/KWCR-4KR/241281996.jpg|Susannah Fowler and Children abt 1957]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KR/241283617.tif|abt 1964 Susannah and Elva]]
+![[AI Library/12 Family/_media/KWCR-4KR/241283617.jpg|abt 1964 Susannah and Elva]]
 
 
 ![[AI Library/12 Family/_media/KWCR-4KR/241284122.jpg|Susannah at her son’s home. Abt 1964]]
@@ -349,7 +351,7 @@ _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, fi
 ![[AI Library/12 Family/_media/KWCR-4KR/241287635.jpg|Susannah Fowler July 22, 1960]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KR/241289687.tif|Susannah by her home]]
+![[AI Library/12 Family/_media/KWCR-4KR/241289687.jpg|Susannah by her home]]
 
 
 ![[AI Library/12 Family/_media/KWCR-4KR/241289818.jpg|Susannah and Elva by home]]
@@ -394,7 +396,7 @@ _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, fi
 ![[AI Library/12 Family/_media/KWCR-4KR/241878193.jpg|1959-12-Christmas potrait]]
 
 
-![[AI Library/12 Family/_media/KWCR-4KR/241909225.tif|Susannah & Jim after children were born]]
+![[AI Library/12 Family/_media/KWCR-4KR/241909225.jpg|Susannah & Jim after children were born]]
 
 
 ![[AI Library/12 Family/_media/KWCR-4KR/241909518.jpg|1955-05- Breakfast on the go]]
@@ -458,6 +460,16 @@ _Henefer Ward Relief Society.  Rena Richins was president, Elizabeth Fawcett, fi
 - [Miss Susannah Stephens, "Utah, County Marriages, 1887-1937"](https://familysearch.org/ark:/61903/1:1:XL9K-Q2X)
 - [James H Fowler, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5X4-LHX)
 - [Web: Utah, Find A Grave Index](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=FO&GSpartial=1&GSbyrel=all&GSst=47&GScntry=4&GSsr=3801&GRid=21313893&)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1890** — The Manifesto ends plural marriage _(age 10)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 13)_
+- **1896** — Utah becomes a state _(age 16)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 38)_
+- **1936** — The Church welfare program begins _(age 56)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 98)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCR-4KR)

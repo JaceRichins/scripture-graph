@@ -7,14 +7,14 @@ fs_id: KWZB-ZQG
 generation: 4
 born: 26 August 1891 · Ogden, Weber, Utah Territory, United States
 died: 25 December 1976 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Nina Pearl Winters
 
-Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 December 1976 · Logan, Cache, Utah, United States · Generation 4
+Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 December 1976 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Oscar Lycortas Winters (KWCN-ST1)|Oscar Lycortas Winters]]
@@ -24,17 +24,19 @@ Born 26 August 1891 · Ogden, Weber, Utah Territory, United States · Died 25 De
 ## Life
 - **Birth**: 26 August 1891 · Ogden, Weber, Utah Territory, United States
 - **Death**: 25 December 1976 · Logan, Cache, Utah, United States
-- **data:,Blessing**: 7 Jan 1892
-- **data:,Baptism**: 8 Sep 1899
-- **data:,Social%20Program%20Application**: 25 Aug 1972
+- **Blessing**: 7 Jan 1892
+- **Baptism**: 8 Sep 1899
+- **Social%20Program%20Application**: 25 Aug 1972
 - **Burial**: 27 December 1976 · Fielding City Cemetery, Riverside, Box Elder, Utah, United States
 - **Residence**: Garland, Box Elder, Utah, United States · Garland, Box Elder, Utah
-- **data:,Membership**: Bear Lake, Idaho, United States
-- **data:,Membership**: Ogden, Weber, Utah, United States
+- **Membership**: Bear Lake, Idaho, United States
+- **Membership**: Ogden, Weber, Utah, United States
 
 ## Stories
 
 ### Mother Was Always Ready For Company
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15046979)_
 
 ## Photos & documents
 
@@ -182,6 +184,14 @@ Hulda Augusta Winters' node or name in the tree is read only._
 - [Nina P. Winters in household of Oscar L. Winters, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRB-FYD)
 - [Nina W Staynor in household of Ralph J Staynor, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH67-9CT)
 - [Nina Winters Stayner in household of Ralph James Stayner, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWY-19K)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 2)_
+- **1896** — Utah becomes a state _(age 5)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 27)_
+- **1936** — The Church welfare program begins _(age 45)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZB-ZQG)

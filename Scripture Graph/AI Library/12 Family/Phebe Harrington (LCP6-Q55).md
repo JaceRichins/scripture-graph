@@ -7,14 +7,14 @@ fs_id: LCP6-Q55
 generation: 8
 born: 25 May 1740 · Grafton, Worcester, Massachusetts, United States
 died: 16 March 1812 · Marlboro, Windham, Vermont, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Phebe Harrington
 
-Born 25 May 1740 · Grafton, Worcester, Massachusetts, United States · Died 16 March 1812 · Marlboro, Windham, Vermont, United States · Generation 8
+Born 25 May 1740 · Grafton, Worcester, Massachusetts, United States · Died 16 March 1812 · Marlboro, Windham, Vermont, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Samuel Whitney (M2QG-9Q2)|Samuel Whitney]]
@@ -26,7 +26,7 @@ Born 25 May 1740 · Grafton, Worcester, Massachusetts, United States · Died 16 
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LCP6-Q55/54782022.jpeg|photo]]
+![[AI Library/12 Family/_media/LCP6-Q55/54782022.jpg|photo]]
 
 
 ## Sources

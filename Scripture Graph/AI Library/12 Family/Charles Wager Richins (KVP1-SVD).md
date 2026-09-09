@@ -7,14 +7,14 @@ fs_id: KVP1-SVD
 generation: 5
 born: 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom
 died: 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Wager Richins
 
-Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico · Generation 5
+Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Richard Richins (LLQX-X98)|Richard Richins]]
@@ -25,54 +25,80 @@ Born 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom · 
 - **Birth**: 17 August 1828 · Sheepscombe, Gloucestershire, England, United Kingdom
 - **Death**: 27 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
 - **Christening**: 17 August 1828 · Gloucestershire, England, United Kingdom
-- **data:,BAPL**: 29 DEC 1849
+- **BAPL**: 29 DEC 1849
 - **Residence**: 1851 · Painswick, Gloucestershire, England
 - **Residence**: 1851 · Syde, Gloucestershire, England
-- **data:,Emigration**: 17 Jun 1853
-- **data:,Immigration%20to%20Utah**: 1853 · Mormon Pioneer Overland Travels
-- **data:,Immigration**: 10 Oct 1853 · Utah, United States
-- **data:,Membership**: 10 Oct 1853 · Utah Territory, United States
-- **data:,Financial%20Transaction**: 1 Jan 1855 · Utah Territory, United States
+- **Emigration**: 17 Jun 1853
+- **Immigration%20to%20Utah**: 1853 · Mormon Pioneer Overland Travels
+- **Immigration**: 10 Oct 1853 · Utah, United States
+- **Membership**: 10 Oct 1853 · Utah Territory, United States
+- **Financial%20Transaction**: 1 Jan 1855 · Utah Territory, United States
 - **MilitaryService**: 4 July 1857 · Salt Lake City, Salt Lake, Utah, United States
 - **Residence**: 1860 · 4th Ward Gt Salt Lake City, Great Salt Lake, Utah, United States
 - **Residence**: 1870 · Utah, United States
-- **data:,Membership**: 9 Jul 1877 · Utah Territory, United States
-- **data:,census**: 1880 · Utahville, now Lehi, Maricopa, Arizona, United States
-- **data:,Membership**: 23 Apr 1887 · Utah Territory, United States
-- **data:,Membership**: 1903 · Utah, United States
-- **data:,BURI**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
+- **Membership**: 9 Jul 1877 · Utah Territory, United States
+- **census**: 1880 · Utahville, now Lehi, Maricopa, Arizona, United States
+- **Membership**: 23 Apr 1887 · Utah Territory, United States
+- **Membership**: 1903 · Utah, United States
+- **BURI**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
 - **Burial**: 29 August 1903 · Colonia Díaz, Ascensión, Chihuahua, Mexico
-- **data:,Patriarchal%20Blessing**: Henefer, Summit, Utah, United States · Given by John Smith, Patriarch
-- **data:,Emigration**: Sheepscombe, Gloucestershire, England, United Kingdom
-- **data:,Membership**: Colonia Díaz, Ascensión, Chihuahua, Mexico
+- **Patriarchal%20Blessing**: Henefer, Summit, Utah, United States · Given by John Smith, Patriarch
+- **Emigration**: Sheepscombe, Gloucestershire, England, United Kingdom
+- **Membership**: Colonia Díaz, Ascensión, Chihuahua, Mexico
 
 ## Stories
 
 ### Basic Facts
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1149222)_
+
 ### A Brief History - The Big House
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1149655)_
 
 ### History of Charles Richins 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1150666)_
+
 ### Children of Richard & Priscilla Richins
 
-### Charles Wager Richins
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/6400916)_
 
 ### Charles Wager Richins
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604346)_
+
+### Charles Wager Richins
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604349)_
 
 ### Life History of Thomas Henry and Mary Jones Stephens
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
+
 ### A Brief Biography of Joseph William Bond
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/12470706)_
 
 ### History of George Madison Richins and Esther Stowe Ovard Part 2
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871912)_
+
 ### History of George Madison Richins and Esther Stowe Ovard Part 1
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62871961)_
 
 ### History of Charles Wager and Louisa Shill Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93379046)_
+
 ### Life History of Albert F. Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/95942857)_
+
 ### Short History- taken from a document entitled "The Great Greats!" prepared for a family reunion
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168225129)_
 
 ## Photos & documents
 
@@ -130,7 +156,7 @@ _"The Big House" in Henefer, Utah where Esther Stowe Ovard Richins lived with he
 ![[AI Library/12 Family/_media/KVP1-SVD/21810483.pdf|Charles Richins]]
 
 
-![[AI Library/12 Family/_media/KVP1-SVD/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/KVP1-SVD/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KVP1-SVD/26554415.jpg|Rishins, Wellington (1858), Death Certificate]]
@@ -485,6 +511,23 @@ _Ship International_
 - Legacy NFS Source: Charles Wager Richins - 
 - Legacy NFS Source: Charles Wager Richins - Individual or family possessions: death: 27 August 1903; Colonia Diaz, Chihuahua, Mexico
 - [Pioneer Overland Travel - Pioneer Detail Charles Wager Richins](http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=14371)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 1)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 2)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 8)_
+- **1838** — The Saints driven from Missouri _(age 10)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 16)_
+- **1846** — The exodus from Nauvoo begins _(age 18)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 19)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 28)_
+- **1869** — The railroad reaches Utah _(age 41)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 49)_
+- **1890** — The Manifesto ends plural marriage _(age 62)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 65)_
+- **1896** — Utah becomes a state _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KVP1-SVD)

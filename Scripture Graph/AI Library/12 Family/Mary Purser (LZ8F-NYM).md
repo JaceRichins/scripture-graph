@@ -7,14 +7,14 @@ fs_id: LZ8F-NYM
 generation: 8
 born: 1736 · Ebrington, Gloucestershire, England, United Kingdom
 died: '       1796'
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Purser
 
-Born 1736 · Ebrington, Gloucestershire, England, United Kingdom · Died        1796 · Generation 8
+Born 1736 · Ebrington, Gloucestershire, England, United Kingdom · Died        1796 · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Hannah Weston (LCCZ-MB8)|Hannah Weston]]

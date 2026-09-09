@@ -7,14 +7,14 @@ fs_id: LLSM-N91
 generation: 4
 born: 16 October 1886 · Branchville, Orangeburg, South Carolina, United States
 died: 23 March 1978 · San Jose, Santa Clara, California, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Madge Adella Bair
 
-Born 16 October 1886 · Branchville, Orangeburg, South Carolina, United States · Died 23 March 1978 · San Jose, Santa Clara, California, United States · Generation 4
+Born 16 October 1886 · Branchville, Orangeburg, South Carolina, United States · Died 23 March 1978 · San Jose, Santa Clara, California, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Samuel Barton Bair (KWJH-X5P)|Samuel Barton Bair]]
@@ -75,6 +75,16 @@ _Henry Francis McBride and Madge (Maggie) Adella Bair 1906 marriage photo._
 - [Maggie Bair, "Idaho, County Marriages, 1864-1962"](https://familysearch.org/ark:/61903/1:1:F3TB-TJW)
 - [Maggie Bauer in entry for McBride, "Idaho, Births and Christenings, 1856-1965"](https://familysearch.org/ark:/61903/1:1:FWCW-TX4)
 - [Madge Adele Mcbride, "California, Death Index, 1940-1997"](https://familysearch.org/ark:/61903/1:1:VP21-5W8)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1890** — The Manifesto ends plural marriage _(age 4)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 7)_
+- **1896** — Utah becomes a state _(age 10)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 32)_
+- **1936** — The Church welfare program begins _(age 50)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 92)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLSM-N91)

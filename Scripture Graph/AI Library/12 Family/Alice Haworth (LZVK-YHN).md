@@ -7,14 +7,14 @@ fs_id: LZVK-YHN
 generation: 7
 born: 8 January 1792 · Sheep Green, Haslingden, Lancashire, England
 died: 5 May 1825 · Haslingden, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alice Haworth
 
-Born 8 January 1792 · Sheep Green, Haslingden, Lancashire, England · Died 5 May 1825 · Haslingden, Lancashire, England, United Kingdom · Generation 7
+Born 8 January 1792 · Sheep Green, Haslingden, Lancashire, England · Died 5 May 1825 · Haslingden, Lancashire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Haworth (LH6L-LSY)|John Haworth]]
@@ -42,6 +42,11 @@ Born 8 January 1792 · Sheep Green, Haslingden, Lancashire, England · Died 5 Ma
 - [Alice Haworth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3P7-KJW)
 - [Alice Heap, "England and Wales, Non-Conformist Record Indexes (RG4-8), 1588-1977"](https://familysearch.org/ark:/61903/1:1:FW23-NBK)
 - [Alice Heap, "England and Wales, Non-Conformist Record Indexes (RG4-8), 1588-1977"](https://familysearch.org/ark:/61903/1:1:FQ5M-VTR)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 28)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZVK-YHN)

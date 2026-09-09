@@ -7,14 +7,14 @@ fs_id: KWNL-JWK
 generation: 5
 born: 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom
 died: 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Henry Stephens
 
-Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Died 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
+Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Died 5 August 1908 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Henry Stephens (L4HH-YY2)|Henry Stephens]]
@@ -27,12 +27,12 @@ Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Di
 - **Christening**: 17 February 1839 · Painswick, Gloucestershire, England, United Kingdom
 - **Residence**: 1851 · Miserden, Gloucestershire, England, United Kingdom
 - **Residence**: 1861 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **data:,Immigration**: 1864
-- **data:,Immigration**: 1864 · Utah, United States
+- **Immigration**: 1864
+- **Immigration**: 1864 · Utah, United States
 - **Naturalization**: 1866 · Utah Territory, United States
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
-- **data:,Mission**: 1892 · Eng Genealogical Mission
-- **data:,Mission**: 1892 · England, United Kingdom
+- **Mission**: 1892 · Eng Genealogical Mission
+- **Mission**: 1892 · England, United Kingdom
 - **Residence**: 1908 · Henefer, Summit, Utah, United States
 - **Burial**: 8 August 1908 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Henefer, Summit, Utah, United States
@@ -42,13 +42,23 @@ Born 20 January 1839 · Miserden, Gloucestershire, England, United Kingdom · Di
 
 ### The Butcher
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2856366)_
+
 ### Life History of Thomas Henry and Mary Jones Stephens
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ### Letter to Niece of Thomas Henry Stephens July 25, 1907
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62131338)_
+
 ### Letter from Thomas Henry Stephens brother Richard
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62134007)_
+
 ### Thoughts on Great-Great Grandparents 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/138801081)_
 
 ## Photos & documents
 
@@ -100,10 +110,10 @@ _Taken from "The History of Athleen and Vernal Johnson"_
 ![[AI Library/12 Family/_media/KWNL-JWK/62698212.pdf|life stories of Thomas Henry Stephens and Mary Jones]]
 
 
-![[AI Library/12 Family/_media/KWNL-JWK/67026043.png|Missionary Blessing given by Heber J Grant 5 August 1892 page 1]]
+![[AI Library/12 Family/_media/KWNL-JWK/67026043.jpg|Missionary Blessing given by Heber J Grant 5 August 1892 page 1]]
 
 
-![[AI Library/12 Family/_media/KWNL-JWK/67026064.png|Missoanry blessing by Heber J GRant Page 2]]
+![[AI Library/12 Family/_media/KWNL-JWK/67026064.jpg|Missoanry blessing by Heber J GRant Page 2]]
 
 
 ![[AI Library/12 Family/_media/KWNL-JWK/86036868.jpg|photo]]
@@ -168,6 +178,19 @@ _Land Purchase_
 - [Thomas H. Stephens, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZLT-GT5)
 - [Thomas Henry Stephens, "England and Wales, Birth Registration Index, 1837-1920"](https://familysearch.org/ark:/61903/1:1:2N9X-T16)
 - [Thomas J. Stephens in entry for Robert Jones Stephens, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZL4-W8K)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 5)_
+- **1846** — The exodus from Nauvoo begins _(age 7)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 8)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 17)_
+- **1869** — The railroad reaches Utah _(age 30)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 38)_
+- **1890** — The Manifesto ends plural marriage _(age 51)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 54)_
+- **1896** — Utah becomes a state _(age 57)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNL-JWK)

@@ -7,14 +7,14 @@ fs_id: LTLX-XC3
 generation: 7
 born: 24 August 1769 · Painswick, Gloucestershire, England
 died: 4 April 1849 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Haines or Haynes
 
-Born 24 August 1769 · Painswick, Gloucestershire, England · Died 4 April 1849 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 7
+Born 24 August 1769 · Painswick, Gloucestershire, England · Died 4 April 1849 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Edward Haines (LZ28-BLH)|Edward Haines]]
@@ -29,7 +29,7 @@ Born 24 August 1769 · Painswick, Gloucestershire, England · Died 4 April 1849 
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LTLX-XC3/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/LTLX-XC3/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LTLX-XC3/37456133.jpg|document]]
@@ -65,10 +65,10 @@ Born 24 August 1769 · Painswick, Gloucestershire, England · Died 4 April 1849 
 ![[AI Library/12 Family/_media/LTLX-XC3/37456351.jpg|document]]
 
 
-![[AI Library/12 Family/_media/LTLX-XC3/48846223.png|Marriage of Henry Richins and Sarah Haynes-1792]]
+![[AI Library/12 Family/_media/LTLX-XC3/48846223.jpg|Marriage of Henry Richins and Sarah Haynes-1792]]
 
 
-![[AI Library/12 Family/_media/LTLX-XC3/48846734.png|Death of Sarah Richins]]
+![[AI Library/12 Family/_media/LTLX-XC3/48846734.jpg|Death of Sarah Richins]]
 
 
 ![[AI Library/12 Family/_media/LTLX-XC3/60091798.jpg|Henry & Sarah Headstone Inscription]]
@@ -166,6 +166,18 @@ Born 24 August 1769 · Painswick, Gloucestershire, England · Died 4 April 1849 
 - [Web: International, Find A Grave Index](http://search.ancestry.com/collections/70699/records/2011633)
 - [UK and Ireland, Find A Grave Index, 1300s-Current](http://search.ancestry.com/cgi-bin/sse.dll?dbid=60526&h=157490&indiv=try)
 - [Gloucestershire, England, Church of England Baptisms, Marriages and Burials, 1538-1813](http://search.ancestry.com/cgi-bin/sse.dll?dbid=4732&h=313964529&indiv=try)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 51)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 60)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 61)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 67)_
+- **1838** — The Saints driven from Missouri _(age 69)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 75)_
+- **1846** — The exodus from Nauvoo begins _(age 77)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LTLX-XC3)

@@ -7,14 +7,14 @@ fs_id: LHN8-3H6
 generation: 8
 born: 3 April 1777 · Spitalfields, London, England, United Kingdom
 died: 4 September 1852 · Chetenham, Gloucester, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sara Elizabeth Bayliss
 
-Born 3 April 1777 · Spitalfields, London, England, United Kingdom · Died 4 September 1852 · Chetenham, Gloucester, England · Generation 8
+Born 3 April 1777 · Spitalfields, London, England, United Kingdom · Died 4 September 1852 · Chetenham, Gloucester, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Colley Stayner (KWJX-JHN)|Thomas Colley Stayner]]
@@ -23,7 +23,7 @@ Born 3 April 1777 · Spitalfields, London, England, United Kingdom · Died 4 Sep
 - **Birth**: 3 April 1777 · Spitalfields, London, England, United Kingdom
 - **Death**: 4 September 1852 · Chetenham, Gloucester, England
 - **Christening**: 16 April 1777 · Spitalfields  Christ Church, Stepney, London, England
-- **data:,Baptism**: 16 Apr 1777 · Middlesex, England
+- **Baptism**: 16 Apr 1777 · Middlesex, England
 - **Burial**: 7 September 1852 · New Burial Ground, Cheltenham, Gloucestershire, England
 
 ## Photos & documents
@@ -46,6 +46,18 @@ Born 3 April 1777 · Spitalfields, London, England, United Kingdom · Died 4 Sep
 - [Sarah Elizabeth Baylis, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NP4Y-LV7)
 - [Sarah Elizth. Baylis, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NKGJ-9X3)
 - [Marriage Record](https://familysearch.org/photos/view/166050)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 43)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 52)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 53)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 59)_
+- **1838** — The Saints driven from Missouri _(age 61)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 67)_
+- **1846** — The exodus from Nauvoo begins _(age 69)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHN8-3H6)

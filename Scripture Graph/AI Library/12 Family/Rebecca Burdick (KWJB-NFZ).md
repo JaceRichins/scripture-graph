@@ -7,14 +7,14 @@ fs_id: KWJB-NFZ
 generation: 7
 born: 16 January 1799 · Cayuga County, New York, United States of America
 died: 15 August 1852 · Scottsbluff, Scotts Bluff, Nebraska, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Rebecca Burdick
 
-Born 16 January 1799 · Cayuga County, New York, United States of America · Died 15 August 1852 · Scottsbluff, Scotts Bluff, Nebraska, United States · Generation 7
+Born 16 January 1799 · Cayuga County, New York, United States of America · Died 15 August 1852 · Scottsbluff, Scotts Bluff, Nebraska, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Gideon Burdick (LKVY-D72)|Gideon Burdick]]
@@ -25,30 +25,50 @@ Born 16 January 1799 · Cayuga County, New York, United States of America · Die
 - **Birth**: 16 January 1799 · Cayuga County, New York, United States of America
 - **Death**: 15 August 1852 · Scottsbluff, Scotts Bluff, Nebraska, United States
 - **Christening**: 24 February 1799 · Minden - St. Paul's Lutheran Church, Montgomery, New York, United States
-- **data:,Reinterment**: 14 October 1995 · Rebecca Winters Memorial Park, Scotts Bluff, Nebraska, United States
+- **Reinterment**: 14 October 1995 · Rebecca Winters Memorial Park, Scotts Bluff, Nebraska, United States
 - **Burial**: Scottsbluff - Fairview Cemetery, Scotts Bluff, Nebraska, United States
 
 ## Stories
 
 ### Wikipedia Article
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1077907)_
+
 ### Journey West
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1547284)_
 
 ### Life of Rebecca Burdick Winters
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3319940)_
+
 ### Hiram Winters and Rebecca Burdick
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9074482)_
 
 ### Rebecca Winters on CBS Evening News August 23, 1974
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9075266)_
+
 ### Accounts of Rebecca Winters while on the Plains
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9542172)_
 
 ### Sesquicentennial Talk Given at Glenmoor Stake Conference - August 1997
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10284318)_
+
 ### Our Parents: Hyrum Winters & Mary Street Winters
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/78967177)_
 
 ### Rebecca Winters  grave to be moved again
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/88652504)_
+
 ### BIOGRAPHY OF DESERET SNOW McBRIDE
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/102346523)_
 
 ## Photos & documents
 
@@ -64,7 +84,7 @@ Born 16 January 1799 · Cayuga County, New York, United States of America · Die
 ![[AI Library/12 Family/_media/KWJB-NFZ/406718.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/843692.jpeg|Rebecca Burdick Grave Marker]]
+![[AI Library/12 Family/_media/KWJB-NFZ/843692.jpg|Rebecca Burdick Grave Marker]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/2602377.jpg|James C. Snow Emigrating Company journal - 16 August 1852 entry]]
@@ -79,7 +99,7 @@ The book was microfilmed and is available on film no. 000,534,218. Along with th
 
 According to the book, the current location of the original handwritten records of the church are unknown. This transcription was created using the original records, or possibly another transcription of the records, by the New York Genealogical and Biographical Society in 1914._
 
-![[AI Library/12 Family/_media/KWJB-NFZ/4848345.jpeg|Family dedicating new marker at original Rebecca Winters gravesite.  Railroad has tended the site for years, and even diverted the tracks so they would not cross over a pioneer mother's grave.  Family finally located for ceremony this pix.]]
+![[AI Library/12 Family/_media/KWJB-NFZ/4848345.jpg|Family dedicating new marker at original Rebecca Winters gravesite.  Railroad has tended the site for years, and even diverted the tracks so they would not cross over a pioneer mother's grave.  Family finally located for ceremony this pix.]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/8741840.pdf|document]]
@@ -103,13 +123,13 @@ _Fellow traveler Ellis Reynolds wrote this poem in honor of Rebecca Burdick Wint
 ![[AI Library/12 Family/_media/KWJB-NFZ/17979817.pdf|AMONG THE REMNANT WHO LINGERED -- THE HISTORY OF REBECCA BURDICK AND HIRAM WINTERS AND THEIR FAMILIES -- By Beth Radmall Olsen ]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/18981999.png|Map showing the location of the Rebecca Winters Memorial Park]]
+![[AI Library/12 Family/_media/KWJB-NFZ/18981999.jpg|Map showing the location of the Rebecca Winters Memorial Park]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/18982562.pdf|The Rebecca Winters Story]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/27945588.png|photo]]
+![[AI Library/12 Family/_media/KWJB-NFZ/27945588.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/38442159.jpg|Rebecca Burdick Winters grave, July 1954 (original location)]]
@@ -118,7 +138,7 @@ _Found in collection of Elder M. Glenn Weaver's mission pictures taken in July 1
 ![[AI Library/12 Family/_media/KWJB-NFZ/38442160.jpg|Rebecca Burdick Winters grave, July 1954 (original location)]]
 _Found in collection of Elder M. Glenn Weaver's mission pictures taken in July 1954._
 
-![[AI Library/12 Family/_media/KWJB-NFZ/47175908.jpeg|Rebecca Burdick Winters]]
+![[AI Library/12 Family/_media/KWJB-NFZ/47175908.jpg|Rebecca Burdick Winters]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/51727725.jpg|photo]]
@@ -150,7 +170,7 @@ Obtained by AAron R. Harker_
 ![[AI Library/12 Family/_media/KWJB-NFZ/69758398.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/79387804.png|photo]]
+![[AI Library/12 Family/_media/KWJB-NFZ/79387804.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/82980063.jpg|back of photo states- Notice the old-time wagon wheel. The grave is located just south of Scottsbluff on the Old Mormon Trail. ]]
@@ -262,7 +282,7 @@ _Written for the occasion of the new Rebecca Burdick Winters gravesite_
 ![[AI Library/12 Family/_media/KWJB-NFZ/112488573.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/112935873.tif|Rebecca Burdick]]
+![[AI Library/12 Family/_media/KWJB-NFZ/112935873.jpg|Rebecca Burdick]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/114941962.jpg|Paternal and Maternal Line of Alice Hutchins Davis by Virginia Cassells]]
@@ -334,16 +354,16 @@ A URL to the book is posted in Sources under the following profiles: Rebecca Bur
 ![[AI Library/12 Family/_media/KWJB-NFZ/167813313.jpg|Lone Grave of a Pioneer Woman 1902]]
 
 
-![[AI Library/12 Family/_media/KWJB-NFZ/173817775.png|Notice to Descendants of Rebecca Burdick 1995]]
+![[AI Library/12 Family/_media/KWJB-NFZ/173817775.jpg|Notice to Descendants of Rebecca Burdick 1995]]
 _Personal add for permission to move Rebecca Burdick's grave in 1995_
 
-![[AI Library/12 Family/_media/KWJB-NFZ/173818225.png|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 1]]
+![[AI Library/12 Family/_media/KWJB-NFZ/173818225.jpg|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 1]]
 _Genealogy of Augusta Grant._
 
-![[AI Library/12 Family/_media/KWJB-NFZ/173818631.png|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 2]]
+![[AI Library/12 Family/_media/KWJB-NFZ/173818631.jpg|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 2]]
 _Genealogical presentation for Augusta Grant_
 
-![[AI Library/12 Family/_media/KWJB-NFZ/173819232.png|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 3]]
+![[AI Library/12 Family/_media/KWJB-NFZ/173819232.jpg|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 3]]
 
 
 ![[AI Library/12 Family/_media/KWJB-NFZ/173819450.pdf|A Legacy From the Past-Mitchell Trust 1928]]
@@ -550,6 +570,18 @@ _Rebecca Burdick Nauvoo Records_
 - [Rebecca Burdick Winters in entry for Mrs Rebecca Winters Tucker, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QK9T-7TMM)
 - [Rebecca Burdick, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZGR-N23)
 - [Rebecca Burtek, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZGL-H6B)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 21)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 30)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 31)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 37)_
+- **1838** — The Saints driven from Missouri _(age 39)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 45)_
+- **1846** — The exodus from Nauvoo begins _(age 47)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 48)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJB-NFZ)

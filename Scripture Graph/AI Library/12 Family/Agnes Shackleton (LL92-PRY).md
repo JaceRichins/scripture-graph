@@ -7,14 +7,14 @@ fs_id: LL92-PRY
 generation: 7
 born: 1760 · Kirkby Malham, Yorkshire, England
 died: 2 October 1836 · Langcliffe, Yorkshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Agnes Shackleton
 
-Born 1760 · Kirkby Malham, Yorkshire, England · Died 2 October 1836 · Langcliffe, Yorkshire, England, United Kingdom · Generation 7
+Born 1760 · Kirkby Malham, Yorkshire, England · Died 2 October 1836 · Langcliffe, Yorkshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Christopher Shackleton (LKKM-XK7)|Christopher Shackleton]]
@@ -25,7 +25,7 @@ Born 1760 · Kirkby Malham, Yorkshire, England · Died 2 October 1836 · Langcli
 - **Birth**: 1760 · Kirkby Malham, Yorkshire, England
 - **Death**: 2 October 1836 · Langcliffe, Yorkshire, England, United Kingdom
 - **Christening**: 23 July 1758 · Kirkby Malham, Yorkshire, England
-- **data:,Baptism**: 23 Jul 1758 · Kirby, Yorkshire, England
+- **Baptism**: 23 Jul 1758 · Kirby, Yorkshire, England
 - **Burial**: 20 October 1836 · Yorkshire, England, United Kingdom
 - **Residence**: Kirkby, Yorkshire, England, United Kingdom
 - **Residence**: Yorkshire, England, United Kingdom
@@ -72,6 +72,14 @@ Born 1760 · Kirkby Malham, Yorkshire, England · Died 2 October 1836 · Langcli
 - [Agnes Shackleton in entry for Alice Langstroth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NBW6-Y4Y)
 - [Agnes Shackleton in entry for Thos. Langstroth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N5F1-T8T)
 - [Nanny Shackleton, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JW9Y-SB7)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 60)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 69)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 70)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LL92-PRY)

@@ -7,14 +7,14 @@ fs_id: LLMZ-T6D
 generation: 6
 born: 12 July 1804 · Leigh, Lancashire, England, United Kingdom
 died: 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Lythgoe
 
-Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom · Generation 6
+Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Joseph Lythgoe (LJB7-D3Q)|Joseph Lythgoe]]
@@ -25,7 +25,7 @@ Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 Septe
 - **Birth**: 12 July 1804 · Leigh, Lancashire, England, United Kingdom
 - **Death**: 30 September 1887 · Pendlebury, Lancashire, England, United Kingdom
 - **Christening**: 15 July 1804 · Leigh, Lancashire, England, United Kingdom
-- **data:,Baptism**: 1802-1810 · Liverpool, Lancashire, England, United Kingdom
+- **Baptism**: 1802-1810 · Liverpool, Lancashire, England, United Kingdom
 - **Residence**: 1841 · Eccles, Lancashire, England, United Kingdom
 - **Residence**: 1851 · Worsley, Lancashire, England
 - **Residence**: 1881 · Toxteth Park, Lancashire, England · Census
@@ -37,9 +37,15 @@ Born 12 July 1804 · Leigh, Lancashire, England, United Kingdom · Died 30 Septe
 
 ### History of Thomas Lythgoe
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1712459)_
+
 ###               James Lythgoe
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5019126)_
+
 ### James Lythgoe ----- Utah Pioneer 1864
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/68199820)_
 
 ## Photos & documents
 
@@ -61,7 +67,7 @@ _Thomas Lythgoe was buried with the Collier family.  This is a picture of the to
 ![[AI Library/12 Family/_media/LLMZ-T6D/3186119.pdf|Story of Thomas Lythgoe and his wife Esther Wilcock]]
 _Copied from MS of "The Life and times of Benjamin Thomas Nichols and his wife Olive Lovenia Booth 1875-1934"_
 
-![[AI Library/12 Family/_media/LLMZ-T6D/4701567.jpeg|photo]]
+![[AI Library/12 Family/_media/LLMZ-T6D/4701567.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LLMZ-T6D/5607635.pdf|James Lythgoe & Hanna S. Peterson Johnson Lythgoe Life History]]
@@ -91,7 +97,7 @@ _Life of James Lythgoe and Hannah S. Peterson Johnson Lythgoe._
 ![[AI Library/12 Family/_media/LLMZ-T6D/70173252.jpg|document]]
 
 
-![[AI Library/12 Family/_media/LLMZ-T6D/71707120.png|Lythgoe. Thomas]]
+![[AI Library/12 Family/_media/LLMZ-T6D/71707120.jpg|Lythgoe. Thomas]]
 
 
 ![[AI Library/12 Family/_media/LLMZ-T6D/85543598.jpg|Lora Ruth Farnsworth Family Ancestral Photo Chart]]
@@ -112,7 +118,7 @@ _
 ![[AI Library/12 Family/_media/LLMZ-T6D/178885316.pdf|Death of Thomas Lythgoe]]
 
 
-![[AI Library/12 Family/_media/LLMZ-T6D/216667977.png|Thomas Lythgoe]]
+![[AI Library/12 Family/_media/LLMZ-T6D/216667977.jpg|Thomas Lythgoe]]
 _Taken by Horne Photographers, Pendlebury, Lanc., England. Great- Grandfather of Rachel Florence Capson Peck- from her scrapbook.
 Under photo it says: Son of Joseph and Batty Ainsworth Lythgoe. Born 21 July 1804 Leigh, Lancastershire, England. Died England 30 Sept 1887.
  Green Grocer. Didn't come to Utah_
@@ -159,6 +165,21 @@ Under photo it says: Son of Joseph and Batty Ainsworth Lythgoe. Born 21 July 180
 - [Thomas Lythgoe, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZL5-HV9)
 - [Thomas Lythgoe, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZ28-PBK)
 - [Thomas Lythgoe, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZGB-L7F)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 16)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 25)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 26)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 32)_
+- **1838** — The Saints driven from Missouri _(age 34)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 40)_
+- **1846** — The exodus from Nauvoo begins _(age 42)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 43)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 52)_
+- **1869** — The railroad reaches Utah _(age 65)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 73)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLMZ-T6D)

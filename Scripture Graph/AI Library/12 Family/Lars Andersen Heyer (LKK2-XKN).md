@@ -7,14 +7,14 @@ fs_id: LKK2-XKN
 generation: 7
 born: 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway
 died: 26 April 1863 · Lamoni, Decatur, Iowa, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Lars Andersen Heyer
 
-Born 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway · Died 26 April 1863 · Lamoni, Decatur, Iowa, United States · Generation 7
+Born 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway · Died 26 April 1863 · Lamoni, Decatur, Iowa, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Anders Erichsen Hejer (29QN-JTN)|Anders Erichsen Hejer]]
@@ -25,7 +25,7 @@ Born 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway · Died 26 Apr
 - **Birth**: 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway
 - **Death**: 26 April 1863 · Lamoni, Decatur, Iowa, United States
 - **Christening**: 19 October 1785 · Kirkeyolden, Gransherred, Telemark, Norway
-- **data:,Other%20name**: 1842 · Norway · Name used in immigration records, Lars Andersen Folseland
+- **Other%20name**: 1842 · Norway · Name used in immigration records, Lars Andersen Folseland
 - **Residence**: 1860 · Town Of Mission, La Salle, Illinois, United States
 - **Burial**: Section Cemetery, Marseilles, LaSalle, Illinois, United States
 
@@ -33,13 +33,23 @@ Born 19 August 1784 · Kirkeyolden, Gransherred, Telemark, Norway · Died 26 Apr
 
 ### Short Physical Description & History
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2838204)_
+
 ### Lars Andersen Hejer History
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2912577)_
 
 ### Blessing
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/131151561)_
+
 ### Lars Hayer:  Mission Branch and Conversion
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/131526768)_
+
 ### RLDS Connection
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/132272978)_
 
 ## Photos & documents
 
@@ -49,10 +59,10 @@ _Latter-day Saints Who Did Not Reside In Nauvoo_
 ![[AI Library/12 Family/_media/LKK2-XKN/17507704.pdf|A Gathering Place for the Scandinavian People]]
 _Conversion, Retention, and Gathering in Norway, Illinois (1842-1849)_
 
-![[AI Library/12 Family/_media/LKK2-XKN/27381228.png|Hyer, Immigration Norway to America]]
+![[AI Library/12 Family/_media/LKK2-XKN/27381228.jpg|Hyer, Immigration Norway to America]]
 _NAESETH, GERHARD B. "The 1842 Immigrants from Norway." In Norwegian-American Studies, vol. 25 (1972), pp. 225-257. _
 
-![[AI Library/12 Family/_media/LKK2-XKN/27427755.png|Hyer, Lars Ownership Map of LaSalle, Illinois  1876]]
+![[AI Library/12 Family/_media/LKK2-XKN/27427755.jpg|Hyer, Lars Ownership Map of LaSalle, Illinois  1876]]
 _Many lots owned by Hayers.  Lars Anderson Hayer was dead by this year, but many of his descendants are land owners in LaSalle._
 
 ![[AI Library/12 Family/_media/LKK2-XKN/50004193.jpg|We Hayer, Lars (headstone)]]
@@ -86,7 +96,7 @@ _Many lots owned by Hayers.  Lars Anderson Hayer was dead by this year, but many
 _Norwegian Digital Archives
 SAKO, Hjartdal kirkebøker, F/Fa/L0005: Parish register (official) no. I 5, 1776-1801, p. 59_
 
-![[AI Library/12 Family/_media/LKK2-XKN/99394099.png|document]]
+![[AI Library/12 Family/_media/LKK2-XKN/99394099.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/LKK2-XKN/127737727.pdf|Notes on the Hayer/Hyer Families That Did Not Come West]]
@@ -110,7 +120,7 @@ SAKO, Hjartdal kirkebøker, F/Fa/L0005: Parish register (official) no. I 5, 1776
 ![[AI Library/12 Family/_media/LKK2-XKN/211970982.pdf|Lars Andersen Hejer, 1801 Census]]
 _His mother and father are dead. He is living with his older brother, Christian Andersen Hejer and his wife, Birgette Knudsdatter and their 3 living children, Karen Malene, Groe and Anders. He is 15 years old and unmarried. His name is listed as Lars Andersen Hejer. They live on a farm. Ingebor Torgerskatter is a servant._
 
-![[AI Library/12 Family/_media/LKK2-XKN/211973131.jpeg|photo]]
+![[AI Library/12 Family/_media/LKK2-XKN/211973131.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LKK2-XKN/223445440.jpg|Lars Andersen Hejer-Ane Olsdatter Sandveien 1812 Atrå [Tinn] Parish MARRIAGE Record]]
@@ -140,6 +150,19 @@ Image ID# kb20061211340259_
 - [Lars Hayer in the U.S., Indexed County Land Ownership Maps, 1860-1918](http://search.ancestry.com/cgi-bin/sse.dll?h=4003310&db=LandownershipAtlas&indiv=1)
 - [Lars Hayer in the Early Members of the Reorganized Church of Jesus Christ of Latter Day Saints](http://search.ancestry.com/cgi-bin/sse.dll?h=10272&db=LDSVitalRLDS&indiv=1)
 - [Lars Andersen Hejer in the Millennium File](http://search.ancestry.com/cgi-bin/sse.dll?h=10313254&db=millind&indiv=1)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 36)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 45)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 46)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 52)_
+- **1838** — The Saints driven from Missouri _(age 54)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 60)_
+- **1846** — The exodus from Nauvoo begins _(age 62)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 63)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LKK2-XKN)

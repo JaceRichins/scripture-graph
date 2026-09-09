@@ -7,14 +7,14 @@ fs_id: K26P-L35
 generation: 8
 born: 1735 · Midlands, Leicestershire, England
 died: 23 November 1784 · Ditton Priors, Shropshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Fowler
 
-Born 1735 · Midlands, Leicestershire, England · Died 23 November 1784 · Ditton Priors, Shropshire, England · Generation 8
+Born 1735 · Midlands, Leicestershire, England · Died 23 November 1784 · Ditton Priors, Shropshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Samuel Fowler (K26P-LQF)|Samuel Fowler]]

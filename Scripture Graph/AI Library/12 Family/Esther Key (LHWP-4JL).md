@@ -6,14 +6,14 @@ sg-id: fs:LHWP-4JL
 fs_id: LHWP-4JL
 generation: 8
 born: 1754 · Hindley, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Key
 
-Born 1754 · Hindley, Lancashire, England · Generation 8
+Born 1754 · Hindley, Lancashire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Ramsdale (LSMR-W7B)|Ann Ramsdale]]
@@ -41,6 +41,15 @@ Born 1754 · Hindley, Lancashire, England · Generation 8
 - [Esther in entry for Ellin Romsdel, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQGF-GPY)
 - [Esther Kay in entry for Thomas Ramsdale, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NNNB-1V9)
 - Legacy NFS Source: Esther Key - Church record: Christening record or certificate: birth-name: Esther Key or Kay
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 66)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 75)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 76)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 82)_
+- **1838** — The Saints driven from Missouri _(age 84)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHWP-4JL)

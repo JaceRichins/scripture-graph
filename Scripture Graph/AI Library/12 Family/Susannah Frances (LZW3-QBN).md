@@ -7,14 +7,14 @@ fs_id: LZW3-QBN
 generation: 8
 born: 1765 · Trench, Shropshire, England
 died: 23 January 1838 · Ellesmere, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susannah Frances
 
-Born 1765 · Trench, Shropshire, England · Died 23 January 1838 · Ellesmere, Shropshire, England, United Kingdom · Generation 8
+Born 1765 · Trench, Shropshire, England · Died 23 January 1838 · Ellesmere, Shropshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Lloyd (L8WF-WK4)|Mary Lloyd]]
@@ -55,6 +55,15 @@ Born 1765 · Trench, Shropshire, England · Died 23 January 1838 · Ellesmere, S
 - [Susanna Francis, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NTKC-34Y)
 - [Susanna Francis, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J36Z-THP)
 - [Susanna in entry for Elisabeth Lloyd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMXR-RPG)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 55)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 64)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 65)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 71)_
+- **1838** — The Saints driven from Missouri _(age 73)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZW3-QBN)

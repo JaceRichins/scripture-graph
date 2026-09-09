@@ -6,14 +6,14 @@ sg-id: fs:LC6X-VQW
 fs_id: LC6X-VQW
 generation: 8
 died: 19 December 1803 · Painswick, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Gill
 
-Died 19 December 1803 · Painswick, Gloucestershire, England, United Kingdom · Generation 8
+Died 19 December 1803 · Painswick, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Charlotte Gill (FVCX-LFF)|Charlotte Gill]]

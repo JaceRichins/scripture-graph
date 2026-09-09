@@ -7,14 +7,14 @@ fs_id: KNW3-PS8
 generation: 8
 born: 1754 · Painswick, Gloucestershire, England
 died: 1820 · Painswick, Gloucester, England, Great Britain
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Ireland
 
-Born 1754 · Painswick, Gloucestershire, England · Died 1820 · Painswick, Gloucester, England, Great Britain · Generation 8
+Born 1754 · Painswick, Gloucestershire, England · Died 1820 · Painswick, Gloucester, England, Great Britain · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[James Ireland (KV2Y-213)|James Ireland]]
@@ -27,7 +27,7 @@ Born 1754 · Painswick, Gloucestershire, England · Died 1820 · Painswick, Glou
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KNW3-PS8/20826425.tif|William Ireland--Christening, Marriage and Burial]]
+![[AI Library/12 Family/_media/KNW3-PS8/20826425.jpg|William Ireland--Christening, Marriage and Burial]]
 
 
 ## Sources
@@ -38,6 +38,11 @@ Born 1754 · Painswick, Gloucestershire, England · Died 1820 · Painswick, Glou
 - [Willm Ireland in entry for Willm Ireland, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPNC-GHD)
 - [Wm Ireland in entry for James Ireland, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPNC-NPP)
 - [Willm Ireland in entry for John Ireland, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPNC-YXV)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KNW3-PS8)

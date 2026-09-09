@@ -97,11 +97,11 @@ Unlike [[Mosiah 24]]'s account of Alma's people, which explicitly credits the Lo
 <!-- SG:BEGIN evidence -->
 > [!evidence] Literary And Thematic Pattern
 > The movement from bondage through a nighttime departure into the wilderness and toward a new political home strongly supports classifying this chapter under the theme of Exodus and Deliverance.
-> — strength 0.7 · confidence 0.9 · sound pattern claim with explicit limits · [[Literary And Thematic Pattern in Mosiah 22|full dossier]]
+> — confidence 0.9 · sound pattern claim with explicit limits · [[Literary And Thematic Pattern in Mosiah 22|full dossier]]
 
 > [!evidence] Political Practice In Narrative
 > The gathering in verse 1 is good evidence for participatory consultation during this emergency, but it is insufficient evidence that Limhi's government was democratic or that popular approval was legally required.
-> — strength 0.7 · confidence 0.9 · accepted observation, disputed interpretation · [[Political Practice In Narrative in Mosiah 22|full dossier]]
+> — confidence 0.9 · accepted observation, disputed interpretation · [[Political Practice In Narrative in Mosiah 22|full dossier]]
 <!-- SG:END evidence -->
 
 ## Questions Worth Studying

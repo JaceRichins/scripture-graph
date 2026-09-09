@@ -7,14 +7,14 @@ fs_id: L5X8-JMK
 generation: 8
 born: 9 January 1759 · Buskerud, Norway
 died: 7 October 1830 · Midbøen, Telemark, Norway
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Gaute Ericsen
 
-Born 9 January 1759 · Buskerud, Norway · Died 7 October 1830 · Midbøen, Telemark, Norway · Generation 8
+Born 9 January 1759 · Buskerud, Norway · Died 7 October 1830 · Midbøen, Telemark, Norway · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Eric Gautesson Midtboen Hogan (M1X3-FWK)|Eric Gautesson Midtboen Hogan]]
@@ -23,7 +23,7 @@ Born 9 January 1759 · Buskerud, Norway · Died 7 October 1830 · Midbøen, Tele
 - **Birth**: 9 January 1759 · Buskerud, Norway
 - **Death**: 7 October 1830 · Midbøen, Telemark, Norway
 - **Christening**: 13 January 1759 · Ål, Buskerud, Norway
-- **data:,Census**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
+- **Census**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
 - **Residence**: 1 February 1801 · Svennundgaard, Ål, Buskerud, Norway
 - **Burial**: 20 October 1830 · Midbøen, Telemark, Norway
 
@@ -31,7 +31,11 @@ Born 9 January 1759 · Buskerud, Norway · Died 7 October 1830 · Midbøen, Tele
 
 ### Eric's Life Story
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1310978)_
+
 ### Erik GM Hogan from Latter-day Saint Biographical Encyclopedia
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4556494)_
 
 ## Photos & documents
 
@@ -124,6 +128,13 @@ https://archive.org/details/heartthrobsofwes0000kate/page/n1/mode/2up_
 - [1805 Buskerud, Norway: Goute Erichsen in entry for Gunder Gautesen, "Norway Baptisms, 1634-1927"](https://familysearch.org/ark:/61903/1:1:NHPG-X5S)
 - [1805 Buskerud, Norway: GOUTE ERICHSEN in entry for GUNDER GAUTESEN, "Norway Baptisms, 1634-1927"](https://familysearch.org/ark:/61903/1:1:NHPP-VLS)
 - Hol Bygdebok Vol VI pp 546-551 Sausgard. 1770: Eirik Asgrimson family; 1780: Gaute Eirikson & Margit Knutsdtr; 1788: Lars Tomasson & Ragnhild Eiriksdt; 1794: Pål Eirikson I family; 1814: Eirik Pålson family. 1866: Pål Eirikson II; 1906: Ola Pålson family
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 61)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 70)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5X8-JMK)

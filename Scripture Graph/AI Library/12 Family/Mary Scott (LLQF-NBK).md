@@ -7,14 +7,14 @@ fs_id: LLQF-NBK
 generation: 6
 born: 30 April 1793 · Douglas, Lanarkshire, Scotland
 died: 10 July 1842 · Lanarkshire, Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Scott
 
-Born 30 April 1793 · Douglas, Lanarkshire, Scotland · Died 10 July 1842 · Lanarkshire, Scotland, United Kingdom · Generation 6
+Born 30 April 1793 · Douglas, Lanarkshire, Scotland · Died 10 July 1842 · Lanarkshire, Scotland, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Thomas Scott (LW6R-DD2)|Thomas Scott]]
@@ -30,6 +30,8 @@ Born 30 April 1793 · Douglas, Lanarkshire, Scotland · Died 10 July 1842 · Lan
 ## Stories
 
 ### Mary Scott Budge
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279332)_
 
 ## Photos & documents
 
@@ -59,6 +61,15 @@ _Copy of baptism record Mary Scott; 5 May 1793; Douglas, Scotland_
 - [Maria Scott, "Perú, Lima, Registro Civil, 1683-1998"](https://familysearch.org/ark:/61903/1:1:FCWW-559)
 - Legacy NFS Source: Mary Nelson Scott - Individual or family possessions: death: 10 July 1842; Scotland, United Kingdom
 - Birth of Mary Scott,  30 April 1793, Douglas, Lanark, Scotland.
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 27)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 36)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 37)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 43)_
+- **1838** — The Saints driven from Missouri _(age 45)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQF-NBK)

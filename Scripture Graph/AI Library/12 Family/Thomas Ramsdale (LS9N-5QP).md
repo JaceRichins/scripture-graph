@@ -6,14 +6,14 @@ sg-id: fs:LS9N-5QP
 fs_id: LS9N-5QP
 generation: 8
 died: December 1825 · Westhoughton, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Ramsdale
 
-Died December 1825 · Westhoughton, Lancashire, England, United Kingdom · Generation 8
+Died December 1825 · Westhoughton, Lancashire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Ramsdale (LSMR-W7B)|Ann Ramsdale]]

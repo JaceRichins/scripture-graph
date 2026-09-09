@@ -7,14 +7,14 @@ fs_id: LCCZ-MB8
 generation: 7
 born: 1760 · Ebrington, Gloucestershire, England, United Kingdom
 died: 3 February 1846 · Miserden, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hannah Weston
 
-Born 1760 · Ebrington, Gloucestershire, England, United Kingdom · Died 3 February 1846 · Miserden, Gloucestershire, England, United Kingdom · Generation 7
+Born 1760 · Ebrington, Gloucestershire, England, United Kingdom · Died 3 February 1846 · Miserden, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Weston (LZ8F-NYB)|John Weston]]
@@ -53,6 +53,17 @@ Born 1760 · Ebrington, Gloucestershire, England, United Kingdom · Died 3 Febru
 - [Hannah Ireland in household of James Ireland, "England and Wales Census, 1841"](https://familysearch.org/ark:/61903/1:1:M7MH-6HG)
 - England death certificate-Hannah Ireland (1771-1846)
 - Legacy NFS Source: Hannah Weston - Church record: Christening record or certificate: birth-name: Hannah Weston
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 60)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 69)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 70)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 76)_
+- **1838** — The Saints driven from Missouri _(age 78)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 84)_
+- **1846** — The exodus from Nauvoo begins _(age 86)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCCZ-MB8)

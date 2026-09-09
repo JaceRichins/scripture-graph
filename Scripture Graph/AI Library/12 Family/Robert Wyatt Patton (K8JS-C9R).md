@@ -7,14 +7,14 @@ fs_id: K8JS-C9R
 generation: 8
 born: 1750 · York, Pennsylvania, British Colonial America
 died: 9 September 1815 · Knoxville, Knox, Tennessee, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Wyatt Patton
 
-Born 1750 · York, Pennsylvania, British Colonial America · Died 9 September 1815 · Knoxville, Knox, Tennessee, United States · Generation 8
+Born 1750 · York, Pennsylvania, British Colonial America · Died 9 September 1815 · Knoxville, Knox, Tennessee, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Jesse Harlan Patton (LZNN-TVM)|Jesse Harlan Patton]]
@@ -25,8 +25,8 @@ Born 1750 · York, Pennsylvania, British Colonial America · Died 9 September 18
 - **Residence**: 1790 · Burke, North Carolina, United States
 - **Residence**: 1800 · Burke, North Carolina
 - **Residence**: 1810 · Morganton, Burke, North Carolina, United States
-- **data:,estate+sale**: 20 September 1813 · Lincoln, Tennessee, United States · Lincoln. Wills 1827–1850, Minute Docket Book I 1811- 1812
-- **data:,estate+sale**: 25 August 1814 · Lincoln, Tennessee, United States · Lincoln. Wills 1827–1850, Minute Docket Book I 1811- 1812
+- **estate+sale**: 20 September 1813 · Lincoln, Tennessee, United States · Lincoln. Wills 1827–1850, Minute Docket Book I 1811- 1812
+- **estate+sale**: 25 August 1814 · Lincoln, Tennessee, United States · Lincoln. Wills 1827–1850, Minute Docket Book I 1811- 1812
 - **Burial**: 1815 · Lebanon in the Fork Cemetery, Knoxville, Knox, Tennessee, United States
 
 ## Photos & documents

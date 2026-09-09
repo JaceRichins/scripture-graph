@@ -7,14 +7,14 @@ fs_id: LKKM-GJS
 generation: 8
 born: 16 February 1769 · Roxbury, Franklin, Pennsylvania, British Colonial America
 died: 12 March 1813 · Roxbury, Franklin, Pennsylvania, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Gieseman
 
-Born 16 February 1769 · Roxbury, Franklin, Pennsylvania, British Colonial America · Died 12 March 1813 · Roxbury, Franklin, Pennsylvania, United States · Generation 8
+Born 16 February 1769 · Roxbury, Franklin, Pennsylvania, British Colonial America · Died 12 March 1813 · Roxbury, Franklin, Pennsylvania, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Elizabeth Gieseman (L5FC-KRQ)|Ann Elizabeth Gieseman]]

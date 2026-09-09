@@ -7,14 +7,14 @@ fs_id: L838-N8D
 generation: 8
 born: 15 April 1753 · Aquebogue, Suffolk, New York Colony, British Colonial America
 died: 6 May 1838 · Newbury, Orange, Vermont, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mehitable Tuthill
 
-Born 15 April 1753 · Aquebogue, Suffolk, New York Colony, British Colonial America · Died 6 May 1838 · Newbury, Orange, Vermont, United States · Generation 8
+Born 15 April 1753 · Aquebogue, Suffolk, New York Colony, British Colonial America · Died 6 May 1838 · Newbury, Orange, Vermont, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mehitable Wells (KN6W-2R1)|Mehitable Wells]]
@@ -40,7 +40,7 @@ Born 15 April 1753 · Aquebogue, Suffolk, New York Colony, British Colonial Amer
 ![[AI Library/12 Family/_media/L838-N8D/79350409.jpg|NY; Suffolk co, [Long Island, New York] Riverhead, Aquebogue Cemetery]]
 _Aquebogue Cemetery_
 
-![[AI Library/12 Family/_media/L838-N8D/79350411.png|NY; Suffolk co, [Long Island, New York] Aquebogue census map]]
+![[AI Library/12 Family/_media/L838-N8D/79350411.jpg|NY; Suffolk co, [Long Island, New York] Aquebogue census map]]
 
 
 ![[AI Library/12 Family/_media/L838-N8D/163132533.jpg|NY; Suffolk co. [on Long Island, New York]; Peconic Bay from Riverhead, [Jamesport to left and Southport to the right]]]
@@ -64,7 +64,7 @@ _Aquebogue Cemetery_
 ![[AI Library/12 Family/_media/L838-N8D/163132542.jpg|NY; Suffolk co. [on Long Island, New York]; Riverhead; looking seaward]]
 
 
-![[AI Library/12 Family/_media/L838-N8D/163132543.png|NY; Suffolk co. [on Long Island, New York];Peconic Waterway; Riverhead]]
+![[AI Library/12 Family/_media/L838-N8D/163132543.jpg|NY; Suffolk co. [on Long Island, New York];Peconic Waterway; Riverhead]]
 
 
 ## Sources
@@ -92,6 +92,15 @@ _Aquebogue Cemetery_
 - Legacy NFS Source: Mehitable Tuthill - Individual or family possessions: burial: 
 - [Legacy NFS Source: Mehitable Tuthill - Published information: Family genealogies: birth-name: Mehitable Tuthill](http://freepages.genealogy.rootsweb.anc.com)
 - Legacy NFS Source: Mehitable Tuthill - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 67)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 76)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 77)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 83)_
+- **1838** — The Saints driven from Missouri _(age 85)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L838-N8D)

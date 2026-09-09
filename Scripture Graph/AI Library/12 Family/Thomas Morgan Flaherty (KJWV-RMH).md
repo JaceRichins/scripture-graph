@@ -7,14 +7,14 @@ fs_id: KJWV-RMH
 generation: 5
 born: 11 Jan 1845 · Botetcourt, Virginia, United States
 died: 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Morgan Flaherty
 
-Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States · Generation 5
+Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 · Frisco, Pontotoc, Oklahoma, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[James C. Flaherty (K81F-WY2)|James C. Flaherty]]
@@ -33,7 +33,7 @@ Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 �
 - **Residence**: 1910 · Stonewall, Pontotoc, Oklahoma, United States
 - **Burial**: 1920 · Frisco, Pontotoc, Oklahoma, United States of America
 - **Residence**: 1920 · Stonewall, Pontotoc, Oklahoma, United States
-- **data:,Pension**: 1907-1933 · United States
+- **Pension**: 1907-1933 · United States
 - **Residence**: Frisco, Oklahoma
 
 ## Photos & documents
@@ -57,6 +57,19 @@ Born 11 Jan 1845 · Botetcourt, Virginia, United States · Died 13 August 1920 �
 - [Thomas M Flaherty, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:MLWQ-RVH)
 - [Thomas Morgan Flaherty, "Find A Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVW-PWDW)
 - [Thomas Flaherty, "United States, Census, 1880"](https://familysearch.org/ark:/61903/1:1:M66Z-JQM)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1846** — The exodus from Nauvoo begins _(age 1)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 2)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 11)_
+- **1869** — The railroad reaches Utah _(age 24)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 32)_
+- **1890** — The Manifesto ends plural marriage _(age 45)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 48)_
+- **1896** — Utah becomes a state _(age 51)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 73)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KJWV-RMH)

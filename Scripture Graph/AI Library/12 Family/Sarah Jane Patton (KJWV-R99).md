@@ -7,14 +7,14 @@ fs_id: KJWV-R99
 generation: 5
 born: 11 November 1846 · Fayetteville, Washington, Arkansas, United States
 died: 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Jane Patton
 
-Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Died 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States · Generation 5
+Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Died 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Pascal Patton (LHCT-W7T)|Pascal Patton]]
@@ -25,7 +25,7 @@ Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Di
 - **Birth**: 11 November 1846 · Fayetteville, Washington, Arkansas, United States
 - **Death**: 27 November 1920 · Frisco, Pontotoc, Oklahoma, United States
 - **Residence**: 1850 · Prairie, Washington, Arkansas, United States
-- **data:,census**:        1850 · Prairie Twp,Washington,Arkansas
+- **census**:        1850 · Prairie Twp,Washington,Arkansas
 - **Residence**: 1860 · Clear Creek Township, Washington, Arkansas, United States
 - **Residence**: 1865 · Anderson, Smith, Kansas, United States
 - **Residence**: 1870 · Flat Creek, Barry, Missouri, United States
@@ -57,6 +57,19 @@ Born 11 November 1846 · Fayetteville, Washington, Arkansas, United States · Di
 - [Sarah Flaherty in household of Thomas M Flaherty, "United States Census, 1920"](https://familysearch.org/ark:/61903/1:1:MN1T-5VZ)
 - [Sarah J Flaherty in household of Thomas M Flaherty, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:MLWQ-RVC)
 - [Sarah Flaherty, "United States, Census, 1880"](https://familysearch.org/ark:/61903/1:1:M66Z-JQ9)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1846** — The exodus from Nauvoo begins _(age 0)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 1)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 10)_
+- **1869** — The railroad reaches Utah _(age 23)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 31)_
+- **1890** — The Manifesto ends plural marriage _(age 44)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 47)_
+- **1896** — Utah becomes a state _(age 50)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KJWV-R99)

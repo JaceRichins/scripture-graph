@@ -7,14 +7,14 @@ fs_id: LZ1G-J3L
 generation: 7
 born: 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States
 died: 21 August 1847 · Cordova, Orangeburg, South Carolina, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # David Daniel Bonnett II
 
-Born 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States · Died 21 August 1847 · Cordova, Orangeburg, South Carolina, United States · Generation 7
+Born 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States · Died 21 August 1847 · Cordova, Orangeburg, South Carolina, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[David Daniel Bonnett I (GWZD-2TB)|David Daniel Bonnett I]]
@@ -24,7 +24,7 @@ Born 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States 
 ## Life
 - **Birth**: 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States
 - **Death**: 21 August 1847 · Cordova, Orangeburg, South Carolina, United States
-- **data:,Military**: 1812 · United States
+- **Military**: 1812 · United States
 - **MilitaryService**: 3 October 1814 · South Carolina, United States
 - **Residence**: 1830 · Orangeburg, South Carolina, United States
 - **Residence**: 1840 · Orangeburg, South Carolina, United States
@@ -43,6 +43,18 @@ Born 27 September 1794 · Orangeburg, Orangeburg, South Carolina, United States 
 - [David Bonnett, "United States War of 1812 Index to Pension Application Files, 1812-1910"](https://familysearch.org/ark:/61903/1:1:X8C6-L4F)
 - Legacy NFS Source: David Bonnett - Published information: birth: about 1783; South Carolina, United States
 - Legacy NFS Source: David Bonnett - Government record: Military record or discharge: birth-name: David Bonnett
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 26)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 35)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 36)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 42)_
+- **1838** — The Saints driven from Missouri _(age 44)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 50)_
+- **1846** — The exodus from Nauvoo begins _(age 52)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 53)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZ1G-J3L)

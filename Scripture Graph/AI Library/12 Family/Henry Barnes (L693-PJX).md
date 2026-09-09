@@ -7,14 +7,14 @@ fs_id: L693-PJX
 generation: 8
 born: December 25, 1753 · Todhall, Haslingden, Lancashire, Engalnd
 died: 2 April 1857 · Haslingden, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Barnes
 
-Born December 25, 1753 · Todhall, Haslingden, Lancashire, Engalnd · Died 2 April 1857 · Haslingden, Lancashire, England, United Kingdom · Generation 8
+Born December 25, 1753 · Todhall, Haslingden, Lancashire, Engalnd · Died 2 April 1857 · Haslingden, Lancashire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Alice Barnes (LLQN-QQG)|Alice Barnes]]
@@ -26,7 +26,7 @@ Born December 25, 1753 · Todhall, Haslingden, Lancashire, Engalnd · Died 2 Apr
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/L693-PJX/6880869.jpeg|document]]
+![[AI Library/12 Family/_media/L693-PJX/6880869.jpg|document]]
 
 
 ## Sources
@@ -72,6 +72,19 @@ Born December 25, 1753 · Todhall, Haslingden, Lancashire, Engalnd · Died 2 Apr
 - [Henry Barnes, "England and Wales, Death Registration Index 1837-2007"](https://familysearch.org/ark:/61903/1:1:2NF7-876)
 - [Henry Barnes in entry for Alice Barnes, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J98B-FZX)
 - [Henry Barns in entry for Jane Barns, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J7ZY-YF7)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 67)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 76)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 77)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 83)_
+- **1838** — The Saints driven from Missouri _(age 85)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 91)_
+- **1846** — The exodus from Nauvoo begins _(age 93)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 94)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 103)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L693-PJX)

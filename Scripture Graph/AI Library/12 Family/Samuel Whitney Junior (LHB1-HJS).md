@@ -7,14 +7,14 @@ fs_id: LHB1-HJS
 generation: 8
 born: 23 September 1739 · Weston, Middlesex, Massachusetts Bay, British Colonial America
 died: 1 February 1811 · Marlboro, Windham, Vermont, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Whitney Junior
 
-Born 23 September 1739 · Weston, Middlesex, Massachusetts Bay, British Colonial America · Died 1 February 1811 · Marlboro, Windham, Vermont, United States · Generation 8
+Born 23 September 1739 · Weston, Middlesex, Massachusetts Bay, British Colonial America · Died 1 February 1811 · Marlboro, Windham, Vermont, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Samuel Whitney (M2QG-9Q2)|Samuel Whitney]]
@@ -28,7 +28,7 @@ Born 23 September 1739 · Weston, Middlesex, Massachusetts Bay, British Colonial
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LHB1-HJS/54782101.jpeg|photo]]
+![[AI Library/12 Family/_media/LHB1-HJS/54782101.jpg|photo]]
 
 
 ## Sources

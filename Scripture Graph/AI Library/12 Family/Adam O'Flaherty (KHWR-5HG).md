@@ -7,14 +7,14 @@ fs_id: KHWR-5HG
 generation: 7
 born: 4 March 1776 · Dublin, County Dublin, Ireland
 died: 16 December 1848 · Eagle Rock, Botetourt, Virginia, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Adam O'Flaherty
 
-Born 4 March 1776 · Dublin, County Dublin, Ireland · Died 16 December 1848 · Eagle Rock, Botetourt, Virginia, United States · Generation 7
+Born 4 March 1776 · Dublin, County Dublin, Ireland · Died 16 December 1848 · Eagle Rock, Botetourt, Virginia, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John O’Flaherty (GHH4-LLT)|John O’Flaherty]]
@@ -51,6 +51,18 @@ Born 4 March 1776 · Dublin, County Dublin, Ireland · Died 16 December 1848 · 
 - [Adam Flaherty, "Virginia Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRC9-WVS)
 - [Adam Flaherty in entry for Jacob Deisher, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRDH-PW5)
 - [Adam Flaherty, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRJL-SRF)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 44)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 53)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 54)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 60)_
+- **1838** — The Saints driven from Missouri _(age 62)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 68)_
+- **1846** — The exodus from Nauvoo begins _(age 70)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KHWR-5HG)

@@ -7,14 +7,14 @@ fs_id: LZW3-QYR
 generation: 8
 born: 1761 · Trench, Shropshire, England, United Kingdom
 died: 19 March 1827 · Trench, Ellesmere, Shropshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Lloyd
 
-Born 1761 · Trench, Shropshire, England, United Kingdom · Died 19 March 1827 · Trench, Ellesmere, Shropshire, England · Generation 8
+Born 1761 · Trench, Shropshire, England, United Kingdom · Died 19 March 1827 · Trench, Ellesmere, Shropshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Lloyd (L8WF-WK4)|Mary Lloyd]]
@@ -28,7 +28,7 @@ Born 1761 · Trench, Shropshire, England, United Kingdom · Died 19 March 1827 �
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LZW3-QYR/110827316.png|1827 burial Thomas Lloyd]]
+![[AI Library/12 Family/_media/LZW3-QYR/110827316.jpg|1827 burial Thomas Lloyd]]
 
 
 ![[AI Library/12 Family/_media/LZW3-QYR/110827433.jpg|1761 christening Thomas Lloyd]]
@@ -64,6 +64,11 @@ Born 1761 · Trench, Shropshire, England, United Kingdom · Died 19 March 1827 �
 - [Thomas Lloyd in entry for Elisabeth Lloyd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMXR-RPL)
 - [Thomas Lloyd in entry for Mary Lloyd, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQTS-G92)
 - International Genealogical Index
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 59)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZW3-QYR)

@@ -7,14 +7,14 @@ fs_id: L1HG-W4D
 generation: 8
 born: 1762 · Norfolk, Isle of Wright, Virginia, Colonial, America
 died: 1817 · Anderson, Tennessee, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Grace Stokely
 
-Born 1762 · Norfolk, Isle of Wright, Virginia, Colonial, America · Died 1817 · Anderson, Tennessee, United States · Generation 8
+Born 1762 · Norfolk, Isle of Wright, Virginia, Colonial, America · Died 1817 · Anderson, Tennessee, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Isabelle Lewallen (99B1-HR6)|Mary Isabelle Lewallen]]

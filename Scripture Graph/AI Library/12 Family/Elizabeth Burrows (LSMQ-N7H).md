@@ -7,14 +7,14 @@ fs_id: LSMQ-N7H
 generation: 7
 born: 1767 · Lancashire, England
 died: 1 April 1838 · Leigh, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Burrows
 
-Born 1767 · Lancashire, England · Died 1 April 1838 · Leigh, Lancashire, England, United Kingdom · Generation 7
+Born 1767 · Lancashire, England · Died 1 April 1838 · Leigh, Lancashire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Ralph Burrows (GGMP-3MQ)|Ralph Burrows]]
@@ -72,6 +72,15 @@ _Life of James Lythgoe and Hannah S. Peterson Johnson Lythgoe._
 - [Betty in entry for Thomas Lythgoe, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPM6-2ZT)
 - Legacy NFS Source: Elizabeth 'Betty' Burron - 
 - [Death Record for Elizabeth Burron Lythgoe](http://www.freebmd.org.uk/cgi/search.pl?start=1838&end=1838&sq=2&eq=2&type=Deaths&vol=20&pgno=399&jsexec=1&mono=0&v=MTM2MTY2OTcxMjpiOGMxMzkyOTkyMjk4YTI0YmJlYjkyZGU4NTY2ZmVhMWIwZjYyOGYz&searchdef=db%3Dbmd_1361186159%26sq%3D1%26surname%3Dlythgoe%26end%3D1838%26type%3DDeaths%26eq%3D4%26start%3D1838&action=Find)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 53)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 62)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 63)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 69)_
+- **1838** — The Saints driven from Missouri _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LSMQ-N7H)

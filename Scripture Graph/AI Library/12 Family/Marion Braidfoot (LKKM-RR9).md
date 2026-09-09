@@ -7,14 +7,14 @@ fs_id: LKKM-RR9
 generation: 8
 born: 12 July 1713 · Lanark, Lanarkshire, Scotland
 died: 1763 · Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Marion Braidfoot
 
-Born 12 July 1713 · Lanark, Lanarkshire, Scotland · Died 1763 · Scotland, United Kingdom · Generation 8
+Born 12 July 1713 · Lanark, Lanarkshire, Scotland · Died 1763 · Scotland, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Scott (LW6R-DD2)|Thomas Scott]]

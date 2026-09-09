@@ -7,14 +7,14 @@ fs_id: KWJD-CW9
 generation: 6
 born: 29 March 1835 · Saint Peters Port, Channel Isles, England
 died: 4 September 1899 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Arthur Stayner Sr.
 
-Born 29 March 1835 · Saint Peters Port, Channel Isles, England · Died 4 September 1899 · Salt Lake City, Salt Lake, Utah, United States · Generation 6
+Born 29 March 1835 · Saint Peters Port, Channel Isles, England · Died 4 September 1899 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Thomas Colley Stayner (KWJX-JHN)|Thomas Colley Stayner]]
@@ -24,29 +24,39 @@ Born 29 March 1835 · Saint Peters Port, Channel Isles, England · Died 4 Septem
 ## Life
 - **Birth**: 29 March 1835 · Saint Peters Port, Channel Isles, England
 - **Death**: 4 September 1899 · Salt Lake City, Salt Lake, Utah, United States
-- **data:,Baptism**: 26 February 1850
-- **data:,Emigration**: 23 January 1853 · Liverpool, Lancashire, England, United Kingdom · Age 17 with 2 Siblings on the ship Golconda
-- **data:,Immigratioin**: 26 March 1853 · New Orleans, Orleans, Louisiana, United States · From England with 2 Siblings
-- **data:,Emigration**: 16 June 1853 · Kanesville, Pottawattamie, Iowa, United States · Age 18, with his brother Thomas in the Appleton Milo Harmon Company
-- **data:,Immigration**: 16 October 1853 · Utah Territory, United States
-- **data:,High%20Priest%20Ordination**: 18 February 1866
-- **data:,Baptism**: 18 Jul 1875
+- **Baptism**: 26 February 1850
+- **Emigration**: 23 January 1853 · Liverpool, Lancashire, England, United Kingdom · Age 17 with 2 Siblings on the ship Golconda
+- **Immigratioin**: 26 March 1853 · New Orleans, Orleans, Louisiana, United States · From England with 2 Siblings
+- **Emigration**: 16 June 1853 · Kanesville, Pottawattamie, Iowa, United States · Age 18, with his brother Thomas in the Appleton Milo Harmon Company
+- **Immigration**: 16 October 1853 · Utah Territory, United States
+- **High%20Priest%20Ordination**: 18 February 1866
+- **Baptism**: 18 Jul 1875
 - **Burial**: 7 September 1899 · Salt Lake City Cemetery (Plot B_5_17_1W), Salt Lake City, Salt Lake County, Utah, United States
-- **data:,Membership**: Davis, Utah, United States
-- **data:,Membership**: Farmington, Davis, Utah, United States
-- **data:,Membership**: Utah, United States
+- **Membership**: Davis, Utah, United States
+- **Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Utah, United States
 
 ## Stories
 
 ### Sugar Industry in Utah--Arthur Stayner
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/167744)_
+
 ### Rosa Emily Stayner Call
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1052172)_
 
 ### Liverpool to New Orleans on the Golconda
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3048309)_
+
 ### General Voyage notes on the Golconda
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3048368)_
+
 ### Arthur Stayner Pioneer, Businessman, Legislator, Missionary, Educator
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7281384)_
 
 ## Photos & documents
 
@@ -74,22 +84,22 @@ Born 29 March 1835 · Saint Peters Port, Channel Isles, England · Died 4 Septem
 ![[AI Library/12 Family/_media/KWJD-CW9/15014959.jpg|Arthur Stayner and Emma Louise Turner Stayner]]
 
 
-![[AI Library/12 Family/_media/KWJD-CW9/22085699.png|Arthur Stayner Death Article in SL Tribune]]
+![[AI Library/12 Family/_media/KWJD-CW9/22085699.jpg|Arthur Stayner Death Article in SL Tribune]]
 _From Salt Lake Tribune article Sept. 5, 1899 reporting Arthur Stayner's death._
 
-![[AI Library/12 Family/_media/KWJD-CW9/22288435.png|Arthur Stayner - Salt Lake Tribune article Sept. 5, 1899]]
+![[AI Library/12 Family/_media/KWJD-CW9/22288435.jpg|Arthur Stayner - Salt Lake Tribune article Sept. 5, 1899]]
 _One of two articles printed in the Salt Lake Tribune following the death of Arthur Stayner_
 
-![[AI Library/12 Family/_media/KWJD-CW9/22288656.png|Arthur Stayner - news article in the Salt Lake Tribune]]
+![[AI Library/12 Family/_media/KWJD-CW9/22288656.jpg|Arthur Stayner - news article in the Salt Lake Tribune]]
 
 
 ![[AI Library/12 Family/_media/KWJD-CW9/25538104.jpg|Arthur Stayner]]
 _Arthur Stayner married Helen Hyde._
 
-![[AI Library/12 Family/_media/KWJD-CW9/35273126.jpeg|photo]]
+![[AI Library/12 Family/_media/KWJD-CW9/35273126.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJD-CW9/59425482.jpeg|photo]]
+![[AI Library/12 Family/_media/KWJD-CW9/59425482.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJD-CW9/97492442.jpg|Arthur STAYNER, Sr. Obituary]]
@@ -258,6 +268,21 @@ _Written by Gertrude Stayner Miller (Mother of Emma)_
 - [Arthur Stayner, "United States Census, 1860"](https://familysearch.org/ark:/61903/1:1:MH24-WD7)
 - [Arthur Stayner, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85Q-JP8)
 - [Sugan Industry in Utah](https://familysearch.org/photos/story/167744)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 1)_
+- **1838** — The Saints driven from Missouri _(age 3)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 9)_
+- **1846** — The exodus from Nauvoo begins _(age 11)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 12)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 21)_
+- **1869** — The railroad reaches Utah _(age 34)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 42)_
+- **1890** — The Manifesto ends plural marriage _(age 55)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 58)_
+- **1896** — Utah becomes a state _(age 61)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJD-CW9)

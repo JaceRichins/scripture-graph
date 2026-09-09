@@ -7,14 +7,14 @@ fs_id: LKVY-NCR
 generation: 4
 born: 5 December 1879 · Mendon, Cache, Utah, United States
 died: 8 December 1935 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edmeresa Whitney
 
-Born 5 December 1879 · Mendon, Cache, Utah, United States · Died 8 December 1935 · Salt Lake City, Salt Lake, Utah, United States · Generation 4
+Born 5 December 1879 · Mendon, Cache, Utah, United States · Died 8 December 1935 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[John Kimball Whitney (KWJC-GPZ)|John Kimball Whitney]]
@@ -27,8 +27,8 @@ Born 5 December 1879 · Mendon, Cache, Utah, United States · Died 8 December 19
 - **Residence**: 1910 · Oakley, Cassia, Idaho, United States
 - **Residence**: 1920 · Logan, Cache, Utah, United States
 - **Residence**: 1930 · Salt Lake City, Salt Lake, Utah, United States
-- **data:,Obituary**: 09 Dec 1935 · Utah, United States
-- **data:,Obituary**: 10 Dec 1935 · Utah, United States
+- **Obituary**: 09 Dec 1935 · Utah, United States
+- **Obituary**: 10 Dec 1935 · Utah, United States
 - **Burial**: 12 December 1935 · Mendon City Cemetery, Mendon, Cache, Utah, United States
 
 ## Photos & documents
@@ -51,10 +51,10 @@ _New Elders arriving in Chattanooga, TN to the Southern States Mission (11 April
 ![[AI Library/12 Family/_media/LKVY-NCR/128985616.jpg|Mendon School Class of 1895]]
 _Mendon pupils and teacher at rock school, late 1800s. Photo on page 81 of Isaac Sorensen's "History of Mendon."_
 
-![[AI Library/12 Family/_media/LKVY-NCR/155939605.png|document]]
+![[AI Library/12 Family/_media/LKVY-NCR/155939605.jpg|document]]
 
 
-![[AI Library/12 Family/_media/LKVY-NCR/155940133.png|document]]
+![[AI Library/12 Family/_media/LKVY-NCR/155940133.jpg|document]]
 
 
 ## Sources
@@ -91,6 +91,14 @@ _Mendon pupils and teacher at rock school, late 1800s. Photo on page 81 of Isaac
 - [Edmerica Whitney, "United States, Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSJ-6J7)
 - [Edmer Whitney, "United States, Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRJ-7QX)
 - [Edmer Whitney Oldham, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F852-W79)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1890** — The Manifesto ends plural marriage _(age 11)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 14)_
+- **1896** — Utah becomes a state _(age 17)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 39)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LKVY-NCR)

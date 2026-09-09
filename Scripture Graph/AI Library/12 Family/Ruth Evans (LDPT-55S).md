@@ -7,14 +7,14 @@ fs_id: LDPT-55S
 generation: 8
 born: 8 October 1747 · Montgomery Township, Pennsylvania, British Colonial America
 died: 1778 · Hampshire, Virginia, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruth Evans
 
-Born 8 October 1747 · Montgomery Township, Pennsylvania, British Colonial America · Died 1778 · Hampshire, Virginia, United States · Generation 8
+Born 8 October 1747 · Montgomery Township, Pennsylvania, British Colonial America · Died 1778 · Hampshire, Virginia, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Catherine Ruth John (LLQX-D8P)|Catherine Ruth John]]

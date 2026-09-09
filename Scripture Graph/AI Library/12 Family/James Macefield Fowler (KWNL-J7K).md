@@ -7,14 +7,14 @@ fs_id: KWNL-J7K
 generation: 5
 born: 26 June 1840 · Shropshire, England, United Kingdom
 died: 7 November 1918 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Macefield Fowler
 
-Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918 · Henefer, Summit, Utah, United States · Generation 5
+Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[George Fowler (L8BN-9DF)|George Fowler]]
@@ -24,7 +24,7 @@ Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918
 ## Life
 - **Birth**: 26 June 1840 · Shropshire, England, United Kingdom
 - **Death**: 7 November 1918 · Henefer, Summit, Utah, United States
-- **data:,Alternate%20Birth**: 27 June 1840
+- **Alternate%20Birth**: 27 June 1840
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
@@ -34,11 +34,19 @@ Born 26 June 1840 · Shropshire, England, United Kingdom · Died 7 November 1918
 
 ### Letter to James Macefield Fowler from brother Brigham Fowler
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5214752)_
+
 ### 1863 Letter to James from his mother, Eleanor Fowler
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5215442)_
 
 ### 1868 Letter to James from his mother, Eleanor Fowler
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5215464)_
+
 ### Osra, Rachel and Talbert Richins Relating Family Connections 1981 or 1982
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62790441)_
 
 ## Photos & documents
 
@@ -142,6 +150,20 @@ _A brief history with transcribed letters from parents to son James._
 - [James Fowler, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZGX-X2R)
 - [Mormon Migration Records](http://history.lds.org/overlandtravels/?lang=eng)
 - [James Macefield Fowler Family's Grave Record](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=16708084)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 4)_
+- **1846** — The exodus from Nauvoo begins _(age 6)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 7)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 16)_
+- **1869** — The railroad reaches Utah _(age 29)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 37)_
+- **1890** — The Manifesto ends plural marriage _(age 50)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 53)_
+- **1896** — Utah becomes a state _(age 56)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNL-J7K)

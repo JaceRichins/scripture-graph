@@ -7,14 +7,14 @@ fs_id: LLSM-NQS
 generation: 6
 born: 1820 · Orangeburg, South Carolina, United States
 died: 7 March 1865 · Orangeburg, South Carolina, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Daniel David Bonnett
 
-Born 1820 · Orangeburg, South Carolina, United States · Died 7 March 1865 · Orangeburg, South Carolina, United States · Generation 6
+Born 1820 · Orangeburg, South Carolina, United States · Died 7 March 1865 · Orangeburg, South Carolina, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[David Daniel Bonnett II (LZ1G-J3L)|David Daniel Bonnett II]]
@@ -42,6 +42,19 @@ Born 1820 · Orangeburg, South Carolina, United States · Died 7 March 1865 · O
 - [Pvt Daniel David Bonnett, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVN-SKYR)
 - [Daniel Bonnett, "South Carolina Deaths, 1915-1973"](https://familysearch.org/ark:/61903/1:1:N9V3-LDN)
 - [Daniel D Bonnet, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:M8QK-P61)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 0)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 9)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 10)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 16)_
+- **1838** — The Saints driven from Missouri _(age 18)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 24)_
+- **1846** — The exodus from Nauvoo begins _(age 26)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 27)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 36)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLSM-NQS)

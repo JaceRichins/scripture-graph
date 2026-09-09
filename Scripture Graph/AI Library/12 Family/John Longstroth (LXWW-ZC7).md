@@ -7,14 +7,14 @@ fs_id: LXWW-ZC7
 generation: 8
 born: 1670 · Horton in Ribblesdale, Yorkshire, England
 died: about 1727 · England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Longstroth
 
-Born 1670 · Horton in Ribblesdale, Yorkshire, England · Died about 1727 · England · Generation 8
+Born 1670 · Horton in Ribblesdale, Yorkshire, England · Died about 1727 · England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Stephen Longstroth (LKKM-XKG)|Stephen Longstroth]]
@@ -22,7 +22,7 @@ Born 1670 · Horton in Ribblesdale, Yorkshire, England · Died about 1727 · Eng
 ## Life
 - **Birth**: 1670 · Horton in Ribblesdale, Yorkshire, England
 - **Death**: about 1727 · England
-- **data:,Baptism**: 11 Mar 1669 · Horton in Ribblesdale, Yorkshire, England
+- **Baptism**: 11 Mar 1669 · Horton in Ribblesdale, Yorkshire, England
 - **Christening**: 11 March 1670 · Horton in Ribblesdale, Yorkshire, England
 - **Residence**: 1702 · Yorkshire, England · Westside House & Farm on Henside Road near Henside Lane, Northeast of Settle.
 

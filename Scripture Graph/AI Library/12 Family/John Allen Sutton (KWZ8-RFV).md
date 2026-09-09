@@ -7,14 +7,14 @@ fs_id: KWZ8-RFV
 generation: 5
 born: 16 November 1834 · Leire, Leicestershire, England, United Kingdom
 died: 11 May 1913 · Paris, Bear Lake, Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Allen Sutton
 
-Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 11 May 1913 · Paris, Bear Lake, Idaho, United States · Generation 5
+Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 11 May 1913 · Paris, Bear Lake, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[John Sutton (P3W2-2SN)|John Sutton]]
@@ -24,16 +24,16 @@ Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 
 ## Life
 - **Birth**: 16 November 1834 · Leire, Leicestershire, England, United Kingdom
 - **Death**: 11 May 1913 · Paris, Bear Lake, Idaho, United States
-- **data:,Baptism**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
+- **Baptism**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
 - **Christening**: 25 May 1835 · Leire, Leicestershire, England, United Kingdom
 - **Residence**: 1841 · Leire, Leicestershire, England, United Kingdom
-- **data:,LDS+Baptism**: 19 November 1849
+- **LDS+Baptism**: 19 November 1849
 - **Residence**: 1851 · Leire, Leicestershire, England, United Kingdom
-- **data:,Immigration**: from 23 September 1854 to 25 September 1854 · Utah, United States
-- **data:,Immigration**: 25 September 1854
+- **Immigration**: from 23 September 1854 to 25 September 1854 · Utah, United States
+- **Immigration**: 25 September 1854
 - **Residence**: 1860 · Salt Lake City, Salt Lake, Utah, United States · 16th Ward 
 - **Residence**: 1870 · Utah, United States
-- **data:,Mission**: 1882 · Great Britain
+- **Mission**: 1882 · Great Britain
 - **Burial**: 14 May 1913 · Paris Cemetery, Paris, Bear Lake, Idaho, United States
 - **Residence**: Paris, Bear Lake, Idaho, United States
 
@@ -41,19 +41,35 @@ Born 16 November 1834 · Leire, Leicestershire, England, United Kingdom · Died 
 
 ### The Life of John Allen Sutton
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3011861)_
+
 ### John Sutton House
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862755)_
 
 ### George William Sutton
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862813)_
+
 ### Thomas Sutton and Joseph Sutton
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862834)_
 
 ### Life Story of Richard Pomeroy Sutton as told to his daughter, Dorene. 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20474150)_
+
 ### Idaho’s First “Dentist”
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/22548845)_
 
 ### Sacrifice brings forth the blessings of heaven
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/202638935)_
+
 ### Short history written by Clara Sutton, a granddaughter. 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/233766858)_
 
 ## Photos & documents
 
@@ -126,7 +142,7 @@ _Taken from "THE DAVE & RUTH SUTTON FAMILY MEMORIES & HISTORIES & GENEALOGY" by 
 ![[AI Library/12 Family/_media/KWZ8-RFV/128112968.jpg|John Allen Sutton Family]]
 
 
-![[AI Library/12 Family/_media/KWZ8-RFV/137427184.png|document]]
+![[AI Library/12 Family/_media/KWZ8-RFV/137427184.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KWZ8-RFV/159867333.jpg|George C. Lambert to John Taylor, 15 July 1883]]
@@ -135,7 +151,7 @@ _Taken from "THE DAVE & RUTH SUTTON FAMILY MEMORIES & HISTORIES & GENEALOGY" by 
 ![[AI Library/12 Family/_media/KWZ8-RFV/202476819.pdf|Scan]]
 
 
-![[AI Library/12 Family/_media/KWZ8-RFV/245233494.png|Millennial Star Obituary for Charles Parker Nutt]]
+![[AI Library/12 Family/_media/KWZ8-RFV/245233494.jpg|Millennial Star Obituary for Charles Parker Nutt]]
 _Elder John A Sutton baptized Charles on his mission_
 
 ## Sources
@@ -214,6 +230,21 @@ _Elder John A Sutton baptized Charles on his mission_
 - [John A Sutton, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MM5L-T58)
 - [John A Sutton, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:MLHF-YJ1)
 - [John Sutton, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NVDD-561)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 2)_
+- **1838** — The Saints driven from Missouri _(age 4)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 10)_
+- **1846** — The exodus from Nauvoo begins _(age 12)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 13)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 22)_
+- **1869** — The railroad reaches Utah _(age 35)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 43)_
+- **1890** — The Manifesto ends plural marriage _(age 56)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 59)_
+- **1896** — Utah becomes a state _(age 62)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZ8-RFV)

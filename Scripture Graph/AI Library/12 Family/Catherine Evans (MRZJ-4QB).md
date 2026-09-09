@@ -7,14 +7,14 @@ fs_id: MRZJ-4QB
 generation: 7
 born: 30 October 1792 · Castle Caereinion, Montgomeryshire, Wales
 died: 12 September 1849 · Shrewsbury St Mary, Shrewsbury, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catherine Evans
 
-Born 30 October 1792 · Castle Caereinion, Montgomeryshire, Wales · Died 12 September 1849 · Shrewsbury St Mary, Shrewsbury, Shropshire, England, United Kingdom · Generation 7
+Born 30 October 1792 · Castle Caereinion, Montgomeryshire, Wales · Died 12 September 1849 · Shrewsbury St Mary, Shrewsbury, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Evan Evans (L7NB-F3W)|Evan Evans]]
@@ -28,7 +28,7 @@ Born 30 October 1792 · Castle Caereinion, Montgomeryshire, Wales · Died 12 Sep
 - **Residence**: 1841 · St Mary, Shropshire, England
 - **Burial**: 13 September 1849 · Shrewsbury, Shropshire, England
 - **Residence**: Berriew
-- **data:,Ancestral%20File%20Number**: BT85-RJ
+- **Ancestral%20File%20Number**: BT85-RJ
 
 ## Photos & documents
 
@@ -77,6 +77,18 @@ _Richard Bishop’s June 13, 1867 letter to his brother John Bishop requesting d
 - [Catherine Evans, "Wales, Montgomeryshire, Parish Registers, 1538-1912"](https://familysearch.org/ark:/61903/1:1:KC14-9LT)
 - [Catherine Evan, "Wales Births and Baptisms, 1541-1907"](https://familysearch.org/ark:/61903/1:1:X1TG-879)
 - Shrewsbury, Shropshire, England parish records
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 28)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 37)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 38)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 44)_
+- **1838** — The Saints driven from Missouri _(age 46)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 52)_
+- **1846** — The exodus from Nauvoo begins _(age 54)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 55)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MRZJ-4QB)

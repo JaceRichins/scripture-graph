@@ -7,14 +7,14 @@ fs_id: KLXP-YHZ
 generation: 7
 born: 8 September 1782 · Great Glen, Leicestershire, England
 died: 28 June 1836 · Leire, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Susanna Fawkes
 
-Born 8 September 1782 · Great Glen, Leicestershire, England · Died 28 June 1836 · Leire, Leicestershire, England · Generation 7
+Born 8 September 1782 · Great Glen, Leicestershire, England · Died 28 June 1836 · Leire, Leicestershire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Arthur Fawkes (P9HK-FBH)|Arthur Fawkes]]
@@ -24,8 +24,8 @@ Born 8 September 1782 · Great Glen, Leicestershire, England · Died 28 June 183
 ## Life
 - **Birth**: 8 September 1782 · Great Glen, Leicestershire, England
 - **Death**: 28 June 1836 · Leire, Leicestershire, England
-- **data:,Baptism**: 8 Sep 1782 · Leire, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 8 Sep 1782
+- **Baptism**: 8 Sep 1782 · Leire, Leicestershire, England, United Kingdom
+- **Baptism**: 8 Sep 1782
 - **Christening**: 8 September 1782 · Leire, Leicestershire, England
 - **Burial**: 28 June 1836 · Leire, Leicestershire, England
 - **Residence**: Of This Parish
@@ -57,6 +57,14 @@ Born 8 September 1782 · Great Glen, Leicestershire, England · Died 28 June 183
 - [Susanna Fawkes, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NJ84-C4J)
 - Legacy NFS Source: Susanna Fawkes - birth: about 1786; Great Glen, Leicestershire, England, United Kingdom
 - Legacy NFS Source: Susanna Fawkes - birth: about 1786; Great Glen, Leicestershire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 38)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 47)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 48)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 54)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KLXP-YHZ)

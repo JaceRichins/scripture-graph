@@ -7,14 +7,14 @@ fs_id: LVH4-PMR
 generation: 7
 born: 29 August 1776 · Gloucestershire, England
 died: 12 December 1869 · Brimpsfield, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Jones
 
-Born 29 August 1776 · Gloucestershire, England · Died 12 December 1869 · Brimpsfield, Gloucestershire, England, United Kingdom · Generation 7
+Born 29 August 1776 · Gloucestershire, England · Died 12 December 1869 · Brimpsfield, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Robert Jones (L439-QZV)|Robert Jones]]
@@ -40,10 +40,10 @@ _Death certificate of William Jones_
 ![[AI Library/12 Family/_media/LVH4-PMR/55777317.jpg|JONES William (b 1783) marriage record for him and Elizabeth Goodwin]]
 _Not completely sure this is the same Willilam Jones...but he is married to Elizabeth Goodwin_
 
-![[AI Library/12 Family/_media/LVH4-PMR/70666464.png|Jones, William (B 1776) Information proving parents as Robert Jones and Jane Bubb]]
+![[AI Library/12 Family/_media/LVH4-PMR/70666464.jpg|Jones, William (B 1776) Information proving parents as Robert Jones and Jane Bubb]]
 
 
-![[AI Library/12 Family/_media/LVH4-PMR/70666470.png|Jones, William (B 1776) Information correcting mother]]
+![[AI Library/12 Family/_media/LVH4-PMR/70666470.jpg|Jones, William (B 1776) Information correcting mother]]
 
 
 ## Sources
@@ -65,6 +65,20 @@ _Not completely sure this is the same Willilam Jones...but he is married to Eliz
 - [William Jones in entry for Ann Jones (b.1811 Brimpsfield - d.1814 Brimpsfield), "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NLTY-L8Q)
 - Sources from the family group sheet of Earl John Stephens
 - [JONES William (b 1783) Marriage Certificate with Elizabeth Goodwin](https://www.familysearch.org/photos/artifacts/55777317)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 44)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 53)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 54)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 60)_
+- **1838** — The Saints driven from Missouri _(age 62)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 68)_
+- **1846** — The exodus from Nauvoo begins _(age 70)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 71)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 80)_
+- **1869** — The railroad reaches Utah _(age 93)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LVH4-PMR)

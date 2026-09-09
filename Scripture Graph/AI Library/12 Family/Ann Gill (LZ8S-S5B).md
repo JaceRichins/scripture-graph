@@ -7,14 +7,14 @@ fs_id: LZ8S-S5B
 generation: 6
 born: 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England
 died: 27 January 1878 · City Ceme, Salt Lake City, Salt Lake, Utah
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Gill
 
-Born 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England · Died 27 January 1878 · City Ceme, Salt Lake City, Salt Lake, Utah · Generation 6
+Born 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England · Died 27 January 1878 · City Ceme, Salt Lake City, Salt Lake, Utah · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[George Gill (LL92-592)|George Gill]]
@@ -25,14 +25,14 @@ Born 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England · Died 27 Janu
 - **Birth**: 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England
 - **Death**: 27 January 1878 · City Ceme, Salt Lake City, Salt Lake, Utah
 - **Christening**: 8 August 1795 · Arncliffe, Yorkshire, England
-- **data:,Baptism**: 8 Aug 1795 · Arncliffe, Yorkshire, England
-- **data:,Membership**: 3 August 1796 · Utah, United States
+- **Baptism**: 8 Aug 1795 · Arncliffe, Yorkshire, England
+- **Membership**: 3 August 1796 · Utah, United States
 - **Residence**: 3 Jun 1815 · Halton Gill, Yorkshire, England, United Kingdom
-- **data:,Membership**: 1828 · Utah, United States
+- **Membership**: 1828 · Utah, United States
 - **Residence**: 1841 · Whalley, Lancashire, England, United Kingdom
 - **Residence**: from 1844 to 1846 · Nauvoo, Hancock, Illinois, United States · Lived in Nauvoo, Illinois
-- **data:,Immigration**: 10-19 October 1848 · Utah, United States
-- **data:,Immigration**: 19 October 1848
+- **Immigration**: 10-19 October 1848 · Utah, United States
+- **Immigration**: 19 October 1848
 - **Residence**: 1850 · Salt Lake, Utah Territory, United States
 - **Residence**: 1860 · 14th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
 - **Burial**: 28 January 1878 · Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
@@ -42,7 +42,11 @@ Born 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England · Died 27 Janu
 
 ### Stephen Longstroth
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5918675)_
+
 ### Life of Wm Longstroth written by daughter, Alice Longstroth Petterborg
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/67025451)_
 
 ## Photos & documents
 
@@ -165,6 +169,21 @@ Born 3 August 1795 · St. Oswalds, Arncliffe, Yorkshire, England · Died 27 Janu
 - [Ann in entry for Alice Langstroth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N5FY-STR)
 - [Ann in entry for Nanny Langstroth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3FL-9PG)
 - Legacy NFS Source: Ann Gill - Published information: birth-name: Ann Gill Longstroth
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 25)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 34)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 35)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 41)_
+- **1838** — The Saints driven from Missouri _(age 43)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 49)_
+- **1846** — The exodus from Nauvoo begins _(age 51)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 52)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 61)_
+- **1869** — The railroad reaches Utah _(age 74)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZ8S-S5B)

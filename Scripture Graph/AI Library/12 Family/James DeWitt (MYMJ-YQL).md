@@ -7,14 +7,14 @@ fs_id: MYMJ-YQL
 generation: 8
 born: 1750 · Orangeburg, Orangeburg, South Carolina, British Colonial America
 died: 1790 · Colleton, Colleton, South Carolina, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James DeWitt
 
-Born 1750 · Orangeburg, Orangeburg, South Carolina, British Colonial America · Died 1790 · Colleton, Colleton, South Carolina, United States · Generation 8
+Born 1750 · Orangeburg, Orangeburg, South Carolina, British Colonial America · Died 1790 · Colleton, Colleton, South Carolina, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Rumph Dewitt (G6CT-KV2)|Sarah Rumph Dewitt]]
@@ -25,7 +25,7 @@ Born 1750 · Orangeburg, Orangeburg, South Carolina, British Colonial America ·
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/MYMJ-YQL/142127506.png|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 37]]
+![[AI Library/12 Family/_media/MYMJ-YQL/142127506.jpg|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 37]]
 _THE
 RUMPH and FREDERICK FAMILIES
 Genealogical and Biographical
@@ -37,7 +37,7 @@ Everett, Haslam, Walker, Norris, Rowe, and Other Families.
 By
 LOUISE FREDERICK HAYS_
 
-![[AI Library/12 Family/_media/MYMJ-YQL/142265777.png|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 38]]
+![[AI Library/12 Family/_media/MYMJ-YQL/142265777.jpg|THE RUMPH and FREDERICK FAMILIES Genealogical and Biographical with ALLIED FAMILIES...page 38]]
 _THE
 RUMPH and FREDERICK FAMILIES
 Genealogical and Biographical

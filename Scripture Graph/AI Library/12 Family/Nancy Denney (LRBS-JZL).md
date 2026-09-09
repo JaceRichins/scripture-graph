@@ -7,14 +7,14 @@ fs_id: LRBS-JZL
 generation: 8
 born: 1761 · Surry, North Carolina, United States
 died: after 1820 · Hart, Kentucky, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Nancy Denney
 
-Born 1761 · Surry, North Carolina, United States · Died after 1820 · Hart, Kentucky, United States · Generation 8
+Born 1761 · Surry, North Carolina, United States · Died after 1820 · Hart, Kentucky, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Joseph Elias Townsend (KC2D-CQS)|Joseph Elias Townsend]]
@@ -32,6 +32,11 @@ Born 1761 · Surry, North Carolina, United States · Died after 1820 · Hart, Ke
 - [Nancy Denney, "North Carolina, County Marriages, 1762-2011 "](https://familysearch.org/ark:/61903/1:1:XF9T-1BH)
 - Legacy NFS Source: Mary Or Polly Denny - Church record: female
 - Legacy NFS Source: Mary Or Polly Denny - Church record: female
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 59)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LRBS-JZL)

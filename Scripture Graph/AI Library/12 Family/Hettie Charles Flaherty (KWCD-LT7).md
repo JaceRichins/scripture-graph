@@ -7,18 +7,19 @@ fs_id: KWCD-LT7
 generation: 3
 born: 30 June 1910 · Van Buren, Crawford, Arkansas, United States
 died: 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hettie Charles Flaherty
 
-Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States · Generation 3
+Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June 1981 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Charles Henry Flaherty (LDF2-L92)|Charles Henry Flaherty]]
 - Mother: [[Mary Francis Emmeline Tounzen (KWJZ-B9N)|Mary Francis Emmeline Tounzen]]
+- Children in this line: [[Emma Charlee Wood (KWHC-V4C)|Emma Charlee Wood]]
 
 ## Life
 - **Birth**: 30 June 1910 · Van Buren, Crawford, Arkansas, United States
@@ -35,7 +36,11 @@ Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June
 
 ### A.R. Wood, 1930 Census, Fort Smith, Sebastian, Arkansas
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/38675009)_
+
 ### Gene Wood and Hattie C. Flaherty, 1929 Arkansas Marriage Index
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/38675424)_
 
 ## Sources
 - [Hettie Wood, "United States, Obituary Records, 2014-2023"](https://familysearch.org/ark:/61903/1:1:XMJS-W35T)
@@ -73,6 +78,13 @@ Born 30 June 1910 · Van Buren, Crawford, Arkansas, United States · Died 6 June
 - [U.S., Find A Grave Index, 1600s-Current](http://search.ancestry.com/collections/60525/records/94679764)
 - [U.S. City Directories, 1821-1989](http://search.ancestry.com/collections/2469/records/963468302)
 - [1940 United States Federal Census](http://search.ancestry.com/collections/2442/records/100972449)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 8)_
+- **1936** — The Church welfare program begins _(age 26)_
+- **1978** — [[Priesthood|The priesthood extended to all worthy men (Official Declaration 2)]] _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCD-LT7)

@@ -7,14 +7,14 @@ fs_id: K81F-WY2
 generation: 6
 born: 26 October 1816 · Botetourt, Virginia, United States
 died: 27 April 1894 · Flat Creek, Barry, Missouri, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James C. Flaherty
 
-Born 26 October 1816 · Botetourt, Virginia, United States · Died 27 April 1894 · Flat Creek, Barry, Missouri, United States · Generation 6
+Born 26 October 1816 · Botetourt, Virginia, United States · Died 27 April 1894 · Flat Creek, Barry, Missouri, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Adam O'Flaherty (KHWR-5HG)|Adam O'Flaherty]]
@@ -57,6 +57,23 @@ Born 26 October 1816 · Botetourt, Virginia, United States · Died 27 April 1894
 - [James Flaherty, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRCM-26T)
 - [James C Flaherty, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QV2W-YFRN)
 - [James Flaherty, "Virginia Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRDH-VFZ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 4)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 13)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 14)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 20)_
+- **1838** — The Saints driven from Missouri _(age 22)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 28)_
+- **1846** — The exodus from Nauvoo begins _(age 30)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 31)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 40)_
+- **1869** — The railroad reaches Utah _(age 53)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 61)_
+- **1890** — The Manifesto ends plural marriage _(age 74)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K81F-WY2)

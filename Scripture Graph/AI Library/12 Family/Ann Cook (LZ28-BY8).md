@@ -7,14 +7,14 @@ fs_id: LZ28-BY8
 generation: 8
 born: 30 January 1747 · Painswick, Gloucestershire, England
 died: 10 December 1815 · Painswick, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Cook
 
-Born 30 January 1747 · Painswick, Gloucestershire, England · Died 10 December 1815 · Painswick, Gloucestershire, England, United Kingdom · Generation 8
+Born 30 January 1747 · Painswick, Gloucestershire, England · Died 10 December 1815 · Painswick, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Haines or Haynes (LTLX-XC3)|Sarah Haines or Haynes]]

@@ -7,14 +7,14 @@ fs_id: KWV9-78X
 generation: 6
 born: 10 June 1818 · Beckbury, Shropshire, England, United Kingdom
 died: 1 November 1894 · Goshen, Juab, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Eleanor Macefield
 
-Born 10 June 1818 · Beckbury, Shropshire, England, United Kingdom · Died 1 November 1894 · Goshen, Juab, Utah, United States · Generation 6
+Born 10 June 1818 · Beckbury, Shropshire, England, United Kingdom · Died 1 November 1894 · Goshen, Juab, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Matthew Macefield (L9P7-JRY)|Matthew Macefield]]
@@ -25,11 +25,11 @@ Born 10 June 1818 · Beckbury, Shropshire, England, United Kingdom · Died 1 Nov
 - **Birth**: 10 June 1818 · Beckbury, Shropshire, England, United Kingdom
 - **Death**: 1 November 1894 · Goshen, Juab, Utah, United States
 - **Christening**: 12 July 1818 · Beckbury, Shropshire, England, United Kingdom
-- **data:,Baptism**: 12 Jul 1818 · Beckbury, Shropshire, England, United Kingdom
+- **Baptism**: 12 Jul 1818 · Beckbury, Shropshire, England, United Kingdom
 - **Residence**: 1841 · Worfield, Shropshire, England, United Kingdom
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
-- **data:,Immigration**: 1864 · Utah, United States
+- **Immigration**: 1864 · Utah, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah, United States
 - **Residence**: 1880 · Bingham, Salt Lake, Utah, United States
 - **Burial**: 1894 · Goshen, Juab, Utah, United States
@@ -51,7 +51,7 @@ _pg 3 of letter to James Fowler from his mother Ellen (Eleanor) Fowler, 1863_
 ![[AI Library/12 Family/_media/KWV9-78X/5215025.jpg|Letter to James Fowler from Ellen Fowler, his mother, pg 4 of 4]]
 _pg 4 of letter to James Fowler from his mother Ellen (Eleanor) Fowler, 1863_
 
-![[AI Library/12 Family/_media/KWV9-78X/13943063.jpeg|Macefield, Eleanor 1818 - 1894]]
+![[AI Library/12 Family/_media/KWV9-78X/13943063.jpg|Macefield, Eleanor 1818 - 1894]]
 
 
 ![[AI Library/12 Family/_media/KWV9-78X/146080516.jpg|Eleanor "Ellen" Macefield Fowler - framed]]
@@ -94,6 +94,23 @@ _A brief history with transcribed letters from parents to son James._
 - [1918 Elinor Mayfield in entry for James Fowler, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZGX-X2Y)
 - [1925 Eleanor Mayfield in entry for Brigham Fowler, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZGG-RXR)
 - Legacy NFS Source: Eleanor Macefield - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 2)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 11)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 12)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 18)_
+- **1838** — The Saints driven from Missouri _(age 20)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 26)_
+- **1846** — The exodus from Nauvoo begins _(age 28)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 29)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 38)_
+- **1869** — The railroad reaches Utah _(age 51)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 59)_
+- **1890** — The Manifesto ends plural marriage _(age 72)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV9-78X)

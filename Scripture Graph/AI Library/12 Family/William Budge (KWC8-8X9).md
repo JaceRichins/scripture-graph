@@ -7,14 +7,14 @@ fs_id: KWC8-8X9
 generation: 5
 born: 1 May 1828 · Lanark, South Lanarkshire, Scotland
 died: 18 March 1919 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Budge
 
-Born 1 May 1828 · Lanark, South Lanarkshire, Scotland · Died 18 March 1919 · Logan, Cache, Utah, United States · Generation 5
+Born 1 May 1828 · Lanark, South Lanarkshire, Scotland · Died 18 March 1919 · Logan, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[William Budge (LCDS-8BS)|William Budge]]
@@ -25,48 +25,68 @@ Born 1 May 1828 · Lanark, South Lanarkshire, Scotland · Died 18 March 1919 · 
 - **Birth**: 1 May 1828 · Lanark, South Lanarkshire, Scotland
 - **Death**: 18 March 1919 · Logan, Cache, Utah, United States
 - **Residence**: 1841 · Airdrie, Lanarkshire, Scotland, United Kingdom
-- **data:,Baptism**: 31 Dec 1848
+- **Baptism**: 31 Dec 1848
 - **Residence**: 24 November 1856 · St Giles without Cripplegate, London, England, United Kingdom · 35 Jewin Street
 - **Occupation**: before May 1860 · Scotland, United Kingdom · Gardener
-- **data:,Immigration**: from 11 May 1860 to 16 June 1860 · Liverpool, Lancashire, England, United Kingdom · Liverpool to America aboard the ship William Tapscott
+- **Immigration**: from 11 May 1860 to 16 June 1860 · Liverpool, Lancashire, England, United Kingdom · Liverpool to America aboard the ship William Tapscott
 - **Residence**: 4 August 1860 · Douglas, Nebraska Territory, United States
-- **data:,Immigration**: from 20 July 1860 to 5 October 1860 · Salt Lake City, Salt Lake, Utah Territory, United States · Overland wagon train with the William Budge Company
+- **Immigration**: from 20 July 1860 to 5 October 1860 · Salt Lake City, Salt Lake, Utah Territory, United States · Overland wagon train with the William Budge Company
 - **MilitaryService**: 1861 · Cache, Utah Territory, United States
-- **data:,High%20Priest%20Ordination**: 10 Jan 1864
+- **High%20Priest%20Ordination**: 10 Jan 1864
 - **Occupation**: 22 March 1865 · Providence, Cache, Utah, United States · Postmaster
 - **Residence**: 1870 · Providence, Cache, Utah, United States
 - **Residence**: 1880 · Paris, Bear Lake, Idaho Territory, United States
 - **Residence**: 1900 · Paris, Bear Lake, Idaho, United States
 - **Residence**: 1910 · Logan, Cache, Utah, United States
 - **Burial**: 21 March 1919 · Logan City Cemetery, Logan, Cache, Utah, United States - Plot: A-320-48-7
-- **data:,Membership**: Logan, Cache, Utah, United States
-- **data:,Membership**: Smithfield, Cache, Utah, United States
+- **Membership**: Logan, Cache, Utah, United States
+- **Membership**: Smithfield, Cache, Utah, United States
 
 ## Stories
 
 ### William Budge
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279274)_
+
 ### President Budge
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15366455)_
 
 ### William Budge was a Polygamist
 
-### Article: How I Became a "Mormon"
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16977470)_
 
 ### Article: How I Became a "Mormon"
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19328328)_
+
+### Article: How I Became a "Mormon"
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19328479)_
 
 ### Crossing the Plains
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/122077030)_
+
 ### History of Providence including David William Campbell, Ira Rice and others-Story from Elizabeth Watkins collection written by Doran J. Baker:
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/124951680)_
 
 ### 1860: "William Budge Company" Niels C. Christensen, wife Karen Nielsdatter, sons Christian and Niels in company. Father Niels dies accidentally.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/162609274)_
+
 ### 1860: "William Budge Company" Jens Pedersen Aagaard, wife Maren, 2 children and Suzannah Petersen.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/175545291)_
 
 ### continue with life sketches by Charles R. Savage daughter
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/203641613)_
+
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KWC8-8X9/463637.png|Harold Budge lived in the old William Budge Home in Paris Idaho ]]
+![[AI Library/12 Family/_media/KWC8-8X9/463637.jpg|Harold Budge lived in the old William Budge Home in Paris Idaho ]]
 _The home has been restored in the last 10 years 1994-2013_
 
 ![[AI Library/12 Family/_media/KWC8-8X9/1250933.jpg|William Budge and his sons]]
@@ -238,7 +258,7 @@ _Article written by her great granddaughter Romania Fawcett Rider
 ![[AI Library/12 Family/_media/KWC8-8X9/54389379.pdf|1889: Letter from Heber J Grant to Wilford Woodruff - Trip to Star Valley (Selecting Bishops)]]
 
 
-![[AI Library/12 Family/_media/KWC8-8X9/74164203.jpeg|Logan temple workers, taken sometime between 1906 and 1911]]
+![[AI Library/12 Family/_media/KWC8-8X9/74164203.jpg|Logan temple workers, taken sometime between 1906 and 1911]]
 
 
 ![[AI Library/12 Family/_media/KWC8-8X9/74670450.pdf|document]]
@@ -560,6 +580,24 @@ now found on internet Archives <https://dn760100.eu.archive.org/0/items/onlytrue
 
 ## In the library
 - [[Chapter 9 The Joy of Missionary Work]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 1)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 2)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 8)_
+- **1838** — The Saints driven from Missouri _(age 10)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 16)_
+- **1846** — The exodus from Nauvoo begins _(age 18)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 19)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 28)_
+- **1869** — The railroad reaches Utah _(age 41)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 49)_
+- **1890** — The Manifesto ends plural marriage _(age 62)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 65)_
+- **1896** — Utah becomes a state _(age 68)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 90)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWC8-8X9)

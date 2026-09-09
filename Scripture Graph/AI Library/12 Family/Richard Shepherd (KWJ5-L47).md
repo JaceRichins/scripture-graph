@@ -7,14 +7,14 @@ fs_id: KWJ5-L47
 generation: 6
 born: 16 June 1804 · Tynemouth, Northumberland, England, United Kingdom
 died: 24 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Shepherd
 
-Born 16 June 1804 · Tynemouth, Northumberland, England, United Kingdom · Died 24 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States · Generation 6
+Born 16 June 1804 · Tynemouth, Northumberland, England, United Kingdom · Died 24 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Richard Shepherd (K2H7-3LS)|Richard Shepherd]]
@@ -26,7 +26,7 @@ Born 16 June 1804 · Tynemouth, Northumberland, England, United Kingdom · Died 
 - **Death**: 24 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Christening**: 22 June 1804 · Christ Church, Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1804 · Tynemouth, Northumberland, England
-- **data:,Baptism**: 22 Jul 1804 · Tynemouth, Northumberland, England, United Kingdom
+- **Baptism**: 22 Jul 1804 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1851 · St Giles Camberwell, Surrey, England
 - **Residence**: 1851 · Bishops Froome, Herefordshire, England
 - **Burial**: 24 June 1866 · Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
@@ -35,7 +35,11 @@ Born 16 June 1804 · Tynemouth, Northumberland, England, United Kingdom · Died 
 
 ### Mary Park Shepherd (1836-1924)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30906309)_
+
 ### Richard Shepherd - Zion Pioneer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/112276423)_
 
 ## Photos & documents
 
@@ -116,6 +120,19 @@ _
 - [Richard Shepherd, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVKN-L5WW)
 - Legacy NFS Source: Richard Shepherd - Individual or family possessions: birth-name: Captain-Master Mariner
 - [Richard Shepherd, "United Kingdom, Merchant Navy Seamen Records, 1835-1941"](https://familysearch.org/ark:/61903/1:1:KCQR-B6Y)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 16)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 25)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 26)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 32)_
+- **1838** — The Saints driven from Missouri _(age 34)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 40)_
+- **1846** — The exodus from Nauvoo begins _(age 42)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 43)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 52)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ5-L47)

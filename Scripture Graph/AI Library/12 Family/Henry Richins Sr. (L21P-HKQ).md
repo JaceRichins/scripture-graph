@@ -7,14 +7,14 @@ fs_id: L21P-HKQ
 generation: 7
 born: 3 April 1769 · Painswick, Gloucestershire, England
 died: 23 April 1843 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Richins Sr.
 
-Born 3 April 1769 · Painswick, Gloucestershire, England · Died 23 April 1843 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 7
+Born 3 April 1769 · Painswick, Gloucestershire, England · Died 23 April 1843 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Richins Sr. (L8W7-1F6)|Thomas Richins Sr.]]
@@ -32,11 +32,15 @@ Born 3 April 1769 · Painswick, Gloucestershire, England · Died 23 April 1843 �
 
 ### William Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4169858)_
+
 ### Joseph Richins, son of Henry Richins
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62008641)_
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/L21P-HKQ/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/L21P-HKQ/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/L21P-HKQ/37456133.jpg|document]]
@@ -78,10 +82,10 @@ Born 3 April 1769 · Painswick, Gloucestershire, England · Died 23 April 1843 �
 ![[AI Library/12 Family/_media/L21P-HKQ/48016611.pdf|Henry Richings and Gloucester, Shire, England]]
 
 
-![[AI Library/12 Family/_media/L21P-HKQ/48845770.png|Death of Henry Richins ]]
+![[AI Library/12 Family/_media/L21P-HKQ/48845770.jpg|Death of Henry Richins ]]
 
 
-![[AI Library/12 Family/_media/L21P-HKQ/48846223.png|Marriage of Henry Richins and Sarah Haynes-1792]]
+![[AI Library/12 Family/_media/L21P-HKQ/48846223.jpg|Marriage of Henry Richins and Sarah Haynes-1792]]
 
 
 ![[AI Library/12 Family/_media/L21P-HKQ/50785568.jpg|Burial of Henry Richins in Sheepscombe]]
@@ -193,6 +197,15 @@ Compiled by Selma Richins Taylor and Melva Foster Richins_
 - [Henry Richins (1769 - 1843) - Find A Grave Memorial](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=RI&GSpartial=1&GSbyrel=all&GScntry=5&GSsr=2561&GRid=24485710&)
 - Legacy NFS Source: Henry Richins - Individual or family possessions: burial: 30 April 1843; Shepscombe, Gloucestershire, England, United Kingdom
 - Legacy NFS Source: Henry Richins - birth-name: Henry Richins
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 51)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 60)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 61)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 67)_
+- **1838** — The Saints driven from Missouri _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L21P-HKQ)

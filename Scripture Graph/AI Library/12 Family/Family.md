@@ -10,20 +10,28 @@ cssclasses:
 
 Our ancestors, from FamilySearch — their lives, their records, and the stories and pictures the family has kept there.
 
-## Great-grandparents
+## Jace Eugene Richins's line
+
+### Grandparents
+- [[Emma Charlee Wood (KWHC-V4C)|Emma Charlee Wood]]
+
+### Great-grandparents
 - [[Norman Tipper Richins (KWC8-FFB)|Norman Tipper Richins]]
 - [[Elva Mary Fowler (KWC8-FF1)|Elva Mary Fowler]]
+- [[Eugene Wood (LDB2-6VD)|Eugene Wood]]
 - [[Hettie Charles Flaherty (KWCD-LT7)|Hettie Charles Flaherty]]
 - [[Ernest Whitney Oldham (KWCB-YC4)|Ernest Whitney Oldham]]
 - [[Ruth Minter McBride (KWCB-YC7)|Ruth Minter McBride]]
 - [[Robert Sutton Budge (KWZM-X9J)|Robert Sutton Budge]]
 - [[June Stayner (KWZM-X9K)|June Stayner]]
 
-## 2× great-grandparents
+### 2× great-grandparents
 - [[Alma Ether Richins (LLC5-YZB)|Alma Ether Richins]]
 - [[Emeline Hattie Richins (KWCF-1GV)|Emeline Hattie Richins]]
 - [[James Henry Fowler (KWCR-4KP)|James Henry Fowler]]
 - [[Susannah Jones Stephens (KWCR-4KR)|Susannah Jones Stephens]]
+- [[George Eugene Wood (K2YW-3FQ)|George Eugene Wood]]
+- [[Flora Tempy Saylor (K2YW-38H)|Flora Tempy Saylor]]
 - [[Charles Henry Flaherty (LDF2-L92)|Charles Henry Flaherty]]
 - [[Mary Francis Emmeline Tounzen (KWJZ-B9N)|Mary Francis Emmeline Tounzen]]
 - [[Ernest Price Oldham (KWJN-ZRT)|Ernest Price Oldham]]
@@ -35,7 +43,7 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Ralph James Stayner (KWZB-ZQP)|Ralph James Stayner]]
 - [[Nina Pearl Winters (KWZB-ZQG)|Nina Pearl Winters]]
 
-## 3× great-grandparents
+### 3× great-grandparents
 - [[Edward Richins (KW8L-N6R)|Edward Richins]]
 - [[Caroline Ellen Tipper Jones (KWJ7-5QZ)|Caroline Ellen Tipper Jones]]
 - [[Charles Wager Richins (KVP1-SVD)|Charles Wager Richins]]
@@ -44,6 +52,10 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Rachel Lythgoe (KWNL-J72)|Rachel Lythgoe]]
 - [[Thomas Henry Stephens (KWNL-JWK)|Thomas Henry Stephens]]
 - [[Mary Jones (KWNL-JWJ)|Mary Jones]]
+- [[John Henry Wood (K2FG-962)|John Henry Wood]]
+- [[Arminta R Wood (LCRN-5DK)|Arminta R Wood]]
+- [[William Henry Saylor (M7G7-WJV)|William Henry Saylor]]
+- [[Mollie Davis Hannah (KWJ6-TD4)|Mollie Davis Hannah]]
 - [[Thomas Morgan Flaherty (KJWV-RMH)|Thomas Morgan Flaherty]]
 - [[Sarah Jane Patton (KJWV-R99)|Sarah Jane Patton]]
 - [[Noah Andrew Tounzen (LDCS-9WB)|Noah Andrew Tounzen]]
@@ -65,7 +77,7 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Oscar Lycortas Winters (KWCN-ST1)|Oscar Lycortas Winters]]
 - [[Florence Ella Smith (KWCN-SYM)|Florence Ella Smith]]
 
-## 4× great-grandparents
+### 4× great-grandparents
 - [[Richard Richins (LLQX-X98)|Richard Richins]]
 - [[Charlotte Priscilla Wager (LLQX-X94)|Charlotte Priscilla Wager]]
 - [[Robert Jones (KWJ7-5Q6)|Robert Jones]]
@@ -80,6 +92,14 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Susanna Ireland (L4HH-Y1L)|Susanna Ireland]]
 - [[William Jones (MVD2-WSJ)|William Jones]]
 - [[Mary Shill (LZPH-MJC)|Mary Shill]]
+- [[Obediah Wood (KL7X-1FG)|Obediah Wood]]
+- [[Sarah A Gray (KL7X-Y6R)|Sarah A Gray]]
+- [[John B Wood (KF1D-SZL)|John B Wood]]
+- [[Mary Jane Hudson (KF11-2KQ)|Mary Jane Hudson]]
+- [[Marion M Saylor (LYPV-C5N)|Marion M Saylor]]
+- [[Sarah C Pockrus (KGMZ-84R)|Sarah C Pockrus]]
+- [[Andrew Thomas Hannah (943N-VP5)|Andrew Thomas Hannah]]
+- [[Mary Jane Robinson (L7J6-DS9)|Mary Jane Robinson]]
 - [[James C. Flaherty (K81F-WY2)|James C. Flaherty]]
 - [[Mary Ann Hammett (9WTN-M77)|Mary Ann Hammett]]
 - [[Pascal Patton (LHCT-W7T)|Pascal Patton]]
@@ -121,7 +141,7 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Daniel Miley Smith Sr (KWJC-G74)|Daniel Miley Smith Sr]]
 - [[Emma Hannah Sinfield (KWJC-G7W)|Emma Hannah Sinfield]]
 
-## 5× great-grandparents
+### 5× great-grandparents
 - [[Henry Richins Sr. (L21P-HKQ)|Henry Richins Sr.]]
 - [[Sarah Haines or Haynes (LTLX-XC3)|Sarah Haines or Haynes]]
 - [[John Wager (9HTV-VNT)|John Wager]]
@@ -148,6 +168,20 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Elizabeth Goodwin (LZCP-RXK)|Elizabeth Goodwin]]
 - [[Robert Chapel Shill (KWJ7-586)|Robert Chapel Shill]]
 - [[Prudence Golding (LZPH-MQM)|Prudence Golding]]
+- [[Judge William Wood (KJDB-3H7)|Judge William Wood]]
+- [[Hannah Austin (M8Y3-L33)|Hannah Austin]]
+- [[James Robert Gray (KL7X-YQM)|James Robert Gray]]
+- [[Tabitha Jane Cooper (MWDJ-7ZM)|Tabitha Jane Cooper]]
+- [[John Ballard Hudson (GQX8-CZX)|John Ballard Hudson]]
+- [[Agnes Croucher (LCYN-L8T)|Agnes Croucher]]
+- [[David F. Sailors (MY3X-3JC)|David F. Sailors]]
+- [[Louiza Bevells (MY3X-3P7)|Louiza Bevells]]
+- [[David Frank Pockrus II (K6WM-YDG)|David Frank Pockrus II]]
+- [[Sarah Susan Acklin (LC74-H17)|Sarah Susan Acklin]]
+- [[Lemuel Hannah (L6JT-Z71)|Lemuel Hannah]]
+- [[Mrs Corinda Hannah (G331-8R6)|Mrs Corinda Hannah]]
+- [[Elijah H. Robinson (LHJK-G9G)|Elijah H. Robinson]]
+- [[Mary Ann Cameron (LHJK-GQ3)|Mary Ann Cameron]]
 - [[Adam O'Flaherty (KHWR-5HG)|Adam O'Flaherty]]
 - [[Harriett Lavender (KZKB-DT3)|Harriett Lavender]]
 - [[Charles S Hammett (LYPZ-8CH)|Charles S Hammett]]
@@ -227,7 +261,7 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Samuel Sinfield (KWJ4-5LW)|Samuel Sinfield]]
 - [[Phebe Cross (KWV9-811)|Phebe Cross]]
 
-## 6× great-grandparents
+### 6× great-grandparents
 - [[Thomas Richins Sr. (L8W7-1F6)|Thomas Richins Sr.]]
 - [[Sarah Bath (LVLW-HVT)|Sarah Bath]]
 - [[Edward Haines (LZ28-BLH)|Edward Haines]]
@@ -279,6 +313,22 @@ Our ancestors, from FamilySearch — their lives, their records, and the stories
 - [[Mary Shill (LZTG-GY5)|Mary Shill]]
 - [[Robert Golding (L4BN-6XS)|Robert Golding]]
 - [[Joan Parrey (L4BN-6VC)|Joan Parrey]]
+- [[William Obediah Wood (GFR6-MDK)|William Obediah Wood]]
+- [[Sarah Frances Charles (P4HP-3NX)|Sarah Frances Charles]]
+- [[Stephen Austin (LZVM-6QS)|Stephen Austin]]
+- [[Dorcas Pinson (2CY8-LRH)|Dorcas Pinson]]
+- [[John Hudson (LHHM-GMQ)|John Hudson]]
+- [[Elizabeth Allen (LYCZ-YX3)|Elizabeth Allen]]
+- [[William Sailors (L78N-6FY)|William Sailors]]
+- [[Elizabeth Beard (L7T1-PH5)|Elizabeth Beard]]
+- [[David Pockrus I (KN49-SHL)|David Pockrus I]]
+- [[Mary M (KV2V-W51)|Mary M]]
+- [[John Ormand Acklin (M56R-H15)|John Ormand Acklin]]
+- [[Elizabeth (K88V-195)|Elizabeth]]
+- [[James Robertson (LJ2C-RHK)|James Robertson]]
+- [[Jane (LJ2C-RCM)|Jane]]
+- [[George Cameron (LJKJ-GY2)|George Cameron]]
+- [[Mrs. Cameron (LJKJ-GBQ)|Mrs. Cameron]]
 - [[John O’Flaherty (GHH4-LLT)|John O’Flaherty]]
 - [[Honora O'Connor (GLJP-QMJ)|Honora O'Connor]]
 - [[Robert Lavendar (GK1V-P3S)|Robert Lavendar]]

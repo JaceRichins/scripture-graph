@@ -7,14 +7,14 @@ fs_id: K2XP-QFY
 generation: 8
 born: 14 July 1779 · Berwick, York, Maine, United States
 died: 19 October 1860 · Bethel, Oxford, Maine, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Aaron Frost
 
-Born 14 July 1779 · Berwick, York, Maine, United States · Died 19 October 1860 · Bethel, Oxford, Maine, United States · Generation 8
+Born 14 July 1779 · Berwick, York, Maine, United States · Died 19 October 1860 · Bethel, Oxford, Maine, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Ann Frost (KWJR-T8Y)|Mary Ann Frost]]
@@ -25,12 +25,14 @@ Born 14 July 1779 · Berwick, York, Maine, United States · Died 19 October 1860
 - **Residence**: 1779 · Berwick, York, Maine, United States
 - **Residence**: 1820 · Bethel, Oxford, Maine, United States
 - **Residence**: 1840 · Newry, Oxford, Maine, United States
-- **data:,census**: 26 July 1850 · Bethel, Oxford, Maine, United States
+- **census**: 26 July 1850 · Bethel, Oxford, Maine, United States
 - **Burial**: October 1860 · Mount Will Cemetery, Bethel, Oxford, Maine, United States
 
 ## Stories
 
 ### Frosts and Stearns
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15050910)_
 
 ## Photos & documents
 
@@ -87,6 +89,19 @@ Born 14 July 1779 · Berwick, York, Maine, United States · Died 19 October 1860
 - Legacy NFS Source: Aaron FROST - 
 - [Aaron Frost, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:M6VM-BBT)
 - [Aaron Frost, "United States Census, 1860"](https://familysearch.org/ark:/61903/1:1:MDC7-WTH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 41)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 50)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 51)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 57)_
+- **1838** — The Saints driven from Missouri _(age 59)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 65)_
+- **1846** — The exodus from Nauvoo begins _(age 67)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 68)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K2XP-QFY)

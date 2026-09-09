@@ -7,14 +7,14 @@ fs_id: 9HTV-VNT
 generation: 7
 born: 15 May 1763 · Painswick, Gloucestershire, England
 died: April 1841 · Painswick, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Wager
 
-Born 15 May 1763 · Painswick, Gloucestershire, England · Died April 1841 · Painswick, Gloucestershire, England, United Kingdom · Generation 7
+Born 15 May 1763 · Painswick, Gloucestershire, England · Died April 1841 · Painswick, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Wager (LW9M-X9J)|Thomas Wager]]
@@ -29,7 +29,7 @@ Born 15 May 1763 · Painswick, Gloucestershire, England · Died April 1841 · Pa
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/9HTV-VNT/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/9HTV-VNT/26231502.jpg|photo]]
 
 
 ## Sources
@@ -62,6 +62,15 @@ Born 15 May 1763 · Painswick, Gloucestershire, England · Died April 1841 · Pa
 - Legacy NFS Source: John Wager - 
 - Legacy NFS Source: John Wager - 
 - Legacy NFS Source: John Wager - Church record: birth-name: John Wager
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 57)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 66)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 67)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 73)_
+- **1838** — The Saints driven from Missouri _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/9HTV-VNT)

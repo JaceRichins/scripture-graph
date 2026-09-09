@@ -7,14 +7,14 @@ fs_id: LZ4J-D11
 generation: 8
 born: 2 December 1753 · Hanmer, Flintshire, Wales, United Kingdom
 died: 1 May 1801 · Hanmer, Flintshire, Wales, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Edward Price
 
-Born 2 December 1753 · Hanmer, Flintshire, Wales, United Kingdom · Died 1 May 1801 · Hanmer, Flintshire, Wales, United Kingdom · Generation 8
+Born 2 December 1753 · Hanmer, Flintshire, Wales, United Kingdom · Died 1 May 1801 · Hanmer, Flintshire, Wales, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Peter Price (LCRJ-433)|Peter Price]]

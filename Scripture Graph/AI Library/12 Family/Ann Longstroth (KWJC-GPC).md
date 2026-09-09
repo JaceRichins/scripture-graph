@@ -7,14 +7,14 @@ fs_id: KWJC-GPC
 generation: 5
 born: 15 July 1837 · Salford, Lancashire, England, United Kingdom
 died: 30 June 1926 · Mendon, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Longstroth
 
-Born 15 July 1837 · Salford, Lancashire, England, United Kingdom · Died 30 June 1926 · Mendon, Cache, Utah, United States · Generation 5
+Born 15 July 1837 · Salford, Lancashire, England, United Kingdom · Died 30 June 1926 · Mendon, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Stephen Longstroth (KWJY-1YP)|Stephen Longstroth]]
@@ -24,12 +24,12 @@ Born 15 July 1837 · Salford, Lancashire, England, United Kingdom · Died 30 Jun
 ## Life
 - **Birth**: 15 July 1837 · Salford, Lancashire, England, United Kingdom
 - **Death**: 30 June 1926 · Mendon, Cache, Utah, United States
-- **data:,Birth%20Registration**: 1837 · Clitheroe, Lancashire, England
+- **Birth%20Registration**: 1837 · Clitheroe, Lancashire, England
 - **Residence**: 1841 · Whalley, Lancashire, England, United Kingdom
-- **data:,Immigration**: 1842
+- **Immigration**: 1842
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
-- **data:,Immigration**: 1843
-- **data:,Immigration**: 19 Oct 1848 · Utah, United States
+- **Immigration**: 1843
+- **Immigration**: 19 Oct 1848 · Utah, United States
 - **Residence**: 1850 · Great Salt Lake county, Great Salt Lake, Utah Territory, United States
 - **Residence**: 1860 · 18th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah Territory, United States
@@ -119,6 +119,21 @@ _Taken the day that Byron Miller Whitney was born_
 - [Ann L Whitney, "United States, Census, 1910"](https://familysearch.org/ark:/61903/1:1:XMBM-1TM)
 - [Ann L Whitney, "United States, Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRJ-7Q6)
 - [Find A Grave for Ann Longstroth Whitney](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=54900670)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1838** — The Saints driven from Missouri _(age 1)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 7)_
+- **1846** — The exodus from Nauvoo begins _(age 9)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 10)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 19)_
+- **1869** — The railroad reaches Utah _(age 32)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 40)_
+- **1890** — The Manifesto ends plural marriage _(age 53)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 56)_
+- **1896** — Utah becomes a state _(age 59)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 81)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-GPC)

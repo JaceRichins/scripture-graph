@@ -7,14 +7,14 @@ fs_id: KWC8-8XS
 generation: 5
 born: 25 January 1853 · Bountiful, Davis, Utah Territory, United States
 died: 31 March 1931 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Hyer
 
-Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 31 March 1931 · Logan, Cache, Utah, United States · Generation 5
+Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 31 March 1931 · Logan, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Christian Larsen Hyer (KWJH-WBR)|Christian Larsen Hyer]]
@@ -30,6 +30,8 @@ Born 25 January 1853 · Bountiful, Davis, Utah Territory, United States · Died 
 ## Stories
 
 ### Story of grat grandma Anderson
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15552146)_
 
 ## Photos & documents
 
@@ -189,6 +191,17 @@ _Obituary of Oliver H Budge in Box Elder News 13 July 1965_
 - [Ann Hyer Budge, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVKH-5FVH)
 - [Headstone image of Ann Hyer Budge from billiongraves.com](http://billiongraves.com/pages/record/AnnHyerBudge/3951371?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink)
 - [cemetery record for Ann  Hyer Budge](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=35654830)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 3)_
+- **1869** — The railroad reaches Utah _(age 16)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 24)_
+- **1890** — The Manifesto ends plural marriage _(age 37)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 40)_
+- **1896** — Utah becomes a state _(age 43)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 65)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWC8-8XS)

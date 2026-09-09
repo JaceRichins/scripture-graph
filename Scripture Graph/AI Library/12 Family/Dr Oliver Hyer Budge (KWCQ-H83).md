@@ -7,14 +7,14 @@ fs_id: KWCQ-H83
 generation: 4
 born: 3 April 1872 · Paris, Bear Lake, Idaho, United States
 died: 10 July 1965 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Dr Oliver Hyer Budge
 
-Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965 · Logan, Cache, Utah, United States · Generation 4
+Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[William Budge (KWC8-8X9)|William Budge]]
@@ -26,23 +26,25 @@ Born 3 April 1872 · Paris, Bear Lake, Idaho, United States · Died 10 July 1965
 - **Death**: 10 July 1965 · Logan, Cache, Utah, United States
 - **Christening**: 11 April 1872 · Paris, Oneida, Idaho Territory, United States
 - **Residence**: 1880 · Paris, Bear Lake, Idaho, United States
-- **data:,Passport%20Application**: 1896 · Idaho, United States
+- **Passport%20Application**: 1896 · Idaho, United States
 - **Residence**: 1900 · ED 15 Paris, Dingle Precincts Paris city, Bear Lake, Idaho, United States
-- **data:,High%20Priest%20Ordination**: 2 Dec 1901
+- **High%20Priest%20Ordination**: 2 Dec 1901
 - **Residence**: 1910 · Logan Ward 4, , Utah
 - **Residence**: 1920 · River Heights, Cache, Utah, United States
-- **data:,Mission**: German-Austrian · Oliver Hyer Budge - German-Austrian
+- **Mission**: German-Austrian · Oliver Hyer Budge - German-Austrian
 - **Residence**: 1930 · Logan, Cache, Utah, United States
 - **Residence**: 1940 · Logan Election Precinct, Logan, Ward 3, Cache, Utah
 - **Residence**: 1950 · Logan, Cache, Utah, United States
-- **data:,USER_DEFINED**: 1965 · Brigham City, Box Elder, Utah, United States · Obituary
+- **USER_DEFINED**: 1965 · Brigham City, Box Elder, Utah, United States · Obituary
 - **Burial**: 14 July 1965 · Logan Cemetery, Logan, Cache, Utah, United States
 - **Residence**: Paris, Idaho
-- **data:,Membership**: Smithfield, Cache, Utah, United States
+- **Membership**: Smithfield, Cache, Utah, United States
 
 ## Stories
 
 ### Budge Cabin up Logan Canyon
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2716181)_
 
 ## Photos & documents
 
@@ -214,10 +216,10 @@ _i'm not sure about the one labeled "Julie Wendells Girl" - I can only see recor
 ![[AI Library/12 Family/_media/KWCQ-H83/60659741.jpg|Mack, O H , Margaret, Bob, & Omar]]
 
 
-![[AI Library/12 Family/_media/KWCQ-H83/61237421.png|Dr. & Mrs. Budge German-Austrian Mission]]
+![[AI Library/12 Family/_media/KWCQ-H83/61237421.jpg|Dr. & Mrs. Budge German-Austrian Mission]]
 _Salt Lake Tribune_
 
-![[AI Library/12 Family/_media/KWCQ-H83/61248256.png|Family Gathering Honors Dr. Budge]]
+![[AI Library/12 Family/_media/KWCQ-H83/61248256.jpg|Family Gathering Honors Dr. Budge]]
 _Salt Lake Tribune_
 
 ![[AI Library/12 Family/_media/KWCQ-H83/71058126.jpg|Family Picture while Bob is in Korea.]]
@@ -265,10 +267,10 @@ _Farewell dinner for Pres. & Sister Budge, and Bob at mission office._
 ![[AI Library/12 Family/_media/KWCQ-H83/102441927.jpg|President Budge with elderly church member German Austrian Mission]]
 
 
-![[AI Library/12 Family/_media/KWCQ-H83/106432066.tiff|German-Austrian Mission: Königsberg & Masuren Districts Conference, Königsberg, October 1932.]]
+![[AI Library/12 Family/_media/KWCQ-H83/106432066.jpg|German-Austrian Mission: Königsberg & Masuren Districts Conference, Königsberg, October 1932.]]
 _Conference of the Königsberg and Masuren Districts, German-Austrian Mission, Church of Jesus Christ of Latter-day Saints_
 
-![[AI Library/12 Family/_media/KWCQ-H83/112093843.jpeg|Cardon family reunion]]
+![[AI Library/12 Family/_media/KWCQ-H83/112093843.jpg|Cardon family reunion]]
 
 
 ![[AI Library/12 Family/_media/KWCQ-H83/124086994.pdf|Ann Hyer Budge History]]
@@ -373,6 +375,16 @@ _An article about Dr. Robert S. Budge (Oliver's son) from the Church News._
 - [O. H. Bridge, "Utah, County Marriages, 1871-1941"](https://familysearch.org/ark:/61903/1:1:KSPQ-XR2)
 - [Oliver H Budge, "The Church of Jesus Christ of Latter-day Saints, Missionary Registers (Worldwide), 1860-1937"](https://familysearch.org/ark:/61903/1:1:QKD4-M38G)
 - [Oliver Hyer Budge, "Utah, County Marriages, 1871-1941"](https://familysearch.org/ark:/61903/1:1:X21B-FJW)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 5)_
+- **1890** — The Manifesto ends plural marriage _(age 18)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 21)_
+- **1896** — Utah becomes a state _(age 24)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 46)_
+- **1936** — The Church welfare program begins _(age 64)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCQ-H83)

@@ -7,14 +7,14 @@ fs_id: KWNL-J72
 generation: 5
 born: 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom
 died: 9 March 1887 · Henefer, Summit, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Rachel Lythgoe
 
-Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 March 1887 · Henefer, Summit, Utah Territory, United States · Generation 5
+Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 March 1887 · Henefer, Summit, Utah Territory, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Thomas Lythgoe (LLMZ-T6D)|Thomas Lythgoe]]
@@ -27,9 +27,9 @@ Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 Ma
 - **Residence**: 1851 · Worsley, Lancashire, England
 - **Residence**: 1851 · Worsley, Lancashire, England, United Kingdom
 - **Residence**: 1861 · Pendlebury, Lancashire, England
-- **data:,Financial%20Transaction**: 14 Jul 1864
-- **data:,Emigration**: 15 Jul 1864
-- **data:,Immigration**: 20 Sep 1864 · Deseret, United States
+- **Financial%20Transaction**: 14 Jul 1864
+- **Emigration**: 15 Jul 1864
+- **Immigration**: 20 Sep 1864 · Deseret, United States
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
 - **Burial**: 11 March 1887 · Henefer Cemetery, Henefer, Summit, Utah, United States
 
@@ -37,7 +37,11 @@ Born 27 May 1847 · Pendlebury, Lancashire, England, United Kingdom · Died 9 Ma
 
 ### Grandma Inez Shill Eakins Life Story
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4854479)_
+
 ### Short History of Rachel Lythgoe Fowler
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5216619)_
 
 ## Photos & documents
 
@@ -95,6 +99,14 @@ _This is a headstone found on the Henneferville 1st Cemetery in Hennefer, Utah. 
 - Legacy NFS Source: Rachel Lythgoe - 
 - [England Census Records](http://www.ancestry.com)
 - [England Births and Christenings, 1538-1975](http://familysearch.org)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 0)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 9)_
+- **1869** — The railroad reaches Utah _(age 22)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 30)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNL-J72)

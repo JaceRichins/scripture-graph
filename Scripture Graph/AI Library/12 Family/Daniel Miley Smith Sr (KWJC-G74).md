@@ -7,14 +7,14 @@ fs_id: KWJC-G74
 generation: 6
 born: 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States
 died: 26 April 1905 · Pleasant Grove, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Daniel Miley Smith Sr
 
-Born 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States · Died 26 April 1905 · Pleasant Grove, Utah, Utah, United States · Generation 6
+Born 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States · Died 26 April 1905 · Pleasant Grove, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Conrad Smith (L5FC-V4D)|Conrad Smith]]
@@ -25,8 +25,8 @@ Born 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States · D
 - **Birth**: 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States
 - **Death**: 26 April 1905 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1850 · Quincy, Franklin, Pennsylvania, United States
-- **data:,Emigration**: 6 June 1859
-- **data:,Immigration**: 01 Sep 1859 · Utah, United States
+- **Emigration**: 6 June 1859
+- **Immigration**: 01 Sep 1859 · Utah, United States
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1900 · Pleasant Grove Precinct Pleasant Grove city, Utah, Utah, United States
@@ -36,17 +36,31 @@ Born 28 July 1838 · Quincy Township, Franklin, Pennsylvania, United States · D
 
 ### Daniel Miley Smith, Jr.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/572976)_
+
 ### Daniel Miley Smith
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3561904)_
 
 ### Daniel Miley Smith Emigrant Pioneer
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14780678)_
+
 ### Daniel Miley Smith home at 420 East 300 South, Pleasant Grove, Utah
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/17819398)_
 
 ### Biography of Daniel Miley Smith by Alvira Olpin
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18547924)_
+
 ### Daniel Miley Smith - His Pioneer Journey 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/40715057)_
+
 ### Samuel Young tells stories of the Pioneer Company Daniel Miley Smith also traveled with-
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/71574826)_
 
 ## Photos & documents
 
@@ -81,7 +95,7 @@ _Daniel Miley Smith -Had a Nursery with trees and flowers as a business in Pleas
 ![[AI Library/12 Family/_media/KWJC-G74/31566219.pdf|Life of Daniel Miley Smithy]]
 
 
-![[AI Library/12 Family/_media/KWJC-G74/33041225.png|Conrad Smith, 1850 census]]
+![[AI Library/12 Family/_media/KWJC-G74/33041225.jpg|Conrad Smith, 1850 census]]
 
 
 ![[AI Library/12 Family/_media/KWJC-G74/33968996.jpg|Daniel Miley Smith Sr. (retouched)]]
@@ -95,13 +109,13 @@ _Daniel Miley Smith, Sr. (Luretha's grandfather) home where Luretha May Smith li
  Click the photo to tag Luretha May Smith
 Actions ▾_
 
-![[AI Library/12 Family/_media/KWJC-G74/34052606.jpeg|Daniel Miley Smith and Emma Hannah Sinfield  Wedding Picture]]
+![[AI Library/12 Family/_media/KWJC-G74/34052606.jpg|Daniel Miley Smith and Emma Hannah Sinfield  Wedding Picture]]
 _Wedding Picture of Daniel and Emma Smith_
 
-![[AI Library/12 Family/_media/KWJC-G74/34052633.jpeg|Daniel Miley Smith Sr]]
+![[AI Library/12 Family/_media/KWJC-G74/34052633.jpg|Daniel Miley Smith Sr]]
 _Max's Grandfather Daniel Miley Smith "Penn. Dutch"- this is where the German in our family comes from. This is the caption on the back of this picture._
 
-![[AI Library/12 Family/_media/KWJC-G74/34052675.jpeg|Daniel Miley Smith Farm about 1900 Pleasant Grove Utah]]
+![[AI Library/12 Family/_media/KWJC-G74/34052675.jpg|Daniel Miley Smith Farm about 1900 Pleasant Grove Utah]]
 
 
 ![[AI Library/12 Family/_media/KWJC-G74/71574493.jpg|The Restored Daniel Miley Smith Home 3rd South 4th East in Pleasant Grove , Utah]]
@@ -203,6 +217,20 @@ _https://www.ancestry.com/discoveryui-content/view/4434:6967?tid=&pid=&queryId=3
 - Legacy NFS Source: Daniel Miley Smith - birth: 28 July 1838; Quincy, Franklin, Pennsylvania, United States
 - Legacy NFS Source: Daniel Miley Smith - 
 - Legacy NFS Source: Daniel Miley Smith - Individual or family possessions: birth: 28 July 1836; Quincy, Franklin, Pennsylvania, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1838** — The Saints driven from Missouri _(age 0)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 6)_
+- **1846** — The exodus from Nauvoo begins _(age 8)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 9)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 18)_
+- **1869** — The railroad reaches Utah _(age 31)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 39)_
+- **1890** — The Manifesto ends plural marriage _(age 52)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 55)_
+- **1896** — Utah becomes a state _(age 58)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJC-G74)

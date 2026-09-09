@@ -7,14 +7,14 @@ fs_id: LL92-592
 generation: 7
 born: 1756 · Arncliffe, Yorkshire, England
 died: 7 March 1834 · Arncliffe, Yorkshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Gill
 
-Born 1756 · Arncliffe, Yorkshire, England · Died 7 March 1834 · Arncliffe, Yorkshire, England, United Kingdom · Generation 7
+Born 1756 · Arncliffe, Yorkshire, England · Died 7 March 1834 · Arncliffe, Yorkshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Gill (LL92-5SC)|John Gill]]
@@ -24,7 +24,7 @@ Born 1756 · Arncliffe, Yorkshire, England · Died 7 March 1834 · Arncliffe, Yo
 ## Life
 - **Birth**: 1756 · Arncliffe, Yorkshire, England
 - **Death**: 7 March 1834 · Arncliffe, Yorkshire, England, United Kingdom
-- **data:,Baptism**: 1757 · Addingham, Yorkshire, England, United Kingdom
+- **Baptism**: 1757 · Addingham, Yorkshire, England, United Kingdom
 - **Christening**: 13 November 1757 · Addingham, Yorkshire, England
 - **Residence**: Mar 1794 · Arncliffe, Yorkshire, England
 - **Residence**: Ingleby Arncliffe, Yorkshire, England, United Kingdom
@@ -60,6 +60,13 @@ Born 1756 · Arncliffe, Yorkshire, England · Died 7 March 1834 · Arncliffe, Yo
 - [George Gill in entry for Elizabeth Ann Gill, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N23J-JD8)
 - [George Gill, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:N23Z-LJ5)
 - [George Gill in entry for John Gill, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:V5GL-PCN)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 64)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 73)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 74)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LL92-592)

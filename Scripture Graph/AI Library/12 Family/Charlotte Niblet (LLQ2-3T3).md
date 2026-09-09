@@ -7,14 +7,14 @@ fs_id: LLQ2-3T3
 generation: 8
 born: 13 Apr 1789 · Malvern or Great Malvern or Northern Malvern, Worcestershire, , England
 died: 19 April 1857 · Boston, Suffolk, Massachusetts, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charlotte Niblet
 
-Born 13 Apr 1789 · Malvern or Great Malvern or Northern Malvern, Worcestershire, , England · Died 19 April 1857 · Boston, Suffolk, Massachusetts, United States · Generation 8
+Born 13 Apr 1789 · Malvern or Great Malvern or Northern Malvern, Worcestershire, , England · Died 19 April 1857 · Boston, Suffolk, Massachusetts, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Steed (KWV3-2CV)|Ann Steed]]
@@ -24,7 +24,7 @@ Born 13 Apr 1789 · Malvern or Great Malvern or Northern Malvern, Worcestershire
 - **Death**: 19 April 1857 · Boston, Suffolk, Massachusetts, United States
 - **Christening**: 25 December 1790 · North Malvern, Worcestershire, England
 - **Burial**: 20 April 1857 · East Bennington Street Cemetery, Boston, Suffolk, Massachusetts, United States
-- **data:,Immigration**: 25 April 1857 · Boston, Suffolk, Massachusetts, United States · Arrived at Boston, Suffolk, MA, United States
+- **Immigration**: 25 April 1857 · Boston, Suffolk, Massachusetts, United States · Arrived at Boston, Suffolk, MA, United States
 
 ## Photos & documents
 
@@ -55,7 +55,7 @@ _Page 1) Biography of Louise Turner Haight &amp; Her parents Henry and Ann Steed
 ![[AI Library/12 Family/_media/LLQ2-3T3/106269711.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LLQ2-3T3/125555797.png|Niblett Family Crest Pendant ]]
+![[AI Library/12 Family/_media/LLQ2-3T3/125555797.jpg|Niblett Family Crest Pendant ]]
 
 
 ![[AI Library/12 Family/_media/LLQ2-3T3/148798867.jpg|Marriage Certificate]]
@@ -111,6 +111,19 @@ _photo of common grave where Charlotte Niblet Steed was laid to rest_
 - [Charlotte in entry for George Steed, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NVMB-191)
 - [Charlotte Niblett, "England Marriages, 1538–1973  "](https://familysearch.org/ark:/61903/1:1:V5VH-QX1)
 - [England Deaths and Burials, 1538-1991](https://familysearch.org/ark:/61903/1:1:J82C-FWT)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 31)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 40)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 41)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 47)_
+- **1838** — The Saints driven from Missouri _(age 49)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 55)_
+- **1846** — The exodus from Nauvoo begins _(age 57)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 58)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQ2-3T3)

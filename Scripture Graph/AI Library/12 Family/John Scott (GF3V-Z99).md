@@ -7,14 +7,14 @@ fs_id: GF3V-Z99
 generation: 8
 born: 1710 · Lanarkshire, Scotland
 died: 1760 · Rowan, North Carolina, USA
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Scott
 
-Born 1710 · Lanarkshire, Scotland · Died 1760 · Rowan, North Carolina, USA · Generation 8
+Born 1710 · Lanarkshire, Scotland · Died 1760 · Rowan, North Carolina, USA · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Scott (LW6R-DD2)|Thomas Scott]]

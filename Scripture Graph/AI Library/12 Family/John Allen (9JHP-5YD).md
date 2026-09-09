@@ -7,14 +7,14 @@ fs_id: 9JHP-5YD
 generation: 8
 born: 1735 · Leicestershire, England
 died: '1807'
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Allen
 
-Born 1735 · Leicestershire, England · Died 1807 · Generation 8
+Born 1735 · Leicestershire, England · Died 1807 · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Charles Allen (KZKF-H8R)|Charles Allen]]
@@ -22,8 +22,8 @@ Born 1735 · Leicestershire, England · Died 1807 · Generation 8
 ## Life
 - **Birth**: 1735 · Leicestershire, England
 - **Death**: 1807
-- **data:,Baptism**: 7 Mar 1738
-- **data:,Baptism**: 7 March 1738 · Kimcote, Leicestershire, England, United Kingdom
+- **Baptism**: 7 Mar 1738
+- **Baptism**: 7 March 1738 · Kimcote, Leicestershire, England, United Kingdom
 - **Christening**: 7 March 1738 · Kimcote, Leicestershire, England
 - **Burial**: 27 November 1807 · North Kilworth, Leicester, England
 - **Residence**: North Kilworth

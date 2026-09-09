@@ -7,14 +7,14 @@ fs_id: LW6R-DD2
 generation: 7
 born: 1736 · Douglas, Lanarkshire, Scotland
 died: about 1796 · Scotland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Scott
 
-Born 1736 · Douglas, Lanarkshire, Scotland · Died about 1796 · Scotland · Generation 7
+Born 1736 · Douglas, Lanarkshire, Scotland · Died about 1796 · Scotland · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Scott (GF3V-Z99)|John Scott]]

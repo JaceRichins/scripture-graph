@@ -7,14 +7,14 @@ fs_id: MGDS-KDY
 generation: 8
 born: 16 February 1739 · Derby, New Haven, Connecticut, British Colonial America
 died: 12 November 1805 · Derby, New Haven, Connecticut, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Holbrook
 
-Born 16 February 1739 · Derby, New Haven, Connecticut, British Colonial America · Died 12 November 1805 · Derby, New Haven, Connecticut, United States · Generation 8
+Born 16 February 1739 · Derby, New Haven, Connecticut, British Colonial America · Died 12 November 1805 · Derby, New Haven, Connecticut, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Gibson Smith (L41T-FHY)|Gibson Smith]]
@@ -25,7 +25,7 @@ Born 16 February 1739 · Derby, New Haven, Connecticut, British Colonial America
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/MGDS-KDY/213741377.png|genealogy of Daniel Holbrook given by himself]]
+![[AI Library/12 Family/_media/MGDS-KDY/213741377.jpg|genealogy of Daniel Holbrook given by himself]]
 _hand written genealogy of Daniel's parents and siblings birth and death dates_
 
 ## Sources

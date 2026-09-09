@@ -7,14 +7,14 @@ fs_id: KWZB-ZQP
 generation: 4
 born: 9 January 1889 · Farmington, Davis, Utah, United States
 died: 7 December 1961 · Logan, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ralph James Stayner
 
-Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December 1961 · Logan, Cache, Utah, United States · Generation 4
+Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December 1961 · Logan, Cache, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Herbert Stayner (KWJ6-HVX)|Herbert Stayner]]
@@ -24,19 +24,19 @@ Born 9 January 1889 · Farmington, Davis, Utah, United States · Died 7 December
 ## Life
 - **Birth**: 9 January 1889 · Farmington, Davis, Utah, United States
 - **Death**: 7 December 1961 · Logan, Cache, Utah, United States
-- **data:,Blessing**: 7 Mar 1889
-- **data:,Baptism**: 1897
+- **Blessing**: 7 Mar 1889
+- **Baptism**: 1897
 - **Residence**: 1900 · ED 207 Plymouth Precinct Fielding, Box Elder, Utah, United States
-- **data:,Mission**: 1909 · Great Britain
-- **data:,Passport%20Application**: 1909 · Utah, United States
-- **data:,Draft%20Registration**: 1917-1918 · Carbon County, Davis County, Utah, United States
-- **data:,Military%20Draft%20Registration**: 1917-1918 · Price, Carbon, Utah, United States
+- **Mission**: 1909 · Great Britain
+- **Passport%20Application**: 1909 · Utah, United States
+- **Draft%20Registration**: 1917-1918 · Carbon County, Davis County, Utah, United States
+- **Military%20Draft%20Registration**: 1917-1918 · Price, Carbon, Utah, United States
 - **Residence**: from 1918 to 1919 · Utah, United States
 - **Burial**: 11 December 1961 · Fielding, Box Elder, Utah, United States
 - **Residence**: Fielding, Box Elder, Utah, United States
 - **Residence**: Evanston, Uinta, Wyoming, United States
-- **data:,Membership**: Farmington, Davis, Utah, United States
-- **data:,Membership**: Bear Lake, Idaho, United States
+- **Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Bear Lake, Idaho, United States
 
 ## Photos & documents
 
@@ -114,6 +114,15 @@ _Mission_
 - [Ralph James Stayner, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWY-19V)
 - [Ralph Stayner, "United States Census, 1920"](https://familysearch.org/ark:/61903/1:1:M8PC-THC)
 - [Ralph J Staynor, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH67-9CR)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1890** — The Manifesto ends plural marriage _(age 1)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 4)_
+- **1896** — Utah becomes a state _(age 7)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 29)_
+- **1936** — The Church welfare program begins _(age 47)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWZB-ZQP)

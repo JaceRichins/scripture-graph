@@ -289,11 +289,22 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
             continue
         f = cache / f"{pid}.json"
         if f.exists() and not refresh:
-            d = json.loads(f.read_text(encoding="utf-8"))
-            pr.facts, pr.sources, pr.memories = d.get("facts", []), d.get("sources", []), d.get("memories", [])
-            pr.name = d.get("name") or pr.name
-            stats["skipped_cached"] += 1
-            continue
+            try:
+                d = json.loads(f.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                d = None
+            if d is not None:
+                pr.facts, pr.sources, pr.memories = d.get("facts", []), d.get("sources", []), d.get("memories", [])
+                pr.name = d.get("name") or pr.name
+                # a memory that never landed (a story the first pass couldn't
+                # read) is asked for again; the ones on disk are left alone
+                for m in pr.memories:
+                    if m.get("kind") == "story" and m.get("text") and ("ftypisom" in m["text"][:64] or m["text"].lstrip().startswith("%PDF")):
+                        m["file"] = None; m["text"] = None      # saved as text by mistake: fetched again as a file
+                if not any(not m.get("file") for m in pr.memories):
+                    stats["skipped_cached"] += 1
+                    continue
+                log.info("family.repair", pid=pid, missing=sum(1 for m in pr.memories if not m.get("file")))
         detail = get_json(sid, f"/platform/tree/persons/{pid}")
         if detail:
             person = (detail.get("persons") or [{}])[0]
@@ -371,7 +382,16 @@ def pull(ctx: Ctx, sid: str, people: dict[str, Person], log, refresh: bool = Fal
                             log.warn("family.media_failed", pid=pid, mem=mem["id"], error=" | ".join(errs)[:160] or "empty")
                         if got:
                             data, ctype = got
-                            if ctype.startswith("text/") or mem["kind"] == "story":
+                            # trust the bytes over the label: a "story" that is really a
+                            # recording or a scan is kept as the file it is
+                            head = data[:16]
+                            sniffed = ("video/mp4" if head[4:8] == b"ftyp" else "application/pdf" if head.startswith(b"%PDF")
+                                       else "image/jpeg" if head.startswith(b"\xff\xd8") else "image/png" if head.startswith(b"\x89PNG")
+                                       else "audio/mpeg" if head.startswith((b"ID3", b"\xff\xfb")) else None)
+                            if sniffed:
+                                ctype = sniffed
+                                mem["kind"] = "audio" if sniffed.startswith(("video", "audio")) else "document" if sniffed == "application/pdf" else "photo"
+                            if ctype.startswith("text/") or (mem["kind"] == "story" and not sniffed):
                                 text = data.decode("utf-8", errors="replace")
                                 if "html" in ctype:
                                     text = re.sub(r"<[^>]+>", " ", text)
@@ -578,13 +598,24 @@ def build(ctx: Ctx, log, partial: bool = False) -> int:
         if media:
             lines += ["## Photos & documents", ""]
             vdir = ctx.vault / MEDIA / pid
+            docs: list[str] = []
             for m in media:
                 cap = m["title"] or m["description"] or m["kind"]
                 fname = m["file"]
                 # an original that was shrunk carries a new extension in the vault
                 if not (vdir / fname).exists() and (vdir / f"{Path(fname).stem}.jpg").exists():
                     fname = f"{Path(fname).stem}.jpg"
+                if fname.lower().endswith((".pdf", ".mp3", ".m4a", ".wav")):
+                    # documents and sound are big: a link that fetches only when tapped, not an embed
+                    try:
+                        mb = (vdir / fname).stat().st_size / 1e6
+                    except OSError:
+                        mb = 0
+                    docs.append(f"- 📄 [[{MEDIA}/{pid}/{fname}|{cap}]]" + (f" _({mb:.1f} MB)_" if mb else ""))
+                    continue
                 lines += [f"![[{MEDIA}/{pid}/{fname}|{cap}]]", (f"_{m['description']}_" if m["description"] and m["title"] else ""), ""]
+            if docs:
+                lines += ["### Documents", *docs, ""]
         if pr.sources:
             lines += ["## Sources", *[f"- [{s['title'] or 'Record'}]({s['about']})" if s.get("about") else f"- {s['title'] or 'Record'}"
                                       for s in pr.sources], ""]

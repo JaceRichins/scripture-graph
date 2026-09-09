@@ -7,14 +7,14 @@ fs_id: LZVM-GFB
 generation: 8
 born: before 17 June 1753 · Idbury, Oxfordshire, England
 died: before 22 February 1835 · Idbury, Oxfordshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Ovard
 
-Born before 17 June 1753 · Idbury, Oxfordshire, England · Died before 22 February 1835 · Idbury, Oxfordshire, England, United Kingdom · Generation 8
+Born before 17 June 1753 · Idbury, Oxfordshire, England · Died before 22 February 1835 · Idbury, Oxfordshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Ovard (KWJB-7C2)|William Ovard]]
@@ -42,6 +42,13 @@ Born before 17 June 1753 · Idbury, Oxfordshire, England · Died before 22 Febru
 - [Richard Holford, "England, Warwickshire, Parish Registers, 1535-1972"](https://familysearch.org/ark:/61903/1:1:VHX6-SZ1)
 - Marriage of Richard Ovard and Elizabeth Castle (1757- ) Burmington, Warwickshire, England
 - Legacy NFS Source: Richard OVARD - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 67)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 76)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZVM-GFB)

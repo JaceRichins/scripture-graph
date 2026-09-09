@@ -7,14 +7,14 @@ fs_id: KWV9-ZK2
 generation: 6
 born: 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom
 died: 1 January 1906 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Jeremiah Price
 
-Born 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom · Died 1 January 1906 · Paradise, Cache, Utah, United States · Generation 6
+Born 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom · Died 1 January 1906 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Peter Price (LCRJ-433)|Peter Price]]
@@ -25,12 +25,12 @@ Born 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom · Died 1 
 - **Birth**: 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom
 - **Death**: 1 January 1906 · Paradise, Cache, Utah, United States
 - **Christening**: 30 August  1818 · Ellesmere, Shropshire, England
-- **data:,Baptism**: 30 August 1818 · Ellesmere, Shropshire, England, United Kingdom
+- **Baptism**: 30 August 1818 · Ellesmere, Shropshire, England, United Kingdom
 - **Immigration**: 10 January 1852 · Liverpool, Lancashire, England, United Kingdom · Departure from Liverpool, England
-- **data:,Immigration**: 1852 · Utah, United States
+- **Immigration**: 1852 · Utah, United States
 - **Residence**: 1860 · Cache, Utah, United States
-- **data:,census**: 1870 · Paradise, Cache, Utah, United States · United States federal 
-- **data:,census**: 1880 · Paradise, Cache, Utah, United States · United States federal
+- **census**: 1870 · Paradise, Cache, Utah, United States · United States federal 
+- **census**: 1880 · Paradise, Cache, Utah, United States · United States federal
 - **Residence**: 1900 · Avon, Cache, Utah, United States
 - **Burial**: 1906 · Paradise Cemetery, Paradise, Cache, Utah, United States
 - **Residence**: Ellesmere, Shropshire, England
@@ -39,18 +39,32 @@ Born 14 August 1818 · Ellesmere, Shropshire, England, United Kingdom · Died 1 
 
 ### findagrave.com
 
-### Edward Jeremiah Price
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/843998)_
 
 ### Edward Jeremiah Price
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/899802)_
+
+### Edward Jeremiah Price
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15162567)_
 
 ### Mary Jane Bishop
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15165693)_
+
 ### EDWARD JEREMIAH PRICE and MARY JANE BISHOP 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/36010354)_
 
 ### 
 Edward Jeremiah Price
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/136565014)_
+
 ### Edward Jerimiah Price             compiled by Diane Norman Parker with the help of Mildred O. Norman
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/227993102)_
 
 ## Photos & documents
 
@@ -75,13 +89,13 @@ _Edward Jeremiah Price (age 85) & Mary Jane Bishop (age 84) at home in Paradise,
 ![[AI Library/12 Family/_media/KWV9-ZK2/26573195.pdf|A History of Paradise, Utah written in 1956 and transcribed from the original by Philip A Bradford 6/2016]]
 _Ruth Shaw was very proud of her relatives mentioned in this newspaper article in 1956.  She kept the article and Philip Bradford transcribed it to a PDF document._
 
-![[AI Library/12 Family/_media/KWV9-ZK2/87880876.tif|Edward J. Price & Mary Jane Bishop Paradise Homestead]]
+![[AI Library/12 Family/_media/KWV9-ZK2/87880876.jpg|Edward J. Price & Mary Jane Bishop Paradise Homestead]]
 _Edward Jeremiah Price and wife Mary Jane Bishop at their homestead in Paradise, Utah. Courtesy of Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/KWV9-ZK2/87881513.tif|Edward Jeremiah Price & Mary Jane Bishop Family]]
+![[AI Library/12 Family/_media/KWV9-ZK2/87881513.jpg|Edward Jeremiah Price & Mary Jane Bishop Family]]
 _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps Oldham, Samuel Price Oldham, Edward Jeremiah Price, John Lloyd Price, Mary Jane Bishop and Ernest Price Oldham. ca 1879. Courtesy Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/KWV9-ZK2/87882746.tif|Mary Jane Bishop & Edward Jeremiah Price]]
+![[AI Library/12 Family/_media/KWV9-ZK2/87882746.jpg|Mary Jane Bishop & Edward Jeremiah Price]]
 _Mary Jane Bishop, b. 17 Dec 1819 in Berriw, Montgomery, Wales and husband Edward Jeremiah Price, b. 14 Aug 1818 in Flint, Wales. Courtesy Mary Jean Garrison._
 
 ![[AI Library/12 Family/_media/KWV9-ZK2/89996279.pdf|James Bishop Letter to John Bishop 15 January 1868]]
@@ -140,6 +154,24 @@ _From Vicky Steenblik Library_
 - [Edward Price in entry for John Lloyd Price, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZGZ-NY6)
 - [Edward Price, "Wales, Flintshire, Parish Registers, 1538-1912"](https://familysearch.org/ark:/61903/1:1:KCR9-P6Q)
 - [Edward Price, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZLT-1PX)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 2)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 11)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 12)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 18)_
+- **1838** — The Saints driven from Missouri _(age 20)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 26)_
+- **1846** — The exodus from Nauvoo begins _(age 28)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 29)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 38)_
+- **1869** — The railroad reaches Utah _(age 51)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 59)_
+- **1890** — The Manifesto ends plural marriage _(age 72)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 75)_
+- **1896** — Utah becomes a state _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV9-ZK2)

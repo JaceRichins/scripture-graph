@@ -6,14 +6,14 @@ sg-id: fs:LKKM-QJ2
 fs_id: LKKM-QJ2
 generation: 8
 born: 1708 · Toftingall, Caithness, Scottland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Jannet Bain
 
-Born 1708 · Toftingall, Caithness, Scottland · Generation 8
+Born 1708 · Toftingall, Caithness, Scottland · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Budge (LKKM-RTK)|William Budge]]
@@ -24,6 +24,8 @@ Born 1708 · Toftingall, Caithness, Scottland · Generation 8
 ## Stories
 
 ### Memorial Jannet Bain
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279511)_
 
 ## Sources
 - [baptism, 21 Aug 1748, Donald son of John Budge &  Jannet Bain, in Toftingall, Watten Parish, Caithness, Scotland, OPR 42/1](https://familysearch.org/ark:/61903/3:1:3Q9M-CSHW-B9FC-6)

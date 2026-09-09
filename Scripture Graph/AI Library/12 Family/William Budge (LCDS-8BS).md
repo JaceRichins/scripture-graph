@@ -7,14 +7,14 @@ fs_id: LCDS-8BS
 generation: 6
 born: 15 August 1791 · Edinburgh, Midlothian, Scotland
 died: 29 December 1852 · Airdrie, Lanarkshire, Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Budge
 
-Born 15 August 1791 · Edinburgh, Midlothian, Scotland · Died 29 December 1852 · Airdrie, Lanarkshire, Scotland, United Kingdom · Generation 6
+Born 15 August 1791 · Edinburgh, Midlothian, Scotland · Died 29 December 1852 · Airdrie, Lanarkshire, Scotland, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Budge (LKKM-RTK)|William Budge]]
@@ -33,9 +33,15 @@ Born 15 August 1791 · Edinburgh, Midlothian, Scotland · Died 29 December 1852 
 
 ### William Budge
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279351)_
+
 ### Memorial Hellen "Meiklejohn Budge
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279429)_
+
 ### William Budge (1738)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279455)_
 
 ## Photos & documents
 
@@ -91,6 +97,18 @@ _Marriage Banns of William Budge and Mary Scott; May 3, 1818_
 
 ## In the library
 - [[Chapter 9 The Joy of Missionary Work]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 29)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 38)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 39)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 45)_
+- **1838** — The Saints driven from Missouri _(age 47)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 53)_
+- **1846** — The exodus from Nauvoo begins _(age 55)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 56)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCDS-8BS)

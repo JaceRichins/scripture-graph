@@ -7,14 +7,14 @@ fs_id: LZFP-SRS
 generation: 8
 born: 11 November 1766 · Olesrud, Tinn, Telemark, Norway
 died: 13 February 1848 · Olesrud, Tinn, Telemark, Norway
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Knud Olsen
 
-Born 11 November 1766 · Olesrud, Tinn, Telemark, Norway · Died 13 February 1848 · Olesrud, Tinn, Telemark, Norway · Generation 8
+Born 11 November 1766 · Olesrud, Tinn, Telemark, Norway · Died 13 February 1848 · Olesrud, Tinn, Telemark, Norway · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Helga Knudsdatter (KWJY-LB5)|Helga Knudsdatter]]
@@ -79,6 +79,18 @@ _History of Helge Knutsdatter Norstebo Hogan_
 - [Knud Olsen in entry for Carl, "Norway, Baptisms, 1634-1927"](https://familysearch.org/ark:/61903/1:1:N4R7-LPD)
 - [Knud Olsen in entry for Asle Gundersen, "Norway, Marriages, 1660-1926"](https://familysearch.org/ark:/61903/1:1:NW7B-3JM)
 - Legacy NFS Source: Knut Olsson Nørstebø - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 54)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 63)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 64)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 70)_
+- **1838** — The Saints driven from Missouri _(age 72)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 78)_
+- **1846** — The exodus from Nauvoo begins _(age 80)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 81)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZFP-SRS)

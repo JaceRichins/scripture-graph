@@ -7,14 +7,14 @@ fs_id: LCXR-6VS
 generation: 7
 born: 1792 · Banbury, Oxfordshire, England
 died: 12 May 1873 · Shipston on Stour, Worcestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Aris
 
-Born 1792 · Banbury, Oxfordshire, England · Died 12 May 1873 · Shipston on Stour, Worcestershire, England, United Kingdom · Generation 7
+Born 1792 · Banbury, Oxfordshire, England · Died 12 May 1873 · Shipston on Stour, Worcestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Aris (K26P-LQD)|John Aris]]
@@ -26,9 +26,9 @@ Born 1792 · Banbury, Oxfordshire, England · Died 12 May 1873 · Shipston on St
 - **Death**: 12 May 1873 · Shipston on Stour, Worcestershire, England, United Kingdom
 - **Christening**: 22 April 1792 · Banbury, Oxfordshire, England
 - **Burial**: 16 May 1873 · Brailes, Warwickshire, England, United Kingdom
-- **data:,LdsBaptism**: 19 FEB 1999
-- **data:,LdsEndowment**: 5 MAR 1999
-- **data:,LdsSealingToParents**: 23 NOV 2004
+- **LdsBaptism**: 19 FEB 1999
+- **LdsEndowment**: 5 MAR 1999
+- **LdsSealingToParents**: 23 NOV 2004
 
 ## Sources
 - [ Oxfordshire, England, Church of England Baptism, Marriages, and Burials, 1538-1812](https://www.ancestry.com/search/collections/61056/records/1209626?tid=189560088&pid=342653674922&ssrc=pt)
@@ -56,6 +56,20 @@ Born 1792 · Banbury, Oxfordshire, England · Died 12 May 1873 · Shipston on St
 - [Sarah in entry for Eliza Stow, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NY58-X25)
 - Legacy NFS Source: Sarah Aris - 
 - Legacy NFS Source: Sarah Aris - Individual or family possessions: birth: 4 December 1792; Banbury, Oxfordshire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 28)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 37)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 38)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 44)_
+- **1838** — The Saints driven from Missouri _(age 46)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 52)_
+- **1846** — The exodus from Nauvoo begins _(age 54)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 55)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 64)_
+- **1869** — The railroad reaches Utah _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCXR-6VS)

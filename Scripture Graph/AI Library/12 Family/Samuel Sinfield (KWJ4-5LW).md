@@ -7,14 +7,14 @@ fs_id: KWJ4-5LW
 generation: 7
 born: 8 March 1820 · Eversholt, Bedfordshire, England
 died: 18 February 1904 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Sinfield
 
-Born 8 March 1820 · Eversholt, Bedfordshire, England · Died 18 February 1904 · Paradise, Cache, Utah, United States · Generation 7
+Born 8 March 1820 · Eversholt, Bedfordshire, England · Died 18 February 1904 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Sinfield (KWV9-81T)|William Sinfield]]
@@ -25,44 +25,66 @@ Born 8 March 1820 · Eversholt, Bedfordshire, England · Died 18 February 1904 �
 - **Birth**: 8 March 1820 · Eversholt, Bedfordshire, England
 - **Death**: 18 February 1904 · Paradise, Cache, Utah, United States
 - **Christening**: 23 June 1820 · Eversholt, Bedfordshire , England
-- **data:,Baptism**: 17 Jul 1822 · Cold Brayfield, Buckinghamshire, England, United Kingdom
+- **Baptism**: 17 Jul 1822 · Cold Brayfield, Buckinghamshire, England, United Kingdom
 - **Residence**: 1841 · Eversholt, Bedfordshire, England, United Kingdom · Census
 - **Residence**: 1851 · Eversholt, Bedfordshire, England
 - **Occupation**: 1851 · Eversholdt, Bedfordshire, England, United Kingdom · Bricklayer
-- **data:,Immigration**: 1853
-- **data:,Immigration**: 1853 · Utah, United States
+- **Immigration**: 1853
+- **Immigration**: 1853 · Utah, United States
 - **Residence**: 1860 · Ogden City, Weber, Utah Territory, United States
 - **Residence**: 1870 · Paradise, Cache, Utah Territory, United States
-- **data:,High%20Priest%20Ordination**: 21 Sep 1890
+- **High%20Priest%20Ordination**: 21 Sep 1890
 - **Burial**: 18 February 1904 · Paradise, Cache County, Utah, USA
-- **data:,Ancestral%20File%20Number**: 2HSD-D9
+- **Ancestral%20File%20Number**: 2HSD-D9
 - **Residence**: Wit'S End
 - **Residence**: Cold Brayfield
-- **data:,Membership**: Smithfield, Cache, Utah, United States
+- **Membership**: Smithfield, Cache, Utah, United States
 
 ## Stories
 
 ### Samuel Sinfield & Hannah Middleton
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/585857)_
+
 ### Samuel Sinfield
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/916736)_
 
 ### Hannah Middleton Hawkey Sinfield
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/916790)_
+
 ### The Romance of Samuel Sinfield and Hannah Middleton Hawkey
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/916854)_
 
 ### Emma Hannah Sinfield
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3585971)_
+
 ### Biography of Samuel Sinfield
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4418578)_
 
 ### Samuel Sinfield Sr
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15166110)_
+
 ### Biography of Emma H. Sinfield by Alvira S. Olpin
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18551286)_
 
 ### Biography of Samuel Sinfield
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20914265)_
+
 ### SAMUEL AND HANNAH SINFIELD - by Madge Cummins Shipley (condensed version FHE grandkids)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/36017681)_
+
 ### JOURNEY TO PARADISE
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/106548406)_
 
 ## Photos & documents
 
@@ -165,6 +187,24 @@ _Samuel Sinfield's Certificate of Citizenship - 12 November 1873 - Cache County,
 - Legacy NFS Source: Samuel Sinfield ***** - 
 - [Samuel Sinfield, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N245-HFM)
 - [Samuel Sinfield, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRJ-3BW)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 0)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 9)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 10)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 16)_
+- **1838** — The Saints driven from Missouri _(age 18)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 24)_
+- **1846** — The exodus from Nauvoo begins _(age 26)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 27)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 36)_
+- **1869** — The railroad reaches Utah _(age 49)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 57)_
+- **1890** — The Manifesto ends plural marriage _(age 70)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 73)_
+- **1896** — Utah becomes a state _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ4-5LW)

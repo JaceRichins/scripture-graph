@@ -7,14 +7,14 @@ fs_id: KWJ7-5QD
 generation: 6
 born: 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom
 died: 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Harriett Tipper
 
-Born 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom · Died 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom · Generation 6
+Born 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom · Died 12 November 1865 · Nettleton, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Newport Tipper (LCJ5-1Z3)|William Newport Tipper]]
@@ -39,7 +39,7 @@ Born 7 May 1824 · Birdlip, Gloucestershire, England, United Kingdom · Died 12 
 _Cowley Churchyard - Harriet Tipper is buried here
 Source: Life Story of Robert A. Jones - January 4 1920 Genealogical Society of Utah._
 
-![[AI Library/12 Family/_media/KWJ7-5QD/24951902.bmp|Harriet Tipper]]
+![[AI Library/12 Family/_media/KWJ7-5QD/24951902.jpg|Harriet Tipper]]
 
 
 ![[AI Library/12 Family/_media/KWJ7-5QD/37456592.jpg|photo]]
@@ -63,7 +63,7 @@ Source: Life Story of Robert A. Jones - January 4 1920 Genealogical Society of U
 ![[AI Library/12 Family/_media/KWJ7-5QD/146026978.jpg|Burial information]]
 _Found in LaRene Richins Book of Remembrance._
 
-![[AI Library/12 Family/_media/KWJ7-5QD/146297449.png|Finial Tribute]]
+![[AI Library/12 Family/_media/KWJ7-5QD/146297449.jpg|Finial Tribute]]
 _Found in LaRene Richins Book of Remembrance_
 
 ## Sources
@@ -96,6 +96,18 @@ _Found in LaRene Richins Book of Remembrance_
 - [Harriet Tipper, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZL4-F7W)
 - [Harriet Tipper, "Utah, Pioneers and Prominent Men of Utah, 1847-1868"](https://familysearch.org/ark:/61903/1:1:KL71-DMP)
 - [Harriet Tipper, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZPD-1DF)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 5)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 6)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 12)_
+- **1838** — The Saints driven from Missouri _(age 14)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 20)_
+- **1846** — The exodus from Nauvoo begins _(age 22)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 23)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 32)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ7-5QD)

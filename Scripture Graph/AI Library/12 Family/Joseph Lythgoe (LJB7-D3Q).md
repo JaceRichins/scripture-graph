@@ -7,14 +7,14 @@ fs_id: LJB7-D3Q
 generation: 7
 born: 17 January 1753 · Leigh, Lancashire, England
 died: June 1812
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Joseph Lythgoe
 
-Born 17 January 1753 · Leigh, Lancashire, England · Died June 1812 · Generation 7
+Born 17 January 1753 · Leigh, Lancashire, England · Died June 1812 · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Sale (LZZ2-886)|John Sale]]

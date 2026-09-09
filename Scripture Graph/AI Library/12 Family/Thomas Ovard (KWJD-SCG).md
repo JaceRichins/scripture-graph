@@ -7,14 +7,14 @@ fs_id: KWJD-SCG
 generation: 6
 born: 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom
 died: 7 March 1890 · American Fork, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Ovard
 
-Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 March 1890 · American Fork, Utah, Utah, United States · Generation 6
+Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 March 1890 · American Fork, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Ovard (KWJB-7C2)|William Ovard]]
@@ -29,10 +29,10 @@ Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 Ma
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
 - **Residence**: March 1857 · Street Woolwick, 4 Browns Building, Leam Terrace, East Leamington, Warwickshire, England · Last Residence of Ovard Family in England Before Sailing to America
 - **Occupation**: March 1857 · Leamington, Warwickshire, England · Carter - One who sells things from a cart
-- **data:,Biography**: from 1847 to 1868 · Utah, United States
+- **Biography**: from 1847 to 1868 · Utah, United States
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **data:,Immigration**: 30 August 1860 · Utah, United States
-- **data:,Thomas%20and%20Hannah%20Stowe%20Ovard%20Crossed%20the%20Plains**: 14 April 1861 · American Fork, Utah, Utah, United States · with the Samuel D. White company, Arriving in Salt Lake City, Utah 27 August 1860.  Settled in American Fork
+- **Immigration**: 30 August 1860 · Utah, United States
+- **Thomas%20and%20Hannah%20Stowe%20Ovard%20Crossed%20the%20Plains**: 14 April 1861 · American Fork, Utah, Utah, United States · with the Samuel D. White company, Arriving in Salt Lake City, Utah 27 August 1860.  Settled in American Fork
 - **Residence**: 1870 · American Fork, Utah, Utah, United States
 - **Burial**: March 1890 · American Fork Cemetery, 100 East 650 North, American Fork, Utah, Utah, United States
 
@@ -40,13 +40,23 @@ Born 27 July 1815 · Swerford, Oxfordshire, England, United Kingdom · Died 7 Ma
 
 ### Notes on Thomas Ovard
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18024750)_
+
 ### Sarah Elizabeth Ovard and Joseph Thomas Jordan 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28722474)_
 
 ### Ovard Story by Sarah Eliza Smith Howell, William Joseph and Mary Ann Ovard Smith
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/32723046)_
+
 ### Ship Journey on the George Washington to America
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/212975944)_
+
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 
@@ -130,7 +140,7 @@ Deseret News   (Salt Lake City, Utah)  17 October 1888  Wednesday  page 16._
 ![[AI Library/12 Family/_media/KWJD-SCG/94665569.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJD-SCG/100101176.jpeg|Thomas Ovard and His wife Hannah Stowe Ovard]]
+![[AI Library/12 Family/_media/KWJD-SCG/100101176.jpg|Thomas Ovard and His wife Hannah Stowe Ovard]]
 
 
 ![[AI Library/12 Family/_media/KWJD-SCG/100138725.pdf|Report on the Family of Thomas & Hannah Ovard]]
@@ -159,7 +169,7 @@ _Sarah Elizabeth Overd in the Oxfordshire, England, Church of England Births and
 
 Ancestry.com._
 
-![[AI Library/12 Family/_media/KWJD-SCG/164719551.png|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
+![[AI Library/12 Family/_media/KWJD-SCG/164719551.jpg|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
 _George Washington March-April 1857, A Compilation of General Voyage Notes, Departure day;
 
 https://saintsbysea.lib.byu.edu/mii/account/461._
@@ -237,6 +247,22 @@ https://saintsbysea.lib.byu.edu/mii/account/461._
 - [Thomas Ovard, "England, Warwickshire, Parish Registers, 1535-1972"](https://familysearch.org/ark:/61903/1:1:XX5N-NQP)
 - [Liverpool to Boston on the George Washington (28 Mar 1857 - 20 Apr 1857)](http://mormonmigration.lib.byu.edu/Search/showDetails/db:MM_MII/t:passenger/id:46786/keywords:ovard)
 - [Thomas Overd, "England, Warwickshire, Parish Registers, 1535-1972"](https://familysearch.org/ark:/61903/1:1:VHX2-N4V)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 5)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 14)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 15)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 21)_
+- **1838** — The Saints driven from Missouri _(age 23)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 29)_
+- **1846** — The exodus from Nauvoo begins _(age 31)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 32)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 41)_
+- **1869** — The railroad reaches Utah _(age 54)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 62)_
+- **1890** — The Manifesto ends plural marriage _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJD-SCG)

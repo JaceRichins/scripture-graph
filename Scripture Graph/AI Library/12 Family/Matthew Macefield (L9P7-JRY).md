@@ -7,14 +7,14 @@ fs_id: L9P7-JRY
 generation: 7
 born: about 1779 · Beckbury, Shropshire, England
 died: about August 1834 · Worfield, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Matthew Macefield
 
-Born about 1779 · Beckbury, Shropshire, England · Died about August 1834 · Worfield, Shropshire, England, United Kingdom · Generation 7
+Born about 1779 · Beckbury, Shropshire, England · Died about August 1834 · Worfield, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Macefield (P8TM-CRD)|John Macefield]]
@@ -24,7 +24,7 @@ Born about 1779 · Beckbury, Shropshire, England · Died about August 1834 · Wo
 ## Life
 - **Birth**: about 1779 · Beckbury, Shropshire, England
 - **Death**: about August 1834 · Worfield, Shropshire, England, United Kingdom
-- **data:,Baptism**: 28 Nov 1779 · Beckbury, Shropshire, England, United Kingdom
+- **Baptism**: 28 Nov 1779 · Beckbury, Shropshire, England, United Kingdom
 - **Christening**: 28 November 1779 · Beckbury, Shropshire, England
 - **Burial**: 21 August 1834 · Worfield, Shropshire, England, United Kingdom
 
@@ -64,6 +64,13 @@ Born about 1779 · Beckbury, Shropshire, England · Died about August 1834 · Wo
 - [Matthew Macefield in entry for Eliza Macefield, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NGRP-T6T)
 - Legacy NFS Source: Mathew(Matthew) Macefield Or Masefield - 
 - [Mathew Manfield, "England Deaths and Burials, 1538-1991"](https://familysearch.org/ark:/61903/1:1:JZ1K-9M4)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 41)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 50)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 51)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L9P7-JRY)

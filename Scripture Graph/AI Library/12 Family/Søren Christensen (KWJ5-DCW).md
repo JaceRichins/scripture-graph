@@ -7,14 +7,14 @@ fs_id: KWJ5-DCW
 generation: 6
 born: 4 November 1811 · Farsø, Gislum, Ålborg, Denmark
 died: 31 August 1876 · Goshen, Utah, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Søren Christensen
 
-Born 4 November 1811 · Farsø, Gislum, Ålborg, Denmark · Died 31 August 1876 · Goshen, Utah, Utah Territory, United States · Generation 6
+Born 4 November 1811 · Farsø, Gislum, Ålborg, Denmark · Died 31 August 1876 · Goshen, Utah, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Christen Sørensen (LZG8-TPQ)|Christen Sørensen]]
@@ -25,24 +25,28 @@ Born 4 November 1811 · Farsø, Gislum, Ålborg, Denmark · Died 31 August 1876 
 - **Birth**: 4 November 1811 · Farsø, Gislum, Ålborg, Denmark
 - **Death**: 31 August 1876 · Goshen, Utah, Utah Territory, United States
 - **Christening**: 5 November 1811 · Farsø, Gislum, Ålborg, Denmark
-- **data:,Vaccination**: 21 Nov 1817 · Farsø, Ålborg, Denmark
-- **data:,Confirmation**: 1826 · Farsø, Ålborg, Denmark
-- **data:,Confirmation**: 1826 · Farsø, Gislum, Ålborg, Denmark
+- **Vaccination**: 21 Nov 1817 · Farsø, Ålborg, Denmark
+- **Confirmation**: 1826 · Farsø, Ålborg, Denmark
+- **Confirmation**: 1826 · Farsø, Gislum, Ålborg, Denmark
 - **Residence**: 1834 · Farsø, Gislum, Ålborg, Danmark
-- **data:,Move**: 1840 · Strandby, Gislum, Ålborg, Denmark
-- **data:,Move**: November 1844 · Strandby, Gislum, Ålborg, Denmark
+- **Move**: 1840 · Strandby, Gislum, Ålborg, Denmark
+- **Move**: November 1844 · Strandby, Gislum, Ålborg, Denmark
 - **Residence**: 1845 · Farsø, Gislum, Ålborg, Danmark
 - **Residence**: 1850 · Farsø, Gislum, Ålborg, Danmark
 - **Residence**: 1855 · Farsø, Gislum, Ålborg, Denmark
 - **Residence**: 1870 · Utah, Utah Territory, United States
 - **Burial**: 4 September 1876 · Old Goshen Pioneer Cemetery, Goshen, Utah, Utah, United States
-- **data:,Membership**: Box Elder, Utah, United States
+- **Membership**: Box Elder, Utah, United States
 
 ## Stories
 
 ### Goshen Centennial History by Louie S. Steele Jensen Part I
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/103008635)_
+
 ### Back in the '80's
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/119104371)_
 
 ## Photos & documents
 
@@ -132,6 +136,20 @@ _story_
 - [Soren Christensen in entry for Ane Cathrine, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8M2)
 - [Soren Christensen in entry for Caroline, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8MS)
 - [Soren Christensen Svetdrup in entry for Else Christine, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8MP)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 9)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 18)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 19)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 25)_
+- **1838** — The Saints driven from Missouri _(age 27)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 33)_
+- **1846** — The exodus from Nauvoo begins _(age 35)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 36)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 45)_
+- **1869** — The railroad reaches Utah _(age 58)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ5-DCW)

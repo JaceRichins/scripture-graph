@@ -7,14 +7,14 @@ fs_id: LKKM-LLX
 generation: 8
 born: 1749 · Barsby, Leicestershire, England
 died: 17 April 1824 · Barsby, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Marriott
 
-Born 1749 · Barsby, Leicestershire, England · Died 17 April 1824 · Barsby, Leicestershire, England · Generation 8
+Born 1749 · Barsby, Leicestershire, England · Died 17 April 1824 · Barsby, Leicestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Joseph Stevenson (LLQF-3QR)|Joseph Stevenson]]
@@ -79,6 +79,11 @@ Born 1749 · Barsby, Leicestershire, England · Died 17 April 1824 · Barsby, Le
 - [Elizabeth in entry for Anne Stevenson, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMJ6-YG8)
 - [Elizabeth in entry for Joseph Stevenson, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQYF-ZR4)
 - [Elizabeth Marriott, "England Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JW8W-WFS)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LKKM-LLX)

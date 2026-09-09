@@ -7,14 +7,14 @@ fs_id: LL9S-JHG
 generation: 7
 born: 29 December 1781 · Northfield, Litchfield County, Connecticut, United States
 died: 24 February 1852 · Litchfield, Connecticut, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Polly Bradley
 
-Born 29 December 1781 · Northfield, Litchfield County, Connecticut, United States · Died 24 February 1852 · Litchfield, Connecticut, United States · Generation 7
+Born 29 December 1781 · Northfield, Litchfield County, Connecticut, United States · Died 24 February 1852 · Litchfield, Connecticut, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Philo Bradley (LD2M-QRX)|Philo Bradley]]
@@ -25,7 +25,7 @@ Born 29 December 1781 · Northfield, Litchfield County, Connecticut, United Stat
 - **Birth**: 29 December 1781 · Northfield, Litchfield County, Connecticut, United States
 - **Death**: 24 February 1852 · Litchfield, Connecticut, United States
 - **Residence**: 1850 · Canaan, Litchfield, Connecticut, United States
-- **data:,alternate+death+date**: 24 February 1852
+- **alternate+death+date**: 24 February 1852
 - **Burial**: 1852 · Salisbury, Litchfield, Connecticut, United States of America
 
 ## Photos & documents
@@ -49,10 +49,10 @@ When about 18 years of age she went with a maiden aunt, Sarah Smith (spinster) t
 
 https://newspapers.lib.utah.edu/details?id=23723692_
 
-![[AI Library/12 Family/_media/LL9S-JHG/160305160.png|Death Index of Polly Smith, 1852, CT]]
+![[AI Library/12 Family/_media/LL9S-JHG/160305160.jpg|Death Index of Polly Smith, 1852, CT]]
 
 
-![[AI Library/12 Family/_media/LL9S-JHG/223990835.png|photo]]
+![[AI Library/12 Family/_media/LL9S-JHG/223990835.jpg|photo]]
 
 
 ## Sources
@@ -63,6 +63,18 @@ https://newspapers.lib.utah.edu/details?id=23723692_
 - [Polly Bradley Smith, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVKY-7J8J)
 - [Polly Smith, "Connecticut, Deaths, 1640-1955"](https://familysearch.org/ark:/61903/1:1:F7VX-6ZY)
 - [Polly Bradley Smith, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QVSF-YD38)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 39)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 48)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 49)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 55)_
+- **1838** — The Saints driven from Missouri _(age 57)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 63)_
+- **1846** — The exodus from Nauvoo begins _(age 65)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LL9S-JHG)

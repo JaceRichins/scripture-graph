@@ -6,14 +6,14 @@ sg-id: fs:K2H7-3LS
 fs_id: K2H7-3LS
 generation: 7
 died: 1838 · Tynemouth, Northumberland, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Shepherd
 
-Died 1838 · Tynemouth, Northumberland, England, United Kingdom · Generation 7
+Died 1838 · Tynemouth, Northumberland, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[George Shepherd (MQ9Y-BPM)|George Shepherd]]
@@ -23,7 +23,7 @@ Died 1838 · Tynemouth, Northumberland, England, United Kingdom · Generation 7
 ## Life
 - **Death**: 1838 · Tynemouth, Northumberland, England, United Kingdom
 - **Christening**: 2 February 1772 · St John, Newcastle upon Tyne, Northumberland, England, United Kingdom
-- **data:,Baptism**: 2 February 1772 · St John, Newcastle upon Tyne, Northumberland, England, United Kingdom
+- **Baptism**: 2 February 1772 · St John, Newcastle upon Tyne, Northumberland, England, United Kingdom
 
 ## Sources
 - [Richard Shepherd, "England, Northumberland, Parish Registers, 1538-1950"](https://familysearch.org/ark:/61903/1:1:QLRT-9P52)

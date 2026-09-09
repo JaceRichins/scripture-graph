@@ -7,14 +7,14 @@ fs_id: LLQN-QQG
 generation: 7
 born: 18 March 1787 · Boonkirk Farm, Haslingden, Lancashire, England
 died: 2 April 1867 · Haslingden, Lancashire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alice Barnes
 
-Born 18 March 1787 · Boonkirk Farm, Haslingden, Lancashire, England · Died 2 April 1867 · Haslingden, Lancashire, England, United Kingdom · Generation 7
+Born 18 March 1787 · Boonkirk Farm, Haslingden, Lancashire, England · Died 2 April 1867 · Haslingden, Lancashire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Henry Barnes (L693-PJX)|Henry Barnes]]
@@ -63,6 +63,19 @@ Born 18 March 1787 · Boonkirk Farm, Haslingden, Lancashire, England · Died 2 A
 - [Alice Barnes, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDFG-KRP)
 - [Alice in entry for Alice Oldham, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N2Q4-KFM)
 - [1861 England Census - Alice Oldham, b. 1786](http://search.ancestry.com/cgi-bin/sse.dll?db=uki1861&indiv=try&h=9436604)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 49)_
+- **1838** — The Saints driven from Missouri _(age 51)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 57)_
+- **1846** — The exodus from Nauvoo begins _(age 59)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 60)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQN-QQG)

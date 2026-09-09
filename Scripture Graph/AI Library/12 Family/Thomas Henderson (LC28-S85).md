@@ -7,14 +7,14 @@ fs_id: LC28-S85
 generation: 7
 born: 1777 · Wallsend, Northumberland, England
 died: 1849 · Tynemouth, Northumberland, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Henderson
 
-Born 1777 · Wallsend, Northumberland, England · Died 1849 · Tynemouth, Northumberland, England, United Kingdom · Generation 7
+Born 1777 · Wallsend, Northumberland, England · Died 1849 · Tynemouth, Northumberland, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Henderson (MXH8-RNY)|William Henderson]]
@@ -25,7 +25,7 @@ Born 1777 · Wallsend, Northumberland, England · Died 1849 · Tynemouth, Northu
 - **Birth**: 1777 · Wallsend, Northumberland, England
 - **Death**: 1849 · Tynemouth, Northumberland, England, United Kingdom
 - **Christening**: 16 February 1777 · Wallsend, Northumberland, England
-- **data:,Marriage**: 03 Jun 1804 · Tynemouth, Northumberland, England, United Kingdom
+- **Marriage**: 03 Jun 1804 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1841 · Tynemouth, Northumberland, England, United Kingdom
 - **Burial**: 14 November 1849 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: Bell Street
@@ -69,6 +69,18 @@ Born 1777 · Wallsend, Northumberland, England · Died 1849 · Tynemouth, Northu
 - [Thomas Henderson, "England, Northumberland, Parish Registers, 1538-1950"](https://familysearch.org/ark:/61903/1:1:QGRB-YJ3B)
 - [Thomas Henderson in entry for William Eltringham Henderson, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDXB-QJF)
 - [Thomas Henderson, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:N6PQ-H4B)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 43)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 52)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 53)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 59)_
+- **1838** — The Saints driven from Missouri _(age 61)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 67)_
+- **1846** — The exodus from Nauvoo begins _(age 69)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LC28-S85)

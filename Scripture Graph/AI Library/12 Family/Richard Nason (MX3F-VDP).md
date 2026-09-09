@@ -7,14 +7,14 @@ fs_id: MX3F-VDP
 generation: 8
 born: 1738 · Dunton Bassett, Leicestershire, England
 died: 1814 · Dunton Bassett, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Nason
 
-Born 1738 · Dunton Bassett, Leicestershire, England · Died 1814 · Dunton Bassett, Leicestershire, England · Generation 8
+Born 1738 · Dunton Bassett, Leicestershire, England · Died 1814 · Dunton Bassett, Leicestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Nason (G21K-9XP)|Mary Nason]]
@@ -23,9 +23,9 @@ Born 1738 · Dunton Bassett, Leicestershire, England · Died 1814 · Dunton Bass
 - **Birth**: 1738 · Dunton Bassett, Leicestershire, England
 - **Death**: 1814 · Dunton Bassett, Leicestershire, England
 - **Christening**: 20 January 1738 · Dunton Bassett, Leicestershire, England
-- **data:,Baptism**: 20 Jan 1738 · Dunton Bassett, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 20 Jan 1738
-- **data:,alternate+christening**: 26 January 1738 · Dunton Bassett, Leicestershire, England
+- **Baptism**: 20 Jan 1738 · Dunton Bassett, Leicestershire, England, United Kingdom
+- **Baptism**: 20 Jan 1738
+- **alternate+christening**: 26 January 1738 · Dunton Bassett, Leicestershire, England
 - **Residence**: 15 Feb 1763 · Dunton Bassett
 - **Occupation**: 1763 · Dunton Bassett, Leicestershire, England, United Kingdom · Cordwainer
 - **Burial**: 26 September 1814 · All Saints' Church, Dunton Bassett, Leicestershire, England

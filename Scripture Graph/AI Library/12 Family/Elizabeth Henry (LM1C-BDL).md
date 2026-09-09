@@ -7,14 +7,14 @@ fs_id: LM1C-BDL
 generation: 8
 born: 14 November 1785 · Saint Peter Port, Guernsey
 died: 1 June 1855 · Atchison, Kansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Henry
 
-Born 14 November 1785 · Saint Peter Port, Guernsey · Died 1 June 1855 · Atchison, Kansas, United States · Generation 8
+Born 14 November 1785 · Saint Peter Port, Guernsey · Died 1 June 1855 · Atchison, Kansas, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Pill (KWJX-JHF)|Elizabeth Pill]]
@@ -30,6 +30,8 @@ Born 14 November 1785 · Saint Peter Port, Guernsey · Died 1 June 1855 · Atchi
 ## Stories
 
 ### Thomas Colley Stayner      Sea Captain, Pioneer, Missionary
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1356809)_
 
 ## Photos & documents
 
@@ -63,6 +65,18 @@ _John &amp; Elizabeth Pill 1851 Channel Islands Census, lsland of Guernsey_
 - [1841 Saint Peter Port, Guernsey, Channel islands for Elizth Pill in household of John Pill, "England and Wales Census, 1841"](https://familysearch.org/ark:/61903/1:1:M7WM-S6X)
 - [1851 St Peter Port, Guernsey, Channel Islands for Elizabeth Pill in household of John Pill, "England and Wales Census, 1851"](https://familysearch.org/ark:/61903/1:1:SG8P-SP1)
 - [June 1855 Mormon Grove Historical Marker, Parnell, Atchinson, Kansas for Elizabeth Henry Pill, "Find A Grave Index"](https://familysearch.org/ark:/61903/1:1:QL7R-WT1N)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 35)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 44)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 45)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 51)_
+- **1838** — The Saints driven from Missouri _(age 53)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 59)_
+- **1846** — The exodus from Nauvoo begins _(age 61)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 62)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LM1C-BDL)

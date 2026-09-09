@@ -7,14 +7,14 @@ fs_id: K26P-LQN
 generation: 7
 born: Ditton Priors, Shropshire, England
 died: 16 March 1841 · Worfield, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Welch
 
-Born Ditton Priors, Shropshire, England · Died 16 March 1841 · Worfield, Shropshire, England, United Kingdom · Generation 7
+Born Ditton Priors, Shropshire, England · Died 16 March 1841 · Worfield, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[George Welch (KDMF-QLR)|George Welch]]

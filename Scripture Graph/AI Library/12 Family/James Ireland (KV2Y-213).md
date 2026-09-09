@@ -7,14 +7,14 @@ fs_id: KV2Y-213
 generation: 7
 born: 1783 · Painswick, Gloucestershire, England, United Kingdom
 died: 24 March 1869 · Miserden, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Ireland
 
-Born 1783 · Painswick, Gloucestershire, England, United Kingdom · Died 24 March 1869 · Miserden, Gloucestershire, England · Generation 7
+Born 1783 · Painswick, Gloucestershire, England, United Kingdom · Died 24 March 1869 · Miserden, Gloucestershire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Ireland (KNW3-PS8)|William Ireland]]
@@ -33,10 +33,10 @@ Born 1783 · Painswick, Gloucestershire, England, United Kingdom · Died 24 Marc
 ![[AI Library/12 Family/_media/KV2Y-213/785605.jpg|James Ireland-death certificate]]
 
 
-![[AI Library/12 Family/_media/KV2Y-213/20819991.tif|James Ireland marriage to widow Hannah Weston Wyatt; James Death date ]]
+![[AI Library/12 Family/_media/KV2Y-213/20819991.jpg|James Ireland marriage to widow Hannah Weston Wyatt; James Death date ]]
 
 
-![[AI Library/12 Family/_media/KV2Y-213/20820008.tif|James Ireland and Hannah Weston Wyatt Ireland]]
+![[AI Library/12 Family/_media/KV2Y-213/20820008.jpg|James Ireland and Hannah Weston Wyatt Ireland]]
 
 
 ## Sources
@@ -51,6 +51,20 @@ Born 1783 · Painswick, Gloucestershire, England, United Kingdom · Died 24 Marc
 - [James Ireland, "England and Wales Census, 1851" Widowed](https://familysearch.org/ark:/61903/1:1:SG2Q-CPQ)
 - [James Ireland, "England and Wales Census, 1861" Widowed](https://familysearch.org/ark:/61903/1:1:M7L8-M5F)
 - Legacy NFS Source: James Ireland - birth-name: James Ireland
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 37)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 46)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 47)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 53)_
+- **1838** — The Saints driven from Missouri _(age 55)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 61)_
+- **1846** — The exodus from Nauvoo begins _(age 63)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 64)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 73)_
+- **1869** — The railroad reaches Utah _(age 86)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KV2Y-213)

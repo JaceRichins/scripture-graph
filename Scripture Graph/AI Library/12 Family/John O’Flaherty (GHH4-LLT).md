@@ -7,14 +7,14 @@ fs_id: GHH4-LLT
 generation: 8
 born: 1751 · Dublin, Ireland
 died: 20 November 1819 · Castlederg, County Tyrone, Northern Ireland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John O’Flaherty
 
-Born 1751 · Dublin, Ireland · Died 20 November 1819 · Castlederg, County Tyrone, Northern Ireland, United Kingdom · Generation 8
+Born 1751 · Dublin, Ireland · Died 20 November 1819 · Castlederg, County Tyrone, Northern Ireland, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Adam O'Flaherty (KHWR-5HG)|Adam O'Flaherty]]

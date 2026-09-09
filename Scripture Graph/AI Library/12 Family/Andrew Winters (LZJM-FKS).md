@@ -7,14 +7,14 @@ fs_id: LZJM-FKS
 generation: 8
 born: 28 March 1761 · Worcester, Massachusetts Bay Colony, British Colonial America
 died: 1 March 1837 · Yorkshire, Cattaraugus, New York, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Andrew Winters
 
-Born 28 March 1761 · Worcester, Massachusetts Bay Colony, British Colonial America · Died 1 March 1837 · Yorkshire, Cattaraugus, New York, United States · Generation 8
+Born 28 March 1761 · Worcester, Massachusetts Bay Colony, British Colonial America · Died 1 March 1837 · Yorkshire, Cattaraugus, New York, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Hiram Winters (L5C5-KC7)|Hiram Winters]]
@@ -31,11 +31,19 @@ Born 28 March 1761 · Worcester, Massachusetts Bay Colony, British Colonial Amer
 
 ### Handwritten record by N Blaine Winters about Andrew Winters
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15047236)_
+
 ### The First Member in the Family
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29477092)_
 
 ### A Record Written by Hyrum Winters of Pleasant Grove, Utah
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29861646)_
+
 ### Private Andrew Winters Revolutionary War
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/240811264)_
 
 ## Photos & documents
 
@@ -76,10 +84,10 @@ As mentioned this book can be found in the FamilySearch Books.
 
 A URL to the book is posted in Sources under the following profiles: Rebecca Burdick KWJB-NFZ, Dr. Hiram Adelbert Winters KWJ8-P45._
 
-![[AI Library/12 Family/_media/LZJM-FKS/147130934.tif|Andrew Winters]]
+![[AI Library/12 Family/_media/LZJM-FKS/147130934.jpg|Andrew Winters]]
 
 
-![[AI Library/12 Family/_media/LZJM-FKS/173820193.png|Abigail's Departure]]
+![[AI Library/12 Family/_media/LZJM-FKS/173820193.jpg|Abigail's Departure]]
 _In the Farmer's Journal, or the Vermont Political and Historical Journal_
 
 ## Sources
@@ -126,6 +134,14 @@ _In the Farmer's Journal, or the Vermont Political and Historical Journal_
 - [United States Census, 1820; pal:/MM9.3.1/TH-267-12810-52407-64](https://familysearch.org/ark:/61903/3:1:S3HY-X4M9-BWY)
 - [Andrew Winter Junior, "United States Census, 1790"](https://familysearch.org/ark:/61903/1:1:XHK2-67K)
 - [Find A Grave](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Winters&GSiman=1&GScid=502437&GRid=35130882&)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 59)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 68)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 69)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZJM-FKS)

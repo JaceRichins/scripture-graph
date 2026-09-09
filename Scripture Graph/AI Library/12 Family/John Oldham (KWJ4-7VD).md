@@ -7,14 +7,14 @@ fs_id: KWJ4-7VD
 generation: 6
 born: 13 June 1813 · Haslingden, Lancashire, England, United Kingdom
 died: 24 November 1874 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Oldham
 
-Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 November 1874 · Paradise, Cache, Utah, United States · Generation 6
+Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 November 1874 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Oldham (LT3V-JGX)|William Oldham]]
@@ -27,14 +27,14 @@ Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 
 - **Christening**: 1 July 1813 · Haslingden, Lancashire, England, United Kingdom
 - **Residence**: 1841 · Bury, Lancashire, England, United Kingdom · Moorside
 - **Residence**: 1841 · Manchester, Lancashire, England, United Kingdom
-- **data:,Baptism+**: 6 March 1845 · Bury, Lancashire, England, United Kingdom · into The Church of Jesus Christ of Latter-day Saints
+- **Baptism+**: 6 March 1845 · Bury, Lancashire, England, United Kingdom · into The Church of Jesus Christ of Latter-day Saints
 - **Residence**: 1851 · Bury, Lancashire, England, United Kingdom · Grundy Road
 - **Residence**: 1851 · Manchester, Lancashire, England
 - **Occupation**: 1861 · Oldham, Lancashire, England, United Kingdom · Cotton weaver
 - **Residence**: 1861 · Oldham, Lancashire, England, United Kingdom · Greenacres Road
-- **data:,immigration**: Came to Utah with wife and 7 children on the William S Warren Co. 1864
-- **data:,Immigration**: 4 October 1864 · Utah, United States
-- **data:,Endowment**: 30 November 1868 · Endowment House, Salt Lake City, Salt Lake, Utah Territory, United States · Received Endowment in the Temple
+- **immigration**: Came to Utah with wife and 7 children on the William S Warren Co. 1864
+- **Immigration**: 4 October 1864 · Utah, United States
+- **Endowment**: 30 November 1868 · Endowment House, Salt Lake City, Salt Lake, Utah Territory, United States · Received Endowment in the Temple
 - **Residence**: 1871 · Manchester, Lancashire, England, United Kingdom
 - **Burial**: 27 November 1874 · Paradise Cemetery, Paradise, Cache, Utah, United States
 - **Residence**: Copestick Street
@@ -43,7 +43,11 @@ Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 
 
 ### Life of John and Maria Heap Oldham
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/13274974)_
+
 ### Gravestone coordinates
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/238281212)_
 
 ## Photos & documents
 
@@ -83,19 +87,19 @@ Born 13 June 1813 · Haslingden, Lancashire, England, United Kingdom · Died 24 
 ![[AI Library/12 Family/_media/KWJ4-7VD/7046694.pdf|document]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7VD/7059115.jpeg|document]]
+![[AI Library/12 Family/_media/KWJ4-7VD/7059115.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7VD/7685421.jpeg|Life Of John & Maria Heap Oldham      page 1  ]]
+![[AI Library/12 Family/_media/KWJ4-7VD/7685421.jpg|Life Of John & Maria Heap Oldham      page 1  ]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7VD/7685612.jpeg|Life Of John & Maria Heap Oldham      page  2]]
+![[AI Library/12 Family/_media/KWJ4-7VD/7685612.jpg|Life Of John & Maria Heap Oldham      page  2]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7VD/7685688.jpeg|Life Of John & Maria Heap Oldham      page  3]]
+![[AI Library/12 Family/_media/KWJ4-7VD/7685688.jpg|Life Of John & Maria Heap Oldham      page  3]]
 
 
-![[AI Library/12 Family/_media/KWJ4-7VD/7694071.jpeg|Life Of John & Maria Heap Oldham      page  4]]
+![[AI Library/12 Family/_media/KWJ4-7VD/7694071.jpg|Life Of John & Maria Heap Oldham      page  4]]
 
 
 ![[AI Library/12 Family/_media/KWJ4-7VD/7852410.jpg|document]]
@@ -240,6 +244,20 @@ https://archive.org/details/heartthrobsofwes0000kate_i4t3/mode/2up_
 - [John Olden, "United States Census, 1870"](https://familysearch.org/ark:/61903/1:1:MNCR-XMS)
 - [Find a grave memorial](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=25190183)
 - [History of John Oldham and Maria Heap](http://schow-bickmore.blogspot.com/2011/09/john-and-maria-heap-oldham.html)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 7)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 16)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 17)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 23)_
+- **1838** — The Saints driven from Missouri _(age 25)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 31)_
+- **1846** — The exodus from Nauvoo begins _(age 33)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 34)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 43)_
+- **1869** — The railroad reaches Utah _(age 56)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ4-7VD)

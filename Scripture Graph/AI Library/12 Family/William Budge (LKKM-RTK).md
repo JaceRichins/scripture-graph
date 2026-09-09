@@ -6,14 +6,14 @@ sg-id: fs:LKKM-RTK
 fs_id: LKKM-RTK
 generation: 7
 born: 2 August 1738 · Caithness, Scotland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Budge
 
-Born 2 August 1738 · Caithness, Scotland · Generation 7
+Born 2 August 1738 · Caithness, Scotland · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Budge V (LKKM-QN5)|John Budge V]]
@@ -74,6 +74,11 @@ Vol. 1. Baptisms 1740-1819 (one entry for 1827 on same page as 1771, and one ent
 
 ## In the library
 - [[Chapter 9 The Joy of Missionary Work]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LKKM-RTK)

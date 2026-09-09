@@ -7,14 +7,14 @@ fs_id: KW8L-N6R
 generation: 5
 born: 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom
 died: 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Richins
 
-Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
+Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · Died 15 November 1915 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Richard Richins (LLQX-X98)|Richard Richins]]
@@ -27,9 +27,9 @@ Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · D
 - **Christening**: 24 August 1835 · Sheepscombe, Gloucestershire, England, United Kingdom
 - **Residence**: 1841 · Painswick, Gloucestershire, England
 - **Immigration**: 1855 · New Orleans, Orleans, Louisiana, United States
-- **data:,Immigration**: 05 Sep 1855
-- **data:,Immigration**: 5 September 1855 · Utah, United States
-- **data:,Immigration%20to%20United%20States**: 16 March 1885 · New Orleans, Orleans, Louisiana, United States · Arrival Date
+- **Immigration**: 05 Sep 1855
+- **Immigration**: 5 September 1855 · Utah, United States
+- **Immigration%20to%20United%20States**: 16 March 1885 · New Orleans, Orleans, Louisiana, United States · Arrival Date
 - **Residence**: 1900 · ED 137 Coalville Precinct Coalville city, Summit, Utah, United States
 - **Burial**: 18 November 1915 · Henefer, Summit, Utah, United States
 
@@ -37,11 +37,19 @@ Born 16 April 1835 · Sheepscombe, Gloucestershire, England, United Kingdom · D
 
 ### Edward Richins History
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1123627)_
+
 ### Hooper and Williams Freight Train
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8030645)_
 
 ### Life Sketch of Edward Richins  Gathered & Compiled by Margaret Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20618130)_
+
 ### Life Story of Sarah Ellen Richins Calderwood
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/80630366)_
 
 ## Photos & documents
 
@@ -75,13 +83,13 @@ _This is a March 8, 1858 letter from George Richins to President Brigham Young a
 ![[AI Library/12 Family/_media/KW8L-N6R/25125473.jpg|Sarah and Edward Richins ]]
 
 
-![[AI Library/12 Family/_media/KW8L-N6R/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/KW8L-N6R/26231502.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KW8L-N6R/26696167.tif|document]]
+![[AI Library/12 Family/_media/KW8L-N6R/26696167.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KW8L-N6R/26696169.tif|document]]
+![[AI Library/12 Family/_media/KW8L-N6R/26696169.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KW8L-N6R/27325923.pdf|Life Stories of Edward Richins, Caroline Ellen Tipper and Sarah Beard - written and compiled by J. Alden Richins in 2008]]
@@ -316,7 +324,7 @@ Compiled by Selma Richins Taylor and Melva Foster Richins_
 ![[AI Library/12 Family/_media/KW8L-N6R/129809130.jpg|Florence R. Wilson obituary clipping]]
 
 
-![[AI Library/12 Family/_media/KW8L-N6R/136593385.png|Edward Richins Home - 1002 South 800 East, Salt Lake City]]
+![[AI Library/12 Family/_media/KW8L-N6R/136593385.jpg|Edward Richins Home - 1002 South 800 East, Salt Lake City]]
 
 
 ![[AI Library/12 Family/_media/KW8L-N6R/138845154.jpg|Richins Family,Picture is hanging in little white church in Echo Utah]]
@@ -325,7 +333,7 @@ Compiled by Selma Richins Taylor and Melva Foster Richins_
 ![[AI Library/12 Family/_media/KW8L-N6R/138917176.jpg|Indian War Records Indian War Service Affidavit]]
 
 
-![[AI Library/12 Family/_media/KW8L-N6R/184172684.png|Edward Richins riding a horse in Echo]]
+![[AI Library/12 Family/_media/KW8L-N6R/184172684.jpg|Edward Richins riding a horse in Echo]]
 
 
 ![[AI Library/12 Family/_media/KW8L-N6R/192681187.pdf|Sheep Industry of Henefer by Marguerite Paskett]]
@@ -414,6 +422,21 @@ _History of the Thomas and Ellen Beard Family and their cousins_
 - [Edward Richins, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5XZ-YWT)
 - [1900 United States Federal Census - Edward Richins Household](http://search.ancestry.com/cgi-bin/sse.dll?rank=1&new=1&MSAV=1&msT=1&gss=angs-g&gsfn=Edward&gsln=Richins&msbdy=1834&msbpn__ftp=Utah%2c+USA&msbpn=47&msbpn_PInfo=5-%7c0%7c1652393%7c0%7c2%7c3249%7c47%7c0%7c0%7c0%7c0%7c&catBucket=rstp&uidh=9xu&msbdp=2&_83004003-n_xcl=f&mssng0=Carolyn+Ellen+Tipper&mssns0=Jones&mssng1=Sarah&mssns1=Beard&pcat=ROOT_CATEGORY&h=61769303&db=1900usfedcen&indiv=1&ml_rpos=4)
 - [Utah Death Certificates, Edward Richins](http://images.archives.utah.gov/data/81448/2229571/2229571_0001147.jpg)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 1)_
+- **1838** — The Saints driven from Missouri _(age 3)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 9)_
+- **1846** — The exodus from Nauvoo begins _(age 11)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 12)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 21)_
+- **1869** — The railroad reaches Utah _(age 34)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 42)_
+- **1890** — The Manifesto ends plural marriage _(age 55)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 58)_
+- **1896** — Utah becomes a state _(age 61)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KW8L-N6R)

@@ -7,14 +7,14 @@ fs_id: KWCN-SYM
 generation: 5
 born: 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States
 died: 13 July 1956 · Pleasant Grove, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Florence Ella Smith
 
-Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Died 13 July 1956 · Pleasant Grove, Utah, Utah, United States · Generation 5
+Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Died 13 July 1956 · Pleasant Grove, Utah, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Daniel Miley Smith Sr (KWJC-G74)|Daniel Miley Smith Sr]]
@@ -28,13 +28,15 @@ Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Die
 - **Residence**: 1870 · Pleasant Grove, Utah, Utah Territory, United States
 - **Residence**: 1880 · Pleasant Grove, Utah, Utah, United States
 - **Residence**: 1949 · United States
-- **data:,USER_DEFINED**: 1956 · Brigham City, Box Elder, Utah, United States · Obituary
+- **USER_DEFINED**: 1956 · Brigham City, Box Elder, Utah, United States · Obituary
 - **Burial**: 16 July 1956 · Pleasant Grove City Cemetery, Pleasant Grove, Utah, Utah, United States
-- **data:,Obituary**: Box Elder, Utah, United States
+- **Obituary**: Box Elder, Utah, United States
 
 ## Stories
 
 ### Garland Library
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/27984443)_
 
 ## Photos & documents
 
@@ -50,7 +52,7 @@ Born 15 April 1868 · Pleasant Grove, Utah, Utah Territory, United States · Die
 ![[AI Library/12 Family/_media/KWCN-SYM/27851960.jpg|Oscar Lycortas Winters, Rebecca, and Florence Ella. O L Winters home on South Washington Ave Ogden, UT. Blaine was born here.]]
 
 
-![[AI Library/12 Family/_media/KWCN-SYM/27944903.png|photo]]
+![[AI Library/12 Family/_media/KWCN-SYM/27944903.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWCN-SYM/27994843.jpg|Family home in Garland Utah]]
@@ -135,7 +137,7 @@ Hulda Augusta Winters' node or name in the tree is read only._
 ![[AI Library/12 Family/_media/KWCN-SYM/108947285.jpg|Misses Nina Winters and Rhea Brown Hosted a St. Patrick's Luncheon, 1909]]
 
 
-![[AI Library/12 Family/_media/KWCN-SYM/178400720.png|Grandma Grandpapa Ella at Rebecca Winters Grave]]
+![[AI Library/12 Family/_media/KWCN-SYM/178400720.jpg|Grandma Grandpapa Ella at Rebecca Winters Grave]]
 
 
 ## Sources
@@ -212,6 +214,17 @@ Hulda Augusta Winters' node or name in the tree is read only._
 - [Florence Smith Winters in household of Oscar L Winters, "United States Census, 1940"](https://familysearch.org/ark:/61903/1:1:VTWB-QJ4)
 - [Ella Winters in household of Oscar L Winters, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5XS-LMV)
 - [Florence E. Winters in household of Oscar L. Winters, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRB-FY8)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 1)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 9)_
+- **1890** — The Manifesto ends plural marriage _(age 22)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 25)_
+- **1896** — Utah becomes a state _(age 28)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 50)_
+- **1936** — The Church welfare program begins _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCN-SYM)

@@ -7,14 +7,14 @@ fs_id: LZ8W-K4L
 generation: 8
 born: 17 May 1777 · Weston, Middlesex, Massachusetts, United States
 died: 3 February 1853 · Bethel, Oxford, Maine, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thankful Bartlett
 
-Born 17 May 1777 · Weston, Middlesex, Massachusetts, United States · Died 3 February 1853 · Bethel, Oxford, Maine, United States · Generation 8
+Born 17 May 1777 · Weston, Middlesex, Massachusetts, United States · Died 3 February 1853 · Bethel, Oxford, Maine, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Nathan Stearns (L5FK-JYW)|Nathan Stearns]]
@@ -30,7 +30,7 @@ Born 17 May 1777 · Weston, Middlesex, Massachusetts, United States · Died 3 Fe
 ![[AI Library/12 Family/_media/LZ8W-K4L/43167222.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LZ8W-K4L/99329343.png|From Book Mormon Midwife, page 247]]
+![[AI Library/12 Family/_media/LZ8W-K4L/99329343.jpg|From Book Mormon Midwife, page 247]]
 
 
 ![[AI Library/12 Family/_media/LZ8W-K4L/113406846.jpg|From Book Mormon Midwife, page 247]]
@@ -67,6 +67,18 @@ Born 17 May 1777 · Weston, Middlesex, Massachusetts, United States · Died 3 Fe
 - [Thankfull Bartlett, "Maine, Vital Records, 1670-1921"](https://familysearch.org/ark:/61903/1:1:2HV1-1S9)
 - [Thankful Stearns in household of Chas Stearns, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:M6VM-PWB)
 - Legacy NFS Source: Thankful Bartlett - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 43)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 52)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 53)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 59)_
+- **1838** — The Saints driven from Missouri _(age 61)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 67)_
+- **1846** — The exodus from Nauvoo begins _(age 69)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZ8W-K4L)

@@ -7,14 +7,14 @@ fs_id: LRRX-9SM
 generation: 6
 born: 7 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom
 died: 12 March 1904 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Jane Bishop
 
-Born 7 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom · Died 12 March 1904 · Paradise, Cache, Utah, United States · Generation 6
+Born 7 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom · Died 12 March 1904 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Bishop (MLR9-CLN)|John Bishop]]
@@ -24,36 +24,50 @@ Born 7 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom · Died 
 ## Life
 - **Birth**: 7 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom
 - **Death**: 12 March 1904 · Paradise, Cache, Utah, United States
-- **data:,Baptism**: 27 Dec 1818 · Berriew, Montgomeryshire, Wales
+- **Baptism**: 27 Dec 1818 · Berriew, Montgomeryshire, Wales
 - **Christening**: 27 December 1818 · Berriew, Montgomeryshire, Wales, United Kingdom
 - **Residence**: 1841 · Shropshire, England, United Kingdom
 - **Residence**: 1851 · St Mary, Shropshire, England
-- **data:,Immigration**: 19 March 1852 · New Orleans, Orleans, Louisiana, United States
+- **Immigration**: 19 March 1852 · New Orleans, Orleans, Louisiana, United States
 - **Residence**: 1860 · Cache, Utah Territory, United States
-- **data:,census**: 1860 · Cache, Utah Territory · United States federal
+- **census**: 1860 · Cache, Utah Territory · United States federal
 - **Residence**: 1870 · Utah, United States
-- **data:,census**: 1870 · Paradise, Cache, Utah, United States · United States federal
-- **data:,census**: 1880 · Paradise, Cache, Utah, United States · United States federal
-- **data:,census**: 1900 · Paradise, Cache, Utah, United States · United States federal
+- **census**: 1870 · Paradise, Cache, Utah, United States · United States federal
+- **census**: 1880 · Paradise, Cache, Utah, United States · United States federal
+- **census**: 1900 · Paradise, Cache, Utah, United States · United States federal
 - **Residence**: 1900 · Avon, Cache, Utah, United States
-- **data:,Ancestral%20File%20Number**: 2KWP-PJ
+- **Ancestral%20File%20Number**: 2KWP-PJ
 - **Burial**: Paradise, Cache, Utah, United States
 
 ## Stories
 
 ### findagrave.com
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/844535)_
+
 ### Mary Jane Bishop
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/900351)_
 
 ### Edward Jeremiah Price
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15162567)_
+
 ### Mary Jane Bishop
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15165693)_
 
 ### Story of Mary Jane Bishop Price
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/31571078)_
+
 ### EDWARD JEREMIAH PRICE and MARY JANE BISHOP 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/36010354)_
+
 ### Edward Jerimiah Price             compiled by Diane Norman Parker with the help of Mildred O. Norman
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/227993102)_
 
 ## Photos & documents
 
@@ -81,16 +95,16 @@ _Mary Jane Bishop standing next to her daughter Mary Jane Price_
 ![[AI Library/12 Family/_media/LRRX-9SM/14412522.pdf|document]]
 
 
-![[AI Library/12 Family/_media/LRRX-9SM/87880876.tif|Edward J. Price & Mary Jane Bishop Paradise Homestead]]
+![[AI Library/12 Family/_media/LRRX-9SM/87880876.jpg|Edward J. Price & Mary Jane Bishop Paradise Homestead]]
 _Edward Jeremiah Price and wife Mary Jane Bishop at their homestead in Paradise, Utah. Courtesy of Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/LRRX-9SM/87881513.tif|Edward Jeremiah Price & Mary Jane Bishop Family]]
+![[AI Library/12 Family/_media/LRRX-9SM/87881513.jpg|Edward Jeremiah Price & Mary Jane Bishop Family]]
 _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps Oldham, Samuel Price Oldham, Edward Jeremiah Price, John Lloyd Price, Mary Jane Bishop and Ernest Price Oldham. ca 1879. Courtesy Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/LRRX-9SM/87882746.tif|Mary Jane Bishop & Edward Jeremiah Price]]
+![[AI Library/12 Family/_media/LRRX-9SM/87882746.jpg|Mary Jane Bishop & Edward Jeremiah Price]]
 _Mary Jane Bishop, b. 17 Dec 1819 in Berriw, Montgomery, Wales and husband Edward Jeremiah Price, b. 14 Aug 1818 in Flint, Wales. Courtesy Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/LRRX-9SM/87882818.tif|Mary Jane Bishop & Daughter Mary Jane Price]]
+![[AI Library/12 Family/_media/LRRX-9SM/87882818.jpg|Mary Jane Bishop & Daughter Mary Jane Price]]
 _(R to L) Mary Jane Bishop, b. 17 Dec 1819, Berriw, Montgomery, Wales and daughter Mary Jane Price, b. 15 Apr 1853 in Salt Lake City, Salt Lake, Utah. This photograph was probably taken outside Mary Jane Bishop's home in Paradise, Cache, Utah. Courtesy of Jessie Bishop Lewis._
 
 ![[AI Library/12 Family/_media/LRRX-9SM/87967239.jpg|Mary Jane Bishop Kennebec Passenger List]]
@@ -161,6 +175,24 @@ _This was imaged from document found in Vicky Steenblik household.  Ancestors De
 - [Utah, Death and Military Death Certificates, 1904-1961](http://search.ancestry.com/cgi-bin/sse.dll?dbid=9174&h=267988&indiv=try)
 - [U.S., Find A Grave Index, 1700s-Current](http://search.ancestry.com/cgi-bin/sse.dll?dbid=60525&h=16344954&indiv=try)
 - [1880 United States Federal Census](http://search.ancestry.com/cgi-bin/sse.dll?dbid=6742&h=20215057&indiv=try)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 2)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 11)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 12)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 18)_
+- **1838** — The Saints driven from Missouri _(age 20)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 26)_
+- **1846** — The exodus from Nauvoo begins _(age 28)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 29)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 38)_
+- **1869** — The railroad reaches Utah _(age 51)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 59)_
+- **1890** — The Manifesto ends plural marriage _(age 72)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 75)_
+- **1896** — Utah becomes a state _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LRRX-9SM)

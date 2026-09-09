@@ -7,14 +7,14 @@ fs_id: LKKM-QN5
 generation: 8
 born: 1703 · Houstrydun, Caithness, Highlands, Scotland
 died: 1768 · Scotland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Budge V
 
-Born 1703 · Houstrydun, Caithness, Highlands, Scotland · Died 1768 · Scotland · Generation 8
+Born 1703 · Houstrydun, Caithness, Highlands, Scotland · Died 1768 · Scotland · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Budge (LKKM-RTK)|William Budge]]
@@ -26,6 +26,8 @@ Born 1703 · Houstrydun, Caithness, Highlands, Scotland · Died 1768 · Scotland
 ## Stories
 
 ### Memorial John Budge (1703)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2279537)_
 
 ## Sources
 - Ancestry Family Trees

@@ -7,14 +7,14 @@ fs_id: MNRB-L7W
 generation: 8
 born: 1739 · Churcham, Gloucestershire, England
 died: '       1799'
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Goodwin
 
-Born 1739 · Churcham, Gloucestershire, England · Died        1799 · Generation 8
+Born 1739 · Churcham, Gloucestershire, England · Died        1799 · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Goodwin (LZCP-RXK)|Elizabeth Goodwin]]

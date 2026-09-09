@@ -7,14 +7,14 @@ fs_id: KWNW-G5G
 generation: 5
 born: 20 March 1854 · Farsø, Gislum, Ålborg, Denmark
 died: 19 August 1941 · Oakley, Cassia, Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Caroline Sørensen
 
-Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 · Oakley, Cassia, Idaho, United States · Generation 5
+Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 · Oakley, Cassia, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Søren Christensen (KWJ5-DCW)|Søren Christensen]]
@@ -25,8 +25,8 @@ Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 ·
 - **Birth**: 20 March 1854 · Farsø, Gislum, Ålborg, Denmark
 - **Death**: 19 August 1941 · Oakley, Cassia, Idaho, United States
 - **Christening**: 13 April 1854 · Farsø, Gislum, Ålborg, Denmark
-- **data:,Emigration**: 8 October 1855 · Ålborg, Denmark
-- **data:,Emigration**: 27 June 1856 · Florence, Douglas, Nebraska, United States · Canute Peterson Company
+- **Emigration**: 8 October 1855 · Ålborg, Denmark
+- **Emigration**: 27 June 1856 · Florence, Douglas, Nebraska, United States · Canute Peterson Company
 - **Immigration**: 23 September 1856 · Utah Territory, United States · Canute Peterson Company
 - **Residence**: 1870 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah Territory, United States
@@ -38,13 +38,15 @@ Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 ·
 - **Residence**: 1930 · Locust, Cassia, Idaho, United States
 - **Residence**: 1935 · Oakley, Cassia, Idaho, United States
 - **Residence**: 1940 · Oakley, Cassia, Idaho, United States
-- **data:,Obituary**: 1941 · Idaho, United States
+- **Obituary**: 1941 · Idaho, United States
 - **Burial**: August 1941 · Oakley Cemetery, Oakley, Cassia, Idaho, United States
-- **data:,Membership**: Grantsville, Tooele, Utah, United States
+- **Membership**: Grantsville, Tooele, Utah, United States
 
 ## Stories
 
 ### Faith Promoting Story about the birth of Frances Henry McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3615539)_
 
 ## Photos & documents
 
@@ -81,7 +83,7 @@ Born 20 March 1854 · Farsø, Gislum, Ålborg, Denmark · Died 19 August 1941 ·
 ![[AI Library/12 Family/_media/KWNW-G5G/11901112.jpg|Josephine Cherista McBride, Caroline Sorensen, Lita Louise McBride]]
 
 
-![[AI Library/12 Family/_media/KWNW-G5G/14103219.png|1895-Map-of-Denmark-with-Schleswig-Holstein (Hjorring)-North Denmark]]
+![[AI Library/12 Family/_media/KWNW-G5G/14103219.jpg|1895-Map-of-Denmark-with-Schleswig-Holstein (Hjorring)-North Denmark]]
 _1895-Map-of-Denmark-with-Schleswig-Holstein (Hjorring)-North Denmark_
 
 ![[AI Library/12 Family/_media/KWNW-G5G/14516801.pdf|Goshen Valley History by Raymond D. Steele]]
@@ -172,6 +174,18 @@ _Gertrude Christensen Sorensen, by her great granddaughter, Jessie Erma Taysom H
 - [Caroline Sorensen, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSX-3DR7)
 - [Caroline Sorenson or Sonson, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSF-33GZ)
 - [Caroline Sorensen, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8M9)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 2)_
+- **1869** — The railroad reaches Utah _(age 15)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 23)_
+- **1890** — The Manifesto ends plural marriage _(age 36)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 39)_
+- **1896** — Utah becomes a state _(age 42)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 64)_
+- **1936** — The Church welfare program begins _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNW-G5G)

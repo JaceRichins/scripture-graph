@@ -7,14 +7,14 @@ fs_id: KN6W-2R1
 generation: 7
 born: 31 January 1787 · Amenia, Dutchess, New York, United States
 died: 30 November 1869 · Grantsville, Tooele, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mehitable Wells
 
-Born 31 January 1787 · Amenia, Dutchess, New York, United States · Died 30 November 1869 · Grantsville, Tooele, Utah Territory, United States · Generation 7
+Born 31 January 1787 · Amenia, Dutchess, New York, United States · Died 30 November 1869 · Grantsville, Tooele, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Selah Wells (LDF3-H1G)|Selah Wells]]
@@ -25,9 +25,9 @@ Born 31 January 1787 · Amenia, Dutchess, New York, United States · Died 30 Nov
 - **Birth**: 31 January 1787 · Amenia, Dutchess, New York, United States
 - **Death**: 30 November 1869 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1813 · Marshfield, Washington, Vermont, United States
-- **data:,Baptism**: 9 April 1835 · Freedom, Cattaraugus, New York, United States · First Baptism into The Church of Jesus Christ of Latter-Day Saints
+- **Baptism**: 9 April 1835 · Freedom, Cattaraugus, New York, United States · First Baptism into The Church of Jesus Christ of Latter-Day Saints
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
-- **data:,Mormon+Pioneer+Handcart+Migration**: from 14 July 1849 to 30 October 1849 · Kanesville, Pottawattamie, Iowa, United States · George A Smith/Dan Jones Wagon Company
+- **Mormon+Pioneer+Handcart+Migration**: from 14 July 1849 to 30 October 1849 · Kanesville, Pottawattamie, Iowa, United States · George A Smith/Dan Jones Wagon Company
 - **Residence**: 1850 · Weber, Utah, United States
 - **Residence**: from 1850 to 1860 · Ogden, Weber, Utah, United States
 - **Residence**: 1861 · Grantsville, Tooele, Utah, United States
@@ -37,34 +37,58 @@ Born 31 January 1787 · Amenia, Dutchess, New York, United States · Died 30 Nov
 
 ### History of Mehitable Wells
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1305805)_
+
 ### HISTORY OF ELAM CHENEY
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4680856)_
 
 ### Aaron and Mehitable Wells Cheney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/11695589)_
+
 ### Aaron and Mehitable Wells   (without pictures)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30997273)_
 
 ### Life Story of Ezekial Wells Cheney and Lucy Elizada Hardy Cheney, by Arlene Ellis Melis
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/34142604)_
+
 ### Script: Aaron & Mehitable & Sons tell about Joseph Smith and joining the Church of Jesus Christ of Latter-Day Saints
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/102422178)_
 
 ### Mehitable Wells Cheney, from Wayne L. Cheney genealogy book. Typed by Roxcy Susanne Wilson Pugh.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108631055)_
+
 ### Conversion of Aaron and Mehitable Cheney (my maternal gr gr gr grandparents) to the Gospel of Jesus Christ of Latter-day Saints.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/117823462)_
+
 ### Aaron Cheney in Kirtland
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/141979803)_
 
 ### History of Mehitable Wells (1787 – 1869)
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197697981)_
+
 ### History of Aaron Cheney (1787-1862)  
 & Mehitable Wells (1787-1869)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197820594)_
 
 ### 2 Page History Compilation - Aaron Cheney (and Wife Mehitable Wells)
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/197872466)_
+
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KN6W-2R1/1684738.png|photo]]
+![[AI Library/12 Family/_media/KN6W-2R1/1684738.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KN6W-2R1/2625404.jpg|Mehitable Wells Cheney headstone. ]]
@@ -83,10 +107,10 @@ _Elam Cheney's history is compiled and written by his grandson, Aaron Lindon Che
 ![[AI Library/12 Family/_media/KN6W-2R1/14395795.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KN6W-2R1/15739793.bmp|Photo pedigree of Eva Cheney Tyler's ancestors]]
+![[AI Library/12 Family/_media/KN6W-2R1/15739793.jpg|Photo pedigree of Eva Cheney Tyler's ancestors]]
 
 
-![[AI Library/12 Family/_media/KN6W-2R1/19558880.png|document]]
+![[AI Library/12 Family/_media/KN6W-2R1/19558880.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KN6W-2R1/19840099.jpg|Grantsville City Cemetery - Grantsille, Tooele, Utah]]
@@ -164,7 +188,7 @@ _the winter settlement of the LDS people after being expelled from homes in Nauv
 ![[AI Library/12 Family/_media/KN6W-2R1/137674030.pdf|Nauvoo Land Records]]
 
 
-![[AI Library/12 Family/_media/KN6W-2R1/141153508.png|WELLS Mehitable (b 1787) Provo Daily Herald Newspaper-29 July 1981]]
+![[AI Library/12 Family/_media/KN6W-2R1/141153508.jpg|WELLS Mehitable (b 1787) Provo Daily Herald Newspaper-29 July 1981]]
 
 
 ![[AI Library/12 Family/_media/KN6W-2R1/157244313.jpg|IL: Hancock co., Nauvoo [Illinois] restored town of  Nauvoo ]]
@@ -245,6 +269,20 @@ _Excerpt from "Genealogical surveys of LDS members : autobiographies and ancesto
 - [Mehitable Wells in record for Elam Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-5VR6)
 - [Mehitable Wells in entry for Ezekiel Wells Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-5VK4)
 - [Mehitable Wells in entry for Olive Mehitable Cheney (birth), "Illinois, Hancock County, Nauvoo Community Project, 1839-1846 (BYU Center for Family History and Genealogy)"](https://familysearch.org/ark:/61903/1:1:QL3Z-JBRW)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 49)_
+- **1838** — The Saints driven from Missouri _(age 51)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 57)_
+- **1846** — The exodus from Nauvoo begins _(age 59)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 60)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 69)_
+- **1869** — The railroad reaches Utah _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KN6W-2R1)

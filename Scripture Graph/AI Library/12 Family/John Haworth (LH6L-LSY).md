@@ -7,14 +7,14 @@ fs_id: LH6L-LSY
 generation: 8
 born: 1762 · Tow Edge, Haslingden, Lancashire, England
 died: February 1838 · Bottom of Sheep Green, Haslingden, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Haworth
 
-Born 1762 · Tow Edge, Haslingden, Lancashire, England · Died February 1838 · Bottom of Sheep Green, Haslingden, Lancashire, England · Generation 8
+Born 1762 · Tow Edge, Haslingden, Lancashire, England · Died February 1838 · Bottom of Sheep Green, Haslingden, Lancashire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Alice Haworth (LZVK-YHN)|Alice Haworth]]
@@ -28,6 +28,8 @@ Born 1762 · Tow Edge, Haslingden, Lancashire, England · Died February 1838 · 
 ## Stories
 
 ### Samuel Oldham's records
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/56600320)_
 
 ## Sources
 - [https://www.lan-opc.org.uk/cgi-bin/mkindx.cgi?parish=Rossendale&type=Township&community=Haslingden](https://www.lan-opc.org.uk/cgi-bin/mkindx.cgi?parish=Rossendale&type=Township&community=Haslingden)
@@ -67,6 +69,15 @@ Born 1762 · Tow Edge, Haslingden, Lancashire, England · Died February 1838 · 
 - [John Haworth, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NLHS-52X)
 - [John Haworth in entry for Alice Haworth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3P7-KJ4)
 - Legacy NFS Source: John Haworth - christening: 11 January 1754; Haslingden, Lancashire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 58)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 67)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 68)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 74)_
+- **1838** — The Saints driven from Missouri _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LH6L-LSY)

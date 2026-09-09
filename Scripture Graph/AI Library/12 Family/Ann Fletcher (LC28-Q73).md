@@ -6,14 +6,14 @@ sg-id: fs:LC28-Q73
 fs_id: LC28-Q73
 generation: 8
 died: 1794 · Northumberland, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Fletcher
 
-Died 1794 · Northumberland, England · Generation 8
+Died 1794 · Northumberland, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Sarah Eltringham (LC28-382)|Sarah Eltringham]]

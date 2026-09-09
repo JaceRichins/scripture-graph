@@ -7,14 +7,14 @@ fs_id: LKKM-XK7
 generation: 8
 born: 12 June 1723 · Kirkby Malham, Yorkshire, England
 died: 1802 · Arncliffe, Yorkshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Christopher Shackleton
 
-Born 12 June 1723 · Kirkby Malham, Yorkshire, England · Died 1802 · Arncliffe, Yorkshire, England, United Kingdom · Generation 8
+Born 12 June 1723 · Kirkby Malham, Yorkshire, England · Died 1802 · Arncliffe, Yorkshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Agnes Shackleton (LL92-PRY)|Agnes Shackleton]]
@@ -22,7 +22,7 @@ Born 12 June 1723 · Kirkby Malham, Yorkshire, England · Died 1802 · Arncliffe
 ## Life
 - **Birth**: 12 June 1723 · Kirkby Malham, Yorkshire, England
 - **Death**: 1802 · Arncliffe, Yorkshire, England, United Kingdom
-- **data:,Baptism**: 23 Jun 1723 · Kirby, Yorkshire, England
+- **Baptism**: 23 Jun 1723 · Kirby, Yorkshire, England
 - **Burial**: 28 September 1802 · Arncliffe, Yorkshire, England, United Kingdom
 
 ## Sources

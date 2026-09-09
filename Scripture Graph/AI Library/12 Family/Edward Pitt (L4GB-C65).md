@@ -7,14 +7,14 @@ fs_id: L4GB-C65
 generation: 8
 born: 11 November 1735 · Stroud, Gloucestershire, England
 died: 20 April 1803 · Stroud, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Pitt
 
-Born 11 November 1735 · Stroud, Gloucestershire, England · Died 20 April 1803 · Stroud, Gloucestershire, England · Generation 8
+Born 11 November 1735 · Stroud, Gloucestershire, England · Died 20 April 1803 · Stroud, Gloucestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Pitt (KGMB-PP9)|Mary Pitt]]
@@ -28,7 +28,7 @@ Born 11 November 1735 · Stroud, Gloucestershire, England · Died 20 April 1803 
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/L4GB-C65/20799934.tif|Edward Pitt-Christening; marriage; burial]]
+![[AI Library/12 Family/_media/L4GB-C65/20799934.jpg|Edward Pitt-Christening; marriage; burial]]
 _Edward Pitt--christening; marriage; burial_
 
 ## Sources

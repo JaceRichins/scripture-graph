@@ -7,14 +7,14 @@ fs_id: LZPH-MWZ
 generation: 8
 born: 20 July 1767 · Badgeworth, Gloucestershire, England
 died: 1 January 1845 · Colbourne, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Lawrence
 
-Born 20 July 1767 · Badgeworth, Gloucestershire, England · Died 1 January 1845 · Colbourne, Gloucestershire, England, United Kingdom · Generation 8
+Born 20 July 1767 · Badgeworth, Gloucestershire, England · Died 1 January 1845 · Colbourne, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Robert Chapel Shill (KWJ7-586)|Robert Chapel Shill]]
@@ -25,8 +25,8 @@ Born 20 July 1767 · Badgeworth, Gloucestershire, England · Died 1 January 1845
 - **Christening**: 20 July 1767 · Badgeworth, Gloucestershire, England
 - **Residence**: 1841 · Colesborne, Gloucestershire, England, United Kingdom
 - **Burial**: 5 January 1845 · Colesborne, Gloucestershire, England, United Kingdom
-- **data:,BAPL**: 14 NOV 1893 · SLAKE
-- **data:,ENDL**: 15 NOV 1893 · SLAKE
+- **BAPL**: 14 NOV 1893 · SLAKE
+- **ENDL**: 15 NOV 1893 · SLAKE
 
 ## Photos & documents
 
@@ -65,6 +65,16 @@ Born 20 July 1767 · Badgeworth, Gloucestershire, England · Died 1 January 1845
 - [Thomas Lawrence in entry for Elizabeth Lawrence, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NGWN-Z7L)
 - [Thomas Lawrence, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JM4J-S4L)
 - Legacy NFS Source: Thomas Lawrence - death: 1 January 1845; Colesborne, Gloucestershire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 53)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 62)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 63)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 69)_
+- **1838** — The Saints driven from Missouri _(age 71)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZPH-MWZ)

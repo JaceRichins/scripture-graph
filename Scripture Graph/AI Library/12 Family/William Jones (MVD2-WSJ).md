@@ -7,14 +7,14 @@ fs_id: MVD2-WSJ
 generation: 6
 born: 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
 died: 7 July 1889 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Jones
 
-Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 7 July 1889 · Henefer, Summit, Utah, United States · Generation 6
+Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 7 July 1889 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Jones (LVH4-PMR)|William Jones]]
@@ -25,8 +25,8 @@ Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Die
 - **Birth**: 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
 - **Death**: 7 July 1889 · Henefer, Summit, Utah, United States
 - **Christening**: 30 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **data:,Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" to New York
-- **data:,Immigration**: 1868 · Deseret, United States · Traveled in the John Riggs Murdock Company from Laramie, WY to Salt Lake City, UT
+- **Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" to New York
+- **Immigration**: 1868 · Deseret, United States · Traveled in the John Riggs Murdock Company from Laramie, WY to Salt Lake City, UT
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
 - **Residence**: 1880 · Henneferville, Summit, Utah, United States
 - **Burial**: 10 July 1889 · Henefer Cemetery, Henefer, Summit, Utah, United States
@@ -35,7 +35,11 @@ Born 7 June 1805 · Brimpsfield, Gloucestershire, England, United Kingdom · Die
 
 ### William Jones Journey to Utah
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9751497)_
+
 ### Life History of Thomas Henry and Mary Jones Stephens
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ## Photos & documents
 
@@ -69,22 +73,22 @@ _William S. Jones, 1805-1889 • MVD2-WSJ, Grave Marker; Henefer Cemetery, Henef
 ![[AI Library/12 Family/_media/MVD2-WSJ/51696701.jpg|John Bright Passenger list 1868]]
 _Passenger list showing William, Rhoda, John and Elizabeth with their ages and occupation, where they were from and where they were going.  They were in the steerage._
 
-![[AI Library/12 Family/_media/MVD2-WSJ/70384411.png|JONES, William (B 1805 ) article by Erma Stephens Richins]]
+![[AI Library/12 Family/_media/MVD2-WSJ/70384411.jpg|JONES, William (B 1805 ) article by Erma Stephens Richins]]
 
 
-![[AI Library/12 Family/_media/MVD2-WSJ/70666807.png|Jones, William S (B 1805) Records]]
+![[AI Library/12 Family/_media/MVD2-WSJ/70666807.jpg|Jones, William S (B 1805) Records]]
 
 
 ![[AI Library/12 Family/_media/MVD2-WSJ/95778241.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/MVD2-WSJ/103539848.jpeg|Robert Jones death certificate]]
+![[AI Library/12 Family/_media/MVD2-WSJ/103539848.jpg|Robert Jones death certificate]]
 
 
 ![[AI Library/12 Family/_media/MVD2-WSJ/109547465.jpg|document]]
 
 
-![[AI Library/12 Family/_media/MVD2-WSJ/136392229.png|William Jones & Mary Shill Marriage]]
+![[AI Library/12 Family/_media/MVD2-WSJ/136392229.jpg|William Jones & Mary Shill Marriage]]
 
 
 ## Sources
@@ -127,6 +131,21 @@ _Passenger list showing William, Rhoda, John and Elizabeth with their ages and o
 - [1870 US Census](http://Ancestry.com)
 - [1880 US Census](http://Ancestry.com)
 - [William Jones (1805 - 1889) - Find A Grave Memorial](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=21863935)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 15)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 24)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 25)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 31)_
+- **1838** — The Saints driven from Missouri _(age 33)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 39)_
+- **1846** — The exodus from Nauvoo begins _(age 41)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 42)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 51)_
+- **1869** — The railroad reaches Utah _(age 64)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MVD2-WSJ)

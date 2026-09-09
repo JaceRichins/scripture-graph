@@ -7,14 +7,14 @@ fs_id: MN2G-349
 generation: 8
 born: 7 August 1741 · Tandrup, Strandby, Ålborg, Denmark
 died: September 1807 · Fandrup, Farsø, Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Christen Sørensen
 
-Born 7 August 1741 · Tandrup, Strandby, Ålborg, Denmark · Died September 1807 · Fandrup, Farsø, Ålborg, Denmark · Generation 8
+Born 7 August 1741 · Tandrup, Strandby, Ålborg, Denmark · Died September 1807 · Fandrup, Farsø, Ålborg, Denmark · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Else Christensdatter (LDDT-83J)|Else Christensdatter]]

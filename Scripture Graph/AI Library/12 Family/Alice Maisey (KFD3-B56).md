@@ -7,14 +7,14 @@ fs_id: KFD3-B56
 generation: 8
 born: 1745 · Painswick, Gloucestershire, England, United Kingdom
 died: 1833 · Painswick, Gloucester, England, Great Britain
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alice Maisey
 
-Born 1745 · Painswick, Gloucestershire, England, United Kingdom · Died 1833 · Painswick, Gloucester, England, Great Britain · Generation 8
+Born 1745 · Painswick, Gloucestershire, England, United Kingdom · Died 1833 · Painswick, Gloucester, England, Great Britain · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[John Stephens (KL14-BPD)|John Stephens]]
@@ -28,6 +28,13 @@ Born 1745 · Painswick, Gloucestershire, England, United Kingdom · Died 1833 ·
 ## Sources
 - [Alice in entry for Henry Stephens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NPNZ-SLD)
 - [Alice in entry for John Stephens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMKG-PLB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 75)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 84)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 85)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KFD3-B56)

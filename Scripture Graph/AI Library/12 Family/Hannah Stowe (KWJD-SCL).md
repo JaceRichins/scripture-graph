@@ -7,14 +7,14 @@ fs_id: KWJD-SCL
 generation: 6
 born: 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom
 died: 8 October 1888 · American Fork, Utah, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Hannah Stowe
 
-Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8 October 1888 · American Fork, Utah, Utah, United States · Generation 6
+Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8 October 1888 · American Fork, Utah, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Stowe (LCXR-6Q6)|John Stowe]]
@@ -24,13 +24,13 @@ Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8
 ## Life
 - **Birth**: 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom
 - **Death**: 8 October 1888 · American Fork, Utah, Utah, United States
-- **data:,Christening**: 2 January 1816 · St. Mary's Parish, Banbury, Oxfordshire, England · Christening in Banbury
+- **Christening**: 2 January 1816 · St. Mary's Parish, Banbury, Oxfordshire, England · Christening in Banbury
 - **Christening**: 14 September 1817 · Brailes, Warwickshire, England, United Kingdom
 - **Residence**: 1841 · Swerford, Oxfordshire, England
 - **Residence**: 1851 · Newbold Pacey, Warwickshire, England
 - **Residence**: 1860 · Douglas, Nebraska Territory, United States
-- **data:,Immigration**: 30 Aug 1860
-- **data:,Immigration**: 30 Aug 1860 · Utah, United States
+- **Immigration**: 30 Aug 1860
+- **Immigration**: 30 Aug 1860 · Utah, United States
 - **Burial**: October 1888 · American Fork Cemetery, American Fork, Utah, Utah, United States
 - **Residence**: England
 
@@ -38,17 +38,31 @@ Born 14 December 1815 · Banbury, Oxfordshire, England, United Kingdom · Died 8
 
 ### Notes on Thomas Ovard
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18024750)_
+
 ### Sarah Elizabeth Ovard and Joseph Thomas Jordan 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28722474)_
 
 ### Ovard Story by Sarah Eliza Smith Howell, William Joseph and Mary Ann Ovard Smith
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/32723046)_
+
 ### Finding the Stowe family at Althorpe
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/158052407)_
 
 ### Wm J. Smith, Son in Law Recounts a Blessing
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/158436942)_
+
 ### Ship Journey on the George Washington to America
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/212975944)_
+
 ### Excerpts from WJS SR. Journal regarding "Mother Ovard" Hanna Stowe's Death
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213985148)_
 
 ## Photos & documents
 
@@ -114,7 +128,7 @@ Deseret News   (Salt Lake City, Utah)  17 October 1888  Wednesday  page 16._
 ![[AI Library/12 Family/_media/KWJD-SCL/87924673.pdf|Thomas and Hannah Stowe Ovard Family Coloring Book Prepared by Mary Ann Prows Swalberg and Louise Burbidge Rencher]]
 
 
-![[AI Library/12 Family/_media/KWJD-SCL/100101176.jpeg|Thomas Ovard and His wife Hannah Stowe Ovard]]
+![[AI Library/12 Family/_media/KWJD-SCL/100101176.jpg|Thomas Ovard and His wife Hannah Stowe Ovard]]
 
 
 ![[AI Library/12 Family/_media/KWJD-SCL/100138725.pdf|Report on the Family of Thomas & Hannah Ovard]]
@@ -134,7 +148,7 @@ _Sarah Elizabeth Overd in the Oxfordshire, England, Church of England Births and
 
 Ancestry.com._
 
-![[AI Library/12 Family/_media/KWJD-SCL/164719551.png|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
+![[AI Library/12 Family/_media/KWJD-SCL/164719551.jpg|March-April 1857 Transatlantic Voyage- George Washington Departure Notes ]]
 _George Washington March-April 1857, A Compilation of General Voyage Notes, Departure day;
 
 https://saintsbysea.lib.byu.edu/mii/account/461._
@@ -199,6 +213,21 @@ https://saintsbysea.lib.byu.edu/mii/account/461._
 - [Hannah Ovard, "England, Warwickshire, Parish Registers, 1535-1972"](https://familysearch.org/ark:/61903/1:1:XX5N-NQ5)
 - [1860 Entry for Hannah Stowe Ovard in the Pioneer Overland Trail Index in the Jesse Murphy Company](http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=23323)
 - [Hannah Ovard in household of Thomas Ovard, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSG-9QZ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 5)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 14)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 15)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 21)_
+- **1838** — The Saints driven from Missouri _(age 23)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 29)_
+- **1846** — The exodus from Nauvoo begins _(age 31)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 32)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 41)_
+- **1869** — The railroad reaches Utah _(age 54)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 62)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJD-SCL)

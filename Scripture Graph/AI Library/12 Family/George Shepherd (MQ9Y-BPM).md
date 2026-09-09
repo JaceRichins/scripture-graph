@@ -7,14 +7,14 @@ fs_id: MQ9Y-BPM
 generation: 8
 born: 1745 · Longhorsley, Northumberland, England
 died: 1793 · Newcastle upon Tyne, Northumberland, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Shepherd
 
-Born 1745 · Longhorsley, Northumberland, England · Died 1793 · Newcastle upon Tyne, Northumberland, England · Generation 8
+Born 1745 · Longhorsley, Northumberland, England · Died 1793 · Newcastle upon Tyne, Northumberland, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Richard Shepherd (K2H7-3LS)|Richard Shepherd]]
@@ -25,7 +25,7 @@ Born 1745 · Longhorsley, Northumberland, England · Died 1793 · Newcastle upon
 - **Christening**: 25 March 1745 · Longhorsley, Northumberland, England
 - **Residence**: 1749 · Tynemouth, Northumberland, England · Tynemouth, Northumberland, England
 - **Residence**: 1770 · Longbenton Parish · Longbenton Parish
-- **data:,Marriage**: 08 Aug 1770 · Gosforth, Northumberland, England, United Kingdom
+- **Marriage**: 08 Aug 1770 · Gosforth, Northumberland, England, United Kingdom
 - **Burial**: 3 May 1793 · Newcastle upon Tyne, Northumberland, England, United Kingdom
 - **Residence**: Tynemouth, Northumberland, England, United Kingdom
 

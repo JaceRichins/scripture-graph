@@ -7,14 +7,14 @@ fs_id: L8W7-1F6
 generation: 8
 born: 22 November 1727 · Hawkesbury, Gloucestershire, England
 died: 23 May 1801 · Painswick, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Richins Sr.
 
-Born 22 November 1727 · Hawkesbury, Gloucestershire, England · Died 23 May 1801 · Painswick, Gloucestershire, England, United Kingdom · Generation 8
+Born 22 November 1727 · Hawkesbury, Gloucestershire, England · Died 23 May 1801 · Painswick, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Henry Richins Sr. (L21P-HKQ)|Henry Richins Sr.]]
@@ -30,12 +30,14 @@ Born 22 November 1727 · Hawkesbury, Gloucestershire, England · Died 23 May 180
 
 ### Thomas Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4795922)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/L8W7-1F6/37456198.jpg|document]]
 
 
-![[AI Library/12 Family/_media/L8W7-1F6/50834053.png|Marriage Certificate of Thomas Richins and Sarah Bathe]]
+![[AI Library/12 Family/_media/L8W7-1F6/50834053.jpg|Marriage Certificate of Thomas Richins and Sarah Bathe]]
 
 
 ![[AI Library/12 Family/_media/L8W7-1F6/50834888.jpg|Banns for Thomas Richins and Sarah Bathe]]

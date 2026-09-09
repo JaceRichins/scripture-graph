@@ -6,14 +6,14 @@ sg-id: fs:LZZ2-8D7
 fs_id: LZZ2-8D7
 generation: 8
 born: 9 October 1737 · Leigh, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Lythgoe
 
-Born 9 October 1737 · Leigh, Lancashire, England · Generation 8
+Born 9 October 1737 · Leigh, Lancashire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Joseph Lythgoe (LJB7-D3Q)|Joseph Lythgoe]]
@@ -39,6 +39,11 @@ Born 9 October 1737 · Leigh, Lancashire, England · Generation 8
 - [Betty Lythgoe, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NK6S-J9K)
 - [Betty Lythgoe in entry for Joseph Lythgoe, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NTPG-2PG)
 - Legacy NFS Source: Betty Lythgoe - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 83)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZZ2-8D7)

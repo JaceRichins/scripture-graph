@@ -7,14 +7,14 @@ fs_id: P3W2-2SN
 generation: 6
 born: 6 March 1808 · Leire, Leicestershire, England, United Kingdom
 died: 11 December 1882 · Leire, Leicestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Sutton
 
-Born 6 March 1808 · Leire, Leicestershire, England, United Kingdom · Died 11 December 1882 · Leire, Leicestershire, England, United Kingdom · Generation 6
+Born 6 March 1808 · Leire, Leicestershire, England, United Kingdom · Died 11 December 1882 · Leire, Leicestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Thomas Sutton (LH85-KC8)|Thomas Sutton]]
@@ -68,6 +68,21 @@ Born 6 March 1808 · Leire, Leicestershire, England, United Kingdom · Died 11 D
 - [John Sutton, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NVWP-38N)
 - [John Sutton in entry for Mack Sutton, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J7TT-TV4)
 - [John Sutton, "England, Warwickshire, Parish Registers, 1535-1972"](https://familysearch.org/ark:/61903/1:1:XXTQ-N4F)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 12)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 21)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 22)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 28)_
+- **1838** — The Saints driven from Missouri _(age 30)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 36)_
+- **1846** — The exodus from Nauvoo begins _(age 38)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 39)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 48)_
+- **1869** — The railroad reaches Utah _(age 61)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/P3W2-2SN)

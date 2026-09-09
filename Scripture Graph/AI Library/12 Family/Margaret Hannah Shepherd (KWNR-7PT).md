@@ -7,14 +7,14 @@ fs_id: KWNR-7PT
 generation: 5
 born: 11 December 1838 · North Shields, Northumberland, England, United Kingdom
 died: 16 May 1902 · Paris, Bear Lake, Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Margaret Hannah Shepherd
 
-Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom · Died 16 May 1902 · Paris, Bear Lake, Idaho, United States · Generation 5
+Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom · Died 16 May 1902 · Paris, Bear Lake, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Richard Shepherd (KWJ5-L47)|Richard Shepherd]]
@@ -26,11 +26,11 @@ Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom 
 - **Death**: 16 May 1902 · Paris, Bear Lake, Idaho, United States
 - **Residence**: 1838 · Tynemouth, Northumberland, England, United Kingdom
 - **Christening**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
-- **data:,Baptism**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
+- **Baptism**: 8 May 1839 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1841 · Tynemouth, Northumberland, England, United Kingdom
 - **Residence**: 1851 · Tynemouth, Northumberland, England, United Kingdom
-- **data:,Immigration**: 23-25 September 1854 · Utah, United States
-- **data:,Immigration**: 25 September 1854
+- **Immigration**: 23-25 September 1854 · Utah, United States
+- **Immigration**: 25 September 1854
 - **Residence**: 1860 · 16th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: 1870 · Utah, United States
 - **Residence**: 1900 · ED 15 Paris, Dingle Precincts Paris city, Bear Lake, Idaho, United States
@@ -40,7 +40,11 @@ Born 11 December 1838 · North Shields, Northumberland, England, United Kingdom 
 
 ### George William Sutton
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862813)_
+
 ### Thomas Sutton and Joseph Sutton
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19862834)_
 
 ## Photos & documents
 
@@ -111,6 +115,20 @@ _Copied pages 795-798 from "History of Bear Lake Pioneers" book by Dorothy Hardy
 - [Margaret Hannah Shepherd in entry for Harry Edward Sutton, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F858-2TP)
 - [Margaret H Sutton in household of John A Sutton, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MM5L-T5D)
 - Legacy NFS Source: Margaret Hannah Shepherd - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1838** — The Saints driven from Missouri _(age 0)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 6)_
+- **1846** — The exodus from Nauvoo begins _(age 8)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 9)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 18)_
+- **1869** — The railroad reaches Utah _(age 31)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 39)_
+- **1890** — The Manifesto ends plural marriage _(age 52)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 55)_
+- **1896** — Utah becomes a state _(age 58)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNR-7PT)

@@ -7,14 +7,14 @@ fs_id: KWJ7-586
 generation: 7
 born: 7 June 1789 · Colesbourne, Gloucestershire, England
 died: 6 October 1855 · St. Louis City, St. Louis, Missouri, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Chapel Shill
 
-Born 7 June 1789 · Colesbourne, Gloucestershire, England · Died 6 October 1855 · St. Louis City, St. Louis, Missouri, United States · Generation 7
+Born 7 June 1789 · Colesbourne, Gloucestershire, England · Died 6 October 1855 · St. Louis City, St. Louis, Missouri, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Thomas Lawrence (LZPH-MWZ)|Thomas Lawrence]]
@@ -27,16 +27,22 @@ Born 7 June 1789 · Colesbourne, Gloucestershire, England · Died 6 October 1855
 - **Christening**: 14 June 1789 · Colesbourne, Gloucestershire, England
 - **Residence**: 1841 · Syde, Gloucestershire, England
 - **Residence**: 1851 · Syde, Gloucestershire, England
-- **data:,Immigration%20to%20United%20States**: 1855 · Mormon Immigration Index
+- **Immigration%20to%20United%20States**: 1855 · Mormon Immigration Index
 - **Burial**: October 1855 · St. Louis, St. Louis, Missouri, United States
 
 ## Stories
 
 ### Prudence Golding Shill
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/13218536)_
+
 ### History of Robert Chapel and Prudence Golding Shill
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93379283)_
+
 ### History of Robert Chapel Shill
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/151657902)_
 
 ## Photos & documents
 
@@ -70,7 +76,7 @@ _Marriage Certificate from the General Register Office, Somerset House, London, 
 ![[AI Library/12 Family/_media/KWJ7-586/29390893.jpg|Robert Chappel Shill home]]
 _Robert Chappel Shill home, Syde, Gloucestershire, England. Photo taken 8 Jul 2016. Location: 51°47'30.3"N 2°04'47.0"W_
 
-![[AI Library/12 Family/_media/KWJ7-586/29391001.png|Location of Robert Chappel Shill home]]
+![[AI Library/12 Family/_media/KWJ7-586/29391001.jpg|Location of Robert Chappel Shill home]]
 _Location of Robert Chappel Shill home: 51°47'30.3"N 2°04'47.0"W_
 
 ![[AI Library/12 Family/_media/KWJ7-586/29873078.jpg|Register of Chimborazo April 1855]]
@@ -210,6 +216,18 @@ _Property known as Washbrook cottage because it is located next to the brook whe
 - Legacy NFS Source: Robert Chapel Shill - 
 - Legacy NFS Source: Robert Chapel Shill - 
 - Legacy NFS Source: Robert Chapel Shill - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 31)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 40)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 41)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 47)_
+- **1838** — The Saints driven from Missouri _(age 49)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 55)_
+- **1846** — The exodus from Nauvoo begins _(age 57)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 58)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ7-586)

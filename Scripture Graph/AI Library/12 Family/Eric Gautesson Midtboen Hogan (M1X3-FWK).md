@@ -7,14 +7,14 @@ fs_id: M1X3-FWK
 generation: 7
 born: 23 June 1801 · Rollag, Buskerud, Norway
 died: 22 June 1876 · Woods Cross, Davis, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Eric Gautesson Midtboen Hogan
 
-Born 23 June 1801 · Rollag, Buskerud, Norway · Died 22 June 1876 · Woods Cross, Davis, Utah Territory, United States · Generation 7
+Born 23 June 1801 · Rollag, Buskerud, Norway · Died 22 June 1876 · Woods Cross, Davis, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Gaute Ericsen (L5X8-JMK)|Gaute Ericsen]]
@@ -24,15 +24,15 @@ Born 23 June 1801 · Rollag, Buskerud, Norway · Died 22 June 1876 · Woods Cros
 ## Life
 - **Birth**: 23 June 1801 · Rollag, Buskerud, Norway
 - **Death**: 22 June 1876 · Woods Cross, Davis, Utah Territory, United States
-- **data:,Alt%20Birth%20Date**: 22 June 1801 · Rollag, Buskerud, Norway
-- **data:,Baptism**: 25 July 1802 · Ål Municipality, Buskerud, Norway
+- **Alt%20Birth%20Date**: 22 June 1801 · Rollag, Buskerud, Norway
+- **Baptism**: 25 July 1802 · Ål Municipality, Buskerud, Norway
 - **Christening**: 25 July 1802 · Ål, Buskerud, Norway
-- **data:,Emigration**: 5 June 1848
+- **Emigration**: 5 June 1848
 - **Immigration**: 24 September 1848 · Utah Territory, United States
-- **data:,Census**: 1850 · Davis county, Davis, Utah Territory, USA
+- **Census**: 1850 · Davis county, Davis, Utah Territory, USA
 - **Residence**: 1850 · Davis county, Davis, Utah Territory, United States
 - **Immigration**: 12 February 1853 · Copenhagen, Denmark ·  First missionaries from Utah to Serve in Norway: Eric Hogan and  Canute Petersen
-- **data:,Emigration**: 13 June 1855
+- **Emigration**: 13 June 1855
 - **Immigration**: 7 September 1855 · Utah Territory, United States
 - **Burial**: 24 June 1876 · Bountiful Memorial Park, Bountiful, Davis, Utah Territory, United States
 
@@ -40,62 +40,120 @@ Born 23 June 1801 · Rollag, Buskerud, Norway · Died 22 June 1876 · Woods Cros
 
 ### The lost money
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/507953)_
+
 ### Osten and Aase Sondresson Family Story
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1230963)_
 
 ### Eric's Life Story
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1310978)_
+
 ### The life sketch of Inger Adrena Johnson
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1421328)_
 
 ### Coming Home
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1995427)_
+
 ### Eric Gautesen Midboen Hogan (Gautesen)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2137330)_
 
 ### A note written by Frank Wilford Otterstrom
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2934945)_
+
 ### Erik GM Hogan from Latter-day Saint Biographical Encyclopedia
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4556494)_
 
 ### First settler in South Bountiful: How Eric found his home site
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/8241802)_
+
 ### Converted in jail
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16734642)_
 
 ### Hans and Charstie Lundblad:  A Compilation of General Voyage Notes
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/22892108)_
+
 ### A Pioneer Cabin
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/54661968)_
 
 ### Death of Bishop Dorius
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/57409141)_
+
 ### Dorius History translated by John Dorius and rewritten by L.S.Dorius
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/67475710)_
 
 ### A Sketch of the Life of Nicoli Dorius and a Life History of John Ferdinand Fredrick Dorius and His Wife Kaia Frantzen Dorius
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/99546474)_
+
 ### THEIR TREK ACROSS THE PLAINS
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/165792336)_
 
 ### 1854: Steamship "Cimbria" Niels Hansen Beck and wife Ane Marie are passengers from Copenhagen to Hull, England.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168311489)_
+
 ### 1854: Steamship "Cimbria" Anthon Christensen was a passenger from Copenhagen to Hull, England. Traveled with mother, 2 brothers and a sister.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168577967)_
 
 ### 1855: Ship "Charles Buck" Anthon Christensen and new bride Caroline Nielsen are passengers  Liverpool to New Orleans. Married on board 14 Jan.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168578278)_
+
 ### 1855: "Jacob Secrist/Noah Guymon Company" Anthon Christensen and new wife Caroline Nielsen are in this company.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168578720)_
 
 ### 1855: Ship "Charles Buck" Anders Nielsen and new bride Grethe Christensen are passengers Liverpool to New Orleans. Married January 18
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/168580442)_
+
 ### 1854: Steamship "Cimbria" Rasmus Nielsen and wife-to-be Maren Jensen are passengers from Copenhagen to Hull, England.
 
-### Farm House
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/169292276)_
 
 ### Farm House
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/170898921)_
+
+### Farm House
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/170898987)_
 
 ### 1854: Steamship "Cimbria" Christen Andersen, wife Ane Cathrine and 4 children on board Copenhagen to Hull, England.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/174072811)_
+
 ### 1855: Ship "James Nesmith" Christen Andersen, wife Ane Cathrine & 4 children passengers  Liverpool to New Orleans. Niels died 11 March Cholera.
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/174073020)_
 
 ### 1854: Steamship "Cimbria" Anders Pedersen, wife Rasmine and 5 children are passengers Copenhagen to Hull, England.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/174636602)_
+
 ### 1855: Ship "James Nesmith" Anders Pedersen, wife Rasmine and 5 children are passengers.
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/174636692)_
+
 ### The partial journal list of over 150 deaths, Which was the largest number of saints who died in a church company traveling to Utah in 1854 Hans Peter Olsen Company
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/207824553)_
 
 ## Photos & documents
 
@@ -364,7 +422,7 @@ _
 ![[AI Library/12 Family/_media/M1X3-FWK/136243600.pdf|Eric Gautesson Midtboen Hogan - Last Will and Testament, 1876]]
 
 
-![[AI Library/12 Family/_media/M1X3-FWK/137709513.png|Obituary -- Deseret News 1876-7-29]]
+![[AI Library/12 Family/_media/M1X3-FWK/137709513.jpg|Obituary -- Deseret News 1876-7-29]]
 
 
 ![[AI Library/12 Family/_media/M1X3-FWK/137955292.pdf|Life of Canute Peterson]]
@@ -524,6 +582,20 @@ _History of the Church in Oslo Norway_
 - [Erick G. M. Hogan, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZG2-4RC)
 - [Erick G.m. Hogan in entry for Harriet Hogan Woodard, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85W-RFF)
 - [Erick G.M. Hogan, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZG1-4LN)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 19)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 28)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 29)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 35)_
+- **1838** — The Saints driven from Missouri _(age 37)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 43)_
+- **1846** — The exodus from Nauvoo begins _(age 45)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 46)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 55)_
+- **1869** — The railroad reaches Utah _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/M1X3-FWK)

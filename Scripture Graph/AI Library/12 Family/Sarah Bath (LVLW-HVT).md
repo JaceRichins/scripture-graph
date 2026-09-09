@@ -7,14 +7,14 @@ fs_id: LVLW-HVT
 generation: 8
 born: 1728 · Cirencester, Gloucestershire, England
 died: 28 May 1790 · Painswick, Gloucestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Bath
 
-Born 1728 · Cirencester, Gloucestershire, England · Died 28 May 1790 · Painswick, Gloucestershire, England · Generation 8
+Born 1728 · Cirencester, Gloucestershire, England · Died 28 May 1790 · Painswick, Gloucestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Henry Richins Sr. (L21P-HKQ)|Henry Richins Sr.]]

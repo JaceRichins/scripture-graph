@@ -7,14 +7,14 @@ fs_id: KWNL-JWJ
 generation: 5
 born: 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom
 died: 12 July 1905 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Jones
 
-Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 12 July 1905 · Henefer, Summit, Utah, United States · Generation 5
+Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · Died 12 July 1905 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[William Jones (MVD2-WSJ)|William Jones]]
@@ -25,21 +25,25 @@ Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · D
 - **Birth**: 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom
 - **Death**: 12 July 1905 · Henefer, Summit, Utah, United States
 - **Christening**: 21 July 1844 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **data:,BAPL**: 17 March 1856
+- **BAPL**: 17 March 1856
 - **Residence**: 1861 · Brimpsfield, Gloucestershire, England, United Kingdom
-- **data:,Immigration**: 1865 · Deseret, United States
-- **data:,Emigration**: 1865
+- **Immigration**: 1865 · Deseret, United States
+- **Emigration**: 1865
 - **Residence**: 1870 · Henefer, Summit, Utah Territory, United States
-- **data:,ENDL**: 16 June 1873 · EHOUS
+- **ENDL**: 16 June 1873 · EHOUS
 - **Burial**: 14 July 1905 · Henefer Cemetery, Henefer, Summit, Utah, United States
-- **data:,BURI**: 14 July 1905 · Henefer, Summit, Utah, United States
-- **data:,SLGC**: 26 September 1949
+- **BURI**: 14 July 1905 · Henefer, Summit, Utah, United States
+- **SLGC**: 26 September 1949
 
 ## Stories
 
 ### Mary Jones Stephens
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2537602)_
+
 ### Life History of Thomas Henry and Mary Jones Stephens
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/10841178)_
 
 ## Photos & documents
 
@@ -67,7 +71,7 @@ Born 16 March 1842 · Brimpsfield, Gloucestershire, England, United Kingdom · D
 ![[AI Library/12 Family/_media/KWNL-JWJ/3719016.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWNL-JWJ/26696167.tif|document]]
+![[AI Library/12 Family/_media/KWNL-JWJ/26696167.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KWNL-JWJ/28746506.jpg|Mary Jones (1842-1905)]]
@@ -126,6 +130,19 @@ _This original cabinet card was in the Agnes Ure Pratt photo collection._
 - [Web: Utah, Find A Grave Index](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=STE&GSpartial=1&GSbyrel=all&GSst=47&GScntry=4&GSsr=1881&GRid=15530837&)
 - [Stephens, Thomas Henry 1839 Mary Jones Life History](https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE211662)
 - [Mary Jones in entry for Robert Jones Stephens, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZL4-W82)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 2)_
+- **1846** — The exodus from Nauvoo begins _(age 4)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 5)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 14)_
+- **1869** — The railroad reaches Utah _(age 27)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 35)_
+- **1890** — The Manifesto ends plural marriage _(age 48)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 51)_
+- **1896** — Utah becomes a state _(age 54)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNL-JWJ)

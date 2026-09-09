@@ -5,14 +5,14 @@ content_type: ancestor
 sg-id: fs:MXKK-4NS
 fs_id: MXKK-4NS
 generation: 8
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Madison
 
-Generation 8
+Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Salkeld (L677-5XD)|Mary Salkeld]]

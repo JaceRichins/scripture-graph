@@ -7,14 +7,14 @@ fs_id: LKKM-LLF
 generation: 8
 born: 28 March 1745 · Barsby, Ashby Folville, Leicester, England
 died: 2 August 1802 · Barsby, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Edward Stevenson
 
-Born 28 March 1745 · Barsby, Ashby Folville, Leicester, England · Died 2 August 1802 · Barsby, Leicestershire, England · Generation 8
+Born 28 March 1745 · Barsby, Ashby Folville, Leicester, England · Died 2 August 1802 · Barsby, Leicestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Joseph Stevenson (LLQF-3QR)|Joseph Stevenson]]
@@ -22,7 +22,7 @@ Born 28 March 1745 · Barsby, Ashby Folville, Leicester, England · Died 2 Augus
 ## Life
 - **Birth**: 28 March 1745 · Barsby, Ashby Folville, Leicester, England
 - **Death**: 2 August 1802 · Barsby, Leicestershire, England
-- **data:,Baptism**: 28 Mar 1745 · Ashby Folville, Leicestershire, England, United Kingdom
+- **Baptism**: 28 Mar 1745 · Ashby Folville, Leicestershire, England, United Kingdom
 - **Christening**: 28 March 1745 · Ashby Folville, Leicestershire, England
 - **Burial**: 3 August 1802 · Ashby Folville, Leicestershire, England, United Kingdom
 

@@ -7,14 +7,14 @@ fs_id: GWDD-PBS
 generation: 8
 born: 1750 · Loudoun, Virginia, British Colonial America
 died: 15 March 1818 · Hampshire, Virginia, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James McBride
 
-Born 1750 · Loudoun, Virginia, British Colonial America · Died 15 March 1818 · Hampshire, Virginia, United States · Generation 8
+Born 1750 · Loudoun, Virginia, British Colonial America · Died 15 March 1818 · Hampshire, Virginia, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas White McBride (KWJR-J45)|Thomas White McBride]]
@@ -48,6 +48,8 @@ Born 1750 · Loudoun, Virginia, British Colonial America · Died 15 March 1818 �
 ## Stories
 
 ### James McBride (1750–1818)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/245465163)_
 
 ## Photos & documents
 

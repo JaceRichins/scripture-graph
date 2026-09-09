@@ -7,14 +7,14 @@ fs_id: LLQQ-WRD
 generation: 5
 born: 17 November 1854 · Branchville, Orangeburg, South Carolina, United States
 died: 31 May 1940 · Winnemucca, Humboldt, Nevada, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Julia Susan Bonnett
 
-Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States · Died 31 May 1940 · Winnemucca, Humboldt, Nevada, United States · Generation 5
+Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States · Died 31 May 1940 · Winnemucca, Humboldt, Nevada, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Daniel David Bonnett (LLSM-NQS)|Daniel David Bonnett]]
@@ -36,7 +36,7 @@ Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States 
 ![[AI Library/12 Family/_media/LLQQ-WRD/134684585.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LLQQ-WRD/155682124.png|document]]
+![[AI Library/12 Family/_media/LLQQ-WRD/155682124.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/LLQQ-WRD/203308854.pdf|Julia Susan Bonnett History_20240721_0001]]
@@ -58,6 +58,18 @@ Born 17 November 1854 · Branchville, Orangeburg, South Carolina, United States 
 - [Julia Bair, "United States, Census, 1900"](https://familysearch.org/ark:/61903/1:1:M3TX-NV1)
 - [Julia Bair in household of Barton Bair, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:M6SP-Y6T)
 - [Julia Bonnett in household of Daniel Bonnett, "United States Census, 1860"](https://familysearch.org/ark:/61903/1:1:MZT6-6FQ)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 2)_
+- **1869** — The railroad reaches Utah _(age 15)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 23)_
+- **1890** — The Manifesto ends plural marriage _(age 36)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 39)_
+- **1896** — Utah becomes a state _(age 42)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 64)_
+- **1936** — The Church welfare program begins _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQQ-WRD)

@@ -6,14 +6,14 @@ sg-id: fs:273J-B9L
 fs_id: 273J-B9L
 generation: 8
 born: 1731 · Litton, Yorkshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alice Hall
 
-Born 1731 · Litton, Yorkshire, England · Generation 8
+Born 1731 · Litton, Yorkshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Agnes Nancy Shaw (LL92-59X)|Agnes Nancy Shaw]]
@@ -21,8 +21,8 @@ Born 1731 · Litton, Yorkshire, England · Generation 8
 ## Life
 - **Birth**: 1731 · Litton, Yorkshire, England
 - **Christening**: 16 September 1731 · Arncliffe, Yorkshire, England, United Kingdom
-- **data:,Baptism**: 16 Sep 1731 · Arncliffe, Yorkshire, England
-- **data:,Baptism**: 16 Sep 1731 · Arncliffe, Yorkshire, England, United Kingdom
+- **Baptism**: 16 Sep 1731 · Arncliffe, Yorkshire, England
+- **Baptism**: 16 Sep 1731 · Arncliffe, Yorkshire, England, United Kingdom
 - **Residence**: Arncliffe
 
 ## Sources

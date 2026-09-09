@@ -7,14 +7,14 @@ fs_id: LZFT-95D
 generation: 8
 born: 29 October 1743 · Dossenheim, Oberamt Heidelberg, Kurpfalz, Heiliges Römisches Reich
 died: Abt 1766 · Orangeburg, Orangeburg, South Carolina, British Colonial America
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Johannes Bähr
 
-Born 29 October 1743 · Dossenheim, Oberamt Heidelberg, Kurpfalz, Heiliges Römisches Reich · Died Abt 1766 · Orangeburg, Orangeburg, South Carolina, British Colonial America · Generation 8
+Born 29 October 1743 · Dossenheim, Oberamt Heidelberg, Kurpfalz, Heiliges Römisches Reich · Died Abt 1766 · Orangeburg, Orangeburg, South Carolina, British Colonial America · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Reverend Jacob Bähr (LZFR-BQP)|Reverend Jacob Bähr]]
@@ -23,7 +23,7 @@ Born 29 October 1743 · Dossenheim, Oberamt Heidelberg, Kurpfalz, Heiliges Römi
 - **Birth**: 29 October 1743 · Dossenheim, Oberamt Heidelberg, Kurpfalz, Heiliges Römisches Reich
 - **Death**: Abt 1766 · Orangeburg, Orangeburg, South Carolina, British Colonial America
 - **Christening**: 31 October 1743
-- **data:,Baptism**: 31 Oct 1743 · Dossenheim, Heidelberg, Baden, Deutschland
+- **Baptism**: 31 Oct 1743 · Dossenheim, Heidelberg, Baden, Deutschland
 
 ## Sources
 - [John, „Deutschland, ausgewählte evangelische Kirchenbücher 1500-1971“](https://familysearch.org/ark:/61903/1:1:QP6Z-K8P6)

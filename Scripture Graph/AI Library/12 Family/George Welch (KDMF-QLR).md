@@ -7,14 +7,14 @@ fs_id: KDMF-QLR
 generation: 8
 born: July 1756 · Whitchurch, Shropshire, England
 died: 15 February 1831 · Whitchurch, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Welch
 
-Born July 1756 · Whitchurch, Shropshire, England · Died 15 February 1831 · Whitchurch, Shropshire, England, United Kingdom · Generation 8
+Born July 1756 · Whitchurch, Shropshire, England · Died 15 February 1831 · Whitchurch, Shropshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Welch (K26P-LQN)|Elizabeth Welch]]
@@ -23,7 +23,7 @@ Born July 1756 · Whitchurch, Shropshire, England · Died 15 February 1831 · Wh
 - **Birth**: July 1756 · Whitchurch, Shropshire, England
 - **Death**: 15 February 1831 · Whitchurch, Shropshire, England, United Kingdom
 - **Christening**: 25 July 1756 · Whitchurch, Shropshire, England
-- **data:,Marriage%20License**: 1791 · Whitchurch, Shropshire, England, United Kingdom
+- **Marriage%20License**: 1791 · Whitchurch, Shropshire, England, United Kingdom
 - **Burial**: 15 February 1831 · Whitchurch, Shropshire, England, United Kingdom
 - **Residence**: Whitchurch, Shropshire, England, United Kingdom
 
@@ -40,6 +40,13 @@ Born July 1756 · Whitchurch, Shropshire, England · Died 15 February 1831 · Wh
 - [George Welch in entry for William Welch, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMFM-95W)
 - [George Welch, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NKHJ-R25)
 - [George Welch, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQTQ-BVP)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 64)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 73)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 74)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KDMF-QLR)

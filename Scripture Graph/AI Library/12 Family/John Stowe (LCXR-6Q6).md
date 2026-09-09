@@ -7,14 +7,14 @@ fs_id: LCXR-6Q6
 generation: 7
 born: 1789 · Brailes, Warwickshire, England
 died: 14 February 1857 · Brailes, Warwickshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Stowe
 
-Born 1789 · Brailes, Warwickshire, England · Died 14 February 1857 · Brailes, Warwickshire, England, United Kingdom · Generation 7
+Born 1789 · Brailes, Warwickshire, England · Died 14 February 1857 · Brailes, Warwickshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Stow (LZZM-YM9)|William Stow]]
@@ -53,6 +53,19 @@ Born 1789 · Brailes, Warwickshire, England · Died 14 February 1857 · Brailes,
 - [John Stow in entry for Lucy Stow, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3WB-Z49)
 - Legacy NFS Source: John Stowe (Stow) - 
 - [John Stow in entry for Eliza Stow, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NY58-X2P)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 31)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 40)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 41)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 47)_
+- **1838** — The Saints driven from Missouri _(age 49)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 55)_
+- **1846** — The exodus from Nauvoo begins _(age 57)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 58)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LCXR-6Q6)

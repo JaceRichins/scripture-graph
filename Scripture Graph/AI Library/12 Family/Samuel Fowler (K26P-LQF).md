@@ -7,14 +7,14 @@ fs_id: K26P-LQF
 generation: 7
 born: 1773 · Shropshire, England
 died: 23 May 1845 · Bridgnorth, Shropshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Samuel Fowler
 
-Born 1773 · Shropshire, England · Died 23 May 1845 · Bridgnorth, Shropshire, England, United Kingdom · Generation 7
+Born 1773 · Shropshire, England · Died 23 May 1845 · Bridgnorth, Shropshire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Edward Fowler (K26P-L35)|Edward Fowler]]
@@ -24,7 +24,7 @@ Born 1773 · Shropshire, England · Died 23 May 1845 · Bridgnorth, Shropshire, 
 ## Life
 - **Birth**: 1773 · Shropshire, England
 - **Death**: 23 May 1845 · Bridgnorth, Shropshire, England, United Kingdom
-- **data:,Baptism**: 21 Feb 1773 · Discoed, Radnorshire, Wales, United Kingdom
+- **Baptism**: 21 Feb 1773 · Discoed, Radnorshire, Wales, United Kingdom
 - **Christening**: 21 February 1773 · Ditton Priors, Shropshire, England
 - **Burial**: 27 May 1845 · Worfield, Shropshire, England, United Kingdom
 
@@ -69,6 +69,16 @@ Born 1773 · Shropshire, England · Died 23 May 1845 · Bridgnorth, Shropshire, 
 - [Samuel Fowler, "England, Deaths and Burials, 1538-1991"](https://familysearch.org/ark:/61903/1:1:JZ1K-SZS)
 - [Samuel Fowler, "England and Wales, Death Registration Index 1837-2007"](https://familysearch.org/ark:/61903/1:1:2NT6-DWK)
 - Legacy NFS Source: Samuel Fowler - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 47)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 56)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 57)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 63)_
+- **1838** — The Saints driven from Missouri _(age 65)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 71)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K26P-LQF)

@@ -7,14 +7,14 @@ fs_id: KWCB-YC4
 generation: 3
 born: 15 September 1905 · Mendon, Cache, Utah, United States
 died: 8 July 1950 · Coalville, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ernest Whitney Oldham
 
-Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950 · Coalville, Summit, Utah, United States · Generation 3
+Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950 · Coalville, Summit, Utah, United States · Jace Eugene Richins's great-grandparents
 
 ## Family
 - Father: [[Ernest Price Oldham (KWJN-ZRT)|Ernest Price Oldham]]
@@ -30,8 +30,8 @@ Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950
 - **Residence**: 1940 · Coalville, Summit, Utah, United States
 - **Residence**: 10 Apr 1950 · Coalville, Summit, Utah, United States
 - **Burial**: 10 July 1950 · Coalville Cemetery, Coalville, Summit, Utah, United States
-- **data:,Military%20Draft%20Registration**: Coalville, Summit, Utah, United States
-- **data:,Membership**: Cassia, Idaho, United States
+- **Military%20Draft%20Registration**: Coalville, Summit, Utah, United States
+- **Membership**: Cassia, Idaho, United States
 
 ## Photos & documents
 
@@ -82,6 +82,12 @@ Born 15 September 1905 · Mendon, Cache, Utah, United States · Died 8 July 1950
 - [Ernest W Oldham, "United States, Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH66-J91)
 - [Ernest W Oldham, "United States, Census, 1920"](https://familysearch.org/ark:/61903/1:1:M8PZ-G11)
 - [Headstone image of Ernest Whitney Oldham from billiongraves.com](http://billiongraves.com/pages/record/ErnestWhitneyOldham/3880226?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 13)_
+- **1936** — The Church welfare program begins _(age 31)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWCB-YC4)

@@ -7,14 +7,14 @@ fs_id: LCZQ-49L
 generation: 8
 born: 10 September 1770 · Palatine, Tryon, New York Colony, British Colonial America
 died: 27 November 1806 · Irving, Hanover, Chautauqua, New York, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catharina Schmidt
 
-Born 10 September 1770 · Palatine, Tryon, New York Colony, British Colonial America · Died 27 November 1806 · Irving, Hanover, Chautauqua, New York, United States · Generation 8
+Born 10 September 1770 · Palatine, Tryon, New York Colony, British Colonial America · Died 27 November 1806 · Irving, Hanover, Chautauqua, New York, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Rebecca Burdick (KWJB-NFZ)|Rebecca Burdick]]
@@ -22,8 +22,8 @@ Born 10 September 1770 · Palatine, Tryon, New York Colony, British Colonial Ame
 ## Life
 - **Birth**: 10 September 1770 · Palatine, Tryon, New York Colony, British Colonial America
 - **Death**: 27 November 1806 · Irving, Hanover, Chautauqua, New York, United States
-- **data:,Baptism**: 1770
-- **data:,Baptism**: 30 September 1770
+- **Baptism**: 1770
+- **Baptism**: 30 September 1770
 - **Christening**: 30 September 1770 · Reformed Dutch Church, Tryon, New York Colony, British Colonial America
 - **Burial**: 1806 · Cherokee Tribe, Native American
 
@@ -65,7 +65,7 @@ What's the story behind the surname Robinson?_
 ![[AI Library/12 Family/_media/LCZQ-49L/166386428.pdf|Life Sketch - CATHARINA SCHMIDT]]
 
 
-![[AI Library/12 Family/_media/LCZQ-49L/174251199.png|Screenshot 2023-05-16 115415]]
+![[AI Library/12 Family/_media/LCZQ-49L/174251199.jpg|Screenshot 2023-05-16 115415]]
 
 
 ## Sources

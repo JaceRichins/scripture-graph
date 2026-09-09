@@ -7,14 +7,14 @@ fs_id: L7NB-F3W
 generation: 8
 born: 1742 · Cadoxton Juxta Neath, Glamorgan, Wales
 died: 1807 · Aberpergwm, Cadoxton, Glamorgan, Wales, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Evan Evans
 
-Born 1742 · Cadoxton Juxta Neath, Glamorgan, Wales · Died 1807 · Aberpergwm, Cadoxton, Glamorgan, Wales, United Kingdom · Generation 8
+Born 1742 · Cadoxton Juxta Neath, Glamorgan, Wales · Died 1807 · Aberpergwm, Cadoxton, Glamorgan, Wales, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Catherine Evans (MRZJ-4QB)|Catherine Evans]]
@@ -22,9 +22,9 @@ Born 1742 · Cadoxton Juxta Neath, Glamorgan, Wales · Died 1807 · Aberpergwm, 
 ## Life
 - **Birth**: 1742 · Cadoxton Juxta Neath, Glamorgan, Wales
 - **Death**: 1807 · Aberpergwm, Cadoxton, Glamorgan, Wales, United Kingdom
-- **data:,Baptism**: 8 Octobrt 1742 · Cadoxton-J-Neath, Glamorgan, Wales
+- **Baptism**: 8 Octobrt 1742 · Cadoxton-J-Neath, Glamorgan, Wales
 - **Christening**: 17 February 1750 · Welsh Saint Donats, Vale of Glamorgan, Glamorgan, Wales, United Kingdom
-- **data:,Baptism**: 17 Feb 1750 · Llanfwrog, Denbighshire, Wales
+- **Baptism**: 17 Feb 1750 · Llanfwrog, Denbighshire, Wales
 - **Burial**: 1807 · Aberpergwm, Cadoxton, Glamorgan, Wales, United Kingdom
 
 ## Sources

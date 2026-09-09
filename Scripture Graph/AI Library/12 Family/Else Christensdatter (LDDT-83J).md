@@ -7,14 +7,14 @@ fs_id: LDDT-83J
 generation: 7
 born: oktober 1787 · Fandrup, Farsø, Ålborg, Denmark
 died: 11 July 1861 · Kærsgård, Strandby, Ålborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Else Christensdatter
 
-Born oktober 1787 · Fandrup, Farsø, Ålborg, Denmark · Died 11 July 1861 · Kærsgård, Strandby, Ålborg, Denmark · Generation 7
+Born oktober 1787 · Fandrup, Farsø, Ålborg, Denmark · Died 11 July 1861 · Kærsgård, Strandby, Ålborg, Denmark · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Christen Sørensen (MN2G-349)|Christen Sørensen]]
@@ -32,12 +32,12 @@ Born oktober 1787 · Fandrup, Farsø, Ålborg, Denmark · Died 11 July 1861 · K
 - **Residence**: 1845 · Farsø, Gislum, Ålborg, Danmark
 - **Residence**: 1845 · Vognsild, Gislum, Ålborg, Danmark
 - **Burial**: 18 July 1861 · Strandby, Ålborg, Denmark
-- **data:,Probate**: Hjørring, Denmark
+- **Probate**: Hjørring, Denmark
 - **Residence**: Uttrup
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LDDT-83J/50148210.png|christening 28 October 1787, Farsø, Ålborg, Denmark]]
+![[AI Library/12 Family/_media/LDDT-83J/50148210.jpg|christening 28 October 1787, Farsø, Ålborg, Denmark]]
 _https://www.sa.dk/ao-soegesider/da/billedviser?bsid=161665#161665,27163296
 1787 christening record, Farsø, Ålborg, Denmark, (Opslag 73) Page 75, left column, 1787, last entry before November:  "28th ... Christen Sørensen's child Else of Fandrup...christened..."_
 
@@ -66,6 +66,19 @@ _https://www.sa.dk/ao-soegesider/da/billedviser?bsid=161665#161665,27163296
 - [Else Christensdr in entry for Helle, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-C4S)
 - [Else Christensdr in entry for Gjertrud, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-CW1)
 - [Else Christensdr in entry for Ane Kirstine, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-CSM)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 49)_
+- **1838** — The Saints driven from Missouri _(age 51)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 57)_
+- **1846** — The exodus from Nauvoo begins _(age 59)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 60)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 69)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LDDT-83J)

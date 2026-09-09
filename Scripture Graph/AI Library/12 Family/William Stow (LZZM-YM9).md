@@ -7,14 +7,14 @@ fs_id: LZZM-YM9
 generation: 8
 born: November 1743 · Brailes, Warwickshire, England
 died: January 1823 · Brailes, Warwickshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Stow
 
-Born November 1743 · Brailes, Warwickshire, England · Died January 1823 · Brailes, Warwickshire, England, United Kingdom · Generation 8
+Born November 1743 · Brailes, Warwickshire, England · Died January 1823 · Brailes, Warwickshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[John Stowe (LCXR-6Q6)|John Stowe]]
@@ -37,6 +37,11 @@ _put together by Doris Ovard Murdock 20 May 1983_
 - Christening of William Stow (1743-1823) Brailes, Warwickshire, England
 - [William Stow, "England, Deaths and Burials, 1538-1991"](https://familysearch.org/ark:/61903/1:1:JHRZ-Z46)
 - Legacy NFS Source: William Stow - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZZM-YM9)

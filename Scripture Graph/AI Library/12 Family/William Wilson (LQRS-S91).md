@@ -6,14 +6,14 @@ sg-id: fs:LQRS-S91
 fs_id: LQRS-S91
 generation: 8
 born: 1720 · Douglas, Lanarkshire, Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Wilson
 
-Born 1720 · Douglas, Lanarkshire, Scotland, United Kingdom · Generation 8
+Born 1720 · Douglas, Lanarkshire, Scotland, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Nelson Wilson (9QW1-X7N)|Mary Nelson Wilson]]

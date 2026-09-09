@@ -7,14 +7,14 @@ fs_id: L4Q3-KPS
 generation: 8
 born: 7 January 1738 · Painswick, Gloucestershire, England
 died: 15 December 1776 · Painswick, Gloucester, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Gill
 
-Born 7 January 1738 · Painswick, Gloucestershire, England · Died 15 December 1776 · Painswick, Gloucester, England · Generation 8
+Born 7 January 1738 · Painswick, Gloucestershire, England · Died 15 December 1776 · Painswick, Gloucester, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[John Wager (9HTV-VNT)|John Wager]]

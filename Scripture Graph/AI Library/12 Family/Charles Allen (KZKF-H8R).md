@@ -7,14 +7,14 @@ fs_id: KZKF-H8R
 generation: 7
 born: about 1770 · North Kilworth, Leicestershire, England
 died: '1830'
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Allen
 
-Born about 1770 · North Kilworth, Leicestershire, England · Died 1830 · Generation 7
+Born about 1770 · North Kilworth, Leicestershire, England · Died 1830 · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Allen (9JHP-5YD)|John Allen]]
@@ -24,8 +24,8 @@ Born about 1770 · North Kilworth, Leicestershire, England · Died 1830 · Gener
 ## Life
 - **Birth**: about 1770 · North Kilworth, Leicestershire, England
 - **Death**: 1830
-- **data:,Baptism**: 14 Oct 1770 · North Kilworth, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 14 Oct 1770
+- **Baptism**: 14 Oct 1770 · North Kilworth, Leicestershire, England, United Kingdom
+- **Baptism**: 14 Oct 1770
 - **Christening**: 14 October 1770 · North Kilworth, Leicestershire, England
 - **Burial**: 05 July 1830 · North Kilworth, Leicestershire, England
 - **Residence**: North Kilworth, Leicester, England
@@ -67,6 +67,13 @@ Born about 1770 · North Kilworth, Leicestershire, England · Died 1830 · Gener
 - [[Within the Walls of Liberty Jail]]
 - [[16 Only a Prelude]]
 - [[Discipleship (President James E. Faust, October 2006)]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 50)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 59)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 60)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KZKF-H8R)

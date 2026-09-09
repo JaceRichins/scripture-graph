@@ -7,14 +7,14 @@ fs_id: KWJY-LB5
 generation: 7
 born: 6 February 1809 · Tinn, Telemark, Norway
 died: 21 February 1884 · Woods Cross, Davis, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Helga Knudsdatter
 
-Born 6 February 1809 · Tinn, Telemark, Norway · Died 21 February 1884 · Woods Cross, Davis, Utah Territory, United States · Generation 7
+Born 6 February 1809 · Tinn, Telemark, Norway · Died 21 February 1884 · Woods Cross, Davis, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Knud Olsen (LZFP-SRS)|Knud Olsen]]
@@ -24,16 +24,16 @@ Born 6 February 1809 · Tinn, Telemark, Norway · Died 21 February 1884 · Woods
 ## Life
 - **Birth**: 6 February 1809 · Tinn, Telemark, Norway
 - **Death**: 21 February 1884 · Woods Cross, Davis, Utah Territory, United States
-- **data:,Baptism**: 15 February 1809 · Telemark, Norway
+- **Baptism**: 15 February 1809 · Telemark, Norway
 - **Christening**: 14 March 1809 · Tinn, Telemark, Norway
-- **data:,LdsBaptism**: 30 Jan 1843 · LIFE
-- **data:,Census**: 1850 · Davis county, Davis, Utah Territory, USA
+- **LdsBaptism**: 30 Jan 1843 · LIFE
+- **Census**: 1850 · Davis county, Davis, Utah Territory, USA
 - **Residence**: 1850 · Davis county, Davis, Utah Territory, United States
-- **data:,LdsEndowment**: 31 Mar 1852
+- **LdsEndowment**: 31 Mar 1852
 - **Residence**: 1860 · Bountiful, Davis, Utah Territory, United States
 - **Residence**: 1880 · Bountiful, Davis, Utah, United States
 - **Burial**: 24 February 1884 · Bountiful Memorial Park, Bountiful, Davis, Utah Territory, United States
-- **data:,LdsSealingToParents**: 6 Jun 1924
+- **LdsSealingToParents**: 6 Jun 1924
 - **Residence**: Tinn, Telemark, Norway
 - **Residence**: Hougen
 - **Residence**: Horgen
@@ -42,13 +42,21 @@ Born 6 February 1809 · Tinn, Telemark, Norway · Died 21 February 1884 · Woods
 
 ### Erik GM Hogan from Latter-day Saint Biographical Encyclopedia
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4556494)_
+
 ### Helga Hogan's Dream of Her Home and Sons
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/28013964)_
+
 ### Helge Knudson History
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/54691091)_
 
 ### Helge Knudsen Haugen/Hogan
 from:Pioneer Women of Faith and Fortitude
 p. 1294
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/74834559)_
 
 ## Photos & documents
 
@@ -79,7 +87,7 @@ p. 1294
 ![[AI Library/12 Family/_media/KWJY-LB5/1542752.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJY-LB5/2072407.png|photo]]
+![[AI Library/12 Family/_media/KWJY-LB5/2072407.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWJY-LB5/2781062.jpg|photo]]
@@ -132,7 +140,7 @@ _History of Helge Knutsdatter Norstebo Hogan_
 ![[AI Library/12 Family/_media/KWJY-LB5/36888165.pdf|HELGA K. HOGAN HISTORY 1809-1884]]
 
 
-![[AI Library/12 Family/_media/KWJY-LB5/47104440.tif|Helga Knutsdatter Nestebe]]
+![[AI Library/12 Family/_media/KWJY-LB5/47104440.jpg|Helga Knutsdatter Nestebe]]
 
 
 ![[AI Library/12 Family/_media/KWJY-LB5/48237686.pdf|Sketch of the Lives of Eric and Profinda Hatch Hogan]]
@@ -306,6 +314,21 @@ _Family group sheet with pictures and information_
 - [Find a Grave for Halga N. Hogan](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=8607549)
 - [Millennium File](http://search.ancestry.com/cgi-bin/sse.dll?dbid=7249&h=10313290&indiv=try)
 - [Millennium File](http://search.ancestry.com/cgi-bin/sse.dll?dbid=7249&h=10636946&indiv=try)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 11)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 20)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 21)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 27)_
+- **1838** — The Saints driven from Missouri _(age 29)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 35)_
+- **1846** — The exodus from Nauvoo begins _(age 37)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 38)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 47)_
+- **1869** — The railroad reaches Utah _(age 60)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 68)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJY-LB5)

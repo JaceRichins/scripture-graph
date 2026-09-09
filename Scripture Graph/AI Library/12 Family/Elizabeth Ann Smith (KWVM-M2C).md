@@ -7,14 +7,14 @@ fs_id: KWVM-M2C
 generation: 6
 born: 26 December 1800 · Derby, New Haven, Connecticut, United States
 died: 15 February 1882 · Salt Lake City, Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Ann Smith
 
-Born 26 December 1800 · Derby, New Haven, Connecticut, United States · Died 15 February 1882 · Salt Lake City, Salt Lake, Utah Territory, United States · Generation 6
+Born 26 December 1800 · Derby, New Haven, Connecticut, United States · Died 15 February 1882 · Salt Lake City, Salt Lake, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Gibson Smith (L41T-FHY)|Gibson Smith]]
@@ -27,18 +27,26 @@ Born 26 December 1800 · Derby, New Haven, Connecticut, United States · Died 15
 - **Religion**: November 1830 · The Church of Jesus Christ of Latter-day Saints
 - **Residence**: 1850 · Salt Lake, Utah, United States
 - **Residence**: 1880 · Salt Lake City, Salt Lake, Utah, United States
-- **data:,Obituary**: 16 Feb 1882 · Utah, United States
+- **Obituary**: 16 Feb 1882 · Utah, United States
 - **Burial**: 22 February 1882 · Salt Lake City Cemetery,  Salt Lake, Utah Territory, United States
 
 ## Stories
 
 ### History, Elizabeth Ann Whitney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2754203)_
+
 ### Elizabeth Ann Smith Whitney (26 December 1800 – 15 February 1882)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19816087)_
 
 ### "Our Travels Beyond the Mississippi" By Helen Mar Kimball Whitney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29847963)_
+
 ### The Newel K. Whitney Family by D. Michael Quinn
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/29869823)_
 
 ## Photos & documents
 
@@ -110,6 +118,21 @@ Kimball Whitney,Elizabeth Ann,Whitney & Gibson  Smith_
 - [[11 Ye Shall Receive My Law]]
 - [[Joseph Smith’s Teachings about Priesthood, Temples, and Women (Essay)]]
 - [[Plural Marriage (Gospel Topics)]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 20)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 29)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 30)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 36)_
+- **1838** — The Saints driven from Missouri _(age 38)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 44)_
+- **1846** — The exodus from Nauvoo begins _(age 46)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 47)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 56)_
+- **1869** — The railroad reaches Utah _(age 69)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWVM-M2C)

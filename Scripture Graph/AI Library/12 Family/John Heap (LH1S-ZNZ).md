@@ -7,14 +7,14 @@ fs_id: LH1S-ZNZ
 generation: 7
 born: 25 October 1786 · Haslingden, Lancashire, England
 died: 9 May 1828 · Haslingden, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # John Heap
 
-Born 25 October 1786 · Haslingden, Lancashire, England · Died 9 May 1828 · Haslingden, Lancashire, England · Generation 7
+Born 25 October 1786 · Haslingden, Lancashire, England · Died 9 May 1828 · Haslingden, Lancashire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Henry Heap (L66M-2BN)|Henry Heap]]
@@ -42,6 +42,11 @@ Born 25 October 1786 · Haslingden, Lancashire, England · Died 9 May 1828 · Ha
 - [John Heap in entry for Mary Heap, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQNZ-BVT)
 - [John Heap, "England and Wales, Non-Conformist Record Indexes (RG4-8), 1588-1977"](https://familysearch.org/ark:/61903/1:1:FW23-NBV)
 - [John Heap, "England and Wales, Non-Conformist Record Indexes (RG4-8), 1588-1977"](https://familysearch.org/ark:/61903/1:1:FQ5M-VT5)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 34)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LH1S-ZNZ)

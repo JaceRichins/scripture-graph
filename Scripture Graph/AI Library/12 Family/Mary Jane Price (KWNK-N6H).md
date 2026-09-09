@@ -7,14 +7,14 @@ fs_id: KWNK-N6H
 generation: 5
 born: 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States
 died: 18 December 1892 · Paradise, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Jane Price
 
-Born 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States · Died 18 December 1892 · Paradise, Cache, Utah, United States · Generation 5
+Born 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States · Died 18 December 1892 · Paradise, Cache, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Edward Jeremiah Price (KWV9-ZK2)|Edward Jeremiah Price]]
@@ -25,18 +25,22 @@ Born 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States �
 - **Birth**: 15 April 1853 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Death**: 18 December 1892 · Paradise, Cache, Utah, United States
 - **Christening**: 23 April 1853 · Paradise, Cache, Utah, United States
-- **data:,census**: 1860 · Cache, Utah Territory · United States federal
-- **data:,census**: 1870 · Paradise, Cache, Utah, United States · United States federal
+- **census**: 1860 · Cache, Utah Territory · United States federal
+- **census**: 1870 · Paradise, Cache, Utah, United States · United States federal
 - **Residence**: 1880 · Paradise, Cache, Utah, United States
 - **Burial**: 21 December 1892 · Paradise, Cache, Utah, United States
 - **Residence**: 1900 · Avon, Cache, Utah, United States
-- **data:,Ancestral%20File%20Number**: 1RGH-HP
+- **Ancestral%20File%20Number**: 1RGH-HP
 
 ## Stories
 
 ### Edward Jeremiah Price
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/899802)_
+
 ### Grandfather Oldham (Samuel Heap Oldham) by Granddaughter Alice Olsen Norman
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/16819959)_
 
 ## Photos & documents
 
@@ -58,10 +62,10 @@ _Mary Jane Bishop standing next to her daughter Mary Jane Price_
 ![[AI Library/12 Family/_media/KWNK-N6H/48242487.jpg|Price, Mary Jane - Headstone]]
 
 
-![[AI Library/12 Family/_media/KWNK-N6H/87881513.tif|Edward Jeremiah Price & Mary Jane Bishop Family]]
+![[AI Library/12 Family/_media/KWNK-N6H/87881513.jpg|Edward Jeremiah Price & Mary Jane Bishop Family]]
 _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps Oldham, Samuel Price Oldham, Edward Jeremiah Price, John Lloyd Price, Mary Jane Bishop and Ernest Price Oldham. ca 1879. Courtesy Mary Jean Garrison._
 
-![[AI Library/12 Family/_media/KWNK-N6H/87882818.tif|Mary Jane Bishop & Daughter Mary Jane Price]]
+![[AI Library/12 Family/_media/KWNK-N6H/87882818.jpg|Mary Jane Bishop & Daughter Mary Jane Price]]
 _(R to L) Mary Jane Bishop, b. 17 Dec 1819, Berriw, Montgomery, Wales and daughter Mary Jane Price, b. 15 Apr 1853 in Salt Lake City, Salt Lake, Utah. This photograph was probably taken outside Mary Jane Bishop's home in Paradise, Cache, Utah. Courtesy of Jessie Bishop Lewis._
 
 ![[AI Library/12 Family/_media/KWNK-N6H/89997034.pdf|Mary Jane Bishop Letter to John Bishop 6 April 1876]]
@@ -135,6 +139,14 @@ _Mary Jane Bishop's letter to her brother John Bishop in 1876. At this time Mary
 - [Jane Price in entry for Warren Pearce, "Utah, Marriages, 1887-1935"](https://familysearch.org/ark:/61903/1:1:F8PX-WHP)
 - [Mary Jane Price, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZGM-XXG)
 - [Mary Jane Price, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZPR-DGH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 3)_
+- **1869** — The railroad reaches Utah _(age 16)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 24)_
+- **1890** — The Manifesto ends plural marriage _(age 37)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNK-N6H)

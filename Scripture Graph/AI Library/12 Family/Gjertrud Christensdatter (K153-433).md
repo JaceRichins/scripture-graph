@@ -7,14 +7,14 @@ fs_id: K153-433
 generation: 6
 born: 25 January 1826 · Fandrup, Farsø, Gislum, Ålborg, Denmark
 died: 6 May 1856 · St. Louis City, St. Louis, Missouri Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Gjertrud Christensdatter
 
-Born 25 January 1826 · Fandrup, Farsø, Gislum, Ålborg, Denmark · Died 6 May 1856 · St. Louis City, St. Louis, Missouri Territory, United States · Generation 6
+Born 25 January 1826 · Fandrup, Farsø, Gislum, Ålborg, Denmark · Died 6 May 1856 · St. Louis City, St. Louis, Missouri Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Christen Mikkelsen (MSG2-892)|Christen Mikkelsen]]
@@ -26,7 +26,7 @@ Born 25 January 1826 · Fandrup, Farsø, Gislum, Ålborg, Denmark · Died 6 May 
 - **Death**: 6 May 1856 · St. Louis City, St. Louis, Missouri Territory, United States
 - **Christening**: 25 January 1826 · Farsø, Gislum, Ålborg, Denmark
 - **Residence**: 1834 · Farsø, Gislum, Ålborg, Danmark
-- **data:,Confirmation**: 26 April 1840 · Farsø, Gislum, Ålborg, Denmark
+- **Confirmation**: 26 April 1840 · Farsø, Gislum, Ålborg, Denmark
 - **Residence**: 1840 · Farsø, Gislum, Ålborg, Danmark
 - **Residence**: 1850 · Farsø, Gislum, Ålborg, Danmark
 - **Residence**: 1855 · Farsø, Gislum, Ålborg, Denmark
@@ -84,6 +84,18 @@ St. Louis, Missouri_
 - [Gjertrud Christensdr in entry for Caroline, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8M3)
 - [Gjertrud Christensdr in entry for Else Christine, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XY8C-8M5)
 - [Gjertrud, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:XYV9-CWY)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 3)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 4)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 10)_
+- **1838** — The Saints driven from Missouri _(age 12)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 18)_
+- **1846** — The exodus from Nauvoo begins _(age 20)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 21)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 30)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K153-433)

@@ -7,14 +7,14 @@ fs_id: KWJ7-5QZ
 generation: 5
 born: 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom
 died: 17 February 1867 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Caroline Ellen Tipper Jones
 
-Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom · Died 17 February 1867 · Henefer, Summit, Utah, United States · Generation 5
+Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom · Died 17 February 1867 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Robert Jones (KWJ7-5Q6)|Robert Jones]]
@@ -25,12 +25,12 @@ Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom �
 - **Birth**: 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom
 - **Death**: 17 February 1867 · Henefer, Summit, Utah, United States
 - **Christening**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
-- **data:,Christened**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
-- **data:,Birth+Registration**: 1846 · Cirencester, Gloucestershire, England, United Kingdom
+- **Christened**: 15 March 1846 · Cirencester, Gloucestershire, England, United Kingdom
+- **Birth+Registration**: 1846 · Cirencester, Gloucestershire, England, United Kingdom
 - **Residence**: 1851 · Cowley, Gloucestershire, England, United Kingdom
-- **data:,Immigration**: 1862 · Utah, United States
+- **Immigration**: 1862 · Utah, United States
 - **Burial**: 20 February 1867 · Henefer, Summit, Utah, United States
-- **data:,adoption**: 1852 · When mother and Step-Father were Married
+- **adoption**: 1852 · When mother and Step-Father were Married
 
 ## Photos & documents
 
@@ -43,10 +43,10 @@ Born 20 February 1846 · Cirencester, Gloucestershire, England, United Kingdom �
 ![[AI Library/12 Family/_media/KWJ7-5QZ/7836362.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5QZ/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/KWJ7-5QZ/26231502.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5QZ/26696167.tif|document]]
+![[AI Library/12 Family/_media/KWJ7-5QZ/26696167.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KWJ7-5QZ/27325923.pdf|Life Stories of Edward Richins, Caroline Ellen Tipper and Sarah Beard - written and compiled by J. Alden Richins in 2008]]
@@ -124,6 +124,13 @@ _This is the cemetery marker for several people who were originally buried on pr
 - Legacy NFS Source: Carolyn Ellen Tipper Jones - 
 - Carolyn Ellen Tipper Jones - burial: 1867; Henefer Cemetery, Summit, Utah, United States
 - [Caroline E. Tipper in entry for Alma E. Richins, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZPG-YV8)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1846** — The exodus from Nauvoo begins _(age 0)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 1)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 10)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ7-5QZ)

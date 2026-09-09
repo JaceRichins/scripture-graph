@@ -7,14 +7,14 @@ fs_id: 2CY3-DCR
 generation: 8
 born: 18 February 1766 · Wareham, Plymouth, Massachusetts Bay Colony, British Colonial America
 died: 19 April 1839 · Ashtabula, Ashtabula, Ohio, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Norris
 
-Born 18 February 1766 · Wareham, Plymouth, Massachusetts Bay Colony, British Colonial America · Died 19 April 1839 · Ashtabula, Ashtabula, Ohio, United States · Generation 8
+Born 18 February 1766 · Wareham, Plymouth, Massachusetts Bay Colony, British Colonial America · Died 19 April 1839 · Ashtabula, Ashtabula, Ohio, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ruby Elnora Stearns (LHFT-LVR)|Ruby Elnora Stearns]]
@@ -51,6 +51,15 @@ _Excerpts from Women in the Western Reserve Before 1840.   Gathered by Vera Lee 
 - [Sarah in entry for Ruby Stans, "Massachusetts, Births and Christenings, 1639-1915"](https://familysearch.org/ark:/61903/1:1:FC44-KQQ)
 - [Sarah in entry for Caroline Matilda Stans, "Massachusetts, Births and Christenings, 1639-1915"](https://familysearch.org/ark:/61903/1:1:FC44-2FZ)
 - Legacy NFS Source: Sarah Norris - Published information: death: 19 April 1839; Ashtabula, Ashtabula, Ohio, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 54)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 63)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 64)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 70)_
+- **1838** — The Saints driven from Missouri _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/2CY3-DCR)

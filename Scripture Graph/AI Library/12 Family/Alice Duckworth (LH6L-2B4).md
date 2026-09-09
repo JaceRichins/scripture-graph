@@ -7,14 +7,14 @@ fs_id: LH6L-2B4
 generation: 8
 born: 11 November 1759 · Rishton, Lancashire, England
 died: 8 January 1842 · Haslingden, Musburye, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Alice Duckworth
 
-Born 11 November 1759 · Rishton, Lancashire, England · Died 8 January 1842 · Haslingden, Musburye, Lancashire, England · Generation 8
+Born 11 November 1759 · Rishton, Lancashire, England · Died 8 January 1842 · Haslingden, Musburye, Lancashire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[William Oldham (LT3V-JGX)|William Oldham]]
@@ -61,6 +61,15 @@ _Grave marker of Alice Oldham buried 1842_
 - [Alice in entry for Alice Oldham, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NDFG-QMC)
 - [Alice Duckworth, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JW8P-GXT)
 - Legacy NFS Source: Alice Duckworth - christening: 11 December 1759; Rishton, Lancashire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 61)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 70)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 71)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 77)_
+- **1838** — The Saints driven from Missouri _(age 79)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LH6L-2B4)

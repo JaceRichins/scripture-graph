@@ -7,14 +7,14 @@ fs_id: LLQF-3QR
 generation: 7
 born: 19 October 1787 · Barsby, Leicestershire, England
 died: October 1832 · Pontiac Township, Oakland, Michigan, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Joseph Stevenson
 
-Born 19 October 1787 · Barsby, Leicestershire, England · Died October 1832 · Pontiac Township, Oakland, Michigan, United States · Generation 7
+Born 19 October 1787 · Barsby, Leicestershire, England · Died October 1832 · Pontiac Township, Oakland, Michigan, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Edward Stevenson (LKKM-LLF)|Edward Stevenson]]
@@ -24,13 +24,13 @@ Born 19 October 1787 · Barsby, Leicestershire, England · Died October 1832 · 
 ## Life
 - **Birth**: 19 October 1787 · Barsby, Leicestershire, England
 - **Death**: October 1832 · Pontiac Township, Oakland, Michigan, United States
-- **data:,Baptism**: 30 Nov 1786 · Ashby Folville, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 30 Nov 1786
-- **data:,Baptism**: 21 Oct 1787 · Ashby Folville, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 21 October 1787 · Ashby Folville, Leicestershire, England
+- **Baptism**: 30 Nov 1786 · Ashby Folville, Leicestershire, England, United Kingdom
+- **Baptism**: 30 Nov 1786
+- **Baptism**: 21 Oct 1787 · Ashby Folville, Leicestershire, England, United Kingdom
+- **Baptism**: 21 October 1787 · Ashby Folville, Leicestershire, England
 - **Christening**: 21 October 1787 · Ashby Folville, Leicestershire, England
 - **Naturalization**: 18 July 1828 · New York, United States · Arrival in America on Brig Canning from Gibraltar
-- **data:,Land%20Assessment**: 23 May 1831 · Michigan, United States
+- **Land%20Assessment**: 23 May 1831 · Michigan, United States
 - **Burial**: 1832 · Oakland Cemetery, Muskegon, Muskegon, Michigan, United States
 - **Residence**: Pontiac, Oakland, Michigan, United States
 - **Residence**: Pontiac, Oakland Co, Michigan,
@@ -39,16 +39,28 @@ Born 19 October 1787 · Barsby, Leicestershire, England · Died October 1832 · 
 
 ### Mary Stevenson
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1035633)_
+
 ### Autobiography of Mary Stevenson Clark
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1542747)_
 
 ### Joseph Stevenson (19 October 1787 – October 1832)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14565124)_
+
 ### Journal of Annie Eliza Forsyth McMurtrey
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62594535)_
 
 ### Joseph Stevenson & Elizabeth Stevens Stevenson
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/100549977)_
+
 ### Ezra Thompson Clark
 by unknown author
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/111157637)_
 
 ## Photos & documents
 
@@ -115,7 +127,7 @@ _Joseph Stevenson_
 ![[AI Library/12 Family/_media/LLQF-3QR/224496687.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LLQF-3QR/233747983.png|Portrait Pedigree.png]]
+![[AI Library/12 Family/_media/LLQF-3QR/233747983.jpg|Portrait Pedigree.png]]
 
 
 ## Sources
@@ -172,6 +184,13 @@ _Joseph Stevenson_
 - [Land deed, p. 2](http://williamsfamilytrees.com/showmedia.php?mediaID=3016&medialinkID=5080)
 - [Land Deed, p. 1](http://williamsfamilytrees.com/showmedia.php?mediaID=3015&medialinkID=5079)
 - [Joseph Stevenson, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVK-BYGK)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQF-3QR)

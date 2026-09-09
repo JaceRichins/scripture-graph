@@ -7,14 +7,14 @@ fs_id: L212-RL9
 generation: 8
 born: 29 July 1772 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States
 died: 1 April 1837 · Franklin, Pennsylvania, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Catharine Lang
 
-Born 29 July 1772 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States · Died 1 April 1837 · Franklin, Pennsylvania, United States · Generation 8
+Born 29 July 1772 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States · Died 1 April 1837 · Franklin, Pennsylvania, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Conrad Smith (L5FC-V4D)|Conrad Smith]]
@@ -46,6 +46,14 @@ _This is an excerpt taken from "A Rock Family History", compiled by Laureal Dean
 - [Catharine Long Smith, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVX-BYBD)
 - Legacy NFS Source: Catharine Long -
 - Legacy NFS Source: Catharine Long -
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 48)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 57)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 58)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 64)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L212-RL9)

@@ -7,14 +7,14 @@ fs_id: KV17-9CZ
 generation: 8
 born: 9 June 1739 · Mendon, Worcester, Massachusetts Bay Colony, British Colonial America
 died: 23 july 1790 · Franklin, Suffolk, Massachusetts, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Rebecca Hayward
 
-Born 9 June 1739 · Mendon, Worcester, Massachusetts Bay Colony, British Colonial America · Died 23 july 1790 · Franklin, Suffolk, Massachusetts, United States · Generation 8
+Born 9 June 1739 · Mendon, Worcester, Massachusetts Bay Colony, British Colonial America · Died 23 july 1790 · Franklin, Suffolk, Massachusetts, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Susanna Kimball (LHHB-FWV)|Susanna Kimball]]

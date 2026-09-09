@@ -7,14 +7,14 @@ fs_id: LLQX-X94
 generation: 6
 born: 27 January 1799 · Painswick, Gloucestershire, England
 died: 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charlotte Priscilla Wager
 
-Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 6
+Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September 1842 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Wager (9HTV-VNT)|John Wager]]
@@ -31,9 +31,11 @@ Born 27 January 1799 · Painswick, Gloucestershire, England · Died 21 September
 
 ### Richard Richins and Charlotte Wager by Hazel Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20148763)_
+
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LLQX-X94/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/LLQX-X94/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LLQX-X94/37456337.jpg|document]]
@@ -199,6 +201,15 @@ _Life Story of Richard Richins & Charlotte Priscilla Wager_
 - [Charlott Prichea, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZ2X-QPG)
 - Legacy NFS Source: Charlotte Priscilla Wager - 
 - Legacy NFS Source: Charlotte Priscilla Wager - Individual or family possessions: christening: 27 January 1799; Painswick, Gloucestershire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 21)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 30)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 31)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 37)_
+- **1838** — The Saints driven from Missouri _(age 39)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQX-X94)

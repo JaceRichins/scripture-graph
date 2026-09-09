@@ -7,14 +7,14 @@ fs_id: KWJZ-B9N
 generation: 4
 born: 18850213 · Van Buren,Crawford,Arkansas
 died: 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Francis Emmeline Tounzen
 
-Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States · Generation 4
+Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort Smith, Sebastian, Arkansas, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Noah Andrew Tounzen (LDCS-9WB)|Noah Andrew Tounzen]]
@@ -30,7 +30,7 @@ Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort S
 - **Residence**: 1940 · Fort Smith, Sebastian, Arkansas, United States
 - **Residence**: 13 Sep 1956 · Van Buren
 - **Burial**: 15 Sep 1956 · Pevehouse Cem., Van Buren, Ark.
-- **data:,USER_DEFINED**: 15 Sep 1956 · Little Rock, Arkansas · Obituary
+- **USER_DEFINED**: 15 Sep 1956 · Little Rock, Arkansas · Obituary
 
 ## Photos & documents
 
@@ -48,6 +48,15 @@ Born 18850213 · Van Buren,Crawford,Arkansas · Died 13 September 1956 · Fort S
 - [Mary Frances Emaline Flaherty, "Arkansas, Sebastian County Births and Deaths, 1877-1963"](https://familysearch.org/ark:/61903/1:1:XZCH-TNY)
 - [Francis Flaherty in household of Chas Flaherty, "United States Census, 1920"](https://familysearch.org/ark:/61903/1:1:MDN6-VJP)
 - [Francis Flaherty in household of Charlie Flaherty, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XMGN-1RN)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1890** — The Manifesto ends plural marriage _(age 5)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 8)_
+- **1896** — Utah becomes a state _(age 11)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 33)_
+- **1936** — The Church welfare program begins _(age 51)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJZ-B9N)

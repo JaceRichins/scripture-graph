@@ -7,14 +7,14 @@ fs_id: LKVY-D72
 generation: 8
 born: 6 November 1762 · Hopkinton, Kings, Rhode Island, British America
 died: 5 April 1846 · Quincy, Adams County, Illinois, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Gideon Burdick
 
-Born 6 November 1762 · Hopkinton, Kings, Rhode Island, British America · Died 5 April 1846 · Quincy, Adams County, Illinois, United States · Generation 8
+Born 6 November 1762 · Hopkinton, Kings, Rhode Island, British America · Died 5 April 1846 · Quincy, Adams County, Illinois, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Rebecca Burdick (KWJB-NFZ)|Rebecca Burdick]]
@@ -29,23 +29,37 @@ Born 6 November 1762 · Hopkinton, Kings, Rhode Island, British America · Died 
 - **Religion**: New Albany, Albany, New York, United States · Dutch Reformed Church
 - **Burial**: Nauvoo, Hancock County, IL, United States
 - **MilitaryService**: New York, United States · Enlistment into The New York Line - Second Regiment - Revolutionary War. While serving in the Revolutionary War, it is thought that Gideon Burdick was the drummer boy who accompanied George Washington on his historic trip across the Delaware River on Christmas Night in 1776. 
-- **data:,Pension**: New York, United States
+- **Pension**: New York, United States
 
 ## Stories
 
 ### Drummer Boy to Kindhearted Farmer
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2069832)_
+
 ### Life Story of Gideon Burdick
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3320163)_
 
 ### A Legacy from the Past
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3996866)_
+
 ### History of Gideon Burdick
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4734064)_
 
 ### Little Drummer Boy
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14632748)_
+
 ### A Burdick Family History Story by Heber J. Grant
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/37528795)_
+
 ### A LEGACY FROM THE PAST
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/37529933)_
 
 ## Photos & documents
 
@@ -61,7 +75,7 @@ _1922: Letter from Mrs. Heber J. Grant to Pension Bureau re. Gideon Burdick. Fro
 ![[AI Library/12 Family/_media/LKVY-D72/17979817.pdf|AMONG THE REMNANT WHO LINGERED -- THE HISTORY OF REBECCA BURDICK AND HIRAM WINTERS AND THEIR FAMILIES -- By Beth Radmall Olsen ]]
 
 
-![[AI Library/12 Family/_media/LKVY-D72/27945588.png|photo]]
+![[AI Library/12 Family/_media/LKVY-D72/27945588.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LKVY-D72/33286893.jpg|Gideon Burdick, Pension Final Payment Voucher Received From The General Accounting Office- General Services Administration]]
@@ -134,7 +148,7 @@ What's the story behind the surname Robinson?_
 ![[AI Library/12 Family/_media/LKVY-D72/166393838.pdf|Life Sketch - GIDEON BURDICK]]
 
 
-![[AI Library/12 Family/_media/LKVY-D72/173818631.png|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 2]]
+![[AI Library/12 Family/_media/LKVY-D72/173818631.jpg|Ancestry of Mrs. Grant Topic of Genealogical Presentation Part 2]]
 _Genealogical presentation for Augusta Grant_
 
 ![[AI Library/12 Family/_media/LKVY-D72/196370856.jpg|Summary of Booth Family History Septrmber 2000]]
@@ -214,6 +228,17 @@ _Historical Marker_
 
 ## In the library
 - [[Chapter 6 Uniting Families through Temple and Family History Work]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 58)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 67)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 68)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 74)_
+- **1838** — The Saints driven from Missouri _(age 76)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 82)_
+- **1846** — The exodus from Nauvoo begins _(age 84)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LKVY-D72)

@@ -7,14 +7,14 @@ fs_id: LHCZ-6L8
 generation: 8
 born: abt 1781 · of Condicotte, Gloucestershire, England
 died: 13 May 1847 · Stow-On-Wold, Condicote, Gloucester, Eng
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Issac Cross
 
-Born abt 1781 · of Condicotte, Gloucestershire, England · Died 13 May 1847 · Stow-On-Wold, Condicote, Gloucester, Eng · Generation 8
+Born abt 1781 · of Condicotte, Gloucestershire, England · Died 13 May 1847 · Stow-On-Wold, Condicote, Gloucester, Eng · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Phebe Cross (KWV9-811)|Phebe Cross]]
@@ -50,6 +50,18 @@ Born abt 1781 · of Condicotte, Gloucestershire, England · Died 13 May 1847 · 
 - [Henry Cross in entry for Eliza Cross, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JW48-XBZ)
 - [Hen. Cross, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:V52R-DQ7)
 - [Henry Cross, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NVSB-8NW)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 39)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 48)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 49)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 55)_
+- **1838** — The Saints driven from Missouri _(age 57)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 63)_
+- **1846** — The exodus from Nauvoo begins _(age 65)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHCZ-6L8)

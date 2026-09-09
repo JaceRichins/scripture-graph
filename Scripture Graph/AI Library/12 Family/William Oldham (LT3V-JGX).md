@@ -7,14 +7,14 @@ fs_id: LT3V-JGX
 generation: 7
 born: 16 March 1790 · Bellroe, Haslingden, Lancashire, England
 died: 26 August 1856 · Haslingden, Lancashire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # William Oldham
 
-Born 16 March 1790 · Bellroe, Haslingden, Lancashire, England · Died 26 August 1856 · Haslingden, Lancashire, England · Generation 7
+Born 16 March 1790 · Bellroe, Haslingden, Lancashire, England · Died 26 August 1856 · Haslingden, Lancashire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Oldham (LH6L-2YY)|John Oldham]]
@@ -25,7 +25,7 @@ Born 16 March 1790 · Bellroe, Haslingden, Lancashire, England · Died 26 August
 - **Birth**: 16 March 1790 · Bellroe, Haslingden, Lancashire, England
 - **Death**: 26 August 1856 · Haslingden, Lancashire, England
 - **Christening**: 16 March 1790 · St. James, Haslingden, Lancashire, England, United Kingdom
-- **data:,Census**: 1841 · Haslingden, Lancashire, England, United Kingdom
+- **Census**: 1841 · Haslingden, Lancashire, England, United Kingdom
 - **Residence**: 1841 · Bury, Lancashire, England
 - **Residence**: 1841 · Whalley, Lancashire, England
 - **Occupation**: 1851 · Haslingden, Lancashire, England, United Kingdom · Lodging House keeper
@@ -36,6 +36,8 @@ Born 16 March 1790 · Bellroe, Haslingden, Lancashire, England · Died 26 August
 ## Stories
 
 ### Grave coordinates
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/241437609)_
 
 ## Photos & documents
 
@@ -98,6 +100,19 @@ Born 16 March 1790 · Bellroe, Haslingden, Lancashire, England · Died 26 August
 - England and Wales Census, 1841
 - [William Oldham in entry for Alice Oldham, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N2Q4-KX1)
 - [William Oldham, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVN-GFD5)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 30)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 39)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 40)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 46)_
+- **1838** — The Saints driven from Missouri _(age 48)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 54)_
+- **1846** — The exodus from Nauvoo begins _(age 56)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 57)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 66)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LT3V-JGX)

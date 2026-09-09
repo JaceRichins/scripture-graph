@@ -7,14 +7,14 @@ fs_id: LHNR-1SD
 generation: 6
 born: 17 December 1829 · Alabama, United States
 died: 1 July 1893 · Fayetteville, Washington, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Lucretia Sarah Jones
 
-Born 17 December 1829 · Alabama, United States · Died 1 July 1893 · Fayetteville, Washington, Arkansas, United States · Generation 6
+Born 17 December 1829 · Alabama, United States · Died 1 July 1893 · Fayetteville, Washington, Arkansas, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[John Otter Jones (LZNN-5JJ)|John Otter Jones]]
@@ -51,6 +51,22 @@ Born 17 December 1829 · Alabama, United States · Died 1 July 1893 · Fayettevi
 - [Lucretia Burtchett in household of Joseph Burtchett, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:M66Z-JQH)
 - [Lucretia Patton, "Missouri Marriages, 1750-1920"](https://familysearch.org/ark:/61903/1:1:V28M-F71)
 - [Lucretia Jones, "Washington, Death Certificates, 1907-1960"](https://familysearch.org/ark:/61903/1:1:N3R8-M17)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 0)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 1)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 7)_
+- **1838** — The Saints driven from Missouri _(age 9)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 15)_
+- **1846** — The exodus from Nauvoo begins _(age 17)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 18)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 27)_
+- **1869** — The railroad reaches Utah _(age 40)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 48)_
+- **1890** — The Manifesto ends plural marriage _(age 61)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 64)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHNR-1SD)

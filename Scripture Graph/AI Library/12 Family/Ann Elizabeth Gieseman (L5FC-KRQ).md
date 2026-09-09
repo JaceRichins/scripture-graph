@@ -7,14 +7,14 @@ fs_id: L5FC-KRQ
 generation: 7
 born: 1 March 1809 · Pleasant Hall, Letterkenny Township, Franklin, Pennsylvania, United States
 died: 10 March 1846 · Quincy, Franklin, Pennsylvania, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Elizabeth Gieseman
 
-Born 1 March 1809 · Pleasant Hall, Letterkenny Township, Franklin, Pennsylvania, United States · Died 10 March 1846 · Quincy, Franklin, Pennsylvania, United States · Generation 7
+Born 1 March 1809 · Pleasant Hall, Letterkenny Township, Franklin, Pennsylvania, United States · Died 10 March 1846 · Quincy, Franklin, Pennsylvania, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Gieseman (LKKM-GJS)|William Gieseman]]
@@ -29,6 +29,8 @@ Born 1 March 1809 · Pleasant Hall, Letterkenny Township, Franklin, Pennsylvania
 ## Stories
 
 ### Biography of Daniel Miley Smith by Alvira Olpin
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18547924)_
 
 ## Photos & documents
 
@@ -68,6 +70,17 @@ _An excerpt taken from "THE FAMILY OF WILLIAM MARTIN AND MINA MAY SMITH OVARD", 
 - Legacy NFS Source: Ann Elizabeth Gieseman ***** - birth: 1 March 1809; Roxbury, Franklin, Pennsylvania, United States
 - Legacy NFS Source: Ann Elizabeth Gieseman ***** -
 - Legacy NFS Source: Ann Elizabeth Gieseman ***** -
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 11)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 20)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 21)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 27)_
+- **1838** — The Saints driven from Missouri _(age 29)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 35)_
+- **1846** — The exodus from Nauvoo begins _(age 37)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5FC-KRQ)

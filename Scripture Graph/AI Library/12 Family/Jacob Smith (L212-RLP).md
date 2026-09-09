@@ -7,14 +7,14 @@ fs_id: L212-RLP
 generation: 8
 born: 18 March 1768 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States
 died: 5 May 1845 · Quincy Township, Franklin, Pennsylvania, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Jacob Smith
 
-Born 18 March 1768 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States · Died 5 May 1845 · Quincy Township, Franklin, Pennsylvania, United States · Generation 8
+Born 18 March 1768 · Tomstown, Quincy Township, Franklin, Pennsylvania, United States · Died 5 May 1845 · Quincy Township, Franklin, Pennsylvania, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Conrad Smith (L5FC-V4D)|Conrad Smith]]
@@ -25,7 +25,7 @@ Born 18 March 1768 · Tomstown, Quincy Township, Franklin, Pennsylvania, United 
 - **Residence**: 1800 · Washington, Franklin, Pennsylvania, United States
 - **Residence**: 1810 · Washington, Franklin, Pennsylvania, United States
 - **Residence**: 1820 · Washington, Franklin, Pennsylvania, United States
-- **data:,Beerdigung**: 24 Sep 1820 · Notzingen, Notzingen, Notzingen, Kirchheim, Württemberg, Deutschland
+- **Beerdigung**: 24 Sep 1820 · Notzingen, Notzingen, Notzingen, Kirchheim, Württemberg, Deutschland
 - **Residence**: 1830 · Washington, Franklin, Pennsylvania, United States
 - **Residence**: 1840 · Quincy Township, Franklin, Pennsylvania, United States
 - **MilitaryService**: Pennsylvania, United States · United States War of 1812
@@ -60,6 +60,16 @@ _This is an excerpt taken from "A Rock Family History", compiled by Laureal Dean
 - [Jacob Smith, "United States, Census, 1830"](https://familysearch.org/ark:/61903/1:1:XH57-KJR)
 - [Jacob Smith, "United States, Census, 1840"](https://familysearch.org/ark:/61903/1:1:XHRT-N89)
 - [Jacob Smith, Sr, "Find a Grave Index"](https://familysearch.org/ark:/61903/1:1:QVVX-BYBP)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 52)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 61)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 62)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 68)_
+- **1838** — The Saints driven from Missouri _(age 70)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L212-RLP)

@@ -7,14 +7,14 @@ fs_id: KWJN-ZRT
 generation: 4
 born: 21 November 1875 · Paradise, Cache, Utah, United States
 died: 17 November 1937 · Coalville, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ernest Price Oldham
 
-Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 November 1937 · Coalville, Summit, Utah, United States · Generation 4
+Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 November 1937 · Coalville, Summit, Utah, United States · Jace Eugene Richins's 2× great-grandparents
 
 ## Family
 - Father: [[Samuel Oldham (KWZ1-FBS)|Samuel Oldham]]
@@ -24,13 +24,13 @@ Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 Novembe
 ## Life
 - **Birth**: 21 November 1875 · Paradise, Cache, Utah, United States
 - **Death**: 17 November 1937 · Coalville, Summit, Utah, United States
-- **data:,Baptism**: 7 July 1883
-- **data:,Baptism**: July 1884
-- **data:,Mission**: 1897 · Great Britain
-- **data:,Mission**: 1902 · Northern States 
+- **Baptism**: 7 July 1883
+- **Baptism**: July 1884
+- **Mission**: 1897 · Great Britain
+- **Mission**: 1902 · Northern States 
 - **Residence**: 1910 · Oakley, Cassia, Idaho, United States
-- **data:,Military+Draft+Registration**: from 1917 to 1918 · Logan, Cache, Utah, United States
-- **data:,Draft+Registration**: from 1917 to 1918 · Cache, Utah, United States
+- **Military+Draft+Registration**: from 1917 to 1918 · Logan, Cache, Utah, United States
+- **Draft+Registration**: from 1917 to 1918 · Cache, Utah, United States
 - **Residence**: 1920 · Logan, Cache, Utah, United States
 - **Residence**: 1930 · Salt Lake City, Salt Lake, Utah, United States
 - **Burial**: 20 November 1937 · Mendon City Cemetery, Mendon, Cache, Utah, United States
@@ -44,7 +44,7 @@ Born 21 November 1875 · Paradise, Cache, Utah, United States · Died 17 Novembe
 ![[AI Library/12 Family/_media/KWJN-ZRT/25315357.jpg|Ernest Price Oldham Headstone]]
 _Headstone in Mendon Cemetery, Cache, Utah_
 
-![[AI Library/12 Family/_media/KWJN-ZRT/87881513.tif|Edward Jeremiah Price & Mary Jane Bishop Family]]
+![[AI Library/12 Family/_media/KWJN-ZRT/87881513.jpg|Edward Jeremiah Price & Mary Jane Bishop Family]]
 _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps Oldham, Samuel Price Oldham, Edward Jeremiah Price, John Lloyd Price, Mary Jane Bishop and Ernest Price Oldham. ca 1879. Courtesy Mary Jean Garrison._
 
 ![[AI Library/12 Family/_media/KWJN-ZRT/159103017.jpg|photo]]
@@ -98,6 +98,16 @@ _Family photograph of (L to R) Mary Price Oldham, Mary Jane Bishop, Samuel Heaps
 - [Ernest P. Oldham, "Utah, Marriages, 1887-1935"](https://familysearch.org/ark:/61903/1:1:F8PD-C9X)
 - [Ernest Price Oldham, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZPZ-Q8S)
 - [P Ernest Oldham in household of Samuel Oldham, "United States Census, 1880"](https://familysearch.org/ark:/61903/1:1:MNSJ-XPS)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 2)_
+- **1890** — The Manifesto ends plural marriage _(age 15)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 18)_
+- **1896** — Utah becomes a state _(age 21)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 43)_
+- **1936** — The Church welfare program begins _(age 61)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJN-ZRT)

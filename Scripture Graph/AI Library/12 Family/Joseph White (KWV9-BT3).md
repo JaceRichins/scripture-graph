@@ -7,14 +7,14 @@ fs_id: KWV9-BT3
 generation: 7
 born: 30 May 1801 · Boston, Suffolk, Massachusetts, United States
 died: 18 August 1851 · Salt Lake City, Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Joseph White
 
-Born 30 May 1801 · Boston, Suffolk, Massachusetts, United States · Died 18 August 1851 · Salt Lake City, Salt Lake, Utah Territory, United States · Generation 7
+Born 30 May 1801 · Boston, Suffolk, Massachusetts, United States · Died 18 August 1851 · Salt Lake City, Salt Lake, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Robert White (KF74-1CL)|Robert White]]
@@ -25,7 +25,7 @@ Born 30 May 1801 · Boston, Suffolk, Massachusetts, United States · Died 18 Aug
 - **Birth**: 30 May 1801 · Boston, Suffolk, Massachusetts, United States
 - **Death**: 18 August 1851 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
-- **data:,Immigration**: 16 Oct 1847 · Deseret, United States
+- **Immigration**: 16 Oct 1847 · Deseret, United States
 - **Residence**: 1850 · Davis, Utah, United States
 - **Burial**: Salt Lake Cemetery, Plot: C_8_3_1E, 200 N. Street, Salt Lake City, Salt Lake, Utah Territory, United States
 
@@ -33,22 +33,40 @@ Born 30 May 1801 · Boston, Suffolk, Massachusetts, United States · Died 18 Aug
 
 ### Joseph White (30 May 1801 – 18 August 1851)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4009321)_
+
 ### Pvt. Joseph White (30 May 1801 – 18 August 1851)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7480619)_
 
 ### "New Mormon Battalion Historic Site Opens"
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7480756)_
+
 ### Mary Brush -- or Russell -- or Wait -- or Durfee???
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9346030)_
 
 ### Joseph and Ruby White
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14886964)_
+
 ### SARAH ELNORA WHITE and her father, JOSEPH WHITE
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15020980)_
+
 ### "Mormon Battalion" 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/22311422)_
 
 ### Joseph White
 (30 May 1801–18 August 1851)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/130086459)_
+
 ### Life sketch compiled by Mormon Battalion Association
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/213841723)_
 
 ## Photos & documents
 
@@ -171,6 +189,18 @@ _Unclear why the bounty land warrant was caveated.  Letter in file between land 
 - ["United States Mexican War Index and Service Records, 1846-1848,": Joseph White](https://familysearch.org/ark:/61903/3:1:3QS7-L9MX-74Z2?i=914&wc=M6NH-LNL%3A324198901%2C324226501&cc=1987567)
 - [Mormon Battalion Company A return list: Joseph White](https://cdm15999.contentdm.oclc.org/digital/collection/SCMisc/id/62273)
 - Legacy NFS Source: Joseph White - Church record: death: 18 August 1851; Salt Lake City, Salt Lake, Utah, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 19)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 28)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 29)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 35)_
+- **1838** — The Saints driven from Missouri _(age 37)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 43)_
+- **1846** — The exodus from Nauvoo begins _(age 45)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 46)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV9-BT3)

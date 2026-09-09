@@ -7,14 +7,14 @@ fs_id: L9P7-VVB
 generation: 8
 born: 1735 · Midlands, Leicestershire, England
 died: 24 October 1784 · Ditton Priors, Shropshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Davenport
 
-Born 1735 · Midlands, Leicestershire, England · Died 24 October 1784 · Ditton Priors, Shropshire, England · Generation 8
+Born 1735 · Midlands, Leicestershire, England · Died 24 October 1784 · Ditton Priors, Shropshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Samuel Fowler (K26P-LQF)|Samuel Fowler]]

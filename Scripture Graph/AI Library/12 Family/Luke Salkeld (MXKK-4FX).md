@@ -6,14 +6,14 @@ sg-id: fs:MXKK-4FX
 fs_id: MXKK-4FX
 generation: 8
 died: November 1817 · Chester le Street, Durham, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Luke Salkeld
 
-Died November 1817 · Chester le Street, Durham, England, United Kingdom · Generation 8
+Died November 1817 · Chester le Street, Durham, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Salkeld (L677-5XD)|Mary Salkeld]]

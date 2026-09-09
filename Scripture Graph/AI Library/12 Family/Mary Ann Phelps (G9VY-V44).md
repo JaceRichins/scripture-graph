@@ -7,14 +7,14 @@ fs_id: G9VY-V44
 generation: 7
 born: about 1808 · Buchanan, Botetourt, Virginia, United States
 died: 29 August 1891 · Sistersville, Tyler, West Virginia, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Ann Phelps
 
-Born about 1808 · Buchanan, Botetourt, Virginia, United States · Died 29 August 1891 · Sistersville, Tyler, West Virginia, United States · Generation 7
+Born about 1808 · Buchanan, Botetourt, Virginia, United States · Died 29 August 1891 · Sistersville, Tyler, West Virginia, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Phelps (LYY6-993)|Phelps]]
@@ -37,6 +37,22 @@ Born about 1808 · Buchanan, Botetourt, Virginia, United States · Died 29 Augus
 - Legacy NFS Source: Mary Whonos - birth: about 1822; Virginia, United States
 - [Mary A. Hamit in entry for Geo. W. Hammett, "Virginia, Marriages, 1785-1940"](https://familysearch.org/ark:/61903/1:1:XRW9-M59)
 - [Mary Hamit, "United States, Census, 1860"](https://familysearch.org/ark:/61903/1:1:M411-SK7)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 12)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 21)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 22)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 28)_
+- **1838** — The Saints driven from Missouri _(age 30)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 36)_
+- **1846** — The exodus from Nauvoo begins _(age 38)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 39)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 48)_
+- **1869** — The railroad reaches Utah _(age 61)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 69)_
+- **1890** — The Manifesto ends plural marriage _(age 82)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/G9VY-V44)

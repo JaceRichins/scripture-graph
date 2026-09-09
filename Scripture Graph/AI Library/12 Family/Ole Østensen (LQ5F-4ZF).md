@@ -7,14 +7,14 @@ fs_id: LQ5F-4ZF
 generation: 8
 born: 11 Jun 1756
 died: 30 December 1808 · Tinn, Telemark, Norway
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ole Østensen
 
-Born 11 Jun 1756 · Died 30 December 1808 · Tinn, Telemark, Norway · Generation 8
+Born 11 Jun 1756 · Died 30 December 1808 · Tinn, Telemark, Norway · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Ann Olsdatter (L5XC-4J5)|Ann Olsdatter]]
@@ -22,9 +22,9 @@ Born 11 Jun 1756 · Died 30 December 1808 · Tinn, Telemark, Norway · Generatio
 ## Life
 - **Birth**: 11 Jun 1756
 - **Death**: 30 December 1808 · Tinn, Telemark, Norway
-- **data:,will**: wp 30 Dec 1808
-- **data:,probate**: 30 Dec 1808
-- **data:,will**: wp 30 Dec 1808 · Tinn, Tlmrk, Nrwy
+- **will**: wp 30 Dec 1808
+- **probate**: 30 Dec 1808
+- **will**: wp 30 Dec 1808 · Tinn, Tlmrk, Nrwy
 
 ## Photos & documents
 

@@ -7,14 +7,14 @@ fs_id: KJ47-8L7
 generation: 8
 born: 1769 · London, England
 died: 12 August 1829 · Bermondsey, Surrey, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Adams Smith
 
-Born 1769 · London, England · Died 12 August 1829 · Bermondsey, Surrey, England, United Kingdom · Generation 8
+Born 1769 · London, England · Died 12 August 1829 · Bermondsey, Surrey, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Stevens (KWJT-JWW)|Elizabeth Stevens]]
@@ -37,6 +37,12 @@ Born 1769 · London, England · Died 12 August 1829 · Bermondsey, Surrey, Engla
 - [Sarah in entry for William Stevens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JS1K-Z2R)
 - [Sarah in entry for Ebenezer Stevens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:J3M9-YM5)
 - [Sarah in entry for Samuel Stevens, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NLJQ-PN1)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 51)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 60)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KJ47-8L7)

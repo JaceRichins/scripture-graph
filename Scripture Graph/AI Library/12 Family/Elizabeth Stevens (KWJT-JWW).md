@@ -7,14 +7,14 @@ fs_id: KWJT-JWW
 generation: 7
 born: 11 August 1788 · London, England
 died: 20 March 1873 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Stevens
 
-Born 11 August 1788 · London, England · Died 20 March 1873 · Salt Lake City, Salt Lake, Utah, United States · Generation 7
+Born 11 August 1788 · London, England · Died 20 March 1873 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Samuel Stevens (L5XZ-HK6)|Samuel Stevens]]
@@ -26,32 +26,46 @@ Born 11 August 1788 · London, England · Died 20 March 1873 · Salt Lake City, 
 - **Death**: 20 March 1873 · Salt Lake City, Salt Lake, Utah, United States
 - **Immigration**: 1828 · New York City, New York, United States
 - **Residence**: 1840 · Lee, Iowa Territory, United States
-- **data:,Immigration**: from 10 October 1848 to 19 October 1848
-- **data:,Immigration**: 19 October 1848
-- **data:,Obituary**: 21 Mar 1873 · Utah, United States
+- **Immigration**: from 10 October 1848 to 19 October 1848
+- **Immigration**: 19 October 1848
+- **Obituary**: 21 Mar 1873 · Utah, United States
 - **Burial**: 22 March 1873 · Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
 - **Christening**: London, England
 - **Residence**: Salt Lake City Cemetery, Salt Lake Co, Utah,
-- **data:,Cemetery**: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States · Salt Lake City Cemetery
+- **Cemetery**: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States · Salt Lake City Cemetery
 
 ## Stories
 
 ### Elizabeth Stevens Stevenson
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1008826)_
+
 ### Mary Stevenson
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1035633)_
 
 ### Autobiography of Mary Stevenson Clark
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1542747)_
+
 ### Journal of Annie Eliza Forsyth McMurtrey
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/62594535)_
+
 ### Elizabeth Steven Stevenson by Lenore Schow
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/87766076)_
 
 ### Ezra Thompson Clark
 by unknown author
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/111157637)_
+
 ### Elizabeth Stevens Stevenson
 (11 August 1792 – 20 March 1873)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/130157949)_
 
 ## Photos & documents
 
@@ -79,7 +93,7 @@ _Elizabeth Stevens_
 ![[AI Library/12 Family/_media/KWJT-JWW/130157611.jpg|Joseph & Elizabeth Stevens Stevenson]]
 
 
-![[AI Library/12 Family/_media/KWJT-JWW/133205050.png|Obituary -- Deseret News 1873-3-26]]
+![[AI Library/12 Family/_media/KWJT-JWW/133205050.jpg|Obituary -- Deseret News 1873-3-26]]
 
 
 ![[AI Library/12 Family/_media/KWJT-JWW/163563977.jpg|Marriage entry for Joseph and Elizabeth]]
@@ -109,7 +123,7 @@ _written by Clarice Stewart Anderson_
 ![[AI Library/12 Family/_media/KWJT-JWW/215149998.pdf|Elizabeth Stevens Stevenson]]
 _A life history of Elizabeth Stevens Stevenson_
 
-![[AI Library/12 Family/_media/KWJT-JWW/233747983.png|Portrait Pedigree.png]]
+![[AI Library/12 Family/_media/KWJT-JWW/233747983.jpg|Portrait Pedigree.png]]
 
 
 ![[AI Library/12 Family/_media/KWJT-JWW/241771225.jpg|Waterford Township Map]]
@@ -180,6 +194,20 @@ _Scott's Lake is in the center right of the map. This was called Stevenson Lake 
 - [1870 Census, original image](http://williamsfamilytrees.com/showmedia.php?mediaID=2738&medialinkID=4725)
 - [1850 Census, original image](http://williamsfamilytrees.com/showmedia.php?mediaID=2737&medialinkID=4720)
 - [Find a Grave link](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=ST&GSfn=e&GSpartial=1&GSbyrel=all&GSdyrel=all&GSst=47&GScntry=4&GSob=n&GSsr=481&GRid=13387309&df=all&)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 32)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 41)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 42)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 48)_
+- **1838** — The Saints driven from Missouri _(age 50)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 56)_
+- **1846** — The exodus from Nauvoo begins _(age 58)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 59)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 68)_
+- **1869** — The railroad reaches Utah _(age 81)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJT-JWW)

@@ -7,14 +7,14 @@ fs_id: L5XC-4J5
 generation: 7
 born: 19 December 1788 · Atrå, Telemark, Norway
 died: 1841 · Rock, Rock, Wisconsin, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ann Olsdatter
 
-Born 19 December 1788 · Atrå, Telemark, Norway · Died 1841 · Rock, Rock, Wisconsin, United States · Generation 7
+Born 19 December 1788 · Atrå, Telemark, Norway · Died 1841 · Rock, Rock, Wisconsin, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Ole Østensen (LQ5F-4ZF)|Ole Østensen]]
@@ -33,7 +33,11 @@ Born 19 December 1788 · Atrå, Telemark, Norway · Died 1841 · Rock, Rock, Wis
 
 ### Silver Spoon Mystery
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2838441)_
+
 ### Lars Hayer: Mission Branch and Conversion
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/131526825)_
 
 ## Photos & documents
 
@@ -72,6 +76,15 @@ Image ID# kb20061211340259_
 - Legacy NFS Source: Ann Marie Olsen - 
 - [Lars Andersen/Ann Marie Olsen in the Norway, Select Marriages, 1812](http://search.ancestry.com/cgi-bin/sse.dll?h=20972&indiv=1)
 - [Lars Andersen Folseland in the U.S. and Canada, Passenger and Immigration Lists Index, 1500s-1900s](http://search.ancestry.com/cgi-bin/sse.dll?h=1747422&db=pili354&indiv=1)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 32)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 41)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 42)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 48)_
+- **1838** — The Saints driven from Missouri _(age 50)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L5XC-4J5)

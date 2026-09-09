@@ -7,14 +7,14 @@ fs_id: LLQX-X98
 generation: 6
 born: 6 March 1800 · Painswick, Gloucestershire, England
 died: 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Richard Richins
 
-Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom · Generation 6
+Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 1848 · Sheepscombe, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Henry Richins Sr. (L21P-HKQ)|Henry Richins Sr.]]
@@ -31,13 +31,19 @@ Born 6 March 1800 · Painswick, Gloucestershire, England · Died 14 December 184
 
 ### Children of Richard & Priscilla Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/6400916)_
+
 ### Richard Richins and Charlotte Wager by Hazel Richins
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/20148733)_
 
 ### Richard Richins, The Seed from Which the Richins Saints grew
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/170991489)_
+
 ## Photos & documents
 
-![[AI Library/12 Family/_media/LLQX-X98/26231502.jpeg|photo]]
+![[AI Library/12 Family/_media/LLQX-X98/26231502.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LLQX-X98/28060955.jpg|Richins, Charles & Louisa Shill Marriage Certificate 1851 ]]
@@ -240,6 +246,18 @@ _A short history of the Cotswold and Henefer Pioneers from that area_
 - Legacy NFS Source: Richard Richins - Government record: death: 8 November 1848; Shepscombe, Gloucestershire, England, United Kingdom
 - Legacy NFS Source: Richard Richins - Individual or family possessions: death: 8 November 1848; 
 - Legacy NFS Source: Richard Richins - Published information: Family genealogies: death: 8 December 1848; Shepscombe, Gloucestershire, England, United Kingdom
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 20)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 29)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 30)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 36)_
+- **1838** — The Saints driven from Missouri _(age 38)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 44)_
+- **1846** — The exodus from Nauvoo begins _(age 46)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 47)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LLQX-X98)

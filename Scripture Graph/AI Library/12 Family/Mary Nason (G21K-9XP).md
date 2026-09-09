@@ -7,14 +7,14 @@ fs_id: G21K-9XP
 generation: 7
 born: 1770 · Dunton Bassett, Leicestershire, England
 died: 1852 · North Kilworth, Leicestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Nason
 
-Born 1770 · Dunton Bassett, Leicestershire, England · Died 1852 · North Kilworth, Leicestershire, England, United Kingdom · Generation 7
+Born 1770 · Dunton Bassett, Leicestershire, England · Died 1852 · North Kilworth, Leicestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Richard Nason (MX3F-VDP)|Richard Nason]]
@@ -25,8 +25,8 @@ Born 1770 · Dunton Bassett, Leicestershire, England · Died 1852 · North Kilwo
 - **Birth**: 1770 · Dunton Bassett, Leicestershire, England
 - **Death**: 1852 · North Kilworth, Leicestershire, England, United Kingdom
 - **Christening**: 7 October 1770 · Dunton Bassett, Leicestershire, England
-- **data:,Baptism**: 7 Oct 1770 · Dunton Bassett, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 7 Oct 1770
+- **Baptism**: 7 Oct 1770 · Dunton Bassett, Leicestershire, England, United Kingdom
+- **Baptism**: 7 Oct 1770
 - **Burial**: 25 November 1852 · North Kilworth, Leicestershire, England, United Kingdom
 - **Residence**: North Kilworth
 
@@ -53,6 +53,18 @@ Born 1770 · Dunton Bassett, Leicestershire, England · Died 1852 · North Kilwo
 - [Mary Nason [not Mason] in 1800 Leicestershire Marriages](https://www.familysearch.org/photos/artifacts/179246157)
 - [Mary Nason, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NYTC-XJX)
 - [Mary Nason in 1770 Leicestershire Baptisms](https://www.findmypast.com/transcript?id=GBPRS/LEICS/BAP/01163383)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 50)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 59)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 60)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 66)_
+- **1838** — The Saints driven from Missouri _(age 68)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 74)_
+- **1846** — The exodus from Nauvoo begins _(age 76)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 77)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/G21K-9XP)

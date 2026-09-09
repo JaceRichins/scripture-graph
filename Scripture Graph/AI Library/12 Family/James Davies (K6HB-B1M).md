@@ -6,14 +6,14 @@ sg-id: fs:K6HB-B1M
 fs_id: K6HB-B1M
 generation: 8
 born: about 1754 · Shropshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # James Davies
 
-Born about 1754 · Shropshire, England · Generation 8
+Born about 1754 · Shropshire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Elizabeth Davis (K26P-LWP)|Elizabeth Davis]]
@@ -52,6 +52,15 @@ Born about 1754 · Shropshire, England · Generation 8
 - [James Davies in entry for John Davies, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NBSX-HLF)
 - [James Davis in entry for Mary Davis, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JMP1-GRL)
 - [James Davies in entry for Elizabeth Davies, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:NBSX-LQT)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 66)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 75)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 76)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 82)_
+- **1838** — The Saints driven from Missouri _(age 84)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/K6HB-B1M)

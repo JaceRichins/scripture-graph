@@ -7,14 +7,14 @@ fs_id: LB89-VQR
 generation: 6
 born: 6 March 1805 · Hindley, Lancashire, England, United Kingdom
 died: 23 July 1885 · Henefer, Summit, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Esther Wilcock
 
-Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 July 1885 · Henefer, Summit, Utah Territory, United States · Generation 6
+Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 July 1885 · Henefer, Summit, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[James Wilcock (2778-4FX)|James Wilcock]]
@@ -35,15 +35,27 @@ Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 Jul
 
 ### History of Esther Wilcock
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1712474)_
+
 ### Esther Wilcock (Lythgoe)1806-1885
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5096621)_
 
 ### Story about Esther Wilcock
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604930)_
+
 ### Story on the death of Esther Wilcock Lythgoe
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7604957)_
 
 ### James Lythgoe Probably around 1870's
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/216892583)_
+
 ### Esther Wilcock Lythgoe about 1830
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/217402624)_
 
 ## Photos & documents
 
@@ -59,7 +71,7 @@ Born 6 March 1805 · Hindley, Lancashire, England, United Kingdom · Died 23 Jul
 ![[AI Library/12 Family/_media/LB89-VQR/1825517.jpg|Esther Wilcox]]
 
 
-![[AI Library/12 Family/_media/LB89-VQR/4701567.jpeg|photo]]
+![[AI Library/12 Family/_media/LB89-VQR/4701567.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LB89-VQR/13989857.jpg|Esther Wilcox Lithgoe]]
@@ -125,10 +137,10 @@ _
 ![[AI Library/12 Family/_media/LB89-VQR/175390521.pdf|Death -- Deseret News 1885-8-26]]
 
 
-![[AI Library/12 Family/_media/LB89-VQR/216667957.png|Esther Wilcock]]
+![[AI Library/12 Family/_media/LB89-VQR/216667957.jpg|Esther Wilcock]]
 
 
-![[AI Library/12 Family/_media/LB89-VQR/216667961.png|Back of photo of Esther Wilcock Lythgoe]]
+![[AI Library/12 Family/_media/LB89-VQR/216667961.jpg|Back of photo of Esther Wilcock Lythgoe]]
 
 
 ## Sources
@@ -159,6 +171,21 @@ _
 - Legacy NFS Source: Esther Wilcock - 
 - Legacy NFS Source: Esther Wilcock - 
 - [Cemetery Record for Esther Wilcock Lythgoe](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=lythgoe&GSfn=esther&GSbyrel=all&GSdyrel=all&GSst=47&GScntry=4&GSob=n&GRid=21467761&df=all&)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 15)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 24)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 25)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 31)_
+- **1838** — The Saints driven from Missouri _(age 33)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 39)_
+- **1846** — The exodus from Nauvoo begins _(age 41)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 42)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 51)_
+- **1869** — The railroad reaches Utah _(age 64)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 72)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LB89-VQR)

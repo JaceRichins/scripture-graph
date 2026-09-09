@@ -7,14 +7,14 @@ fs_id: LYNH-T2H
 generation: 5
 born: 16 November 1860 · Farmington, Davis, Utah Territory, United States
 died: 31 July 1943 · Garland, Box Elder, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ruby Antoinette Stevenson
 
-Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Died 31 July 1943 · Garland, Box Elder, Utah, United States · Generation 5
+Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Died 31 July 1943 · Garland, Box Elder, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[James Stevenson (KWJ6-HVN)|James Stevenson]]
@@ -24,8 +24,8 @@ Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Die
 ## Life
 - **Birth**: 16 November 1860 · Farmington, Davis, Utah Territory, United States
 - **Death**: 31 July 1943 · Garland, Box Elder, Utah, United States
-- **data:,Blessing**: 7 Mar 1861
-- **data:,Baptism**: 8 Aug 1869
+- **Blessing**: 7 Mar 1861
+- **Baptism**: 8 Aug 1869
 - **Residence**: 1870 · Washington, Washington, Utah, United States
 - **Residence**: 1870 · Farmington, Davis, Utah, United States
 - **Residence**: 1880 · Farmington, Davis, Utah, United States
@@ -33,9 +33,9 @@ Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Die
 - **Residence**: 1920 · Fielding, Box Elder, Utah, United States
 - **Residence**: 1935 · Same House
 - **Residence**: 1940 · Garland, Garland Election Precinct, Box Elder, Utah, United States
-- **data:,Obituary**: 1943 · Garland, Box Elder, Utah, United States · Obituary
+- **Obituary**: 1943 · Garland, Box Elder, Utah, United States · Obituary
 - **Burial**: Fielding City Cemetery, Fielding, Box Elder, Utah, United States
-- **data:,Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Farmington, Davis, Utah, United States
 
 ## Photos & documents
 
@@ -94,6 +94,17 @@ Born 16 November 1860 · Farmington, Davis, Utah Territory, United States · Die
 - [Nettie Stayner in household of Herbert Stayner, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRN-TSX)
 - [Ruby R Stayner in household of Herbert Stayner, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH6Q-14K)
 - Legacy NFS Source: Ruby Antoinette Stevenson - Government record: death: 31 July 1943; Garland, Box Elder, Utah, United States
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 9)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 17)_
+- **1890** — The Manifesto ends plural marriage _(age 30)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 33)_
+- **1896** — Utah becomes a state _(age 36)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 58)_
+- **1936** — The Church welfare program begins _(age 76)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LYNH-T2H)

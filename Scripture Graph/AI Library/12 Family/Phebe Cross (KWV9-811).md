@@ -7,14 +7,14 @@ fs_id: KWV9-811
 generation: 7
 born: 18160513 · Condicotte, Gloustershire, England
 died: 20 August 1852 · Hillsend, Bedfordshire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Phebe Cross
 
-Born 18160513 · Condicotte, Gloustershire, England · Died 20 August 1852 · Hillsend, Bedfordshire, England · Generation 7
+Born 18160513 · Condicotte, Gloustershire, England · Died 20 August 1852 · Hillsend, Bedfordshire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Henry Issac Cross (LHCZ-6L8)|Henry Issac Cross]]
@@ -32,9 +32,15 @@ Born 18160513 · Condicotte, Gloustershire, England · Died 20 August 1852 · Hi
 
 ### Emma Hannah Sinfield
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3585971)_
+
 ### Phoebe Cross SINFIELD
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/11726836)_
+
 ### Biography of Emma H. Sinfield by Alvira S. Olpin
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/18551286)_
 
 ## Photos & documents
 
@@ -63,6 +69,18 @@ Born 18160513 · Condicotte, Gloustershire, England · Died 20 August 1852 · Hi
 - [1851 England, Wales & Scotland Census Image | findmypast.com](http://search.findmypast.com/record?id=gbc%2f1851%2f4355317%2f00420&parentid=gbc%2f1851%2f0007507176)
 - [Phebe in entry for Eliza Sinfield, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:N24P-L42?cc=1473014)
 - [William Sinfield in entry for Samuel Sinfield and Phebe Cross, "England Marriages, 1538–1973  "](https://familysearch.org/ark:/61903/1:1:NVSB-8NH)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 4)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 13)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 14)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 20)_
+- **1838** — The Saints driven from Missouri _(age 22)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 28)_
+- **1846** — The exodus from Nauvoo begins _(age 30)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 31)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV9-811)

@@ -7,14 +7,14 @@ fs_id: LZFK-NGC
 generation: 7
 born: 6 June 1785 · Lovns, Gislum, Ålborg, Denmark
 died: 19 Dec 1840 · Farso, Aalborg, Denmark
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Anne Cathrine Erichsdatter
 
-Born 6 June 1785 · Lovns, Gislum, Ålborg, Denmark · Died 19 Dec 1840 · Farso, Aalborg, Denmark · Generation 7
+Born 6 June 1785 · Lovns, Gislum, Ålborg, Denmark · Died 19 Dec 1840 · Farso, Aalborg, Denmark · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Eric Jensen (K2XH-9ZN)|Eric Jensen]]
@@ -46,6 +46,15 @@ _Farsoe Ericks datter Anne Catherina og ungkarl xstien (Christien) Sorensen of S
 - [Anne Kathrine in entry for Xsten Sorensen, "Denmark, Marriages, 1635-1916"](https://familysearch.org/ark:/61903/1:1:FK9R-QJ3)
 - [Anne Katrine Eriksdr in entry for Erich, "Denmark, Baptisms, 1618-1923"](https://familysearch.org/ark:/61903/1:1:HKFR-JR2M)
 - [Anne Erichsdatter, "Denmark, Church Records, 1484-1941"](https://familysearch.org/ark:/61903/1:1:QG3P-6KMY)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 35)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 44)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 45)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 51)_
+- **1838** — The Saints driven from Missouri _(age 53)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZFK-NGC)

@@ -7,14 +7,14 @@ fs_id: LHQ8-M96
 generation: 8
 born: 8 January 1769 · Watertown, Middlesex, Massachusetts Bay Colony, British Colonial America
 died: 12 January 1856 · Bethel, Oxford, Maine, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Charles Stearns
 
-Born 8 January 1769 · Watertown, Middlesex, Massachusetts Bay Colony, British Colonial America · Died 12 January 1856 · Bethel, Oxford, Maine, United States · Generation 8
+Born 8 January 1769 · Watertown, Middlesex, Massachusetts Bay Colony, British Colonial America · Died 12 January 1856 · Bethel, Oxford, Maine, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Nathan Stearns (L5FK-JYW)|Nathan Stearns]]
@@ -29,18 +29,20 @@ Born 8 January 1769 · Watertown, Middlesex, Massachusetts Bay Colony, British C
 
 ### Frosts and Stearns, as told by Jayne Winters Fife to Nathan Blaine Winters Senior 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15050918)_
+
 ## Photos & documents
 
 ![[AI Library/12 Family/_media/LHQ8-M96/43167222.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/LHQ8-M96/71729401.png|photo]]
+![[AI Library/12 Family/_media/LHQ8-M96/71729401.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/LHQ8-M96/97000748.pdf|Stearns Ancestry: England, Massachusetts, Maine]]
 
 
-![[AI Library/12 Family/_media/LHQ8-M96/99329343.png|From Book Mormon Midwife, page 247]]
+![[AI Library/12 Family/_media/LHQ8-M96/99329343.jpg|From Book Mormon Midwife, page 247]]
 
 
 ![[AI Library/12 Family/_media/LHQ8-M96/220672514.jpg|document]]
@@ -67,6 +69,19 @@ Born 8 January 1769 · Watertown, Middlesex, Massachusetts Bay Colony, British C
 - [Charles Stearns 1830 United States Census](https://familysearch.org/ark:/61903/3:1:S3HT-D1SS-KLD?cc=1803958)
 - [Charles Stearns, "United States Census, 1840"](https://familysearch.org/ark:/61903/1:1:XHY5-JPM)
 - [Chas Stearns, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:M6VM-PWY)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 51)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 60)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 61)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 67)_
+- **1838** — The Saints driven from Missouri _(age 69)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 75)_
+- **1846** — The exodus from Nauvoo begins _(age 77)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 78)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 87)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LHQ8-M96)

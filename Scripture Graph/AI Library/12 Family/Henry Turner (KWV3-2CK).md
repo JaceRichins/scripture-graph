@@ -7,14 +7,14 @@ fs_id: KWV3-2CK
 generation: 7
 born: 11 March 1810 · Mathon, Worcestershire, England
 died: 23 April 1893 · Farmington, Davis, Utah, USA
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Turner
 
-Born 11 March 1810 · Mathon, Worcestershire, England · Died 23 April 1893 · Farmington, Davis, Utah, USA · Generation 7
+Born 11 March 1810 · Mathon, Worcestershire, England · Died 23 April 1893 · Farmington, Davis, Utah, USA · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Henry Turner (L6SX-ML1)|Henry Turner]]
@@ -26,25 +26,31 @@ Born 11 March 1810 · Mathon, Worcestershire, England · Died 23 April 1893 · F
 - **Death**: 23 April 1893 · Farmington, Davis, Utah, USA
 - **Christening**: 1 April 1810 · Mathon, Worcestershire, England
 - **Residence**: 1841 · Leigh, Worcestershire, England
-- **data:,Baptism**: Aug 1841
+- **Baptism**: Aug 1841
 - **Residence**: 1855 · New York, New York, USA
 - **Residence**: 1855 · E.D. 1, Ward 8, New York City, New York, New York, United States
 - **Residence**: 1855 · New York City, New York County, New York, United States
 - **Burial**: 25 April 1893 · Farmington, Davis, Utah, USA
-- **data:,Membership**: Utah, United States
+- **Membership**: Utah, United States
 
 ## Stories
 
 ### Mormon Pioneer
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1825077)_
+
 ### A Compilation of General Voyage Notes--Liverpool to Boston 28 Mar 1857 - 20 Apr 1857
 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/68623020)_
+
 ### Description of the Ship Henry Turner Emigrated to the US on in 1857
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/68629817)_
 
 ## Photos & documents
 
-![[AI Library/12 Family/_media/KWV3-2CK/1739831.png|photo]]
+![[AI Library/12 Family/_media/KWV3-2CK/1739831.jpg|photo]]
 
 
 ![[AI Library/12 Family/_media/KWV3-2CK/5762443.jpg|(Page 3) Biography of Louise Turner Haight & Her parents Henry and Ann Steed Turner-Utah Pioneers of 1857  By her daughter,  Lillian  Haight Brown  April 21, 1942.]]
@@ -154,6 +160,23 @@ _Pictures of Henry and Ann Steed Turner--Jessie B. Martin Company September 12, 
 - [Henry Turner, "United States Census, 1870"](https://familysearch.org/ark:/61903/1:1:MNCR-YC8)
 - [Henry Turner in household of Wm R Rice, "United States Census, 1860"](https://familysearch.org/ark:/61903/1:1:MH24-W8B)
 - [Henry Turner, "England and Wales Census, 1851"](https://familysearch.org/ark:/61903/1:1:SGC2-27T)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 10)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 19)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 20)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 26)_
+- **1838** — The Saints driven from Missouri _(age 28)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 34)_
+- **1846** — The exodus from Nauvoo begins _(age 36)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 37)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 46)_
+- **1869** — The railroad reaches Utah _(age 59)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 67)_
+- **1890** — The Manifesto ends plural marriage _(age 80)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 83)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWV3-2CK)

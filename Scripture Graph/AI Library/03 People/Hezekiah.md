@@ -65,6 +65,7 @@ _Not yet developed._
 - **740 BC–690 BC** — Isaiah's ministry in Jerusalem · [[Isaiah 6]] · [[Isaiah 53]] · [[2 Kings 19]] · [[800-701 BC]] *(approximate)*
 - **726 BC–725 BC** — Hezekiah's national Passover reform at Jerusalem · [[2 Chronicles 30]] · [[800-701 BC]] *(traditional dating)*
 - **715 BC–686 BC** — Hezekiah's reign and first-month temple reform · [[2 Chronicles 29]] · [[800-701 BC]] *(historical)*
+- **715 BC** — Hezekiah reorganizes temple worship and tithing · [[2 Chronicles 31]] · [[800-701 BC]] *(traditional dating)*
 - **715 BC–686 BC** — Micah's Zion oracle cited as precedent from Hezekiah's reign · [[Jeremiah 26]] · [[800-701 BC]] *(historical)*
 - **715 BC–686 BC** — Hezekiah's Scribes Compile Solomon's Proverbs · [[Proverbs 25]] · [[800-701 BC]] *(traditional dating)*
 - **715 BC–686 BC** — Proverbs 28 copied within Hezekiah's Solomonic collection · [[Proverbs 28]] · [[800-701 BC]] *(traditional dating)*
@@ -72,7 +73,6 @@ _Not yet developed._
 - **705 BC–701 BC** — Judah's Egypt Alliance and the Assyrian Crisis under Hezekiah · [[Isaiah 30]] · [[800-701 BC]] *(historical)*
 - **703 BC–700 BC** — Hezekiah's illness, sign, and the Babylonian embassy · [[2 Kings 20]] · [[800-701 BC]] *(approximate)*
 - **701 BC** — Jerusalem spared from Sennacherib · [[2 Kings 19]] · [[Isaiah 37]] · [[800-701 BC]] *(historical)*
-- **701 BC** — Sennacherib's invasion of Judah and siege of Jerusalem · [[2 Chronicles 32]] · [[800-701 BC]] *(historical)*
 
 *Open the 🕰 Timeline from the navigator and Focus this name to walk the whole thread.*
 <!-- SG:END timeline -->

@@ -7,14 +7,14 @@ fs_id: KWJ6-HVX
 generation: 5
 born: 1 December 1860 · Farmington, Davis, Utah, United States
 died: 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Herbert Stayner
 
-Born 1 December 1860 · Farmington, Davis, Utah, United States · Died 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States · Generation 5
+Born 1 December 1860 · Farmington, Davis, Utah, United States · Died 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[Arthur Stayner Sr. (KWJD-CW9)|Arthur Stayner Sr.]]
@@ -24,14 +24,14 @@ Born 1 December 1860 · Farmington, Davis, Utah, United States · Died 27 Septem
 ## Life
 - **Birth**: 1 December 1860 · Farmington, Davis, Utah, United States
 - **Death**: 27 September 1934 · Salt Lake City, Salt Lake, Utah, United States
-- **data:,Blessing**: 7 March 1861
-- **data:,Baptism**: 4 Sep 1870
+- **Blessing**: 7 March 1861
+- **Baptism**: 4 Sep 1870
 - **Residence**: 1880 · Farmington, Davis, Utah, United States
 - **Residence**: 1900 · ED 207 Plymouth Precinct Fielding, Box Elder, Utah, United States
 - **Residence**: 1910 · Fielding, , Utah
 - **Residence**: 1920 · Fielding, Box Elder, Utah, United States
 - **Burial**: 29 September 1934 · Fielding City Cemetery, Fielding, Box Elder, Utah, United States
-- **data:,Membership**: Farmington, Davis, Utah, United States
+- **Membership**: Farmington, Davis, Utah, United States
 
 ## Photos & documents
 
@@ -97,6 +97,16 @@ _Photo of Emma Louise Stayner and her six siblings whom she helped rear since he
 - [Herbert Stayner, "United States Census, 1930"](https://familysearch.org/ark:/61903/1:1:XH6Q-14V)
 - [Herbert Stayner, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F856-9JB)
 - [Herbert Stayner, "Utah Death Certificates, 1904-1956"](https://familysearch.org/ark:/61903/1:1:XZ2Y-MR1)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1869** — The railroad reaches Utah _(age 9)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 17)_
+- **1890** — The Manifesto ends plural marriage _(age 30)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 33)_
+- **1896** — Utah becomes a state _(age 36)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 58)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ6-HVX)

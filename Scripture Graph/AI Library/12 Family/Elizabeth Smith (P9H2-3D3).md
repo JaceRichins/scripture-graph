@@ -6,14 +6,14 @@ sg-id: fs:P9H2-3D3
 fs_id: P9H2-3D3
 generation: 8
 born: Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Smith
 
-Born Leicestershire, England · Generation 8
+Born Leicestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Susanna Fawkes (KLXP-YHZ)|Susanna Fawkes]]
@@ -21,8 +21,8 @@ Born Leicestershire, England · Generation 8
 ## Life
 - **Birth**: Leicestershire, England
 - **Christening**: 16 April 1754 · Broughton Astley, Leicestershire, England
-- **data:,Baptism**: 16 Apr 1754 · Broughton Astley, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 16 Apr 1754
+- **Baptism**: 16 Apr 1754 · Broughton Astley, Leicestershire, England, United Kingdom
+- **Baptism**: 16 Apr 1754
 - **Burial**: 27 OCT 1794 · ,Leire,Leicestershire,England
 - **Residence**: Frolesworth, Leicestershire, England
 - **Residence**: Frolesworth, Leicestershire, England, United Kingdom

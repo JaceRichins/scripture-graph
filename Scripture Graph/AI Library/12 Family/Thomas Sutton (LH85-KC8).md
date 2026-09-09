@@ -6,14 +6,14 @@ sg-id: fs:LH85-KC8
 fs_id: LH85-KC8
 generation: 7
 died: 5 June 1859 · Lutterworth, Leicestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Sutton
 
-Died 5 June 1859 · Lutterworth, Leicestershire, England · Generation 7
+Died 5 June 1859 · Lutterworth, Leicestershire, England · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[John Sutton (KZHZ-WLB)|John Sutton]]
@@ -22,15 +22,15 @@ Died 5 June 1859 · Lutterworth, Leicestershire, England · Generation 7
 
 ## Life
 - **Death**: 5 June 1859 · Lutterworth, Leicestershire, England
-- **data:,Baptism**: 16 November 1777 · Leire, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 14 May 1779 · Lutterworth, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 14 May 1779
+- **Baptism**: 16 November 1777 · Leire, Leicestershire, England, United Kingdom
+- **Baptism**: 14 May 1779 · Lutterworth, Leicestershire, England, United Kingdom
+- **Baptism**: 14 May 1779
 - **Christening**: 14 May 1779 · Lutterworth, Leicestershire, England
-- **data:,Baptism**: 10 Jan 1782 · Leire, Leicestershire, England, United Kingdom
-- **data:,Baptism**: 10 Jan 1782
+- **Baptism**: 10 Jan 1782 · Leire, Leicestershire, England, United Kingdom
+- **Baptism**: 10 Jan 1782
 - **Occupation**: 1823 · Leire, Leicestershire, England · Shoemaker
 - **Residence**: 1841 · Leire, Leicestershire, England, United Kingdom
-- **data:,Census**: 1841 · "Railway House", Leire Hill, Leire, Leicestershire, England
+- **Census**: 1841 · "Railway House", Leire Hill, Leire, Leicestershire, England
 - **Burial**: 6 June 1859 · Leire, Leicestershire, England
 - **Residence**: Of This Parish
 - **Residence**: Leire, Leicestershire, England

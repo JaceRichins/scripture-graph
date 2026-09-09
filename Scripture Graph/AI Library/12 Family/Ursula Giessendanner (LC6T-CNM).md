@@ -7,14 +7,14 @@ fs_id: LC6T-CNM
 generation: 8
 born: 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland
 died: 1790 · Orangeburg, South Carolina, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Ursula Giessendanner
 
-Born 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland · Died 1790 · Orangeburg, South Carolina, United States · Generation 8
+Born 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland · Died 1790 · Orangeburg, South Carolina, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Jacob McMichael (LHC3-857)|Jacob McMichael]]
@@ -22,7 +22,7 @@ Born 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland · Died 1790 · Ora
 ## Life
 - **Birth**: 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland
 - **Death**: 1790 · Orangeburg, South Carolina, United States
-- **data:,Baptism**: 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland
+- **Baptism**: 28 July 1733 · Lichtensteig, Sankt Gallen, Switzerland
 - **Immigration**: about 1738 · Charleston, South Carolina, British Colonial America · Switzerland to Charleston, SC.
 - **Burial**: Pioneer Graveyard, Orangeburg, Orangeburg, South Carolina, United States
 

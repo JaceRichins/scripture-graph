@@ -4606,6 +4606,33 @@ timeline module, not this file._
    ]
   },
   {
+   "id": "r-2chr-31-9779c4b5",
+   "t": "Hezekiah reorganizes temple worship and tithing",
+   "y0": -715,
+   "y1": -715,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "temples",
+    "turning"
+   ],
+   "dating": "traditional",
+   "src": "research",
+   "note": "2 Chronicles 29:3 places the temple reforms in the first year of Hezekiah's reign; conventional (Thiele-type) chronology places this near 715 BCE, though co-regency schemes shift this by several years and are disputed among scholars.",
+   "chapters": [
+    "2 Chronicles 31"
+   ],
+   "people": [
+    "Hezekiah"
+   ],
+   "places": [
+    "Jerusalem"
+   ],
+   "things": [
+    "temple storehouse chambers"
+   ]
+  },
+  {
    "id": "r-2chr-32-2553f029",
    "t": "Sennacherib's invasion of Judah and siege of Jerusalem",
    "y0": -701,
@@ -6783,6 +6810,31 @@ timeline module, not this file._
    "people": [
     "Gamaliel",
     "Peter"
+   ],
+   "places": [
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-acts-6-7722b329",
+   "t": "Selection of the Seven and Stephen's Arrest",
+   "y0": 33,
+   "y1": 35,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "records"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Placed in Acts shortly after Pentecost and shortly before Stephen's martyrdom (Acts 7) and Paul's conversion (Acts 9), within the first few years of the Jerusalem church.",
+   "chapters": [
+    "Acts 6"
+   ],
+   "people": [
+    "Stephen",
+    "Philip"
    ],
    "places": [
     "Jerusalem"
@@ -10674,6 +10726,32 @@ timeline module, not this file._
    ],
    "places": [
     "Babylon",
+    "Jerusalem"
+   ]
+  },
+  {
+   "id": "r-gal-1-e38bc72f",
+   "t": "Paul's call, Arabia retreat, and first visit to Peter",
+   "y0": 33,
+   "y1": 37,
+   "lane": "ow",
+   "imp": 3,
+   "cat": [
+    "turning",
+    "journeys"
+   ],
+   "dating": "approximate",
+   "src": "research",
+   "note": "Galatians 1:15-18 gives a three-year interval between Paul's call and his first Jerusalem visit; traditional reckonings synchronize this with Acts to place Paul's conversion around AD 33-36, though exact dating remains disputed among scholars",
+   "chapters": [
+    "Galatians 1"
+   ],
+   "people": [
+    "Paul (apostle)",
+    "Peter (apostle)"
+   ],
+   "places": [
+    "Damascus",
     "Jerusalem"
    ]
   },

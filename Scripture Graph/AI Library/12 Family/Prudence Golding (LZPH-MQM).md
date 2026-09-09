@@ -7,14 +7,14 @@ fs_id: LZPH-MQM
 generation: 7
 born: 1787 · Shipton Oliffe, Gloucestershire, England
 died: 30 September 1851 · Syde, Gloucestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Prudence Golding
 
-Born 1787 · Shipton Oliffe, Gloucestershire, England · Died 30 September 1851 · Syde, Gloucestershire, England, United Kingdom · Generation 7
+Born 1787 · Shipton Oliffe, Gloucestershire, England · Died 30 September 1851 · Syde, Gloucestershire, England, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Robert Golding (L4BN-6XS)|Robert Golding]]
@@ -26,7 +26,7 @@ Born 1787 · Shipton Oliffe, Gloucestershire, England · Died 30 September 1851 
 - **Death**: 30 September 1851 · Syde, Gloucestershire, England, United Kingdom
 - **Christening**: 14 October 1787 · Shipton Oliffe, Gloucestershire, England
 - **Residence**: 1841 · Syde, Gloucestershire, England, United Kingdom
-- **data:,Other**: 11 JUL 1846 · Caudle Green,Gloucester,England · Other
+- **Other**: 11 JUL 1846 · Caudle Green,Gloucester,England · Other
 - **Residence**: 1851 · Syde, Gloucestershire, England, United Kingdom
 - **Burial**: 2 October 1851 · Syde, Gloucestershire, England, United Kingdom
 
@@ -34,11 +34,19 @@ Born 1787 · Shipton Oliffe, Gloucestershire, England · Died 30 September 1851 
 
 ### Short History of Robert Chaple and Prudence Golding Shill
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/5216492)_
+
 ### Prudence Golding Shill
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/13218536)_
 
 ### History of Robert Chapel and Prudence Golding Shill
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/93379533)_
+
 ### History of Prudence Golding Shill
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/159863568)_
 
 ## Photos & documents
 
@@ -152,6 +160,18 @@ _Property known as Washbrook cottage because it is located next to the brook whe
 - [Prudence Shill, "Arizona Deaths, 1870-1963"](https://familysearch.org/ark:/61903/1:1:FLJV-HWT)
 - Legacy NFS Source: Prudence Golding - 
 - Legacy NFS Source: Prudence Golding - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 33)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 42)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 43)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 49)_
+- **1838** — The Saints driven from Missouri _(age 51)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 57)_
+- **1846** — The exodus from Nauvoo begins _(age 59)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 60)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LZPH-MQM)

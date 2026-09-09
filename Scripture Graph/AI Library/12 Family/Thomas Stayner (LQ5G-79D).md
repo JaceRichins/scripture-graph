@@ -7,14 +7,14 @@ fs_id: LQ5G-79D
 generation: 8
 born: 23 March 1770 · Bow Bridge, Essex, England
 died: 4 July 1827 · Jersey
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Stayner
 
-Born 23 March 1770 · Bow Bridge, Essex, England · Died 4 July 1827 · Jersey · Generation 8
+Born 23 March 1770 · Bow Bridge, Essex, England · Died 4 July 1827 · Jersey · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Colley Stayner (KWJX-JHN)|Thomas Colley Stayner]]
@@ -23,16 +23,22 @@ Born 23 March 1770 · Bow Bridge, Essex, England · Died 4 July 1827 · Jersey �
 - **Birth**: 23 March 1770 · Bow Bridge, Essex, England
 - **Death**: 4 July 1827 · Jersey
 - **Christening**: March 1770 · Bow Bridge, Stratford, London England
-- **data:,Occupation**: 1787-1801 · Saskatchewan, Hudson's Bay Province, Canada · Writer - Journalist - Trader - Chief Factor of the Churchill Factory
+- **Occupation**: 1787-1801 · Saskatchewan, Hudson's Bay Province, Canada · Writer - Journalist - Trader - Chief Factor of the Churchill Factory
 - **Burial**: 9 July 1827 · St. Lawrence, Jersey
 
 ## Stories
 
 ### Thomas Colley Stayner      Sea Captain, Pioneer, Missionary
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1356809)_
+
 ### Thomas Stayner Hudson Bay Chief Factor, Governor, Trader, Explorer
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1357808)_
+
 ### George Stayner
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2295525)_
 
 ## Photos & documents
 
@@ -65,6 +71,11 @@ Born 23 March 1770 · Bow Bridge, Essex, England · Died 4 July 1827 · Jersey �
 - [Marriage Record](https://familysearch.org/photos/view/166050)
 - [Freedom of the City Admission Papers](https://familysearch.org/photos/view/165988)
 - [Time line Appointment and Service Record](https://familysearch.org/photos/view/148032)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 50)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/LQ5G-79D)

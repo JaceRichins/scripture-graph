@@ -7,14 +7,14 @@ fs_id: KWJR-T8Y
 generation: 7
 born: 14 January 1809 · Groton, Caledonia, Vermont, United States
 died: 24 August 1891 · Pleasant Grove, Utah, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Ann Frost
 
-Born 14 January 1809 · Groton, Caledonia, Vermont, United States · Died 24 August 1891 · Pleasant Grove, Utah, Utah Territory, United States · Generation 7
+Born 14 January 1809 · Groton, Caledonia, Vermont, United States · Died 24 August 1891 · Pleasant Grove, Utah, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Aaron Frost (K2XP-QFY)|Aaron Frost]]
@@ -26,14 +26,16 @@ Born 14 January 1809 · Groton, Caledonia, Vermont, United States · Died 24 Aug
 - **Death**: 24 August 1891 · Pleasant Grove, Utah, Utah Territory, United States
 - **Residence**: 1841 · Manchester, Lancashire, England, United Kingdom
 - **Residence**: from 1839 to 1846 · Nauvoo, Hancock, Illinois, United States
-- **data:,census**: 26 Jul 1850 · Bethel, Oxford, Maine
-- **data:,census**: 23 Aug 1870 · Pleasant Grove, Utah Co., Utah
+- **census**: 26 Jul 1850 · Bethel, Oxford, Maine
+- **census**: 23 Aug 1870 · Pleasant Grove, Utah Co., Utah
 - **Burial**: August 1891 · Pleasant Grove, Utah, Utah Territory, United States
 
 ## Stories
 
 ### 
 Mary Ann Frost Stearns Pratt from Wikipedia
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/63282684)_
 
 ## Photos & documents
 
@@ -119,6 +121,22 @@ Archives. _
 
 ## In the library
 - [[23 Every Snare]]
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 11)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 20)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 21)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 27)_
+- **1838** — The Saints driven from Missouri _(age 29)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 35)_
+- **1846** — The exodus from Nauvoo begins _(age 37)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 38)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 47)_
+- **1869** — The railroad reaches Utah _(age 60)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 68)_
+- **1890** — The Manifesto ends plural marriage _(age 81)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJR-T8Y)

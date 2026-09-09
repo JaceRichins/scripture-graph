@@ -7,14 +7,14 @@ fs_id: 9QW1-X7N
 generation: 7
 born: Aug 1742 · Lanark, Lanarkshire, Scotland
 died: Scotland, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Mary Nelson Wilson
 
-Born Aug 1742 · Lanark, Lanarkshire, Scotland · Died Scotland, United Kingdom · Generation 7
+Born Aug 1742 · Lanark, Lanarkshire, Scotland · Died Scotland, United Kingdom · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[William Wilson (LQRS-S91)|William Wilson]]
@@ -34,6 +34,11 @@ Born Aug 1742 · Lanark, Lanarkshire, Scotland · Died Scotland, United Kingdom 
 - [Mary Scott, dau of Thomas Scott & Mary Wilson, for Douglas, Lanarkshire, Old parochial registers](https://familysearch.org/ark:/61903/3:1:3Q9M-CSH8-L9SB-S)
 - [Margaret Wilson in entry for Maren Scott, "Scotland, Births and Baptisms, 1564-1950"](https://familysearch.org/ark:/61903/1:1:VQW1-7S3)
 - [Margaret Wilson in entry for Thomas Scot, "Scotland, Marriages, 1561-1910"](https://familysearch.org/ark:/61903/1:1:XTTW-3XP)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 78)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/9QW1-X7N)

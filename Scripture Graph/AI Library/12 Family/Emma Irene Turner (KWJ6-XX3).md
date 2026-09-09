@@ -7,14 +7,14 @@ fs_id: KWJ6-XX3
 generation: 6
 born: 21 November 1834 · Great Malvern, Worcestershire, England
 died: 5 April 1875 · Farmington, Davis, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Emma Irene Turner
 
-Born 21 November 1834 · Great Malvern, Worcestershire, England · Died 5 April 1875 · Farmington, Davis, Utah Territory, United States · Generation 6
+Born 21 November 1834 · Great Malvern, Worcestershire, England · Died 5 April 1875 · Farmington, Davis, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Henry Turner (KWV3-2CK)|Henry Turner]]
@@ -25,9 +25,9 @@ Born 21 November 1834 · Great Malvern, Worcestershire, England · Died 5 April 
 - **Birth**: 21 November 1834 · Great Malvern, Worcestershire, England
 - **Death**: 5 April 1875 · Farmington, Davis, Utah Territory, United States
 - **Christening**: 3 March 1833 · Great Malvern, Worcestershire, England
-- **data:,Christening%20Name**: 3 March 1833 · Great Malvern, Worcestershire, England · Emma Steed
+- **Christening%20Name**: 3 March 1833 · Great Malvern, Worcestershire, England · Emma Steed
 - **Residence**: 1841 · Leigh, Worcestershire, England, United Kingdom · Census
-- **data:,immigration**: September 1855 · Salt Lake City, Utah Territory, United States
+- **immigration**: September 1855 · Salt Lake City, Utah Territory, United States
 - **Residence**: 1860 · Farmington, Davis, Utah Territory, United States
 - **Burial**: 1875 · Salt Lake City, Salt Lake, Utah, United States
 - **Residence**: Link
@@ -36,11 +36,19 @@ Born 21 November 1834 · Great Malvern, Worcestershire, England · Died 5 April 
 
 ### Emma Louise Turner Stayner  Pioneer, Wife, Mother
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4576710)_
+
 ### My Mother Emma Turner Stayner
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4577834)_
 
 ### Arthur Stayner Pioneer, Businessman, Legislator, Missionary, Educator
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/7281384)_
+
 ### Ship Juventa 31 Mar 1855Liverpool to Philadelphia 5 May 1855
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/164734375)_
 
 ## Photos & documents
 
@@ -135,6 +143,17 @@ _( Page 7) Biography of Louise Turner Haight &amp; Her parents Henry and Ann Ste
 - [Emma Turner in entry for Horace Stayner, "Utah, Salt Lake County Death Records, 1908-1949"](https://familysearch.org/ark:/61903/1:1:NQHZ-VR3)
 - [Emma T. Stayner, "Utah, Deaths and Burials, 1888-1946"](https://familysearch.org/ark:/61903/1:1:F85N-484)
 - [Emma T Stayner, "Utah, Salt Lake County Death Records, 1908-1949"](https://familysearch.org/ark:/61903/1:1:NQHG-JXB)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 2)_
+- **1838** — The Saints driven from Missouri _(age 4)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 10)_
+- **1846** — The exodus from Nauvoo begins _(age 12)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 13)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 22)_
+- **1869** — The railroad reaches Utah _(age 35)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ6-XX3)

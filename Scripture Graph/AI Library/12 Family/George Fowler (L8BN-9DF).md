@@ -7,14 +7,14 @@ fs_id: L8BN-9DF
 generation: 6
 born: 1808 · Worfield, Shropshire, England, United Kingdom
 died: 20 August 1868 · Goshen, Utah, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # George Fowler
 
-Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 1868 · Goshen, Utah, Utah Territory, United States · Generation 6
+Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 1868 · Goshen, Utah, Utah Territory, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Samuel Fowler (K26P-LQF)|Samuel Fowler]]
@@ -28,7 +28,7 @@ Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 186
 - **Residence**: 1841 · Worfield, Shropshire, England, United Kingdom
 - **Residence**: 1851 · Staffordshire, England, United Kingdom
 - **Residence**: 1861 · Wolverhampton, Staffordshire, England, United Kingdom
-- **data:,Immigration**: 1864 · Utah, United States
+- **Immigration**: 1864 · Utah, United States
 - **Burial**: August 1868 · Goshen, Juab, Utah, United States
 - **Residence**: 1870 · Salt Lake City, Salt Lake, Utah Territory, United States
 - **Residence**: Shropshire, England
@@ -44,7 +44,7 @@ Born 1808 · Worfield, Shropshire, England, United Kingdom · Died 20 August 186
 ![[AI Library/12 Family/_media/L8BN-9DF/7178019.jpg|photo]]
 
 
-![[AI Library/12 Family/_media/L8BN-9DF/13943071.jpeg|Fowler, George]]
+![[AI Library/12 Family/_media/L8BN-9DF/13943071.jpg|Fowler, George]]
 _George Fowler_
 
 ![[AI Library/12 Family/_media/L8BN-9DF/45108633.jpg|Death notice  Deseret News 1869-2-10]]
@@ -85,6 +85,19 @@ _A brief history with transcribed letters from parents to son James._
 - [1918 George Fowler in entry for James Fowler, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZGX-X2T)
 - [1925 George Fowler in entry for Brigham Fowler, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZGG-RX5)
 - Millennium File, Heritage Consulting.
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 12)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 21)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 22)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 28)_
+- **1838** — The Saints driven from Missouri _(age 30)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 36)_
+- **1846** — The exodus from Nauvoo begins _(age 38)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 39)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 48)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L8BN-9DF)

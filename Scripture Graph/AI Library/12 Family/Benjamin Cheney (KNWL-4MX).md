@@ -7,14 +7,14 @@ fs_id: KNWL-4MX
 generation: 8
 born: 18 May 1763 · Wells, York, Maine, United States
 died: 2 October 1840 · Freedom, Cattaraugus, New York, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Benjamin Cheney
 
-Born 18 May 1763 · Wells, York, Maine, United States · Died 2 October 1840 · Freedom, Cattaraugus, New York, United States · Generation 8
+Born 18 May 1763 · Wells, York, Maine, United States · Died 2 October 1840 · Freedom, Cattaraugus, New York, United States · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Aaron Cheney (KNX4-J2Z)|Aaron Cheney]]
@@ -23,8 +23,8 @@ Born 18 May 1763 · Wells, York, Maine, United States · Died 2 October 1840 · 
 - **Birth**: 18 May 1763 · Wells, York, Maine, United States
 - **Death**: 2 October 1840 · Freedom, Cattaraugus, New York, United States
 - **Occupation**: June 1738 · East Hartford, Hartford, Connecticut, United States · Carpenter, wheelwright, joiner and farmer
-- **data:,Military**: 3 July 1779 · Wells, York, Maine, United States · Revolutionary Soldier
-- **data:,Custom+event**: 28 February 1780 · Wells, York, Massachusetts, United States
+- **Military**: 3 July 1779 · Wells, York, Maine, United States · Revolutionary Soldier
+- **Custom+event**: 28 February 1780 · Wells, York, Massachusetts, United States
 - **MilitaryService**: 28 February 1780 · Wells, Wells, York, Massachusetts, United States
 - **MilitaryService**: between 1779 and 1783 · New Hampshire, United States · war hero of New Hampshire Bartlet's Regiment of Militia [1780] folder 48 Benjamin Cheney page. 10;8
 - **Residence**: 1790 · Guildhall, Essex, Vermont, United States
@@ -45,17 +45,31 @@ Born 18 May 1763 · Wells, York, Maine, United States · Died 2 October 1840 · 
 
 ### Benjamin Cheney  by Eva Cheney Tyler
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30996029)_
+
 ### BENJAMIN CHENEY AND EUNICE HUBBARD  (no Maps and Photos)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/30997655)_
 
 ### Benjamin Cheney by Eva Cheney
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/31173165)_
+
 ### Ben Becomes a Hero [retold by H. Chené Maurer
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/68917855)_
 
 ### Benjamine Cheney Copied from Genealogy Book of Wayne L. Cheney. Typed by Roxcy Susanne Wilson Pugh
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/108614627)_
+
 ### Benjamin Cheney and Eunice Hubbard History
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/196415453)_
+
 ### Benjamin Cheney - A Revolutionary War Hero
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/236520302)_
 
 ## Photos & documents
 
@@ -93,7 +107,7 @@ Plot: Lot 108_
 ![[AI Library/12 Family/_media/KNWL-4MX/43042057.jpg|Freedom, Cattaraugus, New York: Cemetery Chapel ]]
 _Aaron and Mehitable moved here and had 11 children here. Benjamin & Eunice were buried here. Elam was born here, and migrated._
 
-![[AI Library/12 Family/_media/KNWL-4MX/43042132.jpeg|NY; Westchestser co, [New York] map Battle of White Plains]]
+![[AI Library/12 Family/_media/KNWL-4MX/43042132.jpg|NY; Westchestser co, [New York] map Battle of White Plains]]
 
 
 ![[AI Library/12 Family/_media/KNWL-4MX/44249761.jpg|Cheney, Benjamin - Headstone]]
@@ -111,7 +125,7 @@ _Aaron and Mehitable moved here and had 11 children here. Benjamin & Eunice were
 ![[AI Library/12 Family/_media/KNWL-4MX/48480697.jpg|artifact:1776 coin]]
 
 
-![[AI Library/12 Family/_media/KNWL-4MX/51598228.png|document]]
+![[AI Library/12 Family/_media/KNWL-4MX/51598228.jpg|document]]
 
 
 ![[AI Library/12 Family/_media/KNWL-4MX/58578587.jpg|ME: York co., Berwick, Maine [Salmon Falls River from Somersworth, NH]]]
@@ -168,7 +182,7 @@ _indicates where [top yellow] the children were buried_
 ![[AI Library/12 Family/_media/KNWL-4MX/93317659.jpg|ME: York co., the Wells House]]
 
 
-![[AI Library/12 Family/_media/KNWL-4MX/97642377.jpeg|Bounty Land Papers of Ben Cheney]]
+![[AI Library/12 Family/_media/KNWL-4MX/97642377.jpg|Bounty Land Papers of Ben Cheney]]
 
 
 ![[AI Library/12 Family/_media/KNWL-4MX/98560900.jpg|NY; Cattaraugus co., Freedom; Cemetery]]
@@ -189,7 +203,7 @@ _The Green Mountain Boys, led by Ethan Allen took Ticonderoga by surprise._
 ![[AI Library/12 Family/_media/KNWL-4MX/166858636.pdf|Stories from the Jack Haynes Family Tree (pt. 3 of 3)]]
 
 
-![[AI Library/12 Family/_media/KNWL-4MX/236345694.png|AI creation of Benjamin Cheney]]
+![[AI Library/12 Family/_media/KNWL-4MX/236345694.jpg|AI creation of Benjamin Cheney]]
 _This is an AI creation of Benjamin Cheney taken from photos of his sons Aaron, Hurd, and Ephraim._
 
 ![[AI Library/12 Family/_media/KNWL-4MX/239416325.pdf|Benjamin and Eunice History-Cheney dustin001.pdf]]
@@ -227,6 +241,15 @@ _Excerpt from "Genealogical surveys of LDS members : autobiographies and ancesto
 - [Hurd Cheney (Son), "Vermont, Births and Christenings, 1765-1908"](https://familysearch.org/ark:/61903/1:1:F8LW-K4D)
 - [Millennium File](http://search.ancestry.com/cgi-bin/sse.dll?dbid=7249&h=10214727&indiv=try)
 - Legacy NFS Source: Benjamin Cheney - 
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 57)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 66)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 67)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 73)_
+- **1838** — The Saints driven from Missouri _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KNWL-4MX)

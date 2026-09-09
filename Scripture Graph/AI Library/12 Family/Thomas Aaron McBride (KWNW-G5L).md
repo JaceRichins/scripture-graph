@@ -7,14 +7,14 @@ fs_id: KWNW-G5L
 generation: 5
 born: 10 July 1848 · Appanoose, Iowa, United States
 died: 22 October 1931 · Oakley, Cassia, Idaho, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Thomas Aaron McBride
 
-Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · Oakley, Cassia, Idaho, United States · Generation 5
+Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · Oakley, Cassia, Idaho, United States · Jace Eugene Richins's 3× great-grandparents
 
 ## Family
 - Father: [[James John McBride (KWJ5-DHB)|James John McBride]]
@@ -24,31 +24,33 @@ Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · O
 ## Life
 - **Birth**: 10 July 1848 · Appanoose, Iowa, United States
 - **Death**: 22 October 1931 · Oakley, Cassia, Idaho, United States
-- **data:,Mormon%20Pioneer**: 21 June 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
+- **Mormon%20Pioneer**: 21 June 1850 · Kanesville, Pottawattamie, Iowa, United States · William Snow/Joseph Young Company
 - **Residence**: 1850 · Tooele, Tooele, Utah Territory, United States
-- **data:,Immigration**: 14 October 1850 · Utah Territory, United States
-- **data:,Blessing**: 1852
-- **data:,Baptism**: 1856
+- **Immigration**: 14 October 1850 · Utah Territory, United States
+- **Blessing**: 1852
+- **Baptism**: 1856
 - **Residence**: 1860 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1870 · Grantsville, Tooele, Utah Territory, United States
 - **Residence**: 1880 · Grantsville, Tooele, Utah Territory, United States
-- **data:,Census**: 1880 · Grantsville City, Tooele, Utah, USA
-- **data:,Land%20Assessment**: 21 February 1885 · Idaho, United States
+- **Census**: 1880 · Grantsville City, Tooele, Utah, USA
+- **Land%20Assessment**: 21 February 1885 · Idaho, United States
 - **MilitaryService**: 1862-1910 · Iowa, United States
 - **Residence**: 1900 · Oakley, Cassia, Idaho, United States
-- **data:,Census**: 1900 · Oakley, Basin, Marion Precincts, Cassia, Idaho, USA
+- **Census**: 1900 · Oakley, Basin, Marion Precincts, Cassia, Idaho, USA
 - **Residence**: 1910 · Locust, Cassia, Idaho, United States
 - **Residence**: 1920 · Locust, Cassia, Idaho, United States
 - **Residence**: 1920 · Cassia, Idaho, United States
-- **data:,Membership**: 1921 · Tooele, Utah, United States
+- **Membership**: 1921 · Tooele, Utah, United States
 - **Residence**: 1930 · Locust, Cassia, Idaho, United States
-- **data:,Obituary**: 1931 · Idaho, United States
+- **Obituary**: 1931 · Idaho, United States
 - **Burial**: 25 October 1931 · Oakley Cemetery, Oakley, Cassia, Idaho, United States
-- **data:,Membership**: Grantsville, Tooele, Utah, United States
+- **Membership**: Grantsville, Tooele, Utah, United States
 
 ## Stories
 
 ### Faith Promoting Story about the birth of Frances Henry McBride
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/3615539)_
 
 ## Photos & documents
 
@@ -82,7 +84,7 @@ Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · O
 ![[AI Library/12 Family/_media/KWNW-G5L/10437793.jpg|Thomas Aaron McBride in his later years]]
 
 
-![[AI Library/12 Family/_media/KWNW-G5L/11682819.png|Thomas Aaron McBride - Working on Dam at American Falls, Idaho]]
+![[AI Library/12 Family/_media/KWNW-G5L/11682819.jpg|Thomas Aaron McBride - Working on Dam at American Falls, Idaho]]
 
 
 ![[AI Library/12 Family/_media/KWNW-G5L/11903375.jpg|Thomas Aaron McBride and Hilma D Gorringe]]
@@ -91,7 +93,7 @@ Born 10 July 1848 · Appanoose, Iowa, United States · Died 22 October 1931 · O
 ![[AI Library/12 Family/_media/KWNW-G5L/13273350.jpg|Back of Thomas Aaron McBride & Caroline Sorensen Home - Oakley, Idaho]]
 
 
-![[AI Library/12 Family/_media/KWNW-G5L/13273697.tif|Writing of Caroline Sorenson is pencil (on Photo) which is the back of home in Oakley, Idaho of Thomas Aaron McBride & Caroline Sorenson (Cursive is Verna Edna Howard's, daugt of Gertrude McBride)]]
+![[AI Library/12 Family/_media/KWNW-G5L/13273697.jpg|Writing of Caroline Sorenson is pencil (on Photo) which is the back of home in Oakley, Idaho of Thomas Aaron McBride & Caroline Sorenson (Cursive is Verna Edna Howard's, daugt of Gertrude McBride)]]
 
 
 ![[AI Library/12 Family/_media/KWNW-G5L/19275487.jpg|Thomas Aaron McBride Horse Shoe Cooling Basin.]]
@@ -156,6 +158,17 @@ _This is a typed copy on very aged paper that I found in the keeping of Verna Ho
 - [Thomas Aaron McBride, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSF-33GC)
 - [Thomas Aaron Mcbride, "Idaho, Southeast Counties Obituaries, 1864-2007"](https://familysearch.org/ark:/61903/1:1:QVSX-36DX)
 - [James McBride Autobiogrpahy](https://catalog.churchofjesuschrist.org/assets/5e8e6f91-bbd9-4f1a-a9e9-6c9d741ac64b/0/0)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 8)_
+- **1869** — The railroad reaches Utah _(age 21)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 29)_
+- **1890** — The Manifesto ends plural marriage _(age 42)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 45)_
+- **1896** — Utah becomes a state _(age 48)_
+- **1918** — [[Joseph F. Smith|Joseph F. Smith's vision of the redemption of the dead (D&C 138)]] _(age 70)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWNW-G5L)

@@ -7,14 +7,14 @@ fs_id: KWJ7-5Q6
 generation: 6
 born: 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom
 died: 27 April 1906 · Henefer, Summit, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Robert Jones
 
-Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Died 27 April 1906 · Henefer, Summit, Utah, United States · Generation 6
+Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Died 27 April 1906 · Henefer, Summit, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[William Jones (MVD2-WSJ)|William Jones]]
@@ -28,9 +28,9 @@ Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Di
 - **Residence**: 1851 · Brimpsfield, Gloucestershire, England
 - **Residence**: 1851 · St Georges, Gloucestershire, England
 - **Residence**: 1861 · St Georges, Gloucestershire, England
-- **data:,Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" Arrived 6 June 1866
-- **data:,Emigration+-+Departed+Nebraska**: 12 Jul 1866 · William H. Chipman Company
-- **data:,Immigration+-+Arrived+in+Utah**: 16 Sep 1866 · Utah, United States
+- **Immigration**: 30 April 1866 · Liverpool, Lancashire, England, United Kingdom · From England on ship "John Bright" Arrived 6 June 1866
+- **Emigration+-+Departed+Nebraska**: 12 Jul 1866 · William H. Chipman Company
+- **Immigration+-+Arrived+in+Utah**: 16 Sep 1866 · Utah, United States
 - **Residence**: 1880 · Henefer, Summit, Utah, United States
 - **Burial**: 30 April 1906 · Henefer Cemetery, Henefer, Summit, Utah, United States
 - **Residence**: Summit, Utah, United States
@@ -39,9 +39,15 @@ Born 9 July 1829 · Caudle Green, Gloucestershire, England, United Kingdom · Di
 
 ### Autobiography of Robert Jones 
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/37384710)_
+
 ### Life History of Albert F. Richins
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/95942857)_
+
 ### Death Notice 
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/123694294)_
 
 ## Photos & documents
 
@@ -87,16 +93,16 @@ _Obit for Robert Jones _
 ![[AI Library/12 Family/_media/KWJ7-5Q6/24332183.jpg|Robert Jones  ggrandfather of Eileen Clark]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/26696158.tif|document]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/26696158.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/26696162.tif|document]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/26696162.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/26696185.tif|document]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/26696185.jpg|document]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/28741253.bmp|Robert Jones]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/28741253.jpg|Robert Jones]]
 _This photo is an original carte de visite from the collection of Agnes Ure Pratt, the daughter of Elizabeth Jones and James Ure._
 
 ![[AI Library/12 Family/_media/KWJ7-5Q6/37382186.jpg|"John Bright" ship manifest]]
@@ -153,7 +159,7 @@ _Agnes Jones Ure Pratt was a daughter of Elizabeth Jones Ure and lived in Kamas,
 ![[AI Library/12 Family/_media/KWJ7-5Q6/103538243.jpg|Gravestone Robert Jones]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/103539848.jpeg|Robert Jones death certificate]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/103539848.jpg|Robert Jones death certificate]]
 
 
 ![[AI Library/12 Family/_media/KWJ7-5Q6/103539852.jpg|Robert Jones 1829-1906]]
@@ -177,10 +183,10 @@ _Agnes Jones Ure Pratt was a daughter of Elizabeth Jones Ure and lived in Kamas,
 ![[AI Library/12 Family/_media/KWJ7-5Q6/138902399.jpg|Indian War Records Indian War Service Affidavit]]
 
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/146195727.jpeg|Article about Emigrating West]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/146195727.jpg|Article about Emigrating West]]
 _Found in LaRene Richins Book of Remembrance_
 
-![[AI Library/12 Family/_media/KWJ7-5Q6/146297449.png|Finial Tribute]]
+![[AI Library/12 Family/_media/KWJ7-5Q6/146297449.jpg|Finial Tribute]]
 _Found in LaRene Richins Book of Remembrance_
 
 ![[AI Library/12 Family/_media/KWJ7-5Q6/146430992.jpg|Children of William Richins and Charlotte Ann Guy]]
@@ -244,6 +250,23 @@ _Found in LaRene Richins Book of Remembrance._
 - [Robert Jones, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QVSF-GTXR)
 - [Robert Jones, "Utah, Pioneers and Prominent Men of Utah, 1847-1868"](https://familysearch.org/ark:/61903/1:1:KL71-DMG)
 - [Robert Jones, "Utah, Death Certificates, 1904-1966"](https://familysearch.org/ark:/61903/1:1:XZPD-1DX)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 0)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 1)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 7)_
+- **1838** — The Saints driven from Missouri _(age 9)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 15)_
+- **1846** — The exodus from Nauvoo begins _(age 17)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 18)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 27)_
+- **1869** — The railroad reaches Utah _(age 40)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 48)_
+- **1890** — The Manifesto ends plural marriage _(age 61)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 64)_
+- **1896** — Utah becomes a state _(age 67)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ7-5Q6)

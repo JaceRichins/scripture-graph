@@ -7,14 +7,14 @@ fs_id: MXKV-BPQ
 generation: 8
 born: 1757 · Ashby Parva, Leicestershire, England
 died: June 1834 · Leire, Leicestershire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Elizabeth Wale
 
-Born 1757 · Ashby Parva, Leicestershire, England · Died June 1834 · Leire, Leicestershire, England, United Kingdom · Generation 8
+Born 1757 · Ashby Parva, Leicestershire, England · Died June 1834 · Leire, Leicestershire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Thomas Sutton (LH85-KC8)|Thomas Sutton]]
@@ -61,6 +61,13 @@ Born 1757 · Ashby Parva, Leicestershire, England · Died June 1834 · Leire, Le
 - [Elizth. Wale, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NK6R-22K)
 - [Elizabeth in entry for Mark Sutton, "England, Births and Christenings, 1538-1975"](https://familysearch.org/ark:/61903/1:1:JQ86-GVB)
 - [Eliz. Wale, "England Marriages, 1538–1973"](https://familysearch.org/ark:/61903/1:1:NJ84-459)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 63)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 72)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 73)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/MXKV-BPQ)

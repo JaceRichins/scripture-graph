@@ -6,21 +6,21 @@ sg-id: fs:L6SX-9QV
 fs_id: L6SX-9QV
 generation: 8
 died: July 1833 · Mathon, Worcestershire, England
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Lucy Allen
 
-Died July 1833 · Mathon, Worcestershire, England · Generation 8
+Died July 1833 · Mathon, Worcestershire, England · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Henry Turner (KWV3-2CK)|Henry Turner]]
 
 ## Life
 - **Death**: July 1833 · Mathon, Worcestershire, England
-- **data:,Baptism**: 27 Feb 1774 · Herefordshire, England
+- **Baptism**: 27 Feb 1774 · Herefordshire, England
 - **Christening**: 27 February 1774 · Colwall, Herefordshire, England
 - **Burial**: 19 July 1833 · Mathon, Worcestershire, England
 

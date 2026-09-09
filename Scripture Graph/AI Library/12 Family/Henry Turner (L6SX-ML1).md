@@ -7,14 +7,14 @@ fs_id: L6SX-ML1
 generation: 8
 born: 11 March 1764 · Mathon, Worcester, England
 died: 3 November 1811 · Mathon, Herefordshire, England, United Kingdom
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Henry Turner
 
-Born 11 March 1764 · Mathon, Worcester, England · Died 3 November 1811 · Mathon, Herefordshire, England, United Kingdom · Generation 8
+Born 11 March 1764 · Mathon, Worcester, England · Died 3 November 1811 · Mathon, Herefordshire, England, United Kingdom · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Henry Turner (KWV3-2CK)|Henry Turner]]

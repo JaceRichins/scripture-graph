@@ -7,14 +7,14 @@ fs_id: L41T-FHY
 generation: 7
 born: 17 January 1781 · Derby, New Haven, Connecticut, United States
 died: 30 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Gibson Smith
 
-Born 17 January 1781 · Derby, New Haven, Connecticut, United States · Died 30 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States · Generation 7
+Born 17 January 1781 · Derby, New Haven, Connecticut, United States · Died 30 June 1866 · Salt Lake City, Salt Lake, Utah Territory, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Father: [[Samuel Smith (MGDS-KDZ)|Samuel Smith]]
@@ -28,12 +28,14 @@ Born 17 January 1781 · Derby, New Haven, Connecticut, United States · Died 30 
 - **Residence**: 1810 · Litchfield, Litchfield, Connecticut, United States
 - **Residence**: 1855 · Sheffield, Berkshire, Massachusetts, United States
 - **Residence**: 1860 · 18th Ward Great Salt Lake City, Salt Lake, Utah Territory, United States
-- **data:,Immigration**: 9 August 1860 · Utah, United States
+- **Immigration**: 9 August 1860 · Utah, United States
 - **Burial**: 1866 · Kimball-Whitney Cemetery, 180 N. Main Street, Salt Lake City, Salt Lake, Utah Territory, United States
 
 ## Stories
 
 ### Gibson Smith (17 January 1781 – 30 June 1866)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/19816318)_
 
 ## Photos & documents
 
@@ -64,7 +66,7 @@ When about 18 years of age she went with a maiden aunt, Sarah Smith (spinster) t
 
 https://newspapers.lib.utah.edu/details?id=23723692_
 
-![[AI Library/12 Family/_media/L41T-FHY/160305160.png|Death Index of Polly Smith, 1852, CT]]
+![[AI Library/12 Family/_media/L41T-FHY/160305160.jpg|Death Index of Polly Smith, 1852, CT]]
 
 
 ## Sources
@@ -87,6 +89,19 @@ https://newspapers.lib.utah.edu/details?id=23723692_
 - [Gibson Smith, "Utah, Obituaries from Utah Newspapers, 1850-2005"](https://familysearch.org/ark:/61903/1:1:QVSF-YD3Z)
 - [Gipson Smith, "Connecticut, Births and Christenings, 1649-1906"](https://familysearch.org/ark:/61903/1:1:F74T-T8J)
 - [Gibson Smith, "United States Census, 1850"](https://familysearch.org/ark:/61903/1:1:M68K-NN9)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1820** — [[First Vision|The First Vision]] _(age 39)_
+- **1829** — [[Priesthood Restoration|The priesthood restored]] _(age 48)_
+- **1830** — [[Restoration of the Gospel|The Book of Mormon published; the Church organized]] _(age 49)_
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 55)_
+- **1838** — The Saints driven from Missouri _(age 57)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 63)_
+- **1846** — The exodus from Nauvoo begins _(age 65)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 66)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 75)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/L41T-FHY)

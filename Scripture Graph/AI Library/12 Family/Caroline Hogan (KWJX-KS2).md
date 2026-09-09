@@ -7,14 +7,14 @@ fs_id: KWJX-KS2
 generation: 6
 born: 24 July 1831 · Haugen, Tinn, Telmark, Norway
 died: 8 December 1917 · Cove, Cache, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Caroline Hogan
 
-Born 24 July 1831 · Haugen, Tinn, Telmark, Norway · Died 8 December 1917 · Cove, Cache, Utah, United States · Generation 6
+Born 24 July 1831 · Haugen, Tinn, Telmark, Norway · Died 8 December 1917 · Cove, Cache, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Eric Gautesson Midtboen Hogan (M1X3-FWK)|Eric Gautesson Midtboen Hogan]]
@@ -25,9 +25,9 @@ Born 24 July 1831 · Haugen, Tinn, Telmark, Norway · Died 8 December 1917 · Co
 - **Birth**: 24 July 1831 · Haugen, Tinn, Telmark, Norway
 - **Death**: 8 December 1917 · Cove, Cache, Utah, United States
 - **Christening**: 9 October 1831 · Haugen, Tinn, Telemark, Norway
-- **data:,Baptism**: 9 Oct 1831 · Tinn, Bratsberg, Norge
-- **data:,Immigration**: 15 August 1837 · Gothenburg, Sweden to New York. · Sailed on vessel "Niord".
-- **data:,Emigration**: 05 Jun 1848
+- **Baptism**: 9 Oct 1831 · Tinn, Bratsberg, Norge
+- **Immigration**: 15 August 1837 · Gothenburg, Sweden to New York. · Sailed on vessel "Niord".
+- **Emigration**: 05 Jun 1848
 - **Immigration**: 24 Sep 1848 · Deseret, United States
 - **Residence**: 1860 · Bountiful, Davis, Utah Territory, United States
 - **Residence**: 1880 · Richmond, Cache, Utah, United States
@@ -37,9 +37,15 @@ Born 24 July 1831 · Haugen, Tinn, Telmark, Norway · Died 8 December 1917 · Co
 
 ### Caroline Hogan Hyer
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/1627864)_
+
 ### Skills
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/2838879)_
+
 ### Caroline Hogan Hyer Pioneer women of faith
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/9787577)_
 
 ## Photos & documents
 
@@ -209,6 +215,21 @@ _Christian L Hyer pedigree_
 - [Caroline Hyer in household of Christian Hyer, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRV-MHB)
 - [1917 UT: Caroline Hogan Hyer, "Utah Death Certificates, 1904-1964"](https://familysearch.org/ark:/61903/1:1:XZGD-NB3)
 - [1917 UT: Caroline Hogan Hyer, "Find A Grave Index"](https://familysearch.org/ark:/61903/1:1:QV2Z-PN54)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 5)_
+- **1838** — The Saints driven from Missouri _(age 7)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 13)_
+- **1846** — The exodus from Nauvoo begins _(age 15)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 16)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 25)_
+- **1869** — The railroad reaches Utah _(age 38)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 46)_
+- **1890** — The Manifesto ends plural marriage _(age 59)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 62)_
+- **1896** — Utah becomes a state _(age 65)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJX-KS2)

@@ -6,14 +6,14 @@ sg-id: fs:LQRS-9HY
 fs_id: LQRS-9HY
 generation: 8
 born: 1723 · Douglas, Lanarkshire, Scotland
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Marion Patoun
 
-Born 1723 · Douglas, Lanarkshire, Scotland · Generation 8
+Born 1723 · Douglas, Lanarkshire, Scotland · Jace Eugene Richins's 6× great-grandparents
 
 ## Family
 - Children in this line: [[Mary Nelson Wilson (9QW1-X7N)|Mary Nelson Wilson]]

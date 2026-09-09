@@ -7,14 +7,14 @@ fs_id: KLB9-CB9
 generation: 7
 born: Louisiana, United States
 died: 9 August 1855 · Hobbtown, Crawford, Arkansas, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Eliza Starr
 
-Born Louisiana, United States · Died 9 August 1855 · Hobbtown, Crawford, Arkansas, United States · Generation 7
+Born Louisiana, United States · Died 9 August 1855 · Hobbtown, Crawford, Arkansas, United States · Jace Eugene Richins's 5× great-grandparents
 
 ## Family
 - Children in this line: [[William S Bowen (LD8R-CMY)|William S Bowen]]

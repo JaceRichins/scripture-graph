@@ -7,14 +7,14 @@ fs_id: KWJ6-HYH
 generation: 6
 born: 18 November 1831 · Pamelia, Jefferson, New York, United States
 died: 12 January 1915 · Farmington, Davis, Utah, United States
-updated_at: '2026-09-08T23:41:30Z'
+updated_at: '2026-09-08T23:58:43Z'
 cssclasses:
 - sg-ai
 ---
 
 # Sarah Elnora White
 
-Born 18 November 1831 · Pamelia, Jefferson, New York, United States · Died 12 January 1915 · Farmington, Davis, Utah, United States · Generation 6
+Born 18 November 1831 · Pamelia, Jefferson, New York, United States · Died 12 January 1915 · Farmington, Davis, Utah, United States · Jace Eugene Richins's 4× great-grandparents
 
 ## Family
 - Father: [[Joseph White (KWV9-BT3)|Joseph White]]
@@ -36,13 +36,23 @@ Born 18 November 1831 · Pamelia, Jefferson, New York, United States · Died 12 
 
 ### Joseph White (30 May 1801 – 18 August 1851)
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/4009321)_
+
 ### Sarah Elnora White Stevenson (18 November 1831 – 12 January 1915)
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14563922)_
 
 ### Life stories of Sarah Elnora White
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14887417)_
+
 ### Excerpt from Life Sketch of Sarah Elnora White
 
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/14887972)_
+
 ### SARAH ELNORA WHITE and her father, JOSEPH WHITE
+
+_Kept on FamilySearch: [open the story](https://www.familysearch.org/memories/memory/15020980)_
 
 ## Photos & documents
 
@@ -143,6 +153,21 @@ _Davis County Clipper obituary for Sarah White Stevenson_
 - Legacy NFS Source: Sarah Elnora White - Memory of Someone: Memory of a relative: birth-name: Sarah Elnora White
 - [James Stevenson, "United States Census, 1900"](https://familysearch.org/ark:/61903/1:1:MMRV-3BJ)
 - [James Stevenson, "United States Census, 1910"](https://familysearch.org/ark:/61903/1:1:M5XS-N79)
+
+## In their lifetime
+_What was happening in the Church while they lived._
+
+- **1836** — [[Temples|The Kirtland Temple dedicated]] _(age 5)_
+- **1838** — The Saints driven from Missouri _(age 7)_
+- **1844** — Joseph and Hyrum Smith martyred at Carthage _(age 13)_
+- **1846** — The exodus from Nauvoo begins _(age 15)_
+- **1847** — [[Brigham Young|The pioneers enter the Salt Lake Valley]] _(age 16)_
+- **1856** — The handcart companies; the Willie and Martin rescue _(age 25)_
+- **1869** — The railroad reaches Utah _(age 38)_
+- **1877** — [[Brigham Young|The St. George Temple dedicated; Brigham Young dies]] _(age 46)_
+- **1890** — The Manifesto ends plural marriage _(age 59)_
+- **1893** — [[Temples|The Salt Lake Temple dedicated]] _(age 62)_
+- **1896** — Utah becomes a state _(age 65)_
 
 
 [FamilySearch record](https://www.familysearch.org/tree/person/details/KWJ6-HYH)
