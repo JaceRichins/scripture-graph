@@ -9,10 +9,14 @@
     "ship": "node scripts/ship.mjs"
   },
   "dependencies": {
-    "@scripture-graph/core-sdk": "*"
+    "@scripture-graph/core-sdk": "*",
+    "html-to-pdfmake": "2.5.34",
+    "pdfmake": "0.2.23"
   },
   "devDependencies": {
     "@types/d3-force": "^3.0.10",
+    "@types/html-to-pdfmake": "^2.4.5",
+    "@types/pdfmake": "0.2.12",
     "d3-force": "^3.0.0",
     "esbuild": "^0.24.0",
     "obsidian": "^1.7.2",

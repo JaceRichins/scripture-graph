@@ -1,15 +1,38 @@
 /** Study module (§20-23): bookmarks, study trails, flashcards-lite — all
  * personal data in the annotation system / device store, never shared vault. */
 import { Modal, Notice, Setting, TFile } from "obsidian";
-import { chapterIdFromTitle, nowIso, parseVerseId, uuid, verseDisplay, type Annotation } from "@scripture-graph/core-sdk";
+import { bookmarkContent, chapterIdFromTitle, nowIso, parseBookmark, parseVerseId, uuid, verseDisplay, type Annotation, type BookmarkPlace } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import type { AnnotationService } from "../social/annotations";
+import { documentTitle } from "../ai/documentContext";
+
+export interface BookmarkEntry { mark: Annotation; title: string; path: string | null; place: BookmarkPlace | null; at: string }
+
+/** A page's lasting id when it has no chapter id or sg-id (anchor ids are capped at 200 characters). */
+function docAnchor(path: string): string {
+  if (path.length <= 196) return `doc:${path}`;
+  let a = 0x811c9dc5, b = 0x01000193;
+  for (const ch of path) { const c = ch.codePointAt(0)!; a = Math.imul(a ^ c, 16777619) >>> 0; b = Math.imul(b ^ c, 2246822519) >>> 0; }
+  return `doc:~${a.toString(16)}${b.toString(16)}`;
+}
+
+/** A notice with an Undo button: removing something is never silent or final. */
+function undoNotice(message: string, undo: () => Promise<void>): void {
+  const fragment = document.createDocumentFragment();
+  fragment.append(document.createTextNode(`${message} `));
+  const button = document.createElement("button");
+  button.textContent = "Undo";
+  fragment.append(button);
+  const notice = new Notice(fragment, 8000);
+  button.onclick = event => { event.stopPropagation(); notice.hide(); void undo(); };
+}
 
 interface TrailStep { title: string; at: string }
 interface CardState { ease: number; intervalDays: number; due: string; reps: number }
 
 export class StudyService {
   private trail: TrailStep[] = [];
+  bookmarksChanged: () => Promise<void> = async () => {};
 
   constructor(private s: SGState, private ann: AnnotationService) {}
 
@@ -47,51 +70,176 @@ export class StudyService {
     await this.bookmarkFile(f);
   }
 
-  /** the anchor a bookmark on this file rides: the chapter id, the engine's
-   * sg-id, or the title */
-  bookmarkAnchor(f: TFile): string {
-    if (f.path.startsWith(CANONICAL_PREFIX)) {
-      const id = chapterIdFromTitle(f.basename);
-      if (id) return id;
-    }
+  /** One bookmark per page. A chapter is the same page whether it is read in the
+   * reader or on its editable My Notes companion; other pages are known by their
+   * sg-id or their path, never by a bare file name. */
+  bookmarkTarget(f: TFile): { anchor: string; legacy: string[]; title: string; path: string } {
+    const legacy = [`node:${f.basename}`];
+    const notes = f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes") ? f.basename.slice(0, -" - My Notes".length) : null;
+    const chapter = notes ?? (f.path.startsWith(CANONICAL_PREFIX) ? f.basename : null);
+    const id = chapter ? chapterIdFromTitle(chapter) : null;
+    if (id && chapter) return { anchor: id, legacy, title: chapter, path: f.path };
     const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter as Record<string, unknown> | undefined;
     const sgId = typeof fm?.["sg-id"] === "string" ? (fm["sg-id"] as string) : null;
-    return sgId ?? `node:${f.basename}`;
+    return { anchor: sgId ?? docAnchor(f.path), legacy, title: documentTitle(this.s.app, f), path: f.path };
   }
 
-  /** my live bookmark on this file, if there is one */
+  private myBookmarks(all: Annotation[]): Annotation[] {
+    return all.filter(a => a.author_user_id === this.s.device.userId && a.annotation_type === "bookmark" && !a.deleted_at);
+  }
+
+  positionKey(id: string): string { return `bookmark-position:${this.s.device.userId}:${id}`; }
+
+  /** my live bookmark on this page, if there is one */
   async bookmarkOf(f: TFile): Promise<Annotation | null> {
-    const anchor = this.bookmarkAnchor(f);
-    const all = await this.s.sync.allAnnotations();
-    return all.find(a => a.anchor_id === anchor && a.annotation_type === "bookmark" && !a.deleted_at) ?? null;
+    const target = this.bookmarkTarget(f);
+    const marks = this.myBookmarks(await this.s.sync.allAnnotations());
+    return marks.find(a => a.anchor_id === target.anchor)
+      ?? marks.find(a => target.legacy.includes(a.anchor_id) && (parseBookmark(a.content).record?.path ?? f.path) === f.path) ?? null;
   }
 
-  /** tap again: the bookmark goes */
-  async unbookmark(a: Annotation): Promise<void> {
-    await this.ann.remove(a.annotation_id);
-    new Notice("Bookmark removed");
-  }
-
-  /** bookmark THIS file — the page views (questions, talks, history) have no
-   * "active file" in Obsidian's sense, so they hand theirs over */
+  /** Create: tapping the empty ribbon. Tapping it again never deletes; it shows the bookmark. */
   async bookmarkFile(f: TFile): Promise<void> {
-    let anchor: string | null = null;
-    if (f.path.startsWith(CANONICAL_PREFIX)) anchor = chapterIdFromTitle(f.basename);
-    if (!anchor) {
-      // engine pages carry a rename-stable sg-id ("topic:faith"); fall back to title
-      const fm = this.s.app.metadataCache.getFileCache(f)?.frontmatter as
-        Record<string, unknown> | undefined;
-      const sgId = typeof fm?.["sg-id"] === "string" ? (fm["sg-id"] as string) : null;
-      anchor = sgId ?? `node:${f.basename}`;
+    if (await this.bookmarkOf(f)) { await this.bookmarksChanged(); return; }
+    const target = this.bookmarkTarget(f);
+    await this.ann.addBookmark(target.anchor, bookmarkContent({ path: target.path, title: target.title, place: null, at: nowIso() }));
+    await this.bookmarksChanged();
+    new Notice(`Bookmarked “${target.title}”. Your place is kept as you read.`);
+  }
+
+  /** Delete: only from the bookmark sheet or list, and always with Undo. */
+  async unbookmark(a: Annotation): Promise<void> {
+    const key = this.positionKey(a.annotation_id);
+    const local = await this.s.store.get<unknown>(key);
+    await this.ann.remove(a.annotation_id);
+    await this.s.store.delete(key);
+    await this.bookmarksChanged();
+    undoNotice(`Bookmark removed from “${parseBookmark(a.content).title ?? "this page"}”.`, async () => {
+      const restored = await this.ann.addBookmark(a.anchor_id, a.content);
+      if (local) await this.s.store.put(this.positionKey(restored.annotation_id), local);
+      await this.bookmarksChanged();
+      new Notice("Bookmark restored.");
+    });
+  }
+
+  /** Read: every bookmark, the most recently read first, with where the reader left off. */
+  async bookmarks(): Promise<BookmarkEntry[]> {
+    const entries = await Promise.all(this.myBookmarks(await this.s.sync.allAnnotations()).map(mark => this.entry(mark)));
+    return entries.sort((a, b) => b.at.localeCompare(a.at));
+  }
+
+  /** This device's latest place, or the synced one from another device, whichever is newer. */
+  async entry(mark: Annotation): Promise<BookmarkEntry> {
+    const { title, record } = parseBookmark(mark.content);
+    const raw = await this.s.store.get<Record<string, unknown>>(this.positionKey(mark.annotation_id));
+    const local = raw && typeof raw["top"] === "number" ? { place: raw as unknown as BookmarkPlace, at: typeof raw["savedAt"] === "string" ? raw["savedAt"] : "" } : null;
+    const synced = record?.place && record.at ? { place: record.place, at: record.at } : null;
+    const best = local && (!synced || local.at > synced.at) ? local : synced;
+    return { mark, title: title ?? mark.anchor_id, path: record?.path ?? null, place: best?.place ?? null, at: (best?.at || record?.at) ?? mark.updated_at };
+  }
+
+  /** The place last saved into the bookmark (possibly by another device). */
+  async syncedPlace(id: string): Promise<{ place: BookmarkPlace; at: string } | null> {
+    const mark = await this.s.sync.getAnnotation(id);
+    const record = mark && !mark.deleted_at ? parseBookmark(mark.content).record : null;
+    return record?.place && record.at ? { place: record.place, at: record.at } : null;
+  }
+
+  /** Update: the reader's place is written into the bookmark when they leave the page
+   * or the app (not on every scroll), so it follows them to their other devices. */
+  async persistPlace(id: string, file: TFile, place: BookmarkPlace): Promise<void> {
+    const mark = await this.s.sync.getAnnotation(id);
+    if (!mark || mark.deleted_at || mark.annotation_type !== "bookmark") return;
+    const { title, record } = parseBookmark(mark.content);
+    if (record?.place && JSON.stringify(record.place) === JSON.stringify(place)) return;
+    const target = this.bookmarkTarget(file);
+    const content = bookmarkContent({ path: record?.path ?? target.path, title: record?.title ?? title ?? target.title, place, at: nowIso() });
+    await this.s.sync.save({ ...mark, content, updated_at: nowIso() });
+    this.ann.scheduleSync(2_000);
+  }
+
+  /** Open a bookmark where it was kept; chapters open the way chapter links do. */
+  async openBookmark(entry: BookmarkEntry): Promise<void> {
+    const workspace = this.s.app.workspace;
+    if (chapterIdFromTitle(entry.title) === entry.mark.anchor_id) { await workspace.openLinkText(entry.title, ""); return; }
+    const file = entry.path ? this.s.app.vault.getAbstractFileByPath(entry.path) : null;
+    await workspace.openLinkText(file instanceof TFile ? file.path : entry.title, "");
+  }
+
+  /** After each sync: finish old repairs, move file-name bookmarks to lasting ids, and keep one bookmark per page. */
+  async maintainBookmarks(): Promise<void> {
+    await this.repairFailedBookmarks();
+    const moved = await this.migrateBookmarks();
+    const merged = await this.dedupeBookmarks();
+    if (moved || merged) { this.ann.scheduleSync(500); await this.bookmarksChanged(); }
+  }
+
+  private async migrateBookmarks(): Promise<boolean> {
+    const me = this.s.device.userId;
+    if (!me) return false;
+    const done = `bookmark-migrate-v2:${me}`;
+    if (await this.s.store.get<boolean>(done)) return false;
+    let changed = false;
+    for (const mark of this.myBookmarks(await this.s.sync.allAnnotations())) {
+      if (!mark.anchor_id.startsWith("node:")) continue;
+      const files = this.s.app.vault.getMarkdownFiles().filter(f => f.basename === mark.anchor_id.slice(5));
+      if (files.length !== 1) continue;  // ambiguous, or not on this device: leave it for a device that knows
+      const target = this.bookmarkTarget(files[0]!);
+      if (target.anchor === mark.anchor_id) continue;
+      if (!this.myBookmarks(await this.s.sync.allAnnotations()).some(a => a.anchor_id === target.anchor)) {
+        const record = parseBookmark(mark.content).record;
+        const moved = await this.ann.addBookmark(target.anchor, bookmarkContent({ path: target.path, title: target.title, place: record?.place ?? null, at: record?.at ?? mark.updated_at }));
+        const local = await this.s.store.get<unknown>(this.positionKey(mark.annotation_id));
+        if (local) await this.s.store.put(this.positionKey(moved.annotation_id), local);
+      }
+      await this.s.sync.softDelete(mark.annotation_id);
+      await this.s.store.delete(this.positionKey(mark.annotation_id));
+      changed = true;
     }
-    await this.ann.addNote(anchor, `Bookmark: [[${f.basename}]]`, null,
-      this.s.settings.defaultVisibility === "local" ? "local" : "private", null);
-    // repurpose type
-    const all = await this.s.sync.allAnnotations();
-    const latest = all.filter(a => a.anchor_id === anchor).sort((a, b) => b.created_at.localeCompare(a.created_at))[0];
-    if (latest) await this.s.sync.save({ ...latest, annotation_type: "bookmark" });
-    this.s.rerenderReading();
-    new Notice(`Bookmarked ${f.basename}`);
+    await this.s.store.put(done, true);
+    return changed;
+  }
+
+  /** Two devices, or a migration racing a tap, must never leave two bookmarks on one page. */
+  private async dedupeBookmarks(): Promise<boolean> {
+    const pages = new Map<string, Annotation[]>();
+    for (const mark of this.myBookmarks(await this.s.sync.allAnnotations())) pages.set(mark.anchor_id, [...(pages.get(mark.anchor_id) ?? []), mark]);
+    let changed = false;
+    for (const marks of pages.values()) {
+      if (marks.length < 2) continue;
+      const latest = (m: Annotation) => parseBookmark(m.content).record?.at ?? m.updated_at;
+      marks.sort((a, b) => latest(b).localeCompare(latest(a)));
+      for (const extra of marks.slice(1)) { await this.s.sync.softDelete(extra.annotation_id); await this.s.store.delete(this.positionKey(extra.annotation_id)); }
+      changed = true;
+    }
+    return changed;
+  }
+
+  /** Earlier bookmarks were saved as a note and then retyped, and the server kept
+   * the note. Once per account, turn the newest such note on each page into the
+   * bookmark it was meant to be and remove the duplicates. */
+  async repairFailedBookmarks(): Promise<void> {
+    const me = this.s.device.userId;
+    if (!me) return;
+    const done = `bookmark-repair-v1:${me}`;
+    if (await this.s.store.get<boolean>(done)) return;
+    const mine = (await this.s.sync.allAnnotations()).filter(a => a.author_user_id === me && !a.deleted_at);
+    const failed = new Map<string, Annotation[]>();
+    for (const a of mine) {
+      if (a.annotation_type === "note" && /^Bookmark: \[\[[^\]]+\]\]$/.test(a.content.trim())) failed.set(a.anchor_id, [...(failed.get(a.anchor_id) ?? []), a]);
+    }
+    for (const [anchor, notes] of failed) {
+      notes.sort((x, y) => y.created_at.localeCompare(x.created_at));
+      const kept = mine.some(a => a.anchor_id === anchor && a.annotation_type === "bookmark");
+      if (!kept) await this.s.sync.save({ ...notes[0]!, annotation_type: "bookmark", updated_at: nowIso() });
+      for (const note of kept ? notes : notes.slice(1)) await this.s.sync.softDelete(note.annotation_id);
+    }
+    await this.s.store.put(done, true);
+    if (failed.size) {
+      this.ann.scheduleSync(500);
+      await this.bookmarksChanged();
+      this.s.rerenderReading();
+    }
   }
 
   // -------------------------------------------------------- flashcards

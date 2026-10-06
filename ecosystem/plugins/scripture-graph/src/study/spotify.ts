@@ -110,6 +110,11 @@ export class Spotify {
 
   async pause(): Promise<void> { await this.call("PUT", "/me/player/pause"); }
   async resume(): Promise<void> { await this.call("PUT", "/me/player/play"); }
+  async seek(positionMs: number): Promise<boolean> {
+    if (!Number.isFinite(positionMs)) return false;
+    const r = await this.call('PUT', `/me/player/seek?position_ms=${Math.max(0, Math.round(positionMs))}`);
+    return r.status >= 200 && r.status < 300;
+  }
 
   /** what Spotify is doing now — for the mini player and for "next" */
   async state(): Promise<{ playing: boolean; uri: string | null; progress: number; duration: number } | null> {

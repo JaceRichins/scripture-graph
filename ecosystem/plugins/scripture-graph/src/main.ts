@@ -4,7 +4,10 @@
  * (highlights/notes/groups), AI (Ask pane over the user's own wallet), STUDY
  * (reader, bookmarks, trails, flashcards). Shared state lives in SGState;
  * secrets and personal data live ONLY in device-local storage (§7, §65). */
-import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder, WorkspaceLeaf, requestUrl, type App } from "obsidian";
+import { MarkdownView, Modal, Notice, Platform, Plugin, Setting, TFile, TFolder, WorkspaceLeaf, requestUrl, type App, type ItemView } from "obsidian";
+import { ensureEnochStudy, registerEnochStudy } from './study/enochStudy';
+import { openChapterStudy } from './study/chapterStudy';
+import { registerAtlas } from './study/atlas/register';
 import { chapterIdFromTitle, chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, PERSONAL_PREFIX, SGState, type SharedSettings } from "./state";
 import { type NavigatorHost } from "./study/navigator";
@@ -14,30 +17,57 @@ import { LibraryPreviewModal, sheetTargetFor } from "./study/libraryPreview";
 import { VersePeekModal, peekTargetFor } from "./study/versePeek";
 import { closeAllSheets } from "./study/sheetRegistry";
 import { readingChapterTitle, registerSwipeNav } from "./study/swipeNav";
+import { registerSidebarSwipeGuard } from './study/sidebarSwipeGuard';
+import { closeMobileSidebars, registerSidebarNavigation } from './study/sidebarNavigation';
+import { registerKeyboardNav } from "./study/keyboardNav";
+import { registerPhotoShortcuts } from "./study/photoShortcuts";
+import { applyDefaultAppearance } from './study/defaultAppearance';
 import { registerKeyboardWatch } from "./study/keyboardWatch";
 import { TIMELINE_VIEW, TimelineView, openTimelinePicker, type TimelinePreset } from "./study/timelineView";
+import type { Subject } from './study/timelineSubjects';
 import { AnnotationService, NoteModal } from "./social/annotations";
 import { registerReadingIntegration, resolveSelection } from "./social/readingIntegration";
-import { WelcomeModal, refreshIdentity } from "./social/onboarding";
+import { WelcomeModal, WELCOME_SNOOZE_KEY, refreshIdentity } from "./social/onboarding";
+import { FamilyConnectModal } from './social/familyConnect';
 import { AiService } from "./ai/aiService";
 import { ASK_VIEW, AskView } from "./ai/askView";
+import { projectDocument } from "./ai/pageContext";
+import { lessonRoot, lessonProject } from './ai/lessonProject';
+import { rememberReadingPosition } from './study/readingPosition';
+import { BookmarkReading } from './study/bookmarkReading';
+import { BookmarkControls } from './study/bookmarkControls';
+import { BookmarkSheet, BookmarksModal } from './study/bookmarkViews';
+import { SceneCache, wideScene } from './study/sceneCache';
+import { SceneStorageModal } from './study/sceneStorage';
+import type { AskHost } from "./ai/actions";
 import { READER_VIEW, ReaderView } from "./reader/readerView";
 import { DOC_VIEW, DocView, docKindFor } from "./reader/docView";
+import { SHARED_LESSON_VIEW, SHARED_PROJECT_VIEW, SharedLessonView, SharedProjectView, ShareLessonModal, isLesson } from './social/sharedLessons';
 import { findTalkVideo, pageTitle, youtubeIdOf } from "./study/youtubeFind";
 import { Dock, isPhone, obsidianInternals } from "./study/dock";
-import { ReadingSettingsModal, applyReading } from "./study/readingSettings";
+import { ReadingSettingsModal, applyReading, readingPrefs, readingSnapshot, saveReading } from "./study/readingSettings";
 import { VaultSync, setLazyFetch } from "./sync/vaultSync";
-import { runSetupLink } from "./social/setupLink";
+import { fetchMissingEmbeds } from './sync/embeddedAssets';
+import { FamilyNarrator, NARRATION_INDEX } from './study/familyNarration';
+import { addSendPageItem, FamilyInboxModal } from './social/pageSharing';
+import { runSetupLink, SETUP_RESUME_KEY } from "./social/setupLink";
 import { LiveLink } from "./live";
 import { MusicPlayer, type PlayItem } from "./study/music";
 import { Spotify } from "./study/spotify";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
-import { SCENES, SceneManager } from "./study/scenes";
+import { SCENES, SceneManager, configuredSceneId } from "./study/scenes";
 import { Menu } from "obsidian";
+import { addPrintItems, addLessonPrintItem } from './printing/printMenu';
 import { SGSettingsTab } from "./settings";
 import { migrateFromAnnotate } from "./migrate";
 import { BANNER_RE, BUILD } from "./build";
+import { applyBackgroundVisibility } from './study/backgroundVisibility';
+import { supplementalChapterNumber, isSupplementalPage } from './study/supplementalScriptures';
+import { commandmentsChapterNumber } from './study/commandments';
+import { ensureCommandmentsStudy, registerCommandmentsStudy } from './study/commandmentsStudy';
+import { newestRelease, newerVersion } from './sync/updateChannel';
+export { newerVersion } from './sync/updateChannel';
 import { trace } from "./study/trace";
 
 /** Longform writing dialog — the ONLY way a keyboard appears in the study
@@ -66,22 +96,14 @@ class WriteModal extends Modal {
 }
 
 /** "0.7.0" vs "0.6.1" — plain numeric semver compare. */
-export function newerVersion(remote: string, local: string): boolean {
-  const r = remote.split(".").map(Number);
-  const l = local.split(".").map(Number);
-  if (r.some(Number.isNaN) || l.some(Number.isNaN) || !remote) return false;
-  for (let i = 0; i < 3; i++) {
-    const a = r[i] ?? 0, b = l[i] ?? 0;
-    if (a !== b) return a > b;
-  }
-  return false;
-}
 
 export default class SGPlugin extends Plugin {
   state!: SGState;
   ai!: AiService;
   ann!: AnnotationService;
   study!: StudyService;
+  private bookmarkReading!: BookmarkReading;
+  private bookmarkControls!: BookmarkControls;
   studyBar!: StudyBar;
   scenes = new SceneManager();
   private origOpenLinkText: typeof this.app.workspace.openLinkText | null = null;
@@ -96,17 +118,71 @@ export default class SGPlugin extends Plugin {
     const saved = (await this.loadData()) as Partial<SharedSettings> | null;
     if (saved) this.state.applySettings(saved);
     await this.state.loadDevice();
+    await refreshIdentity(this.state);
+    try { await applyDefaultAppearance(this.state); }
+    catch { new Notice('Could not save the new appearance defaults. They will retry when Obsidian opens again.'); }
+    this.scenes.cache = new SceneCache(this.app.vault.adapter, `${this.manifest.dir ?? `${this.app.vault.configDir}/plugins/${this.manifest.id}`}/scene-cache`, () => this.state.device.sceneCacheMB ?? 100);
+    this.applyConfiguredScene(); // show bundled art before deferred sync/startup
+    const choosePhoto = (id: string) => {
+      this.state.device.scene = id;
+      this.scenes.apply(id);
+      void this.state.saveDevice();
+    };
+    registerPhotoShortcuts(this,
+      () => { if (!this.scenes.current()) choosePhoto("study"); },
+      () => {
+        const current = SCENES.findIndex(scene => scene.id === this.scenes.current());
+        choosePhoto(SCENES[(current + 1) % SCENES.length]!.id);
+      });
+    let sceneWide=wideScene(window.innerWidth,window.innerHeight);
+    this.registerDomEvent(window,'online',()=>this.scenes.refresh());
+    this.registerDomEvent(window,'resize',()=>{const wide=wideScene(window.innerWidth,window.innerHeight);if(wide!==sceneWide){sceneWide=wide;this.scenes.refresh();}});
 
     this.ai = new AiService(this.state);
     this.ann = new AnnotationService(this.state);
     this.study = new StudyService(this.state, this.ann);
+    this.bookmarkReading = new BookmarkReading(this.state, this.study);
+    this.bookmarkControls = new BookmarkControls({
+      current: () => this.currentBookmarkPage(),
+      lookup: file => this.study.bookmarkOf(file),
+      add: file => this.study.bookmarkFile(file),
+      open: mark => new BookmarkSheet(this.app, this.study, mark, () => this.openBookmarkList()).open(),
+      error: () => { new Notice('Could not change the bookmark. Please try again.'); },
+    });
+    this.study.bookmarksChanged = async () => { await this.bookmarkReading.refresh(); await this.bookmarkControls.refresh(); };
+    this.ann.afterSync = () => this.study.maintainBookmarks();
+    const refreshBookmarkControls = () => { void this.bookmarkControls.refresh(); };
+    this.state.onChange.push(refreshBookmarkControls);
+    this.register(() => { const i = this.state.onChange.indexOf(refreshBookmarkControls); if (i >= 0) this.state.onChange.splice(i, 1); this.bookmarkControls.dispose(); });
+    const trackBookmarks = () => { this.bookmarkReading.scan(); refreshBookmarkControls(); };
+    this.registerEvent(this.app.workspace.on('layout-change', trackBookmarks));
+    this.registerEvent(this.app.workspace.on('active-leaf-change', trackBookmarks));
+    this.registerEvent(this.app.workspace.on('file-open', trackBookmarks));
+    this.app.workspace.onLayoutReady(trackBookmarks);
+    this.registerDomEvent(document, 'visibilitychange', () => this.bookmarkReading.flush());
+    this.registerDomEvent(window, 'pagehide', () => this.bookmarkReading.flush());
+    this.register(() => this.bookmarkReading.dispose());
 
     this.addSettingTab(new SGSettingsTab(this));
 
     // ---- views ------------------------------------------------------------
-    this.registerView(ASK_VIEW, leaf => new AskView(leaf, this.state, this.ai, this.ann));
+    this.registerEvent(this.app.workspace.on('file-menu', (menu, file) => {
+      if (file instanceof TFile && isLesson(file.path)) menu.addItem(item => item.setTitle('Share lesson progress').setIcon('share').onClick(() => new ShareLessonModal(this.state, file).open()));
+      if (file instanceof TFile) addPrintItems(menu, this.app, file);
+      else addLessonPrintItem(menu, this.app, file.path);
+      if (file instanceof TFile) addSendPageItem(menu, this.state, file);
+    }));
+    this.addCommand({ id: 'family-inbox', name: 'Open family inbox', callback: () => {
+      new FamilyInboxModal(this.state, async path => {
+        if (!(await this.ensureLocal(path))) throw Error('Page unavailable');
+        await this.app.workspace.openLinkText(path, '');
+      }).open();
+    } });
+    this.registerView(ASK_VIEW, leaf => new AskView(leaf, this.state, this.ai, this.ann, this.askHost()));
+    this.registerPageView(SHARED_LESSON_VIEW, leaf => new SharedLessonView(leaf, this.state, () => this.openLibraryShelf(v => v.showMyWork())));
+    this.registerPageView(SHARED_PROJECT_VIEW, leaf => new SharedProjectView(leaf, this.state, () => this.openLibraryShelf(v => v.showMyWork())));
     // hard questions and talks are pages of their own (reader/docView.ts)
-    this.registerView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
+    this.registerPageView(DOC_VIEW, leaf => new DocView(leaf, this.state, this.ann, {
       openAsk: (seed) => void this.openAsk(null, null, `About "${seed}" — `),
       openReading: () => this.openReadingSettings(),
       bookmark: (f) => this.study.bookmarkFile(f),
@@ -116,11 +192,13 @@ export default class SGPlugin extends Plugin {
         if (a) await this.study.unbookmark(a);
       },
       openLibrary: () => this.openNavigator(),
+      openLessonHome: (folder, resources) => this.openLibraryShelf(v => v.showLesson(folder, { resources })),
+      openMyWork: () => this.openLibraryShelf(v => v.showMyWork()),
       playVideo: (id, title, sub) => this.music.playVideo(id, title, sub),
       openRaw: this.state.device.showAiLibrary
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
     }));
-    this.registerView(READER_VIEW, leaf =>
+    this.registerPageView(READER_VIEW, leaf =>
       new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
 
     // ---- 🎵 the music player: one queue, one bar above the dock ----------
@@ -132,6 +210,7 @@ export default class SGPlugin extends Plugin {
     this.music = new MusicPlayer(this.app, {
       serverUrl: () => this.state.api.baseUrl,
       youtubeEnabled: () => this.state.device.youtube !== false,
+      deviceToken: () => this.state.device.deviceToken ?? null,
       onChange: () => this.dock?.refresh(),
     }, spotify);
     this.registerObsidianProtocolHandler("scripture-graph-spotify", params => {
@@ -162,6 +241,9 @@ export default class SGPlugin extends Plugin {
     this.studyBar = new StudyBar(this.state, this.ann, this.study, openAskFromReading,
       () => this.saveSharedSettings());
     registerReadingIntegration(this, this.state, this.ann, this.studyBar, openAskFromReading);
+    registerEnochStudy(this, path => this.ensureLocal(path));
+    registerAtlas(this, path => this.ensureLocal(path));
+    registerCommandmentsStudy(this, path => this.ensureLocal(path));
 
     // ---- commands ---------------------------------------------------------
     this.addCommand({
@@ -217,8 +299,8 @@ export default class SGPlugin extends Plugin {
       id: "open-navigator", name: "Navigate scriptures (books & chapters)", icon: "compass",
       callback: () => this.openNavigator(),
     });
-    this.registerView(TIMELINE_VIEW, (leaf) => new TimelineView(leaf, this.state));
-    this.registerView(LIBRARY_VIEW,
+    this.registerPageView(TIMELINE_VIEW, (leaf) => new TimelineView(leaf, this.state));
+    this.registerPageView(LIBRARY_VIEW,
       (leaf) => new SGLibraryView(leaf, this.state, this.navigatorHost()));
     this.addCommand({
       id: "open-timeline", name: "Open the timeline", icon: "history",
@@ -296,7 +378,11 @@ export default class SGPlugin extends Plugin {
     });
     this.addCommand({
       id: "sync-now", name: "Sync now", icon: "refresh-cw",
-      callback: async () => { await this.ann.syncNow(); new Notice("Synced"); },
+      // This used to sync highlights ONLY and then say "Synced" whether or
+      // not anything worked — so a device that was days behind stayed behind
+      // and told its reader everything was fine. One button, everything, and
+      // the truth about what happened.
+      callback: () => void this.syncEverything(),
     });
     this.addCommand({
       id: "cleanup-marks", name: "Clean up marks (duplicates & conflict copies)",
@@ -328,20 +414,48 @@ export default class SGPlugin extends Plugin {
     };
     this.register(() => back.remove());
     this.backPillEl = back;
-    // ⌂ the dock: GL's bottom bar, on phones (device.dock = false turns it
+    // ⌂ the dock: GL's bottom bar on every device (device.dock = false turns it
     // off). Mounted once the workspace exists — asking it for a leaf during
     // onload throws and takes the plugin down with it (user-reported "Failed")
     this.app.workspace.onLayoutReady(() => {
-      if (isPhone() && this.state.device.dock !== false) {
+      if (this.state.device.dock !== false) {
         try { this.mountDock(); } catch (e) { console.error("scripture-graph: dock", e); }
       }
     });
     applyReading(this.state);
+    // Focus reading hides every bar; this is the quiet way back out (and Esc).
+    const focusExit = document.body.createEl("button", { cls: "sg-focus-exit", text: "Leave focus",
+      attr: { "aria-label": "Leave focus reading" } });
+    focusExit.onclick = () => saveReading(this.state, { focus: false });
+    this.register(() => focusExit.remove());
+    this.registerDomEvent(document, "keydown", (e: KeyboardEvent) => {
+      if (e.key === "Escape" && readingPrefs(this.state).focus && !document.querySelector(".modal-container, .menu")) {
+        saveReading(this.state, { focus: false });
+      }
+    });
     // 🔁 vault sync: the shared tree from the family server, personal notes both ways
     this.vaultSync = new VaultSync(this.state, () => this.state.device.displayName ?? "device");
     setLazyFetch((n) => this.ensureLocal(n));
     this.register(() => setLazyFetch(null));
+    const originalResourcePath = this.app.vault.getResourcePath;
+    const trackedResourcePath = (file: TFile) => {
+      this.vaultSync.recordAccess(file.path);
+      return originalResourcePath.call(this.app.vault, file);
+    };
+    this.app.vault.getResourcePath = trackedResourcePath;
+    this.register(() => {
+      if (this.app.vault.getResourcePath === trackedResourcePath) this.app.vault.getResourcePath = originalResourcePath;
+    });
+    this.addCommand({ id: 'connect-familysearch', name: 'Connect FamilySearch and view family import progress',
+      callback: () => new FamilyConnectModal(this.state).open() });
     this.app.workspace.onLayoutReady(() => this.vaultSync.start());
+    // A phone's 30-minute timer only runs while the app is awake, so a device
+    // that is opened, read and closed can go days without a check. Coming back
+    // to the app is itself a good moment to catch up.
+    this.registerDomEvent(document, "visibilitychange", () => {
+      if (!document.hidden) this.vaultSync.catchUp();
+    });
+    this.registerDomEvent(window, "focus", () => this.vaultSync.catchUp());
     this.register(() => this.vaultSync.stop());
     this.registerEvent(this.app.vault.on("modify", f => this.vaultSync.noteChanged(f.path)));
     this.registerEvent(this.app.vault.on("create", f => this.vaultSync.noteChanged(f.path)));
@@ -353,24 +467,35 @@ export default class SGPlugin extends Plugin {
     });
     this.addCommand({
       id: "vault-sync-now", name: "Sync the vault now", icon: "refresh-cw",
-      callback: () => { new Notice("Syncing…"); void this.vaultSync.run("manual").then(() => new Notice(
-        this.vaultSync.status.lastError ? `Sync: ${this.vaultSync.status.lastError}`
-          : `Synced — ${this.vaultSync.status.files.toLocaleString()} files on this device`)); },
+      callback: () => void this.syncEverything(),
     });
     this.addCommand({
       id: "reading-settings", name: "Reading settings (text size, spacing, typeface)", icon: "type",
       callback: () => this.openReadingSettings(),
     });
     this.addCommand({
-      id: "toggle-dock", name: "Toggle the bottom dock (phone)", icon: "panel-bottom",
+      id: "toggle-focus-reading", name: "Focus reading (hide every bar)", icon: "focus",
+      callback: () => { saveReading(this.state, { focus: !readingPrefs(this.state).focus }); },
+    });
+    this.addCommand({
+      id: "open-my-marks", name: "My highlights and notes", icon: "highlighter",
+      callback: () => this.openLibraryShelf(v => v.showMarks()),
+    });
+    this.addCommand({
+      id: "toggle-dock", name: "Toggle the bottom navigation bar", icon: "panel-bottom",
       callback: () => {
         this.state.device.dock = this.state.device.dock === false;
         void this.state.saveDevice();
-        if (this.state.device.dock !== false && isPhone()) this.mountDock(); else this.unmountDock();
+        if (this.state.device.dock !== false) this.mountDock(); else this.unmountDock();
       },
     });
+    // Mobile drawers open through their buttons, never an accidental swipe.
+    registerSidebarSwipeGuard(this);
+    registerSidebarNavigation(this, () => this.openLibraryShelf(v => v.showHome()));
     // 👉 phone: swipe left/right turns the chapter like a page
     registerSwipeNav(this, this.state, (title) => this.openMyStudy(title));
+    registerKeyboardNav(this, this.state, (title) => { void this.openKeyboardChapter(title); });
+    this.applyReadingPrefs();
     registerKeyboardWatch(this);   // the half-page bug: a stuck keyboard height
     document.body.toggleClass("sg-hide-ai-lib", !this.state.device.showAiLibrary);
     this.register(() => {
@@ -382,6 +507,12 @@ export default class SGPlugin extends Plugin {
     // ---- study-trail tracking + read-only enforcement ----------------------
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
+      if (isSupplementalPage(f.path) && supplementalChapterNumber(f.basename) !== null) {
+        void this.showSupplementalStudyFor(f);
+        return;
+      }
+      this.vaultSync.recordAccess(f.path);
+      if (f.extension === 'md') void this.fetchEmbeds(f.path);
       this.studyBar.clear();          // selections never follow you across pages
       closeAllSheets();               // navigation folds every floating layer
       // THE invariant: an AI Library page (other than scripture itself) never
@@ -405,6 +536,17 @@ export default class SGPlugin extends Plugin {
     // OS read-only bit, and the pencil toggle would otherwise re-enable edits
     this.registerEvent(this.app.workspace.on("layout-change", () => this.enforceReadOnly()));
     this.registerEvent(this.app.workspace.on("active-leaf-change", () => this.enforceReadOnly()));
+    const ensureAiAction = () => {
+      const file = this.app.workspace.getActiveFile();
+      if (file) this.addMyStudyAction(file);
+    };
+    this.registerEvent(this.app.workspace.on("layout-change", ensureAiAction));
+    this.registerEvent(this.app.workspace.on("active-leaf-change", ensureAiAction));
+    this.app.workspace.onLayoutReady(ensureAiAction);
+    this.app.workspace.onLayoutReady(() => {
+      const file = this.app.workspace.getActiveFile();
+      if (file && isSupplementalPage(file.path) && supplementalChapterNumber(file.basename) !== null) void this.showSupplementalStudyFor(file);
+    });
 
     // ---- chapter links land on the EDITABLE My Notes page (§user) ----------
     // Verse-anchored links ("Alma 36#^alma-36-18") keep opening canonical —
@@ -418,6 +560,16 @@ export default class SGPlugin extends Plugin {
       newLeaf?: unknown, openViewState?: unknown) => {
       // a shared page this device hasn't downloaded: fetched now, kept after
       await this.ensureLocal(linktext);
+      const chapterBase = linktext.split('#')[0]!;
+      const scriptureTarget = this.app.metadataCache.getFirstLinkpathDest(chapterBase, sourcePath)
+        ?? this.app.vault.getAbstractFileByPath(this.vaultSync.pathFor(chapterBase) ?? chapterBase);
+      if (!newLeaf && !linktext.includes('#') && scriptureTarget instanceof TFile && await this.openLessonDocument(scriptureTarget.path)) return;
+      if (!linktext.includes('#') && scriptureTarget instanceof TFile && isSupplementalPage(scriptureTarget.path)
+        && supplementalChapterNumber(scriptureTarget.basename) !== null) {
+        const study = await this.ensureSupplementalStudy(scriptureTarget.basename);
+        await this.app.workspace.getLeaf(false).openFile(study, { state: { mode: 'preview' } });
+        return;
+      }
       // verse references PEEK — the verse comes to the reader, and "Open
       // chapter" inside the card is the deliberate way to actually travel
       const peek = peekTargetFor(this.app, linktext, sourcePath);
@@ -495,25 +647,40 @@ export default class SGPlugin extends Plugin {
         this.registerInterval(window.setInterval(() => {
           if (this.state.device.scene === "auto") this.scenes.apply("auto");
         }, 15 * 60_000));
+        // Updates must work even when family-server identity or sync is offline.
+        void this.checkForUpdate(true);
+        this.registerInterval(window.setInterval(() => void this.checkForUpdate(true), 20 * 60_000));
+        this.registerDomEvent(document, "visibilitychange", () => {
+          if (!document.hidden) void this.checkForUpdate(true);
+        });
+        // Keep live recovery independent of migrations/identity requests.
+        this.live = new LiveLink(this);
+        this.live.start();
+        this.register(() => this.live?.stop());
+        if (await this.state.store.get<boolean>(SETUP_RESUME_KEY)) {
+          void runSetupLink(this, {}).catch(e => new Notice(`Reconnect: ${(e as Error).message}`, 10000));
+        }
         await migrateFromAnnotate(this.state);
         this.ann.start();
         await refreshIdentity(this.state);
-        if (!this.state.signedIn && !(await this.state.store.get<boolean>("welcome_shown"))) {
-          await this.state.store.put("welcome_shown", true);
-          new WelcomeModal(this.state, this.ai, () => { /* noop */ }).open();
+        // Joining is the difference between a vault with scriptures and an
+        // empty one, so an unjoined vault asks again — every launch, unless
+        // the reader said "maybe later" today. (Before, a single dismissal
+        // silenced it forever and left the vault permanently empty.)
+        if (!this.state.signedIn) {
+          const snoozed = (await this.state.store.get<number>(WELCOME_SNOOZE_KEY)) ?? 0;
+          if (Date.now() >= snoozed) {
+            new WelcomeModal(this.state, this.ai, () => { /* noop */ },
+              () => void this.state.store.put(WELCOME_SNOOZE_KEY, Date.now() + 24 * 3600_000)).open();
+          }
         }
         // self-update from the family server (kills sync-delivery roulette)
         // every launch, and again every 20 minutes while open: one small
         // request to the LAN server; the vault sync makes Sync-delivery
         // optional, so the server must be the reliable channel
         await this.state.store.put("update_checked_at", Date.now());
-        void this.checkForUpdate(true);
-        this.registerInterval(window.setInterval(() => void this.checkForUpdate(true), 20 * 60_000));
         // ⚡ the live channel: a held request the server answers the moment
         // a build or a vault change lands — install + reload, no tap
-        this.live = new LiveLink(this);
-        this.live.start();
-        this.register(() => this.live?.stop());
         // Sync can land a build any time, from anywhere — notice it on
         // open, every few minutes, and whenever the app comes back up
         void this.checkSyncedUpdate();
@@ -526,44 +693,84 @@ export default class SGPlugin extends Plugin {
 
   // ------------------------------------------------------------ self-update
 
-  /** Pull the latest build from the family server's /plugin channel and
+  private updateRunning = false;
+  private updateTask: Promise<boolean | void> | null = null;
+
+  private registerPageView(type: string, create: (leaf: WorkspaceLeaf) => ItemView): void {
+    this.registerView(type, leaf => {
+      const view = rememberReadingPosition(create(leaf));
+      this.bookmarkReading.attach(view);
+      return view;
+    });
+  }
+
+  /** Pull the latest build from the permanent GitHub release channel and
    * install it in place. `silent` = only speak when something happens. */
-  async checkForUpdate(silent: boolean): Promise<void> {
-    const base = this.state.api.baseUrl.replace(/\/$/, "");
-    try {
-      const mf = await requestUrl({ url: `${base}/plugin/manifest.json`, throw: false });
-      if (mf.status !== 200) {
-        if (!silent) new Notice("No plugin build published on the server yet");
-        return;
-      }
-      // parse from text with BOM tolerance — .json can choke on a BOM
-      let manifest: { version?: string };
+  async checkForUpdate(silent: boolean): Promise<boolean | void> {
+    if (this.updateTask) {
+      const updated = await this.updateTask;
+      if (updated || silent) return updated;
+    }
+    const work = this.checkForUpdateOnce(silent);
+    this.updateTask = work;
+    try { return await work; } finally { if (this.updateTask === work) this.updateTask = null; }
+  }
+
+  private async checkForUpdateOnce(silent: boolean): Promise<boolean | void> {
+    if (this.updateRunning || (silent && document.hidden)) return;
+    this.updateRunning = true;
+    const get = async (url: string, timeoutMs = 20_000) => {
+      let timer: number | undefined;
       try {
-        manifest = JSON.parse(mf.text.replace(/^\uFEFF/, "")) as { version?: string };
-      } catch {
-        if (!silent) new Notice("Update channel returned an unreadable manifest");
-        return;
-      }
-      const remote = manifest.version ?? "";
+        return await Promise.race([
+          requestUrl({ url, throw: false }),
+          new Promise<never>((_, reject) => { timer = window.setTimeout(() => reject(new Error("Update connection timed out")), timeoutMs); }),
+        ]);
+      } finally { if (timer !== undefined) window.clearTimeout(timer); }
+    };
+    try {
+      const releases = "https://github.com/JaceRichins/scripture-graph/releases";
+      const channel = async (base: string) => {
+        const mf = await get(`${base}/manifest.json`);
+        if (mf.status !== 200) throw new Error(`HTTP ${mf.status}`);
+        return { base, text: mf.text };
+      };
+      const release = await newestRelease([
+        async () => {
+          await this.state.api.where();
+          return channel(`${this.state.api.baseUrl.replace(/\/$/, '')}/plugin`);
+        },
+        () => channel(`${releases}/latest/download`),
+      ]);
+      const { manifest } = release;
+      const remote = manifest.version;
+      let base = release.base;
       // compare against the CODE, not the manifest — a device holding a
       // synced manifest over old code still needs the pull
       if (!newerVersion(remote, BUILD.version)) {
         if (!silent) new Notice(`Up to date — v${BUILD.version}`);
         return;
       }
+      // Pin assets to the manifest's release, even if a new release appears
+      // during this download. No family credentials are sent to GitHub.
+      if (base === `${releases}/latest/download`) base = `${releases}/download/${remote}`;
       const [main, styles] = await Promise.all([
-        requestUrl({ url: `${base}/plugin/main.js`, throw: false }),
-        requestUrl({ url: `${base}/plugin/styles.css`, throw: false }),
+        // The plugin includes the complete UI cover collection. Allow time
+        // for this one update download on slower mobile connections.
+        get(`${base}/main.js`, 120_000),
+        get(`${base}/styles.css`),
       ]);
-      if (main.status !== 200 || main.text.length < 10_000) {
+      if (main.status !== 200 || styles.status !== 200 || main.text.length < 10_000 || BANNER_RE.exec(main.text)?.[1] !== remote) {
         if (!silent) new Notice("Update download failed — try again");
         return;
       }
+      // A foreground check will try again after the person finishes typing.
+      if (silent && document.activeElement?.matches("input, textarea, [contenteditable='true']")) return;
       const dir = `${this.app.vault.configDir}/plugins/scripture-graph`;
       const ad = this.app.vault.adapter;
       await ad.write(`${dir}/main.js`, main.text);
       if (styles.status === 200) await ad.write(`${dir}/styles.css`, styles.text);
-      await ad.write(`${dir}/manifest.json`, JSON.stringify(mf.json, null, 2));
+      await ad.write(`${dir}/manifest.json`, JSON.stringify(manifest, null, 2));
       new Notice(`Scripture Graph updated to v${remote} — reloading…`, 8000);
       window.setTimeout(() => {
         const cmds = (this.app as unknown as {
@@ -571,20 +778,15 @@ export default class SGPlugin extends Plugin {
         }).commands;
         cmds?.executeCommandById?.("app:reload");
       }, 900);
+      return true;
     } catch (e) {
       if (!silent) new Notice(`Update check failed: ${(e as Error).message}`);
+    } finally {
+      this.updateRunning = false;
     }
   }
 
-  /** 🔄 The away-from-home path.
-   *
-   * The family server only exists on the home Wi-Fi, so `checkForUpdate`
-   * is useless in a car or a chapel. Obsidian Sync, though, reaches
-   * everywhere — it drops a fresh main.js straight into the plugin
-   * folder. The catch: Obsidian loaded the OLD code at startup and keeps
-   * running it, silently, until the app reloads. So watch the manifest on
-   * disk: when it names a version newer than the one running, say so and
-   * offer the reload in one tap. Nothing to install, no laptop needed. */
+  /** Also adopt builds delivered by Obsidian Sync once their code arrives. */
   private syncedOffered: string | null = null;
 
   async checkSyncedUpdate(silent = true): Promise<void> {
@@ -609,30 +811,20 @@ export default class SGPlugin extends Plugin {
           + `(${onDisk ? "v" + onDisk : "an older build"}) is on its way`);
         return;
       }
-      if (this.syncedOffered === disk) return;   // already asked, once is enough
+      if (document.hidden || document.activeElement?.matches("input, textarea, [contenteditable='true']")) return;
+      if (this.syncedOffered === disk) return;
       this.syncedOffered = disk;
       const reload = () => (this.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
         .commands?.executeCommandById?.("app:reload");
-      // nobody is mid-verse (the Library, a shelf, an empty tab): finish now.
-      // Otherwise the stylesheet is already new while the code is old, and
-      // the app looks half-updated until someone taps
-      const active = this.app.workspace.activeLeaf?.view;
-      const reading = !!active && (active.getViewType() === "markdown" || active.getViewType() === DOC_VIEW || active.getViewType() === READER_VIEW);
-      if (!reading) {
-        new Notice(`Scripture Graph v${disk} — reloading…`, 4000);
-        window.setTimeout(reload, 600);
-        return;
-      }
-      // a reload mid-verse is rude: offer it, never force it
-      const n = new Notice(`Scripture Graph v${disk} arrived by sync — tap to finish updating`, 0);
-      n.noticeEl.addClass("sg-update-notice");
-      n.noticeEl.addEventListener("click", () => { n.hide(); reload(); });
+      new Notice(`Scripture Graph v${disk} — reloading…`, 4000);
+      window.setTimeout(reload, 600);
     } catch {
       if (!silent) new Notice("Couldn't read the plugin folder to check for an update");
     }
   }
 
   onunload() {
+    this.scenes.apply('none');
     this.ann.stop();
     this.studyBar?.clear();
     if (this.origOpenLinkText) {
@@ -655,12 +847,101 @@ export default class SGPlugin extends Plugin {
   }
 
   private openMyStudy(chapterTitle: string): void {
-    const companion = `${chapterTitle} - My Notes`;
-    if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
-      void (this.origOpenLinkText ?? this.app.workspace.openLinkText)(companion, "");
-    } else {
-      new Notice("No My Notes page exists for this chapter yet");
+    if (supplementalChapterNumber(chapterTitle) !== null) { void this.openKeyboardChapter(chapterTitle); return; }
+    const open = (link: string) => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(link, "");
+    // A member's personal tree starts empty, so the study page is made on the
+    // first tap and the chapter itself is fetched if this device lacks it.
+    void openChapterStudy({
+      companion: title => this.app.metadataCache.getFirstLinkpathDest(`${title} - My Notes`, "")?.path ?? null,
+      canonical: title => this.app.metadataCache.getFirstLinkpathDest(title, "")?.path
+        ?? (this.vaultSync.pathFor(title) && this.app.vault.getAbstractFileByPath(this.vaultSync.pathFor(title)!) ? this.vaultSync.pathFor(title) : null),
+      ensureLocal: title => this.ensureLocal(title),
+      create: async (path, body) => { await this.createPersonalPage(path, body); },
+      open: async link => { await open(link); },
+      signedIn: () => this.state.signedIn,
+      connect: message => this.promptConnect(message),
+      notify: message => { new Notice(message, 8000); },
+    }, chapterTitle).catch(() => new Notice("Couldn't open that chapter. Please try again."));
+  }
+
+  /** Everything this device should have: the shared library and the reader's
+   * own notes and highlights, in one press, saying plainly what happened. */
+  async syncEverything(): Promise<string> {
+    if (!this.state.signedIn) {
+      this.promptConnect("This vault isn't connected to your family library yet, so there is nothing to sync.");
+      return "not connected";
     }
+    const before = this.vaultSync.status.files;
+    const progress = new Notice("Syncing with the family server…", 0);
+    const paint = () => {
+      const st = this.vaultSync.status;
+      if (st.running && st.total) progress.setMessage(`Downloading ${st.done.toLocaleString()} of ${st.total.toLocaleString()} files…`);
+      else if (st.phase === "reconnecting") progress.setMessage("Found the family server at a new address — syncing…");
+    };
+    this.vaultSync.listeners.push(paint);
+    let notes: string | null = null;
+    try {
+      const results = await Promise.allSettled([this.vaultSync.run("manual"), this.ann.syncNow(true)]);
+      const failed = results[1];
+      if (failed.status === "rejected") notes = String(failed.reason?.message ?? failed.reason);
+    } finally {
+      this.vaultSync.listeners = this.vaultSync.listeners.filter(l => l !== paint);
+      progress.hide();
+    }
+    const st = this.vaultSync.status;
+    const error = st.lastError ?? notes;
+    const gained = st.files - before;
+    const message = error
+      ? `Sync failed: ${error}. Your notes are safe on this device and will go up when it connects.`
+      : `Synced — ${gained > 0 ? `${gained.toLocaleString()} new or updated files, ` : "already up to date, "}`
+        + `${st.files.toLocaleString()} files on this device.`;
+    new Notice(message, error ? 15000 : 8000);
+    this.state.notify();
+    return message;
+  }
+
+  /** a personal page and the folders above it */
+  private async createPersonalPage(path: string, body: string): Promise<void> {
+    const parts = path.split("/").slice(0, -1);
+    for (let i = 1; i <= parts.length; i++) {
+      const folder = parts.slice(0, i).join("/");
+      if (!this.app.vault.getAbstractFileByPath(folder)) {
+        try { await this.app.vault.createFolder(folder); } catch (e) { if (!this.app.vault.getAbstractFileByPath(folder)) throw e; }
+      }
+    }
+    await this.app.vault.create(path, body);
+  }
+
+  /** Nothing works until this device has joined the family. Say so wherever
+   * the reader actually is, and open the one screen that fixes it. */
+  private lastConnectPrompt = 0;
+  promptConnect(message: string): void {
+    if (this.state.signedIn) return;
+    if (Date.now() - this.lastConnectPrompt < 30_000) return;   // one answer per flurry of taps
+    this.lastConnectPrompt = Date.now();
+    const note = new Notice(`${message}`, 12000);
+    note.noticeEl.createEl("br");
+    const button = note.noticeEl.createEl("button", { text: "Connect now" });
+    button.style.marginTop = "8px";
+    button.onclick = () => { note.hide(); new WelcomeModal(this.state, this.ai, () => this.state.notify()).open(); };
+  }
+
+  private ensureSupplementalStudy(title: string): Promise<TFile> {
+    return commandmentsChapterNumber(title) !== null
+      ? ensureCommandmentsStudy(this.app, title) : ensureEnochStudy(this.app, title);
+  }
+
+  private async showSupplementalStudyFor(file: TFile): Promise<void> {
+    const view = this.app.workspace.getActiveViewOfType(MarkdownView);
+    if (!view || view.file?.path !== file.path) return;
+    view.containerEl.addClass('sg-supplemental-page');
+    try {
+      const study = await this.ensureSupplementalStudy(file.basename);
+      // Creating the personal page may take a moment; don't pull someone back
+      // after they have already navigated elsewhere.
+      if (view.file?.path === file.path && this.app.workspace.activeLeaf === view.leaf)
+        await view.leaf.openFile(study, { state: { mode: 'preview' } });
+    } catch { new Notice("Couldn't open the scripture study page. Please try again."); }
   }
 
   /** 🕰 the timeline view, optionally scrolled to a year */
@@ -674,6 +955,7 @@ export default class SGPlugin extends Plugin {
       await leaf.setViewState({ type: TIMELINE_VIEW, active: true });
     }
     await this.app.workspace.revealLeaf(leaf);
+    if (leaf.view instanceof TimelineView) leaf.view.openCanvas();
     return leaf;
   }
 
@@ -693,22 +975,22 @@ export default class SGPlugin extends Plugin {
 
   /** does this page name a subject the chronology knows? (entity sheets get
    * a ⏳ door straight into that subject's focused timeline) */
-  private tlSubjects: Map<string, { kind: "people" | "places" | "things"; name: string }> | null = null;
+  private tlSubjects: Map<string, Subject> | null = null;
   private tlSubjectsAt = 0;
 
-  private async timelineSubjects(): Promise<Map<string, { kind: "people" | "places" | "things"; name: string }>> {
+  private async timelineSubjects(): Promise<Map<string, Subject>> {
     if (this.tlSubjects && Date.now() - this.tlSubjectsAt < 300_000) return this.tlSubjects;
     const { loadTimelineData } = await import("./study/timelineView");
     const data = await loadTimelineData(this.app);
-    const m = new Map<string, { kind: "people" | "places" | "things"; name: string }>();
+    const m = new Map<string, Subject>();
     for (const e of data?.events ?? []) {
-      for (const kind of ["people", "places", "things"] as const) {
+      for (const kind of ["topics", "doctrines", "sources", "events", "people", "places", "things"] as const) {
         for (const name of e[kind] ?? []) {
           m.set(name.toLowerCase(), { kind, name });
           // plural subjects resolve to their singular page and back
-          if (name.toLowerCase().endsWith("ies")) {
+          if (kind === 'people' && name.toLowerCase().endsWith("ies")) {
             m.set(name.toLowerCase().slice(0, -3) + "i", { kind, name });
-          } else if (name.toLowerCase().endsWith("s")) {
+          } else if (kind === 'people' && name.toLowerCase().endsWith("s")) {
             m.set(name.toLowerCase().slice(0, -1), { kind, name });
           }
         }
@@ -720,7 +1002,7 @@ export default class SGPlugin extends Plugin {
   }
 
   /** jump to the timeline focused on one subject */
-  async openTimelineFocus(subject: { kind: "people" | "places" | "things"; name: string }): Promise<void> {
+  async openTimelineFocus(subject: Subject): Promise<void> {
     const leaf = await this.timelineLeaf();
     const view = leaf.view;
     if (view instanceof TimelineView) view.setFocus(subject);
@@ -757,31 +1039,44 @@ export default class SGPlugin extends Plugin {
     new ReadingSettingsModal(this.state, () => this.pickScene(), () => {
       this.state.device.dock = this.state.device.dock === false;
       void this.state.saveDevice();
-      if (this.state.device.dock !== false && isPhone()) this.mountDock(); else this.unmountDock();
+      if (this.state.device.dock !== false) this.mountDock(); else this.unmountDock();
     }).open();
   }
 
   private mountDock(): void {
     if (this.dock) return;
+    const narrator = new FamilyNarrator(this.app, this.music, {
+      ensure: path => this.ensureLocal(path),
+      refreshIndex: async () => { await this.vaultSync.refreshCatalog(); await this.vaultSync.fetchNow(NARRATION_INDEX); },
+      resource: path => {
+        const file = this.app.vault.getAbstractFileByPath(path);
+        return file instanceof TFile ? this.app.vault.getResourcePath(file) : null;
+      },
+    });
     const internals = obsidianInternals(this.app);
     this.dock = new Dock(this.state, {
+      listenFamily: file => narrator.toggle(file),
+      familyAudioState: file => narrator.state(file),
       openHome: () => this.openLibraryShelf(v => v.showHome()),
       openLibrary: () => this.openLibraryShelf(v => v.showScriptures()),
       openSearch: () => this.openLibraryShelf(v => v.showSearch()),
-      openTabs: () => internals.mobileTabSwitcher?.show(),
-      tabsMenu: (e) => internals.mobileTabSwitcher?.showTabManagementMenu(e),
-      ribbonMenu: (e) => internals.mobileNavbar?.showRibbonMenu(e),
+      openMarks: () => this.openLibraryShelf(v => v.showMarks()),
+      openAsk: () => {
+        const state = this.app.workspace.activeLeaf?.view.getState() as { chapter?: string; path?: string } | undefined;
+        const file = this.app.workspace.getActiveFile();
+        const title = this.app.workspace.activeLeaf?.view.getViewType() === LIBRARY_VIEW ? null : state?.chapter ?? (file?.path.startsWith(CANONICAL_PREFIX) ? file.basename : null);
+        void this.openAsk(title, null);
+      },
+      openTabs: () => internals.mobileTabSwitcher ? internals.mobileTabSwitcher.show() : this.openDockTabs(),
+      tabsMenu: (e) => internals.mobileTabSwitcher ? internals.mobileTabSwitcher.showTabManagementMenu(e) : this.openDockTabs(),
+      ribbonMenu: (e) => internals.mobileNavbar ? internals.mobileNavbar.showRibbonMenu(e) : this.openReadingSettings(),
       reviewFlashcards: () => void this.study.review(),
       openPath: (p) => void this.app.workspace.openLinkText(p, ""),
       // the page under the dock, whichever view holds it
-      currentPage: () => {
-        const f = this.app.workspace.getActiveFile();
-        if (f) return f;
-        const v = this.app.workspace.activeLeaf?.view as { getState?: () => { path?: unknown } } | undefined;
-        const p = v?.getState?.()?.path;
-        const af = typeof p === "string" ? this.app.vault.getAbstractFileByPath(p) : null;
-        return af instanceof TFile ? af : null;
-      },
+      currentPage: () => this.currentBookmarkPage()?.file ?? null,
+      bookmarkControls: this.bookmarkControls,
+      openBookmarks: () => this.openBookmarkList(),
+      bookmarkOf: f => this.study.bookmarkOf(f),
       bookmark: (f) => this.study.bookmarkFile(f),
       unbookmark: (a) => this.study.unbookmark(a),
       // 🎧 on a talk: its YouTube version, found once and remembered
@@ -819,15 +1114,68 @@ export default class SGPlugin extends Plugin {
     this.dock = null;
   }
 
+  /** Page turns also work on a new device without personal chapter notes. */
+  private async openKeyboardChapter(title: string): Promise<void> {
+    if (supplementalChapterNumber(title) !== null) {
+      const study = await this.ensureSupplementalStudy(title);
+      await this.app.workspace.getLeaf(false).openFile(study, { state: { mode: 'preview' } });
+      return;
+    }
+    let file = this.app.metadataCache.getFirstLinkpathDest(`${title} - My Notes`, "");
+    if (!file) {
+      if (!(await this.ensureLocal(title))) {
+        new Notice("Couldn't open that chapter. Check the family server connection.");
+        return;
+      }
+      file = this.app.metadataCache.getFirstLinkpathDest(title, "");
+      if (!file) {
+        const path = this.vaultSync.pathFor(title);
+        const found = path ? this.app.vault.getAbstractFileByPath(path) : null;
+        if (found instanceof TFile) file = found;
+      }
+    }
+    if (file) await this.app.workspace.getLeaf(false).openFile(file, { state: { mode: "preview" } });
+  }
+
+  /** Desktop has no mobile tab switcher; expose its open leaves directly. */
+  private openDockTabs(): void {
+    const modal = new Modal(this.app);
+    modal.contentEl.createEl("h2", { text: "Open tabs" });
+    this.app.workspace.iterateRootLeaves(leaf => {
+      new Setting(modal.contentEl)
+        .setName(leaf.view.getDisplayText())
+        .addButton(button => button.setButtonText("Open").onClick(() => {
+          this.app.workspace.setActiveLeaf(leaf, { focus: true });
+          modal.close();
+        }));
+    });
+    modal.open();
+  }
+
   /** the shared host every navigation surface drives */
   /** a link or path to a shared page: make sure the device holds it. True
    * when it is here now (already, or just fetched). */
   async ensureLocal(linkOrPath: string): Promise<boolean> {
     const base = linkOrPath.split("#")[0]!.trim();
     if (!base) return true;
-    if (this.app.metadataCache.getFirstLinkpathDest(base, "")) return true;
-    if (this.app.vault.getAbstractFileByPath(base)) return true;
-    const path = this.vaultSync.pathFor(base);
+    const existing = this.app.metadataCache.getFirstLinkpathDest(base, "") ?? this.app.vault.getAbstractFileByPath(base);
+    if (existing) {
+      this.vaultSync.recordAccess(existing.path);
+      // The page can survive while its attachments were pruned or interrupted.
+      if (existing instanceof TFile && existing.extension === 'md') void this.fetchEmbeds(existing.path);
+      return true;
+    }
+    // Not joined yet: the library is unreachable by definition. Say that
+    // instead of resolving nothing and letting the tap do nothing at all.
+    if (!this.state.signedIn) {
+      this.promptConnect("This vault isn't connected to your family library yet, so there are no scriptures to open.");
+      return false;
+    }
+    let path = this.vaultSync.pathFor(base);
+    if (!path) {
+      try { await this.vaultSync.refreshCatalog(); } catch { return false; }
+      path = this.vaultSync.pathFor(base);
+    }
     if (!path) return false;
     const isPage = path.endsWith(".md");
     const note = isPage ? new Notice(`Fetching ${base.split("/").pop()}…`, 0) : null;
@@ -840,43 +1188,81 @@ export default class SGPlugin extends Plugin {
     return ok;
   }
 
+  private embedLoads = new Set<string>();
   private async fetchEmbeds(path: string): Promise<void> {
+    if (this.embedLoads.has(path)) return;
     const f = this.app.vault.getAbstractFileByPath(path);
     if (!(f instanceof TFile)) return;
+    this.embedLoads.add(path);
     try {
       const text = await this.app.vault.cachedRead(f);
-      const seen = new Set<string>();
-      for (const m of text.matchAll(/!\[\[([^\]|#]+)(?:[|#][^\]]*)?\]\]/g)) {
-        const target = m[1]!.trim();
-        if (seen.has(target) || this.app.metadataCache.getFirstLinkpathDest(target, path)) continue;
-        seen.add(target);
-        const p = this.vaultSync.pathFor(target);
-        if (p) await this.vaultSync.fetchNow(p);
-      }
+      await fetchMissingEmbeds(text, path, {
+        local: link => !!this.app.metadataCache.getFirstLinkpathDest(link, path),
+        resolve: candidate => this.vaultSync.pathFor(candidate),
+        refresh: () => this.vaultSync.refreshCatalog(),
+        fetch: target => this.vaultSync.fetchNow(target),
+      });
     } catch { /* the page still reads; pictures show as they arrive */ }
+    finally { this.embedLoads.delete(path); }
   }
 
   /** the scene the reader chose (or the clock, or the chapter) — applied
    * on launch and again when a page that borrowed the backdrop lets go */
   applyConfiguredScene(f0?: TFile | null): void {
+    this.scenes.apply(configuredSceneId(this.state.device.scene, this.state.device.lastMatchedScene));
     if (this.state.device.scene === "match") {
-      this.scenes.apply(this.state.device.lastMatchedScene ?? "none");
       const f = f0 ?? this.app.workspace.getActiveFile();
       if (f) void this.matchSceneToChapter(f);
-    } else {
-      this.scenes.apply(this.state.device.scene ?? "none");
     }
+  }
+
+  /** what the assistant may do in the app, through the reader's own paths */
+  private askHost(): AskHost {
+    return {
+      openMyWork: () => this.openLibraryShelf(v => v.showMyWork()),
+      openChapter: async t => {
+        if (!(await this.ensureLocal(t))) throw new Error("That chapter isn't available on this device yet.");
+        await (this.origOpenLinkText ?? this.app.workspace.openLinkText)(t, "");
+      },
+      openNote: async l => {
+        if (!(await this.ensureLocal(l))) throw new Error("That page isn't available on this device yet.");
+        if (!l.includes('#') && await this.openLessonDocument(l)) return;
+        await (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "");
+        if (isPhone()) {
+          this.app.workspace.rightSplit.collapse();
+        }
+      },
+      ensure: l => this.ensureLocal(l),
+      pathFor: l => this.vaultSync.pathFor(l) ?? null,
+      scene: (id) => { if (id) this.scenes.apply(id); else this.applyConfiguredScene(); },
+      readingPrefs: () => this.applyReadingPrefs(),
+      // the Aa sheet's settings, through the same path the sheet uses
+      setReading: patch => saveReading(this.state, patch),
+      readingState: () => readingSnapshot(this.state),
+    };
+  }
+
+  /** the reading font and size from device settings, as CSS on the body */
+  applyReadingPrefs(): void {
+    applyBackgroundVisibility(document.body.style, this.state.device.backgroundVisibility);
+    const d = this.state.device;
+    const b = document.body;
+    if (d.readScale && d.readScale !== 1) b.style.setProperty("--font-text-size", `${Math.round(16 * d.readScale)}px`);
+    else b.style.removeProperty("--font-text-size");
+    if (d.readFont) b.style.setProperty("--font-text", `"${d.readFont.replace(/"/g, "")}", var(--font-interface)`);
+    else b.style.removeProperty("--font-text");
   }
 
   private navigatorHost(): NavigatorHost {
     return {
       ann: this.ann,
       openChapter: t => this.openMyStudy(t),
-      openNote: l => void this.ensureLocal(l).then(() => (this.origOpenLinkText ?? this.app.workspace.openLinkText)(l, "")),
+      openNote: l => this.openNavigatorNote(l),
       downloadFolder: (p) => this.vaultSync.pinFolder(p),
       remoteCount: (p) => this.vaultSync.remoteCount(p),
       scene: (id) => { if (id) this.scenes.apply(id); else this.applyConfiguredScene(); },
       sceneCurrent: () => this.scenes.current(),
+      scenePhoto: (id, wide) => this.scenes.cache?.get(id, wide) ?? Promise.reject(new Error('Photo cache unavailable')),
       playFiles: async (items) => {
         const queue: PlayItem[] = [];
         for (const it of items) {
@@ -895,6 +1281,7 @@ export default class SGPlugin extends Plugin {
         if (!this.state.device.deviceToken) return [];
         return (await this.state.api.groupActivity()).activity;
       },
+      refreshCatalog: () => this.vaultSync.refreshCatalog(),
       listFolder: (path) => {
         const af = this.app.vault.getAbstractFileByPath(path);
         const folders: { name: string; path: string; remote?: boolean }[] = [];
@@ -921,15 +1308,48 @@ export default class SGPlugin extends Plugin {
         }
         return { folders, files };
       },
+      searchLibrary: query => this.state.api.search(query),
       openPath: (path) => {
         // through the wrapper: AI pages float as a sheet, scripture navigates
         void this.app.workspace.openLinkText(path, "");
       },
       music: this.music,
       openTimeline: () => void this.openTimeline(null),
+      openMyWork: () => {
+        this.openLibraryShelf(v => v.showMyWork());
+      },
       openTimelinePreset: (p) => void this.openTimelinePreset(p),
       newTimeline: (onDone) => this.newTimeline(onDone),
     };
+  }
+
+  /** Open library destinations directly, including freshly downloaded records. */
+  private async openNavigatorNote(link: string): Promise<boolean> {
+    try {
+      if (!(await this.ensureLocal(link))) {
+        new Notice("Couldn't load that page. Check the family server connection and try again.");
+        return false;
+      }
+      const [base, fragment] = link.split('#');
+      const path = this.vaultSync.pathFor(base!);
+      const file = this.app.metadataCache.getFirstLinkpathDest(base!, '')
+        ?? this.app.vault.getAbstractFileByPath(path ?? base!);
+      if (!(file instanceof TFile)) {
+        new Notice("That page is still loading. Please tap it again in a moment.");
+        return false;
+      }
+      if (file.path.startsWith(LIBRARY_PREFIX) && !file.path.startsWith(CANONICAL_PREFIX)
+        && !file.path.startsWith(ANNOTATED_PREFIX) && !isSupplementalPage(file.path)) {
+        if (docKindFor(file.path)) await this.openDoc(file);
+        else this.openLibrarySheet(file, fragment ?? null);
+      } else {
+        await this.app.workspace.openLinkText(file.path + (fragment ? `#${fragment}` : ''), '');
+      }
+      return true;
+    } catch {
+      new Notice("Couldn't open that page. Please try again.");
+      return false;
+    }
   }
 
   /** 📖 The Library PAGE — Gospel Library's whole-screen architecture. */
@@ -947,6 +1367,7 @@ export default class SGPlugin extends Plugin {
    * history — never a jump to an older Library tab (which has nothing
    * behind it and leaves ‹ dead) */
   private openLibraryShelf(show: (v: SGLibraryView) => void): void {
+    closeMobileSidebars(this.app);
     void (async () => {
       const leaf = this.app.workspace.getLeaf(false);
       if (leaf.view.getViewType() !== LIBRARY_VIEW) {
@@ -959,12 +1380,37 @@ export default class SGPlugin extends Plugin {
     })();
   }
 
+  /** Every bookmark; its footer reaches Continue, notebooks, flashcards and trails when the dock is on. */
+  private openBookmarkList(): void {
+    new BookmarksModal(this.app, this.study, this.dock ? () => this.dock?.openSaved() : null).open();
+  }
+
+  private currentBookmarkPage(): { file: TFile; container: HTMLElement } | null {
+    const view = this.app.workspace.activeLeaf?.view;
+    if (!view || !['markdown', DOC_VIEW, READER_VIEW].includes(view.getViewType())) return null;
+    const state = view.getState() as { file?: string; path?: string; chapter?: string };
+    const path = state.file ?? state.path;
+    const file = path ? this.app.vault.getAbstractFileByPath(path)
+      : state.chapter ? this.app.metadataCache.getFirstLinkpathDest(state.chapter, CANONICAL_PREFIX) : null;
+    return file instanceof TFile ? { file, container: view.containerEl } : null;
+  }
+
+  private async openLessonDocument(path: string): Promise<boolean> {
+    const file = this.app.metadataCache.getFirstLinkpathDest(path, '') ?? this.app.vault.getAbstractFileByPath(path);
+    if (!(file instanceof TFile)) return false;
+    const folder = lessonRoot(file.path);
+    if (!folder) return false;
+    closeMobileSidebars(this.app);
+    await this.openDoc(file);
+    return true;
+  }
+
   /** Remember where the reader is — powers Continue + the Recent row. */
   private recordLastChapter(f: TFile): void {
     let title: string | null = null;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
       title = f.basename.slice(0, -" - My Notes".length);
-    } else if (f.path.startsWith(CANONICAL_PREFIX)) {
+    } else if (f.path.startsWith(CANONICAL_PREFIX) || (isSupplementalPage(f.path) && supplementalChapterNumber(f.basename) !== null)) {
       title = f.basename;
     }
     const slug = title ? chapterIdFromTitle(title) : null;
@@ -981,6 +1427,11 @@ export default class SGPlugin extends Plugin {
    * it. The ↗ open-as-page path exists only in power mode (the same toggle
    * that shows the AI Library folder) — for the family it simply isn't there. */
   openLibrarySheet(file: TFile, subpath: string | null): void {
+    if (isSupplementalPage(file.path)) {
+      if (supplementalChapterNumber(file.basename) !== null && !subpath) { void this.openKeyboardChapter(file.basename); return; }
+      void this.app.workspace.getLeaf(false).openFile(file, { state: { mode: 'preview' } });
+      return;
+    }
     // a hard question or a talk is the thing being read, not a glance at
     // it: its own page, with the reader's treatment
     if (docKindFor(file.path)) { void this.openDoc(file); return; }
@@ -1002,6 +1453,7 @@ export default class SGPlugin extends Plugin {
     if (this.bouncing) return false;
     if (this.state.device.showAiLibrary) return false;
     if (!f.path.startsWith(LIBRARY_PREFIX)) return false;
+    if (isSupplementalPage(f.path)) return false;
     if (f.path.startsWith(CANONICAL_PREFIX)
       || f.path.startsWith(ANNOTATED_PREFIX)) return false;
     this.bouncing = true;
@@ -1027,23 +1479,19 @@ export default class SGPlugin extends Plugin {
     const view = this.app.workspace.getActiveViewOfType(MarkdownView);
     if (!view || view.file?.path !== f.path) return;
     const scripture = f.path.startsWith(CANONICAL_PREFIX)
+      || isSupplementalPage(f.path)
       || f.path.startsWith(ANNOTATED_PREFIX)
       || (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes"));
     view.containerEl.toggleClass("sg-clean-header", scripture);
-    // Obsidian's own mobile swipe recognizer bails on any ancestor carrying
-    // data-ignore-swipe (its sliders, canvas, and table handles use the same
-    // gate). Chapter reading pages claim it, so the drawers stay quiet there
-    // and OUR page-turn owns the gesture — everywhere else keeps stock
-    // Obsidian swipes untouched.
-    const ours = Platform.isMobile && this.state.device.swipeNav !== false
-      && scripture && !!chapterIdFromTitle(readingChapterTitle(f) ?? "");
-    if (ours) view.contentEl.dataset.ignoreSwipe = "true";
-    else delete view.contentEl.dataset.ignoreSwipe;
+    view.containerEl.toggleClass('sg-supplemental-page', isSupplementalPage(f.path));
+    // Sidebar gesture opt-out lives on the whole mobile workspace; it is
+    // independent of the optional chapter-turn gesture.
   }
 
   /** After following a link away from a chapter, one labeled tap returns. */
   private updateBackPill(f: TFile): void {
     const isReading = (f.path.startsWith(CANONICAL_PREFIX) && !!chapterIdFromTitle(f.basename))
+      || (isSupplementalPage(f.path) && supplementalChapterNumber(f.basename) !== null)
       || (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes"));
     if (isReading) {
       this.lastReadingPath = f.path;
@@ -1077,14 +1525,15 @@ export default class SGPlugin extends Plugin {
     } else if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
       const dest = this.app.metadataCache.getFirstLinkpathDest(
         f.basename.replace(/ - My Notes$/, ""), "");
-      if (dest?.path.startsWith(CANONICAL_PREFIX)) target = dest;
+      if (dest && (dest.path.startsWith(CANONICAL_PREFIX) || isSupplementalPage(dest.path))) target = dest;
     }
+    if (!target && (f.path.startsWith('AI Library/') || f.path.startsWith(PERSONAL_PREFIX))) target = f;
     if (!target) return;
     try {
       const { matchScene } = await import("./study/presence");
       const slug = (this.app.metadataCache.getFileCache(target)?.frontmatter as
         { slug?: string } | undefined)?.slug;
-      const text = await this.app.vault.cachedRead(target);
+      const text = `# ${target.basename}\n` + await this.app.vault.cachedRead(target);
       const id = matchScene(text, slug);
       this.scenes.apply(id);
       if (this.state.device.lastMatchedScene !== id) {
@@ -1111,13 +1560,17 @@ export default class SGPlugin extends Plugin {
     menu.addItem(i => i.setTitle("✖ None (plain)").onClick(() => set("none", "none")));
     menu.addItem(i => i.setTitle("🕐 Auto — follow the time of day")
       .onClick(() => set("auto", "auto")));
-    menu.addItem(i => i.setTitle("📖 Match the chapter — the scene follows the words")
+    menu.addItem(i => i.setTitle("📖 Match this page — setting & subject")
       .onClick(() => set("match", "match the chapter")));
     menu.addSeparator();
     for (const s of SCENES) {
       menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
         .onClick(() => set(s.id, s.name)));
     }
+    menu.addSeparator();
+    menu.addItem(i=>i.setTitle('Scene storage & offline favorites').onClick(()=>{
+      if(this.scenes.cache)new SceneStorageModal(this.app,this.scenes.cache,()=>this.state.device.sceneCacheMB??100,async mb=>{this.state.device.sceneCacheMB=mb;await this.state.saveDevice();}).open();
+    }));
     menu.showAtPosition({ x: window.innerWidth / 2 - 110, y: window.innerHeight / 3 });
   }
 
@@ -1135,7 +1588,17 @@ export default class SGPlugin extends Plugin {
    * ✍️ on My Study pages. */
   private addMyStudyAction(f: TFile): void {
     const view = this.app.workspace.getActiveViewOfType(MarkdownView);
-    if (!view || view.file?.path !== f.path || this.studyActionViews.has(view)) return;
+    if (!view || view.file?.path !== f.path) return;
+    if (!Platform.isMobile && !view.containerEl.querySelector(".sg-header-ai")) {
+      const ask = view.addAction("sparkles", "Ask AI", () => {
+        const cur = view.file;
+        if (cur) void this.openAsk(cur.basename, null);
+      });
+      ask.addClass("sg-header-ai");
+      ask.createSpan({ text: "AI" });
+      this.register(() => ask.remove());
+    }
+    if (this.studyActionViews.has(view)) return;
     if (f.path.startsWith(PERSONAL_PREFIX) && f.path.endsWith(" - My Notes.md")) {
       this.studyActionViews.add(view);
       // feather, NOT a pencil — Obsidian's own edit toggle is already a
@@ -1201,7 +1664,7 @@ export default class SGPlugin extends Plugin {
       const view = leaf.view;
       if (!(view instanceof MarkdownView) || !view.file) continue;
       const path = view.file.path;
-      const canonical = path.startsWith(CANONICAL_PREFIX);
+      const canonical = path.startsWith(CANONICAL_PREFIX) || isSupplementalPage(path);
       const aiLibrary = path.startsWith(LIBRARY_PREFIX);
       // phones: My Study pages are a READING surface too — the keyboard only
       // ever appears through the ✍️ write dialog (user-reported keyboard trap)
@@ -1222,16 +1685,32 @@ export default class SGPlugin extends Plugin {
   }
 
   async openAsk(chapterTitle: string | null, verseId: string | null, seed?: string): Promise<void> {
-    const leaf = await this.ensureLeaf(ASK_VIEW, "right");
-    if (!leaf) return;
-    await this.app.workspace.revealLeaf(leaf);
-    const view = leaf.view;
-    if (view instanceof AskView) view.setAnchor(chapterTitle, verseId, seed);
+    const active = this.app.workspace.activeLeaf?.view;
+    const pageState = active?.getState() as { path?: string; chapter?: string; view?: { kind?: string; path?: string; document?: string } } | undefined;
+    if (!chapterTitle && active?.getViewType() === READER_VIEW) chapterTitle = pageState?.chapter ?? null;
+    const library = active?.getViewType() === LIBRARY_VIEW;
+    const sharedLesson = active?.getViewType() === SHARED_LESSON_VIEW;
+    const project = library && pageState?.view?.kind === 'work' && pageState.view.path
+      ? pageState.view.document ?? lessonProject(this.app, pageState.view.path).primary?.path ?? projectDocument(pageState.view.path, this.app.vault.getMarkdownFiles().map(file => file.path)) : null;
+    const target = project ?? (chapterTitle ? this.app.metadataCache.getFirstLinkpathDest(chapterTitle, '')?.path ?? chapterTitle : null)
+      ?? (!library ? pageState?.path ?? this.app.workspace.getActiveFile()?.path : null) ?? null;
+    {
+      const leaf = this.app.workspace.getLeavesOfType(ASK_VIEW)[0] ?? this.app.workspace.getRightLeaf(false);
+      if (!leaf) return;
+      if (!(leaf.view instanceof AskView)) await leaf.setViewState({ type: ASK_VIEW, active: false });
+      this.app.workspace.rightSplit.collapse();
+      if (leaf.view instanceof AskView) {
+        leaf.view.setAnchor(chapterTitle ?? target?.split('/').pop()?.replace(/\.md$/, '') ?? null, verseId, seed);
+        leaf.view.openOverlay(sharedLesson ? null : target, sharedLesson);
+      }
+      return;
+    }
   }
 
   /** 📄 a question or talk as its own page (one history step, like the reader) */
   async openDoc(file: TFile): Promise<void> {
-    const leaf = this.app.workspace.getLeavesOfType(DOC_VIEW)[0]
+    void this.matchSceneToChapter(file);
+    const leaf = (lessonRoot(file.path) || file.path.startsWith(`${LIBRARY_PREFIX}05 Events/`)) ? this.app.workspace.getLeaf(false) : this.app.workspace.getLeavesOfType(DOC_VIEW)[0]
       ?? this.app.workspace.getLeaf(false);
     recordHistory(leaf);
     await leaf.setViewState({ type: DOC_VIEW, state: { path: file.path }, active: true });

@@ -7,10 +7,20 @@
  * (major-only by default — no data floods), and a search box that doubles
  * as a person/place spotlight. Event links ride the one link ladder:
  * verses peek, chapters open your study page, people float as sheets. */
-import { ItemView, Menu, Modal, TFile, WorkspaceLeaf, type App } from "obsidian";
+import { ItemView, Menu, Modal, Platform, TFile, WorkspaceLeaf, type App, type ViewStateResult } from "obsidian";
 import { SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
+import { tidyMenus } from "./readingSettings";
 import { TimeGraph } from "./timeGraph";
+import { lazyFetch } from '../sync/vaultSync';
+import { historyBack } from './leafNav';
+import { TimelineWorld, type WorldCamera } from './timelineWorld';
+import timelineBackground from '../assets/timeline-background.jpg';
+import { timelineInterval } from './timelineInterval';
+import { fitTimelinePicker } from './timelinePickerViewport';
+import { eventDate, eventHasCalendarDate } from './timelineMetadata';
+import { SUBJECT_META, SUBJECT_KINDS, prepareTimelineSubjects, timelineSubjects, type Subject, type SubjectKind, type SubjectLink } from './timelineSubjects';
+export type { Subject, SubjectKind } from './timelineSubjects';
 
 export const TIMELINE_VIEW = "sg-timeline";
 
@@ -25,9 +35,18 @@ export interface TimelineEvent {
   cat: string[];
   dating: string;
   people?: string[]; places?: string[]; things?: string[]; chapters?: string[];
+  events?: string[]; topics?: string[]; doctrines?: string[]; books?: string[];
+  storylines?: string[]; categories?: string[]; sources?: string[];
+  subject_links?: SubjectLink[];
   note: string;
   /** storyline this event rides (Zeniff's colony, the Jaredites…) */
   thread?: string;
+  thread_ids?: string[];
+  timeline_lanes?: string[];
+  date_label?: string;
+  date_basis?: string;
+  date_precision?: 'undated' | 'relative';
+  scripture_refs?: { reference: string; path: string; url: string }[];
 }
 
 /** a concurrent storyline inside a lane — the Book of Mormon runs four at
@@ -41,27 +60,24 @@ export interface TimelineThread {
   branch: string | null;
   /** whether the storyline flows back into the main line at its end */
   merges: boolean;
+  group?: string;
+  description?: string;
 }
 
-export type SubjectKind = "people" | "places" | "things";
-export interface Subject { kind: SubjectKind; name: string }
 
 /** a saved timeline, ready to hand this view: which worlds to show, whose
  * threads to weave — the Timelines shelf keeps these and applyPreset()
  * brings one to life. An empty preset IS the whole story. */
 export interface TimelinePreset { title?: string; lanes?: string[]; subjects?: Subject[]; }
 
-const SUBJECT_META: Record<SubjectKind, { emoji: string; label: string }> = {
-  people: { emoji: "🧑", label: "People" },
-  places: { emoji: "🗺", label: "Places" },
-  things: { emoji: "📦", label: "Things" },
-};
 
 export interface TimelineData {
   version: number;
   events: TimelineEvent[];
   book_years: Record<string, number>;
   threads?: TimelineThread[];
+  connections?: { a: string; b: string; label: string; scripture_refs?: { reference: string; path: string; url: string }[] }[];
+  guide_path?: string;
 }
 
 const DATA_PATH = "AI Library/90 Timeline/_data.md";
@@ -163,13 +179,19 @@ function joinNames(names: string[]): string {
 }
 
 export async function loadTimelineData(app: App): Promise<TimelineData | null> {
-  const file = app.vault.getAbstractFileByPath(DATA_PATH);
-  if (!(file instanceof TFile)) return null;
   try {
+    let file = app.vault.getAbstractFileByPath(DATA_PATH);
+    if (!(file instanceof TFile)) {
+      await lazyFetch?.(DATA_PATH);
+      file = app.vault.getAbstractFileByPath(DATA_PATH);
+    }
+    if (!(file instanceof TFile)) return null;
     const md = await app.vault.cachedRead(file);
-    const m = /```json\n([\s\S]*?)\n```/.exec(md);
+    const m = /```json\s*\r?\n([\s\S]*?)\r?\n```/.exec(md);
     if (!m) return null;
-    return JSON.parse(m[1]!) as TimelineData;
+    const data = JSON.parse(m[1]!) as TimelineData;
+    if (!Array.isArray(data.events) || !data.book_years) return null;
+    return prepareTimelineSubjects(data);
   } catch {
     return null;
   }
@@ -181,6 +203,11 @@ export class TimelineView extends ItemView {
   private cats = new Set(CATS.map(c => c.key));
   private detail = false;         // false = major+notable only
   private depth: 1 | 2 | 3 = 2;   // 2 = braids; 3 = ✨ the constellation
+  private presentation: 'cards' | 'map' = 'cards';
+  private cardLimit = 60;
+  private cardsById = new Map<string, HTMLElement>();
+  private resultsEl: HTMLElement | null = null;
+  private reloading: Promise<void> | null = null;
   /** zoom: spacing and detail together. Below 0.75 minor moments fold into
    * a "+N" chip per century; from 1.35 up each moment opens into a card
    * with its note. Pinch, −/+, or ctrl+wheel; anchored on the year under
@@ -192,6 +219,13 @@ export class TimelineView extends ItemView {
   /** the live physics sky when depth 3 is on — one instance, torn down
    * whenever the stream re-renders or the view closes */
   private graph: TimeGraph | null = null;
+  private world: TimelineWorld | null = null;
+  private worldCamera?: WorldCamera;
+  private fullScreen = false;
+  private static mobileOwner: TimelineView | null = null;
+  private toolsOpen = false;
+  private returnParent: Node | null = null;
+  private returnNext: Node | null = null;
   private query = "";
   /** the subjects whose threads are lit — empty = no focus, 2+ = a weave */
   private focuses: Subject[] = [];
@@ -206,10 +240,18 @@ export class TimelineView extends ItemView {
   private retriedZeroWidth = false;
   /** Obsidian calls this on pane resize; the window listener covers rotation */
   onResize(): void {
+    if (this.world) return; // the camera's ResizeObserver preserves its position
     const w = this.streamEl?.clientWidth ?? 0;
-    if (w > 80 && Math.abs(w - this.lastW) > 24) this.renderStream();
+    if (w > 80 && Math.abs(w - this.lastW) > 24) {
+      const top = this.streamEl?.scrollTop ?? 0;
+      this.renderStream();
+      if (this.streamEl) this.streamEl.scrollTop = top;
+    }
   }
   private boundResize = () => this.onResize();
+  private exitFullScreen = (event: KeyboardEvent) => {
+    if (event.key === 'Escape' && this.fullScreen) { this.setFullScreen(false); this.render(); }
+  };
 
   /** enter/leave focus mode: the constellation becomes ONE subject's thread
    * (the one-subject doorway — woven timelines arrive via applyPreset) */
@@ -257,6 +299,7 @@ export class TimelineView extends ItemView {
   applyPreset(p: TimelinePreset): void {
     if (!this.data) { this.pendingPreset = p; return; }
     this.clearAll();
+    this.presetTitle = p.title?.trim() || null;
     const lanes = (p.lanes ?? []).filter(l => l in LANE_NAME);
     if (lanes.length) this.lanes = new Set(lanes);
     if (p.subjects?.length) {
@@ -274,6 +317,39 @@ export class TimelineView extends ItemView {
       this.depth = dev.tlDepth;
     }
     if (typeof dev?.tlZoom === "number" && isFinite(dev.tlZoom)) this.zoom = clampZoom(dev.tlZoom);
+    this.presentation = 'map'; this.depth = 2;
+  }
+
+  getState(): Record<string, unknown> {
+    const top = this.streamEl?.scrollTop ?? 0;
+    const year = this.world?.year ?? [...this.yByYear].reverse().find(([, y]) => y <= top + 64)?.[0] ?? this.pendingYear;
+    return { lanes: [...this.lanes], cats: [...this.cats], detail: this.detail, query: this.query,
+      focuses: this.focuses, title: this.presetTitle, depth: this.depth, zoom: this.zoom,
+      presentation: this.presentation, year, ...(this.world || this.worldCamera ? { camera: { ...(this.world?.camera ?? this.worldCamera) } } : {}) };
+  }
+
+  async setState(raw: unknown, result: ViewStateResult): Promise<void> {
+    await super.setState(raw, result);
+    if (!raw || typeof raw !== 'object') return;
+    const st = raw as Record<string, any>;
+    this.stopWorld();
+    const cameraValid = st.camera && [st.camera.x, st.camera.y, st.camera.scale].every((v: unknown) => typeof v === 'number' && Number.isFinite(v));
+    if (cameraValid) this.worldCamera = { ...st.camera };
+    if (Array.isArray(st.lanes)) this.lanes = new Set(st.lanes.filter((x: unknown) => typeof x === 'string' && x in LANE_NAME));
+    if (Array.isArray(st.cats)) this.cats = new Set(st.cats.filter((x: unknown) => CATS.some(c => c.key === x)));
+    if (typeof st.detail === 'boolean') this.detail = st.detail;
+    if (typeof st.query === 'string') this.query = st.query;
+    if (Array.isArray(st.focuses)) this.focuses = st.focuses.filter((f: any) => f && f.kind in SUBJECT_META && typeof f.name === 'string');
+    if (typeof st.title === 'string' || st.title === null) this.presetTitle = st.title;
+    if ([1, 2, 3].includes(st.depth)) this.depth = st.depth;
+    if (typeof st.zoom === 'number' && Number.isFinite(st.zoom)) this.zoom = clampZoom(st.zoom);
+    if (st.presentation === 'cards' || st.presentation === 'map') this.presentation = st.presentation;
+    if (typeof st.year === 'number' && Number.isFinite(st.year)) this.pendingYear = cameraValid ? null : st.year;
+    this.showSearch = !!this.query;
+    if (this.data) {
+      this.render();
+      if (Platform.isMobile) this.world?.ensureReadable();
+    }
   }
 
   private saveDepth(): void {
@@ -287,24 +363,48 @@ export class TimelineView extends ItemView {
   getDisplayText(): string { return "Timeline"; }
   getIcon(): string { return "history"; }
 
+  /** Library and scripture entry points open the actual timeline canvas. */
+  openCanvas(): void {
+    this.presentation = 'map'; this.depth = 2; this.toolsOpen = false;
+    if (Platform.isMobile) this.setFullScreen(true);
+    if (this.data) this.render();
+    this.world?.ensureReadable();
+  }
+
+  /** Obsidian can restore a saved tab without using our library entry point. */
+  private syncMobilePage = (): void => {
+    if (!Platform.isMobile) return;
+    const active = this.s.app.workspace.activeLeaf === this.leaf;
+    if (active && !this.fullScreen) {
+      this.toolsOpen = false;
+      this.setFullScreen(true);
+      if (this.data) this.render();
+    } else if (!active && this.fullScreen) this.setFullScreen(false);
+    if (active) this.world?.ensureReadable();
+  };
+
   /** scroll to a year once rendered (era-tap from a reading page) */
   setYear(y: number): void {
     this.pendingYear = y;
-    if (this.data) this.scrollToYear(y);
+    if (this.data) { this.pendingYear = null; this.scrollToYear(y); }
   }
 
   async onOpen(): Promise<void> {
     this.contentEl.addClass("sg-tl");
     this.data = await loadTimelineData(this.s.app);
     if (!this.consumePendingPreset()) this.render();
+    this.registerEvent(this.s.app.workspace.on('active-leaf-change', this.syncMobilePage));
+    this.s.app.workspace.onLayoutReady(this.syncMobilePage);
+    this.syncMobilePage();
     // rotation / pane resize re-lays the constellation out at true pixels
     window.addEventListener("resize", this.boundResize);
+    window.addEventListener('keydown', this.exitFullScreen);
     // the dataset may land AFTER this view opens (engine build finishing,
     // or Obsidian Sync delivering) — notice its arrival and come alive
     const vault = this.s.app.vault;
     if (typeof (vault as unknown as { on?: unknown }).on === "function") {
       const arrived = (f: { path?: string }) => {
-        if (this.data || f?.path !== DATA_PATH) return;
+        if (f?.path !== DATA_PATH) return;
         void this.reload();
       };
       this.registerEvent(vault.on("create", arrived));
@@ -313,8 +413,12 @@ export class TimelineView extends ItemView {
   }
 
   private async reload(): Promise<void> {
-    this.data = await loadTimelineData(this.s.app);
-    if (!this.consumePendingPreset()) this.render();
+    if (this.reloading) return this.reloading;
+    this.reloading = (async () => {
+      this.data = await loadTimelineData(this.s.app);
+      if (!this.consumePendingPreset()) this.render();
+    })();
+    try { await this.reloading; } finally { this.reloading = null; }
   }
 
   /** a preset held while the data was in flight applies the moment it lands */
@@ -338,12 +442,12 @@ export class TimelineView extends ItemView {
     }
     const q = this.query.toLowerCase();
     return this.data.events.filter(e => {
-      if (!this.lanes.has(e.lane)) return false;
-      if (!this.detail && e.imp > 2) return false;
+      if (!this.lanes.has(e.lane) && !(e.timeline_lanes ?? []).some(lane => this.lanes.has(lane))) return false;
+      if (!this.detail && !q && e.imp > 2) return false;
       if (!e.cat.some(c => this.cats.has(c))) return false;
       if (q) {
         const hay = [e.t, e.note, ...(e.people ?? []), ...(e.places ?? []),
-          ...(e.things ?? []), ...(e.chapters ?? [])].join(" ").toLowerCase();
+          ...SUBJECT_KINDS.flatMap(kind => e[kind] ?? []), ...(e.chapters ?? [])].join(" ").toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
@@ -352,15 +456,7 @@ export class TimelineView extends ItemView {
 
   /** every subject the dataset knows, with how often it appears */
   private subjectIndex(kind: SubjectKind): { name: string; n: number }[] {
-    const counts = new Map<string, number>();
-    for (const e of this.data?.events ?? []) {
-      for (const name of e[kind] ?? []) {
-        counts.set(name, (counts.get(name) ?? 0) + 1);
-      }
-    }
-    return Array.from(counts.entries())
-      .map(([name, n]) => ({ name, n }))
-      .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
+    return timelineSubjects(this.data?.events ?? []).filter(row => row.kind === kind);
   }
 
   /** how many moments one subject's OWN thread holds */
@@ -369,15 +465,178 @@ export class TimelineView extends ItemView {
       .filter(e => (e[f.kind] ?? []).includes(f.name)).length;
   }
 
+  private renderHeading(parent: HTMLElement): void {
+    const head = parent.createDiv({ cls: 'sg-tl-heading' });
+    const back = head.createEl('button', { cls: 'sg-nav-btn sg-tl-back', text: '‹', attr: { 'aria-label': 'Back to library' } });
+    back.onclick = () => {
+      this.setFullScreen(false);
+      if (!historyBack(this.leaf)) void this.leaf.setViewState({ type: 'sg-library', state: { view: { kind: 'scriptures' } }, active: true });
+    };
+    const copy = head.createDiv();
+    copy.createEl('h1', { text: this.presetTitle ?? (this.focuses.length ? this.focuses.map(f => f.name).join(' & ') : 'Timeline') });
+    this.resultsEl = copy.createDiv({ cls: 'sg-tl-summary', text: this.data ? `${this.visible().length} events · Explore scripture history` : 'Loading scripture history…' });
+    const tools = head.createEl('button', { cls: 'sg-tl-expand sg-tl-tools-toggle', text: 'Options', attr: { 'aria-label': 'Timeline options', 'aria-expanded': String(this.toolsOpen) } });
+    tools.onclick = () => { this.toolsOpen = !this.toolsOpen; this.contentEl.toggleClass('sg-tl-tools-open', this.toolsOpen); tools.setAttr('aria-expanded', String(this.toolsOpen)); };
+    const full = head.createEl('button', { cls: `sg-tl-expand sg-tl-full${this.fullScreen ? '' : ' sg-tl-full-enter'}`, text: this.fullScreen ? 'Done' : 'Full screen', attr: { 'aria-label': this.fullScreen ? 'Exit full screen timeline' : 'Explore timeline full screen' } });
+    full.onclick = () => {
+      if (Platform.isMobile && this.fullScreen) { back.click(); return; }
+      if (!this.fullScreen) { this.presentation = 'map'; this.depth = 2; }
+      this.setFullScreen(!this.fullScreen); this.render();
+    };
+    // Tidy menus: Options and Full screen wait behind ⋯ (CSS hides the two
+    // buttons and shows this one; "Done" out of full screen stays visible).
+    // The buttons stay in the DOM, so the menu drives exactly the same code.
+    const more = head.createEl('button', { cls: 'sg-more-btn sg-more-only sg-tl-more', text: '⋯',
+      attr: { 'aria-label': 'More timeline controls', 'aria-haspopup': 'menu' } });
+    more.onclick = (e) => {
+      if (!tidyMenus()) return;
+      const menu = new Menu();
+      menu.addItem(i => i.setTitle(this.toolsOpen ? 'Hide options' : 'Options').setIcon('sliders-horizontal')
+        .setChecked(this.toolsOpen).onClick(() => tools.click()));
+      if (!this.fullScreen) menu.addItem(i => i.setTitle('Full screen').setIcon('maximize-2').onClick(() => full.click()));
+      menu.showAtMouseEvent(e);
+    };
+    if (!this.data) return;
+    if (this.data.guide_path && this.lanes.has('nw')) {
+      const study = parent.createDiv({ cls: 'sg-tl-study-paths', attr: { 'aria-label': 'Book of Mormon study paths' } });
+      const compare = (label: string, ids: string[]) => {
+        study.createEl('button', { text: label }).onclick = () => {
+          this.focuses = (this.data?.threads ?? []).filter(t => ids.includes(t.id)).map(t => ({ kind: 'storylines', name: t.label }));
+          this.presentation = 'map'; this.depth = 2; this.worldCamera = undefined; this.stopWorld(); this.worldCamera = undefined;
+          this.presetTitle = label; this.toolsOpen = false; this.render();
+        };
+      };
+      compare('Alma & sons of Mosiah', ['nw-alma-mission', 'nw-mosiah-mission']);
+      compare('Follow the plates', ['nw-small', 'nw-large', 'nw-gold', 'nw-ether-record', 'nw-brass']);
+      study.createEl('button', { text: 'All Book of Mormon storylines' }).onclick = () => {
+        this.stopWorld(); this.worldCamera = undefined; this.focuses = []; this.lanes = new Set(['nw']);
+        this.presetTitle = 'Book of Mormon'; this.toolsOpen = false; this.render();
+      };
+      study.createEl('button', { text: 'Sources & coverage' }).onclick = () => void this.s.app.workspace.openLinkText(this.data!.guide_path!, '');
+    }
+    const modes = parent.createDiv({ cls: 'sg-tl-modes', attr: { role: 'group', 'aria-label': 'Timeline view' } });
+    for (const [label, mode, depth] of [['Chronology', 'cards', 1], ['Storylines', 'map', 2], ['Connections', 'map', 3]] as const) {
+      const selected = this.presentation === mode && (mode === 'cards' || this.depth === depth);
+      const button = modes.createEl('button', { cls: 'sg-tl-mode', text: label, attr: { 'aria-pressed': String(selected) } });
+      button.toggleClass('is-active', selected);
+      button.onclick = () => {
+        const top = this.streamEl?.scrollTop ?? 0;
+        this.pendingYear = this.world?.year ?? [...this.yByYear].reverse().find(([, y]) => y <= top + 64)?.[0] ?? null;
+        this.presentation = mode; this.depth = depth;
+        this.s.device.tlPresentation = mode; this.saveDepth(); this.render();
+      };
+    }
+    const appearance = parent.createDiv({ cls: 'sg-tl-appearance' });
+    appearance.createSpan({ text: 'Atmosphere' });
+    const themes = appearance.createDiv({ cls: 'sg-tl-theme-choices', attr: { role: 'group', 'aria-label': 'Timeline theme' } });
+    for (const [value, label] of [['midnight', 'Midnight'], ['parchment', 'Parchment'], ['forest', 'Forest']] as const) {
+      const theme = themes.createEl('button', { text: label, attr: { 'aria-pressed': String((this.s.device.tlWorldTheme ?? 'midnight') === value) } });
+      theme.onclick = () => {
+        this.s.device.tlWorldTheme = value; void this.s.saveDevice();
+        this.contentEl.setAttr('data-timeline-theme', value);
+        if (TimelineView.mobileOwner === this) this.contentEl.ownerDocument.body.setAttribute('data-active-timeline-theme', value);
+        themes.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b === theme)));
+      };
+    }
+  }
+
+  private setFullScreen(on: boolean): void {
+    if (on === this.fullScreen) return;
+    this.fullScreen = on;
+    const c = this.contentEl;
+    if (on) {
+      this.returnParent = c.parentNode; this.returnNext = c.nextSibling;
+      c.ownerDocument.body.appendChild(c);
+      c.setAttribute('data-ignore-swipe', 'true');
+    } else if (this.returnParent) {
+      this.returnParent.insertBefore(c, this.returnNext?.parentNode === this.returnParent ? this.returnNext : null);
+      this.returnParent = null; this.returnNext = null;
+    }
+    c.toggleClass('sg-tl-fullscreen', on);
+    if (Platform.isMobile) {
+      const body = c.ownerDocument.body;
+      if (on) {
+        TimelineView.mobileOwner = this;
+        body.classList.add('sg-timeline-mobile-active');
+        body.setAttribute('data-active-timeline-theme', this.s.device.tlWorldTheme ?? 'midnight');
+        body.style.setProperty('--sg-active-timeline-art', `url("${timelineBackground}")`);
+      } else if (TimelineView.mobileOwner === this) {
+        TimelineView.mobileOwner = null;
+        body.classList.remove('sg-timeline-mobile-active');
+        body.removeAttribute('data-active-timeline-theme');
+        body.style.removeProperty('--sg-active-timeline-art');
+      }
+    }
+  }
+
+  private stopWorld(): void {
+    if (this.world) { this.worldCamera = { ...this.world.camera }; this.world.destroy(); this.world = null; }
+  }
+
+  private renderCards(stream: HTMLElement): void {
+    this.lastW = stream.clientWidth;
+    const events = this.visible();
+    if (!events.length) {
+      const empty = stream.createDiv({ cls: 'sg-tl-empty' });
+      empty.createEl('p', { text: 'No events match these filters.' });
+      empty.createEl('button', { cls: 'sg-tl-retry', text: 'Show all events' }).onclick = () => this.resetFilters();
+      return;
+    }
+    const list = stream.createDiv({ cls: 'sg-tl-cards' });
+    let era = '';
+    for (const event of events.slice(0, this.cardLimit)) {
+      const currentEra = eventHasCalendarDate(event) ? [...ERAS].reverse().find(e => event.y0 >= e.y)?.label ?? 'Beginnings' : 'Relative sequence · calendar date not specified';
+      if (era !== currentEra) { era = currentEra; list.createEl('h2', { cls: 'sg-tl-card-era', text: era }); }
+      const card = list.createEl('article', { cls: 'sg-tl-event-card' });
+      card.style.setProperty('--sg-lane', LANE_COLOR[event.lane]!);
+      const date = eventDate(event);
+      card.createDiv({ cls: 'sg-tl-card-date', text: `${date} · ${event.dating === 'traditional' ? 'Traditional dating' : event.dating === 'approximate' ? 'Approximate date' : DATING_SHORT[event.dating] ?? event.dating}` });
+      card.createEl('h3', { text: event.t });
+      card.createDiv({ cls: 'sg-tl-card-world', text: LANE_NAME[event.lane]! });
+      if (event.note) card.createEl('p', { cls: 'sg-tl-card-note', text: event.note });
+      const links = card.createDiv({ cls: 'sg-tl-links' });
+      for (const chapter of event.chapters ?? []) {
+        links.createEl('button', { cls: 'sg-tl-link sg-tl-link-ref', text: chapter,
+          attr: { 'aria-label': `Read ${chapter}` } }).onclick = () => void this.s.app.workspace.openLinkText(chapter, '');
+      }
+      this.renderSourceConnections(card, event);
+      const subjects = (['people', 'places', 'things', 'topics', 'doctrines'] as SubjectKind[])
+        .flatMap(kind => (event[kind] ?? []).map(name => ({ kind, name })));
+      if (subjects.length) {
+        const details = card.createEl('details', { cls: 'sg-tl-card-subjects' });
+        details.createEl('summary', { text: 'Follow related subjects' });
+        const buttons = details.createDiv({ cls: 'sg-tl-links' });
+        for (const subject of subjects) buttons.createEl('button', { cls: 'sg-tl-link', text: subject.name }).onclick = () => this.setFocus(subject);
+      }
+      this.cardsById.set(event.id, card);
+    }
+    if (this.cardLimit < events.length) {
+      const more = list.createEl('button', { cls: 'sg-tl-retry sg-tl-more', text: `Show more events (${events.length - this.cardLimit} remaining)` });
+      more.onclick = () => { const top = stream.scrollTop; this.cardLimit += 60; this.renderStream(); stream.scrollTop = top; };
+    }
+    this.yByYear = events.slice(0, this.cardLimit).map(e => [e.y0, this.cardsById.get(e.id)?.offsetTop ?? 0]);
+    if (this.pendingYear !== null) {
+      const year = this.pendingYear; this.pendingYear = null; this.scrollToYear(year);
+    }
+  }
+
   private render(): void {
     const c = this.contentEl;
+    c.addClass('sg-timeline-scene');
+    c.setAttr('data-timeline-theme', this.s.device.tlWorldTheme ?? 'midnight');
+    c.toggleClass('sg-tl-tools-open', this.toolsOpen);
+    c.style.setProperty('--sg-timeline-art', `url("${timelineBackground}")`);
+    this.stopWorld();
+    this.graph?.destroy(); this.graph = null;
+    this.cardLimit = 60;
     c.empty();
+    this.renderHeading(c);
     if (!this.data) {
       const empty = c.createDiv({ cls: "sg-tl-empty" });
       empty.createDiv({
-        text: "Timeline data hasn't reached this device yet — it loads itself the moment it arrives.",
+        text: "Connect to the family server to load the timeline. Once downloaded, it works offline.",
       });
-      const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "↻ Check now" });
+      const retry = empty.createEl("button", { cls: "sg-tl-retry", text: "Try again" });
       retry.onclick = () => void this.reload();
       return;
     }
@@ -400,11 +659,12 @@ export class TimelineView extends ItemView {
           cls: "sg-tl-focus-sub",
           text: `${events.length} moment${events.length === 1 ? "" : "s"} across time`,
         });
-        if (solo.kind !== "things") {
+        const pagePath = this.data?.events.flatMap(e => e.subject_links ?? []).find(link => link.kind === solo.kind && link.name === solo.name)?.path
+          ?? this.s.app.metadataCache.getFirstLinkpathDest?.(solo.name, '')?.path;
+        if (pagePath) {
           const page = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "↗" });
           page.setAttr("aria-label", "Open page");
-          const name = solo.name;
-          page.onclick = () => void this.s.app.workspace.openLinkText(name, "");
+          page.onclick = () => void this.s.app.workspace.openLinkText(pagePath, "");
         }
         const swap = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "🎯" });
         swap.setAttr("aria-label", "Focus something else");
@@ -430,6 +690,9 @@ export class TimelineView extends ItemView {
       const exit = banner.createEl("button", { cls: "sg-tl-focus-btn", text: "✕" });
       exit.setAttr("aria-label", "Back to everything");
       exit.onclick = () => this.setFocus(null);
+      if (this.focuses.some(f => ['topics', 'doctrines', 'sources'].includes(f.kind))) {
+        bar.createDiv({ cls: 'sg-tl-source-note', text: 'Dates belong to the linked events. Topic links show scripture context; document links show supporting research.' });
+      }
       if (!solo) {
         // each thread as a chip in its own accent — its emoji, its moment
         // count, its own quiet ✕; dropping the last one leaves focus
@@ -459,35 +722,6 @@ export class TimelineView extends ItemView {
     // (a control you have to guess at gets guessed wrong), just folded.
     const bar = c.createDiv({ cls: "sg-tl-bar" });
     const row = bar.createDiv({ cls: "sg-tl-row sg-tl-oneline" });
-    // depth stays in reach — it's the view itself, not a filter
-    if (this.data.threads?.length) {
-      const seg = row.createDiv({ cls: "sg-tl-seg" });
-      const segDefs: [1 | 2 | 3, string, string][] = [
-        [1, "1", "One line per world"],
-        [2, "2", "Split the storylines apart"],
-        [3, "✨", "Constellation — the living web across time"],
-      ];
-      for (const [d, label, hint] of segDefs) {
-        const b = seg.createEl("button", { cls: "sg-tl-seg-btn", text: label });
-        b.setAttr("aria-label", hint);
-        b.setAttr("title", hint);
-        b.toggleClass("sg-tl-seg-on", this.depth === d);
-        b.onclick = () => {
-          // ✨ is a toggle: tapping it while the constellation is up returns
-          // to the plain timeline you had before (user-reported: a second
-          // tap did nothing, and 1/2 was not an obvious way back)
-          if (this.depth === d) {
-            if (d !== 3) return;
-            this.depth = this.depthBefore;
-          } else {
-            if (d === 3) this.depthBefore = this.depth === 3 ? 2 : this.depth;
-            this.depth = d;
-          }
-          this.saveDepth();
-          this.render();
-        };
-      }
-    }
     const tool = (text: string, hint: string, on: boolean,
       click: (ev: MouseEvent) => void) => {
       const b = row.createEl("button", { cls: "sg-tl-tool", text });
@@ -497,7 +731,7 @@ export class TimelineView extends ItemView {
       b.onclick = click;
       return b;
     };
-    if (this.depth !== 3) {
+    if (this.presentation === 'map' && this.depth === 1) {
       const zseg = row.createDiv({ cls: "sg-tl-seg sg-tl-zoom" });
       const minus = zseg.createEl("button", { cls: "sg-tl-seg-btn", text: "−" });
       minus.setAttr("aria-label", "Zoom out");
@@ -555,7 +789,7 @@ export class TimelineView extends ItemView {
         }
         m.showAtMouseEvent(ev);
       });
-    tool("🔍", "Find a person, place, or event", this.showSearch || !!this.query,
+    tool("Search", "Find a person, place, or event", this.showSearch || !!this.query,
       () => {
         this.showSearch = !this.showSearch;
         if (!this.showSearch) this.query = "";
@@ -576,7 +810,7 @@ export class TimelineView extends ItemView {
         attr: { type: "search", placeholder: "Find a person, place, or event…" },
       });
       search.value = this.query;
-      search.oninput = () => { this.query = search.value; this.renderStream(); };
+      search.oninput = () => { this.query = search.value; this.cardLimit = 60; this.renderStream(); };
       if (this.showSearch && !this.query) {
         window.setTimeout(() => search.focus(), 60);
       }
@@ -661,6 +895,7 @@ export class TimelineView extends ItemView {
   /** pinch on touch, ctrl+wheel on desktop, and the century readout that
    * follows the scroll — attached once per stream element */
   private attachZoomGestures(stream: HTMLElement): void {
+    if (this.presentation === 'cards' || this.depth !== 1) return;
     const dist = (e: TouchEvent) => Math.hypot(
       e.touches[0]!.clientX - e.touches[1]!.clientX, e.touches[0]!.clientY - e.touches[1]!.clientY);
     stream.addEventListener("touchstart", (e) => {
@@ -759,6 +994,7 @@ export class TimelineView extends ItemView {
   private renderStream(): void {
     const stream = this.streamEl;
     if (!stream) return;
+    this.stopWorld();
     this.graph?.destroy();
     this.graph = null;
     stream.empty();
@@ -766,6 +1002,19 @@ export class TimelineView extends ItemView {
     this.clearDetail();
     this.yById.clear();
     this.yByYear = [];
+    this.svgEl = null;
+    this.cardsById.clear();
+    if (this.resultsEl) this.resultsEl.setText(`${this.visible().length} events`);
+    if (this.presentation === 'cards') { this.renderCards(stream); return; }
+    if (this.depth === 2) {
+      this.resultsEl?.setText(`${this.visible().length} events · Event order; gaps are not to scale`);
+      this.lastW = stream.clientWidth;
+      this.world = new TimelineWorld(stream, this.visible(), this.data!, this.focuses,
+        (event, node) => this.selectNode(event, node), this.worldCamera, NARRATIVE_LINKS,
+        (a, b, context) => this.showWorldInterval(a, b, context));
+      if (this.pendingYear !== null) { this.world.jump(this.pendingYear); this.pendingYear = null; }
+      return;
+    }
     // ✨ depth 3: the SVG stream stands aside and the physics sky takes
     // the stage — the classic renderer below is untouched, one tap away
     if (this.depth === 3) { this.mountTimeGraph(stream); return; }
@@ -810,7 +1059,7 @@ export class TimelineView extends ItemView {
     const colW = Math.min(cw, 820);
     const off = Math.round((cw - colW) / 2);
 
-    const tx = (!this.focuses.length && this.depth === 2) ? this.threadX(colW) : new Map<string, number>();
+    const tx = new Map<string, number>(); // the legacy compact view uses its main lanes
     const threadById = new Map((this.data?.threads ?? []).map(t => [t.id, t]));
     const laneX = (lane: string) => off + colW * (LANE_F[lane] ?? 0.5);
     const xFor = (e: TimelineEvent) => {
@@ -1260,7 +1509,7 @@ export class TimelineView extends ItemView {
         x: String(tx0), y: String(p.y + 14), "text-anchor": anchor,
         class: "sg-tl-year", fill: color,
       }, g);
-      t2.textContent = (e.y1 && e.y1 !== e.y0 ? `${yearStr(e.y0)} – ${yearStr(e.y1)}` : yearStr(e.y0))
+      t2.textContent = eventDate(e)
         + ` · ${DATING_SHORT[e.dating] ?? e.dating}`;
       if (cards && e.note) {
         // zoomed in: the moment opens into a card — the note, two lines,
@@ -1286,6 +1535,13 @@ export class TimelineView extends ItemView {
       }
       (outer as unknown as SVGElement & { onclick: unknown }).onclick =
         () => this.selectNode(e, outer);
+      outer.setAttribute('role', 'button');
+      outer.setAttribute('tabindex', '0');
+      outer.setAttribute('aria-label', `${e.t}, ${eventDate(e)}. Open event details`);
+      outer.addEventListener('keydown', ev => {
+        const key = (ev as KeyboardEvent).key;
+        if (key === 'Enter' || key === ' ') { ev.preventDefault(); this.selectNode(e, outer); }
+      });
     }
 
     stream.appendChild(svg);
@@ -1323,7 +1579,29 @@ export class TimelineView extends ItemView {
 
   private detailEl: HTMLElement | null = null;
 
+  private showWorldInterval(a: TimelineEvent, b: TimelineEvent, context: string): void {
+    this.clearDetail();
+    const [first, last] = a.y0 <= b.y0 ? [a, b] : [b, a];
+    const panel = this.contentEl.createDiv({ cls: 'sg-tl-detail sg-tl-interval', attr: { role: 'region', 'aria-label': 'Time between events', 'aria-live': 'polite' } });
+    this.detailEl = panel;
+    const head = panel.createDiv({ cls: 'sg-tl-detail-head' });
+    head.createSpan({ cls: 'sg-tl-detail-year', text: context });
+    const close = head.createEl('button', { cls: 'sg-tl-detail-x', text: '✕', attr: { 'aria-label': 'Close time interval' } });
+    close.onclick = () => this.clearDetail();
+    panel.createDiv({ cls: 'sg-tl-detail-title', text: first.id === last.id ? 'The same event' : timelineInterval(first, last).label });
+    for (const event of first.id === last.id ? [first] : [first, last]) {
+      const item = panel.createEl('button', { cls: 'sg-tl-related-event' });
+      item.createSpan({ text: event.t });
+      item.createEl('small', { text: eventDate(event) });
+      item.onclick = () => this.world?.follow(event.id);
+    }
+    panel.createDiv({ cls: 'sg-tl-interval-note', text: first.id === last.id ? 'This event appears in both timelines.'
+      : !eventHasCalendarDate(first) || !eventHasCalendarDate(last) ? 'The text gives order or relative chronology without two comparable calendar dates. Visual spacing is not a measured duration.'
+      : 'Compared using the listed starting years. Visual spacing is not to scale.' });
+  }
+
   private clearDetail(): void {
+    this.world?.select(null);
     this.detailEl?.remove();
     this.detailEl = null;
     this.hideGap(true);
@@ -1345,19 +1623,14 @@ export class TimelineView extends ItemView {
     const stream = this.streamEl;
     if (!stream) return;
     const [ea, eb] = a.y0 <= b.y0 ? [a, b] : [b, a];
-    const delta = eb.y0 - ea.y0;
-    // honesty rides along: a traditional/approximate endpoint makes it a "≈"
-    const soft = [ea.dating, eb.dating]
-      .some(d => d === "traditional" || d === "approximate");
     const chip = stream.createDiv({ cls: "sg-tl-gap" });
     chip.createDiv({
       cls: "sg-tl-gap-main",
-      text: delta === 0 ? "the same years"
-        : `${soft ? "≈ " : ""}${delta.toLocaleString()} year${delta === 1 ? "" : "s"} apart`,
+      text: timelineInterval(ea, eb).label,
     });
     chip.createDiv({
       cls: "sg-tl-gap-sub",
-      text: `${context ? context + " · " : ""}${yearStr(ea.y0)} → ${yearStr(eb.y0)}`,
+      text: `${context ? context + " · " : ""}${eventDate(ea)} → ${eventDate(eb)}`,
     });
     this.gapEl = chip;
     this.placeGap(x, y);
@@ -1394,6 +1667,7 @@ export class TimelineView extends ItemView {
    * in at the bottom */
   private selectNode(e: TimelineEvent, g: Element): void {
     this.clearDetail();
+    this.world?.select(e.id);
     g.classList.add("sg-tl-sel");
     this.streamEl?.querySelectorAll(".sg-tl-web").forEach(l => {
       if (l.getAttribute("data-a") === e.id || l.getAttribute("data-b") === e.id) {
@@ -1402,13 +1676,15 @@ export class TimelineView extends ItemView {
     });
     const card = this.contentEl.createDiv({ cls: "sg-tl-detail" });
     this.detailEl = card;
-    const yr = e.y0 === e.y1 ? yearStr(e.y0) : `${yearStr(e.y0)} – ${yearStr(e.y1)}`;
+    const yr = eventDate(e);
     const head = card.createDiv({ cls: "sg-tl-detail-head" });
-    head.createSpan({ cls: "sg-tl-detail-year", text: `${yr} · ${DATING_SHORT[e.dating] ?? e.dating}` });
+    head.createSpan({ cls: "sg-tl-detail-year", text: eventHasCalendarDate(e) ? `${yr} · ${DATING_SHORT[e.dating] ?? e.dating}` : yr });
     const close = head.createEl("button", { cls: "sg-tl-detail-x", text: "✕" });
+    close.setAttr('aria-label', 'Close event details');
     close.onclick = () => this.clearDetail();
     card.createDiv({ cls: "sg-tl-detail-title", text: e.t });
     card.createDiv({ cls: "sg-tl-detail-note", text: e.note });
+    this.renderSourceConnections(card, e);
     const links = card.createDiv({ cls: "sg-tl-links" });
     // inside the timeline, people/places/things chips FOCUS that subject —
     // this view's own currency; chapter chips are the references and read
@@ -1422,15 +1698,69 @@ export class TimelineView extends ItemView {
     for (const p of (e.people ?? []).slice(0, 3)) focusChip("people", p);
     for (const p of (e.places ?? []).slice(0, 2)) focusChip("places", p);
     for (const th of (e.things ?? []).slice(0, 3)) focusChip("things", th);
+    for (const topic of (e.topics ?? []).slice(0, 4)) focusChip('topics', topic);
     for (const ch of (e.chapters ?? []).slice(0, 3)) {
       const b = links.createEl("button", { cls: "sg-tl-link sg-tl-link-ref", text: `📖 ${ch}` });
       b.onclick = () => void this.s.app.workspace.openLinkText(ch, "");
     }
+    const connections = this.world?.connections(e.id) ?? [];
+    if (connections.length) {
+      const related = card.createEl('details', { cls: 'sg-tl-related' });
+      related.createEl('summary', { text: `Follow ${connections.length} connected events` });
+      for (const item of connections) {
+        const link = related.createEl('button', { cls: 'sg-tl-related-event' });
+        link.createSpan({ text: item.title });
+        link.createEl('small', { text: item.reason });
+        link.onclick = () => this.world?.follow(item.id);
+      }
+    }
+  }
+
+  private renderSourceConnections(parent: HTMLElement, event: TimelineEvent): void {
+    if (event.scripture_refs?.length) {
+      const evidence = parent.createEl('details', { cls: 'sg-tl-scripture-evidence' });
+      evidence.createEl('summary', { text: `Scripture evidence · ${event.scripture_refs.length} references` });
+      if (event.date_basis) evidence.createEl('p', { text: event.date_basis });
+      for (const ref of event.scripture_refs) {
+        const row = evidence.createDiv({ cls: 'sg-tl-source-row' });
+        row.createEl('button', { cls: 'sg-tl-link sg-tl-link-ref', text: ref.reference }).onclick = () => void this.s.app.workspace.openLinkText(ref.path, '');
+        row.createEl('a', { text: 'Read online ↗', attr: { href: ref.url, target: '_blank', rel: 'noopener noreferrer' } });
+      }
+      if (this.data?.guide_path) evidence.createEl('button', { cls: 'sg-tl-link', text: 'Read the timeline research & coverage' }).onclick = () => void this.s.app.workspace.openLinkText(this.data!.guide_path!, '');
+    }
+    const links = (event.subject_links ?? []).filter(link => link.kind === 'events' || link.kind === 'sources'
+      || this.focuses.some(f => f.kind === link.kind && f.name === link.name));
+    if (!links.length) return;
+    const details = parent.createEl('details', { cls: 'sg-tl-source-connections' });
+    details.createEl('summary', { text: 'Research & connections' });
+    for (const link of links) {
+      const row = details.createDiv({ cls: 'sg-tl-source-row' });
+      row.createEl('button', { cls: 'sg-tl-link', text: link.kind === 'events' ? 'Read event research' : link.name })
+        .onclick = () => void this.s.app.workspace.openLinkText(link.path, '');
+      row.createDiv({ cls: 'sg-tl-source-note', text: link.kind === 'sources' ? 'Referenced by the event research page; the date above is the event date.'
+        : link.kind === 'events' ? 'Event research linked through its scriptural account.' : 'The topic cites the same scripture chapter as this event; this is a context link.' });
+      row.createEl('button', { cls: 'sg-tl-link sg-tl-link-ref', text: `Read ${link.reference.split('#')[0]}` })
+        .onclick = () => void this.s.app.workspace.openLinkText(link.reference, '');
+      if (link.via) row.createEl('button', { cls: 'sg-tl-link', text: 'Read the research connection' })
+        .onclick = () => void this.s.app.workspace.openLinkText(link.via!, '');
+    }
   }
 
   private scrollToYear(y: number): void {
+    if (this.world) { this.world.jump(y); return; }
     const stream = this.streamEl;
     if (!stream) return;
+    if (this.presentation === 'cards') {
+      const events = this.visible();
+      let index = events.findIndex(e => e.y0 >= y);
+      if (index < 0) index = events.length - 1;
+      const target = events[index];
+      if (!target) return;
+      if (index >= this.cardLimit) { this.cardLimit = Math.ceil((index + 1) / 60) * 60; this.renderStream(); }
+      const card = this.cardsById.get(target.id);
+      if (card) stream.scrollTo({ top: Math.max(0, card.offsetTop - 12), behavior: 'smooth' });
+      return;
+    }
     const hit = this.yByYear.find(([yr]) => yr >= y) ?? this.yByYear[this.yByYear.length - 1];
     if (!hit) return;
     stream.scrollTo({ top: Math.max(0, hit[1] - 64), behavior: "smooth" });
@@ -1468,9 +1798,12 @@ export class TimelineView extends ItemView {
   }
 
   async onClose(): Promise<void> {
+    this.setFullScreen(false);
+    this.stopWorld();
     this.graph?.destroy();
     this.graph = null;
     window.removeEventListener("resize", this.boundResize);
+    window.removeEventListener('keydown', this.exitFullScreen);
     this.contentEl.empty();
   }
 
@@ -1483,6 +1816,7 @@ export class TimelineView extends ItemView {
 /** 🎯 pick a person, place, or thing — its whole timeline follows */
 export class SubjectPickerModal extends Modal {
   private query = "";
+  private category: SubjectKind | 'all' = 'all';
   private listEl: HTMLElement | null = null;
 
   constructor(
@@ -1498,15 +1832,21 @@ export class SubjectPickerModal extends Modal {
     this.modalEl.addClass("sg-tlp-modal");
     const c = this.contentEl;
     c.addClass("sg-tlp");
-    c.createEl("h3", { cls: "sg-tlp-title", text: "🎯 Focus the timeline on…" });
+    c.createEl("h3", { cls: "sg-tlp-title", text: "Focus the timeline" });
     const search = c.createEl("input", {
       cls: "sg-nav-filter",
-      attr: { type: "search", placeholder: "Type a name — Nephi, Jerusalem, Gold Plates…" },
+      attr: { type: "search", placeholder: "Search events, topics, people…", 'aria-label': 'Find timeline subjects' },
     });
     search.oninput = () => { this.query = search.value; this.renderList(); };
+    const category = c.createEl('select', { cls: 'sg-tlp-category', attr: { 'aria-label': 'Subject category' } });
+    category.createEl('option', { text: 'All categories', attr: { value: 'all' } });
+    for (const kind of SUBJECT_KINDS) {
+      const count = this.view.subjectsOf(kind).length;
+      if (count) category.createEl('option', { text: `${SUBJECT_META[kind].label} (${count})`, attr: { value: kind } });
+    }
+    category.onchange = () => { this.category = category.value as SubjectKind | 'all'; this.renderList(); };
     this.listEl = c.createDiv({ cls: "sg-tlp-list" });
     this.renderList();
-    window.setTimeout(() => search.focus(), 80);
   }
 
   private renderList(): void {
@@ -1514,14 +1854,14 @@ export class SubjectPickerModal extends Modal {
     if (!list) return;
     list.empty();
     const q = this.query.trim().toLowerCase();
-    for (const kind of ["things", "people", "places"] as SubjectKind[]) {
+    for (const kind of SUBJECT_KINDS.filter(kind => this.category === 'all' || kind === this.category)) {
       const subjects = this.view.subjectsOf(kind)
         .filter(s => !q || s.name.toLowerCase().includes(q))
-        .slice(0, q ? 12 : 8);
+        .slice(0, this.category === 'all' ? (q ? 12 : 8) : undefined);
       if (!subjects.length) continue;
       list.createDiv({ cls: "sg-nav-sect", text: `${SUBJECT_META[kind].emoji} ${SUBJECT_META[kind].label}` });
       for (const s of subjects) {
-        const row = list.createDiv({ cls: "sg-nav-row" });
+        const row = list.createEl('button', { cls: "sg-nav-row sg-tlp-row" });
         row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[kind].emoji });
         row.createSpan({ cls: "sg-nav-name", text: s.name });
         row.createSpan({ cls: "sg-tlp-count", text: `${s.n}` });
@@ -1529,7 +1869,7 @@ export class SubjectPickerModal extends Modal {
       }
     }
     if (!list.childElementCount) {
-      list.createDiv({ cls: "sg-nav-empty", text: "No one and nothing by that name yet." });
+      list.createDiv({ cls: "sg-nav-empty", text: "No matching subjects with dated events yet. Try another category or search." });
     }
   }
 
@@ -1556,6 +1896,8 @@ class TimelineComposerModal extends Modal {
   private loaded = false;
   private picks: Subject[] = [];
   private query = "";
+  private category: SubjectKind | 'all' = 'all';
+  private categoryEl: HTMLSelectElement | null = null;
   /** the user owns the name once they type; clearing it hands it back */
   private nameTouched = false;
   private listEl: HTMLElement | null = null;
@@ -1563,6 +1905,8 @@ class TimelineComposerModal extends Modal {
   private nameEl: HTMLInputElement | null = null;
   private warnEl: HTMLElement | null = null;
   private saveEl: HTMLButtonElement | null = null;
+  private releaseViewport: (() => void) | null = null;
+  private focusTimer: number | null = null;
 
   constructor(
     private s: SGState,
@@ -1575,22 +1919,27 @@ class TimelineComposerModal extends Modal {
   onOpen(): void {
     registerSheet(this);
     this.modalEl.addClass("sg-tlp-modal");
+    if (Platform.isMobile) this.releaseViewport = fitTimelinePicker(this.modalEl);
     const c = this.contentEl;
     c.addClass("sg-tlp", "sg-tlp-compose");
-    c.createEl("h3", { cls: "sg-tlp-title", text: "🧵 Weave a timeline" });
+    c.createEl("h3", { cls: "sg-tlp-title", text: "Create a timeline" });
     // the picks ride above the search, in sight while you hunt the next one
     this.chipsEl = c.createDiv({ cls: "sg-tlp-chips" });
     const search = c.createEl("input", {
       cls: "sg-nav-filter",
-      attr: { type: "search", placeholder: "Nephi, Daniel, Jerusalem…" },
+      attr: { type: "search", placeholder: "Search events, topics, people…", 'aria-label': 'Find timeline subjects', enterkeyhint: 'done' },
     });
     search.oninput = () => { this.query = search.value; this.renderList(); };
+    search.onkeydown = event => { if (event.key === 'Enter') { event.preventDefault(); search.blur(); } };
+    this.categoryEl = c.createEl('select', { cls: 'sg-tlp-category', attr: { 'aria-label': 'Subject category' } });
+    this.categoryEl.createEl('option', { text: 'All categories', attr: { value: 'all' } });
+    this.categoryEl.onchange = () => { this.category = this.categoryEl!.value as SubjectKind | 'all'; this.renderList(); };
     this.listEl = c.createDiv({ cls: "sg-tlp-list" });
     // name + save sit below, in thumb's reach; the name suggests itself
     const foot = c.createDiv({ cls: "sg-tlp-foot" });
     const nameInput = foot.createEl("input", {
       cls: "sg-tlp-name",
-      attr: { type: "text", placeholder: "Name this timeline…" },
+      attr: { type: "text", placeholder: "Name this timeline…", 'aria-label': 'Timeline name', enterkeyhint: 'done' },
     });
     this.nameEl = nameInput;
     nameInput.oninput = () => {
@@ -1606,23 +1955,17 @@ class TimelineComposerModal extends Modal {
     this.renderList();
     // the same dataset the view reads — one source of truth for who exists
     void loadTimelineData(this.s.app).then(data => {
-      const counts = new Map<string, { kind: SubjectKind; name: string; n: number }>();
-      for (const e of data?.events ?? []) {
-        for (const kind of ["people", "places", "things"] as SubjectKind[]) {
-          for (const name of e[kind] ?? []) {
-            const key = `${kind}:${name}`;
-            const row = counts.get(key) ?? { kind, name, n: 0 };
-            row.n += 1;
-            counts.set(key, row);
-          }
-        }
+      if (!c.isConnected) return;
+      this.all = timelineSubjects(data?.events ?? []);
+      for (const kind of SUBJECT_KINDS) {
+        const count = this.all.filter(row => row.kind === kind).length;
+        if (count) this.categoryEl!.createEl('option', { text: `${SUBJECT_META[kind].label} (${count})`, attr: { value: kind } });
       }
-      this.all = Array.from(counts.values())
-        .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
       this.loaded = true;
       this.renderList();
     });
-    window.setTimeout(() => search.focus(), 80);
+    // Start with the choices visible on phones; a tap on search opens the keyboard.
+    if (!Platform.isMobile) this.focusTimer = window.setTimeout(() => search.focus(), 80);
   }
 
   private isPicked(sub: Subject): boolean {
@@ -1634,39 +1977,52 @@ class TimelineComposerModal extends Modal {
     if (!list) return;
     list.empty();
     if (!this.loaded) {
-      list.createDiv({ cls: "sg-nav-empty", text: "Gathering everyone…" });
+      list.createDiv({ cls: "sg-nav-empty", text: "Loading timeline subjects…" });
       return;
     }
     const q = this.query.trim().toLowerCase();
-    const rows = this.all.filter(r => !q || r.name.toLowerCase().includes(q));
+    const rows = this.all.filter(r => (this.category === 'all' || this.category === r.kind) && (!q || r.name.toLowerCase().includes(q)));
     if (!rows.length) {
       list.createDiv({
         cls: "sg-nav-empty",
         text: this.all.length
-          ? "No one and nothing by that name yet."
+          ? "No matching subjects with dated events yet. Try another category or search."
           : "Timeline data hasn't reached this device yet.",
       });
       return;
     }
-    for (const r of rows) {
-      const on = this.isPicked(r);
-      const row = list.createDiv({ cls: "sg-nav-row sg-tlp-row" });
-      row.toggleClass("sg-tlp-picked", on);
-      row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[r.kind].emoji });
-      row.createSpan({ cls: "sg-nav-name", text: r.name });
-      row.createSpan({ cls: "sg-tlp-count", text: `${r.n}` });
-      row.createSpan({ cls: "sg-tlp-tick", text: on ? "✓" : "＋" });
-      row.onclick = () => this.toggle(r);
+    if (['topics', 'doctrines', 'sources'].includes(this.category)) list.createDiv({ cls: 'sg-tlp-hint', text: this.category === 'sources'
+      ? 'Dates show the events discussed in these documents.' : 'Follow dated events through the topic’s cited scripture passages.' });
+    for (const kind of SUBJECT_KINDS) {
+      const group = rows.filter(row => row.kind === kind);
+      if (!group.length) continue;
+      list.createDiv({ cls: 'sg-nav-sect', text: `${SUBJECT_META[kind].label} · ${group.length}` });
+      const visible = this.category === 'all' ? group.slice(0, q ? 12 : 6) : group;
+      for (const r of visible) {
+        const on = this.isPicked(r);
+        const row = list.createEl('button', { cls: "sg-nav-row sg-tlp-row", attr: { 'aria-pressed': String(on) } });
+        row.toggleClass("sg-tlp-picked", on);
+        row.createSpan({ cls: "sg-nav-emoji", text: SUBJECT_META[r.kind].emoji });
+        row.createSpan({ cls: "sg-nav-name", text: r.name });
+        row.createSpan({ cls: "sg-tlp-count", text: `${r.n}`, attr: { 'aria-label': `${r.n} dated events` } });
+        row.createSpan({ cls: "sg-tlp-tick", text: on ? "✓" : "＋" });
+        row.onclick = () => this.toggle(r);
+      }
+      if (visible.length < group.length) list.createEl('button', { cls: 'sg-tlp-show-all', text: `Show all ${SUBJECT_META[kind].label.toLowerCase()} (${group.length})` }).onclick = () => {
+        this.category = kind; this.categoryEl!.value = kind; this.renderList();
+      };
     }
   }
 
   /** tap a row to weave a subject in — tap again to let it go */
   private toggle(r: { kind: SubjectKind; name: string }): void {
+    const top = this.listEl?.scrollTop ?? 0;
     const i = this.picks.findIndex(p => p.kind === r.kind && p.name === r.name);
     if (i >= 0) this.picks.splice(i, 1);
     else this.picks.push({ kind: r.kind, name: r.name });
     this.refreshChips();
     this.renderList();
+    if (this.listEl) this.listEl.scrollTop = top;
   }
 
   private refreshChips(): void {
@@ -1676,7 +2032,7 @@ class TimelineComposerModal extends Modal {
     if (!this.picks.length) {
       chips.createDiv({
         cls: "sg-tlp-hint",
-        text: "Tap the lives to weave together — Nephi AND Daniel, if you like.",
+        text: "Choose one subject, or combine several categories.",
       });
     }
     this.picks.forEach((p, i) => {
@@ -1722,6 +2078,9 @@ class TimelineComposerModal extends Modal {
   }
 
   onClose(): void {
+    this.releaseViewport?.();
+    this.releaseViewport = null;
+    if (this.focusTimer !== null) window.clearTimeout(this.focusTimer);
     unregisterSheet(this);
     this.contentEl.empty();
   }

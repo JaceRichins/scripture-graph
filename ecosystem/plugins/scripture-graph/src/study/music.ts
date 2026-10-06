@@ -24,6 +24,8 @@ export interface PlayItem {
   sub: string;
   /** a stream the app plays itself */
   url?: string;
+  /** A saved track downloaded only when it becomes the current item. */
+  resolveUrl?: () => Promise<string>;
   /** a YouTube video id */
   yt?: string;
   /** playlists: a performance elsewhere beats the plain hymnbook recording */
@@ -59,9 +61,18 @@ export class MusicPlayer {
   private spotifyPoll: number | null = null;
   private spotifyUri: string | null = null;
   private spotifySeen = false;
+  private startRevision = 0;
+  private loadingAudio = false;
+  private seekButtons: HTMLButtonElement[] = [];
+  private timeLabel: HTMLElement | null = null;
+  private remotePosition = 0;
+  private remoteDuration = 0;
+  private remoteAt = 0;
+  private spotifySeeks: Promise<void> = Promise.resolve();
+  private pendingSpotifySeeks = 0;
 
   constructor(private app: App,
-    private opts: { serverUrl(): string; youtubeEnabled(): boolean; onChange?(): void },
+    private opts: { serverUrl(): string; youtubeEnabled(): boolean; deviceToken?(): string | null; onChange?(): void },
     public spotify: Spotify) {
     window.addEventListener("message", this.onFrameMessage);
   }
@@ -88,7 +99,7 @@ export class MusicPlayer {
       // headless, keeps playing with the screen off; the picture only when asked
       return it.video || !this.opts.serverUrl() ? "youtube" : "audio";
     }
-    if (it.url) return "audio";
+    if (it.url || it.resolveUrl) return "audio";
     if (this.spotify.connected) return "spotify";
     if (it.yt && this.opts.youtubeEnabled()) return "youtube";
     return null;
@@ -115,7 +126,10 @@ export class MusicPlayer {
   /** where an item's plain audio comes from: its own stream, or YouTube's sound via the server */
   private audioSrc(it: PlayItem): { src: string; fromYouTube: boolean } | null {
     if (it.preferVideo && it.yt && !it.video && this.opts.serverUrl() && this.opts.youtubeEnabled()) {
-      return { src: `${this.opts.serverUrl().replace(/\/$/, "")}/yt/audio?v=${encodeURIComponent(it.yt)}`, fromYouTube: true };
+      // the <audio> element cannot send a header: the device token rides in the query
+      const token = this.opts.deviceToken?.();
+      const auth = token ? `&t=${encodeURIComponent(token)}` : "";
+      return { src: `${this.opts.serverUrl().replace(/\/$/, "")}/yt/audio?v=${encodeURIComponent(it.yt)}${auth}`, fromYouTube: true };
     }
     return it.url ? { src: it.url, fromYouTube: false } : null;
   }
@@ -137,7 +151,12 @@ export class MusicPlayer {
 
   toggle(): void {
     if (!this.mode) return;
+    if (this.loadingAudio) { this.stop(); return; }
+    if (this.paused && this.current()?.resolveUrl && !this.audio?.getAttribute('src')) {
+      void this.start(this.current()!); return;
+    }
     const resume = this.paused;
+    this.remotePosition = this.position(); this.remoteAt = Date.now();
     this.paused = !this.paused;
     if (this.mode === "audio" && this.audio) { if (resume) void this.audio.play(); else this.audio.pause(); }
     else if (this.mode === "youtube") this.frameCmd(resume ? "play" : "pause");
@@ -147,10 +166,76 @@ export class MusicPlayer {
   }
 
   next(): void { this.step(1); }
-  prev(): void {
-    if (this.mode === "audio" && this.audio && this.audio.currentTime > 4) { this.audio.currentTime = 0; return; }
-    if (this.mode === "youtube") { this.frameCmd("seek", { t: 0 }); return; }
-    this.step(-1);
+  /** Back always selects the previous playable item. Restart has its own control. */
+  prev(): void { if (this.previousIndex() >= 0) this.step(-1); }
+  restart(): void { this.seek(0, false); }
+  seekBy(seconds: number): void { this.seek(seconds, true); }
+
+  private previousIndex(): number {
+    let i = this.index - 1;
+    while (i >= 0 && !this.canPlay(this.queue[i]!)) i--;
+    return i;
+  }
+
+  private position(): number {
+    if (this.mode === 'audio') return this.audio?.currentTime ?? 0;
+    return this.remotePosition + (!this.paused && this.remoteAt ? (Date.now() - this.remoteAt) / 1000 : 0);
+  }
+
+  private duration(): number { return this.mode === 'audio' ? this.audio?.duration ?? 0 : this.remoteDuration; }
+  private canSeek(): boolean {
+    if (this.loadingAudio || !this.mode) return false;
+    if (this.mode === 'spotify') return !!this.spotifyUri;
+    return Number.isFinite(this.duration()) && this.duration() > 0
+      && (this.mode === 'audio' ? !!this.audio?.getAttribute('src') && this.audio.readyState >= 1 : this.frameReady);
+  }
+
+  private seek(value: number, relative: boolean): void {
+    if (!Number.isFinite(value) || !this.canSeek()) return;
+    if (this.mode === 'spotify') {
+      const revision = this.startRevision, uri = this.spotifyUri;
+      this.pendingSpotifySeeks++;
+      // Serialize rapid taps so each offset is based on the completed previous seek.
+      this.spotifySeeks = this.spotifySeeks.then(async () => {
+        if (revision !== this.startRevision || this.mode !== 'spotify') return;
+        const state = await this.spotify.state();
+        if (revision !== this.startRevision || this.mode !== 'spotify') return;
+        if (!state || state.uri !== uri || !Number.isFinite(state.duration) || state.duration <= 0) {
+          new Notice('The current Spotify recording is not ready to seek.'); return;
+        }
+        const target = Math.max(0, Math.min(state.duration, (relative ? state.progress : 0) + value * 1000));
+        if (!(await this.spotify.seek(target))) { new Notice('Spotify could not move to that position.'); return; }
+        if (revision !== this.startRevision || this.mode !== 'spotify') return;
+        this.remotePosition = target / 1000; this.remoteDuration = state.duration / 1000; this.remoteAt = Date.now();
+        this.updatePlaybackUi();
+      }).catch(() => {
+        if (revision === this.startRevision) new Notice('Spotify could not move to that position.');
+      }).finally(() => { this.pendingSpotifySeeks--; });
+      return;
+    }
+    const target = Math.max(0, Math.min(this.duration(), (relative ? this.position() : 0) + value));
+    try {
+      if (this.mode === 'audio' && this.audio) this.audio.currentTime = target;
+      else if (this.mode === 'youtube') {
+        this.frameCmd('seek', { t: target });
+        this.remotePosition = target; this.remoteAt = Date.now();
+      }
+      this.updatePlaybackUi();
+    } catch { new Notice('This recording is not ready to seek yet.'); }
+  }
+
+  private updatePlaybackUi(): void {
+    const duration = this.duration(), position = Math.max(0, Math.min(duration || 0, this.position()));
+    const ready = Number.isFinite(duration) && duration > 0;
+    if (this.progress) this.progress.style.width = ready ? `${position / duration * 100}%` : '0%';
+    if (this.timeLabel) {
+      const time = (n: number) => `${Math.floor(n / 60)}:${String(Math.floor(n % 60)).padStart(2, '0')}`;
+      this.timeLabel.textContent = ready ? `${time(position)} / ${time(duration)}` : '';
+    }
+    for (const button of this.seekButtons) button.disabled = !this.canSeek();
+    try {
+      navigator.mediaSession?.setPositionState(ready ? { duration, position, playbackRate: 1 } : undefined);
+    } catch { /* position reporting is optional on older mobile WebViews */ }
   }
 
   private step(d: number): void {
@@ -164,6 +249,8 @@ export class MusicPlayer {
   }
 
   stop(): void {
+    ++this.startRevision;
+    this.loadingAudio = false;
     this.teardownEngines(true);
     if (this.audio) { this.audio.removeAttribute("src"); this.audio.load(); }
     this.queue = []; this.index = -1; this.paused = false; this.mode = null;
@@ -182,19 +269,39 @@ export class MusicPlayer {
   }
 
   private async start(it: PlayItem): Promise<void> {
+    const revision = ++this.startRevision;
+    this.loadingAudio = false;
+    this.remotePosition = 0; this.remoteDuration = 0; this.remoteAt = 0;
     const engine = this.engineFor(it);
     if (!engine) return;
     this.teardownEngines(engine !== "youtube");
     this.mode = engine; this.paused = false;
     document.body.addClass("sg-player-on");
     if (engine === "audio") {
+      if (it.resolveUrl) {
+        this.loadingAudio = true;
+        this.audio?.removeAttribute('src');
+        this.emit();
+        try {
+          const url = await it.resolveUrl();
+          if (revision !== this.startRevision) return;
+          it = { ...it, url };
+          this.loadingAudio = false;
+        } catch {
+          if (revision !== this.startRevision) return;
+          this.loadingAudio = false; this.paused = true;
+          new Notice('This part could not be downloaded. Reconnect and press play to retry.');
+          this.emit(); return;
+        }
+      }
       const a = this.audioSrc(it);
       if (!a) return;
       // the server can't give the sound (offline, or YouTube changed): the picture instead
       this.startAudio(a.src, a.fromYouTube && it.yt ? () => { this.mode = "youtube"; this.startYouTube(it.yt!); this.emit(); } : undefined);
     }
     else if (engine === "youtube") this.startYouTube(it.yt!);
-    else await this.startSpotify(it);
+    else await this.startSpotify(it, revision);
+    if (revision !== this.startRevision) return;
     this.mediaSession(it);
     this.prewarm();
     this.emit();
@@ -208,12 +315,19 @@ export class MusicPlayer {
       const art = it.art ?? (it.yt ? `https://i.ytimg.com/vi/${it.yt}/mqdefault.jpg` : undefined);
       ms.metadata = new MediaMetadata({ title: it.title, artist: it.sub, album: "Scripture Graph",
         artwork: art ? [{ src: art, sizes: "320x180", type: "image/jpeg" }] : [] });
-      ms.setActionHandler("play", () => { if (this.paused) this.toggle(); });
-      ms.setActionHandler("pause", () => { if (!this.paused) this.toggle(); });
-      ms.setActionHandler("previoustrack", () => this.prev());
-      ms.setActionHandler("nexttrack", () => this.next());
       ms.playbackState = "playing";
     } catch { /* no media session here */ }
+    const actions: Partial<Record<MediaSessionAction, MediaSessionActionHandler>> = {
+      play: () => { if (this.paused) this.toggle(); },
+      pause: () => { if (!this.paused) this.toggle(); },
+      previoustrack: () => this.prev(), nexttrack: () => this.next(),
+      seekbackward: action => this.seekBy(-(action.seekOffset ?? 15)),
+      seekforward: action => this.seekBy(action.seekOffset ?? 15),
+      seekto: action => { if (action.seekTime !== undefined) this.seek(action.seekTime, false); },
+    };
+    for (const [action, handler] of Object.entries(actions)) {
+      try { ms.setActionHandler(action as MediaSessionAction, handler!); } catch { /* support varies by action */ }
+    }
   }
 
   // ------------------------------------------------------------- audio
@@ -228,16 +342,33 @@ export class MusicPlayer {
     const a = new Audio();
     a.preload = "auto";
     a.setAttribute("playsinline", "true");
-    a.onended = () => { if (this.mode === "audio" && this.audio === a) this.step(1); };
+    a.onended = () => { if (this.mode === "audio" && !this.paused && !this.loadingAudio && this.audio === a) this.step(1); };
     a.onerror = () => {
       if (this.mode !== "audio" || this.audio !== a || !a.getAttribute("src")) return;
       const fb = this.audioFallback; this.audioFallback = null;
       if (fb) { fb(); return; }
+      if (this.current()?.resolveUrl) {
+        a.pause(); a.removeAttribute('src'); this.paused = true;
+        new Notice('This part would not play. Press play to retry.'); this.emit(); return;
+      }
       new Notice("That recording would not play."); this.step(1);
     };
-    a.ontimeupdate = () => { if (this.audio === a && this.progress && a.duration) this.progress.style.width = `${(a.currentTime / a.duration) * 100}%`; };
+    const update = () => { if (this.audio === a && this.mode === 'audio') this.updatePlaybackUi(); };
+    a.ontimeupdate = update; a.onloadedmetadata = update; a.ondurationchange = update; a.onseeked = update;
     this.audio = a;
     return a;
+  }
+
+  /** Unlock the same audio element during the headphone tap, before any
+   * network await. iOS can then use it for downloaded and subsequent parts. */
+  prepareAudioGesture(): void {
+    if (this.audio) return;
+    const a = this.audioEl();
+    const silence = 'data:audio/wav;base64,UklGRiYAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQIAAAAAAA==';
+    a.src = silence;
+    void a.play().then(() => {
+      if (a.src === silence) { a.pause(); a.removeAttribute('src'); }
+    }).catch(() => { /* the visible play button remains available */ });
   }
 
   private startAudio(url: string, fallback?: () => void): void {
@@ -255,7 +386,9 @@ export class MusicPlayer {
     const next = this.queue[this.index + 1];
     if (!next?.yt || !next.preferVideo || next.video || !this.opts.serverUrl() || !this.opts.youtubeEnabled()) return;
     const base = this.opts.serverUrl().replace(/\/$/, "");
-    void requestUrl({ url: `${base}/yt/audio/ready?v=${encodeURIComponent(next.yt)}`, throw: false }).catch(() => { /* later, then */ });
+    const token = this.opts.deviceToken?.();
+    void requestUrl({ url: `${base}/yt/audio/ready?v=${encodeURIComponent(next.yt)}`, throw: false,
+      headers: token ? { Authorization: `Bearer ${token}` } : {} }).catch(() => { /* later, then */ });
   }
 
   // ----------------------------------------------------------- youtube
@@ -281,33 +414,41 @@ export class MusicPlayer {
     if (!this.frame || ev.source !== this.frame.contentWindow) return;
     const m = ev.data as { sg?: string; type?: string; state?: number; t?: number; d?: number; code?: number };
     if (!m || m.sg !== "yt") return;
-    if (m.type === "ready") { this.frameReady = true; return; }
+    if (m.type === "ready") { this.frameReady = true; this.updatePlaybackUi(); return; }
     if (this.mode !== "youtube") return;
     if (m.type === "error") { new Notice(`YouTube couldn't play that one (error ${m.code}).`); this.step(1); return; }
     if (m.type === "state") {
       if (m.state === 0) this.step(1);                                   // ended
-      else if (m.state === 1 && this.paused) { this.paused = false; this.emit(); }
-      else if (m.state === 2 && !this.paused) { this.paused = true; this.emit(); }
+      else if (m.state === 1 && this.paused) { this.remoteAt = Date.now(); this.paused = false; this.emit(); }
+      else if (m.state === 2 && !this.paused) { this.remotePosition = this.position(); this.remoteAt = Date.now(); this.paused = true; this.emit(); }
     }
-    if (m.type === "time" && this.progress && m.d) this.progress.style.width = `${((m.t ?? 0) / m.d) * 100}%`;
+    if (m.type === 'time' && Number.isFinite(m.t) && Number.isFinite(m.d) && m.d! > 0) {
+      this.remotePosition = m.t!; this.remoteDuration = m.d!; this.remoteAt = Date.now(); this.updatePlaybackUi();
+    }
   };
 
   // ----------------------------------------------------------- spotify
-  private async startSpotify(it: PlayItem): Promise<void> {
+  private async startSpotify(it: PlayItem, revision: number): Promise<void> {
     const uri = await this.spotify.find(it.searchQuery);
+    if (revision !== this.startRevision) return;
     if (!uri) { new Notice(`Spotify has no match for "${it.title}".`); this.step(1); return; }
     const ok = await this.spotify.play(uri);
+    if (revision !== this.startRevision) return;
     if (!ok) { this.mode = null; document.body.removeClass("sg-player-on"); this.emit(); return; }
     this.spotifyUri = uri; this.spotifySeen = false;
+    void this.pollSpotify();
     this.spotifyPoll = window.setInterval(() => void this.pollSpotify(), 4000);
   }
   private async pollSpotify(): Promise<void> {
-    if (this.mode !== "spotify") return;
+    if (this.mode !== "spotify" || this.pendingSpotifySeeks) return;
+    const revision = this.startRevision;
     const st = await this.spotify.state();
-    if (!st) return;
+    if (!st || revision !== this.startRevision || this.mode !== 'spotify' || this.pendingSpotifySeeks) return;
     if (st.uri === this.spotifyUri && st.playing) this.spotifySeen = true;
-    if (this.progress && st.duration) this.progress.style.width = `${(st.progress / st.duration) * 100}%`;
-    if (this.spotifySeen && ((!st.playing && st.progress === 0) || (st.uri !== this.spotifyUri && st.playing))) this.step(1);
+    if (st.uri === this.spotifyUri) {
+      this.remotePosition = st.progress / 1000; this.remoteDuration = st.duration / 1000; this.remoteAt = Date.now(); this.updatePlaybackUi();
+    }
+    if (this.spotifySeen && !this.paused && ((!st.playing && st.progress === 0) || (st.uri !== this.spotifyUri && st.playing))) this.step(1);
   }
 
   /** the ⋯ on a row */
@@ -407,6 +548,7 @@ export class MusicPlayer {
     const bar = this.bar;
     if (!bar) return;
     bar.empty();
+    this.seekButtons = []; this.timeLabel = null;
     const it = this.current();
     if (!it || !this.mode) { bar.parentElement?.hide(); this.opts.onChange?.(); return; }
     bar.parentElement?.show();
@@ -431,22 +573,31 @@ export class MusicPlayer {
 
     const meta = bar.createDiv({ cls: "sg-player-meta" });
     meta.createDiv({ cls: "sg-player-title", text: it.title });
-    meta.createDiv({ cls: "sg-player-sub", text: this.mode === "spotify" ? "Playing on Spotify" : yt ? (this.tucked ? "Tap the picture to show the video" : "Tap to enlarge the video") : it.sub });
+    meta.createDiv({ cls: "sg-player-sub", text: this.loadingAudio ? 'Loading this part…' : this.mode === "spotify" ? "Playing on Spotify" : yt ? (this.tucked ? "Tap the picture to show the video" : "Tap to enlarge the video") : it.sub });
+    this.timeLabel = meta.createDiv({ cls: 'sg-player-time' });
     if (yt) meta.onclick = () => { if (this.tucked) this.setTucked(false); else bar.parentElement?.toggleClass("sg-player-big", !bar.parentElement.hasClass("sg-player-big")); };
     else if (it.open) meta.onclick = it.open;
 
     const btn = (icon: string, cls: string, label: string, fn: () => void) => {
-      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, attr: { "aria-label": label } });
+      const b = bar.createEl("button", { cls: `sg-player-btn ${cls}`, attr: { "aria-label": label, title: label, type: 'button' } });
       setIcon(b, icon);
       b.onclick = (e) => { e.stopPropagation(); fn(); };
       return b;
     };
     const ctl = bar.createDiv({ cls: "sg-player-ctl" });
-    const inCtl = (icon: string, cls: string, label: string, fn: () => void) => { const b = btn(icon, cls, label, fn); ctl.appendChild(b); return b; };
-    inCtl("skip-back", "", "Previous", () => this.prev());
+    const inCtl = (icon: string, cls: string, label: string, fn: () => void, caption?: string) => {
+      const b = btn(icon, cls, label, fn); ctl.appendChild(b);
+      if (caption) b.createSpan({ cls: 'sg-player-caption', text: caption });
+      return b;
+    };
+    inCtl("skip-back", "", it.id.startsWith('family:') ? 'Previous part' : 'Previous track', () => this.prev(), 'Back').disabled = this.previousIndex() < 0;
+    this.seekButtons.push(inCtl('rewind', 'sg-player-seek', 'Back 15 seconds', () => this.seekBy(-15), '−15s'));
     inCtl(this.paused ? "play" : "pause", "sg-player-main", this.paused ? "Play" : "Pause", () => this.toggle());
-    inCtl("skip-forward", "", "Next", () => this.next());
+    this.seekButtons.push(inCtl('fast-forward', 'sg-player-seek', 'Forward 15 seconds', () => this.seekBy(15), '+15s'));
+    inCtl("skip-forward", "", it.id.startsWith('family:') ? 'Next part' : 'Next track', () => this.next(), 'Next');
+    this.seekButtons.push(inCtl('rotate-ccw', '', 'Restart current recording', () => this.restart(), 'Restart'));
     btn("x", "sg-player-x", "Stop", () => this.stop());
+    this.updatePlaybackUi();
     this.opts.onChange?.();
   }
 }

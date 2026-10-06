@@ -2,6 +2,7 @@
  * device-local state (secrets + personal data, in localStorage — NEVER in
  * data.json because Obsidian Sync replicates data.json to every vault user). */
 import { requestUrl, type App, type Plugin } from "obsidian";
+import { familyServerAddress } from "./social/joinServer";
 import {
   ApiClient, Budget, SyncEngine, WebStorage,
   type Annotation, type FetchLike, type ModelInfo, type Tier, type AiTask,
@@ -44,9 +45,15 @@ export const DEFAULT_SHARED: SharedSettings = {
 
 /** Device-local (secret or personal) state. */
 export interface DeviceState {
+  /** One-time dark mode + page-matched background rollout. */
+  appearanceDefaultsVersion?: number;
   deviceToken: string | null;
   userId: string | null;
   displayName: string | null;
+  familyPersonId?: string | null;
+  familyProfileUserId?: string | null;
+  familySpouseId?: string | null;
+  familySpouseLabel?: 'wife' | 'husband' | 'spouse' | null;
   openrouterKey: string | null;
   aiTier: Tier;
   aiSpecificModel: string | null;
@@ -72,7 +79,7 @@ export interface DeviceState {
   /** show the AI Library folder in the file explorer (power users only;
    * off keeps family devices from ever wandering in — links still work) */
   showAiLibrary: boolean;
-  /** the bottom dock on phones (GL's bar); false hides it */
+  /** the bottom navigation dock on this device; false hides it */
   dock?: boolean;
   /** how many times "Another" has stepped the Did-you-notice card forward */
   insightStep?: number;
@@ -87,9 +94,11 @@ export interface DeviceState {
   /** this listener's Spotify sign-in */
   spotify?: { access: string; refresh: string; expires: number } | null;
   /** vault sync: on/off, which shelves this device carries, how often */
-  sync?: { enabled?: boolean; sections?: Record<string, boolean>; intervalMin?: number };
+  sync?: { enabled?: boolean; sections?: Record<string, boolean>; intervalMin?: number; pins?: string[]; pruneDays?: number };
   /** ambient reading scene: "none" | "auto" | "match" | scene id */
   scene: string;
+  sceneCacheMB?: number;
+  backgroundVisibility?: number;
   /** the scene "match" last chose, so a relaunch on a non-chapter page
    * keeps it instead of falling back to the first scene in the list */
   lastMatchedScene?: string;
@@ -97,11 +106,17 @@ export interface DeviceState {
   tlDepth: 1 | 2;
   /** timeline zoom stop (spacing × detail); 1 = the classic layout */
   tlZoom?: number;
+  tlPresentation?: 'cards' | 'map';
+  tlWorldTheme?: 'midnight' | 'parchment' | 'forest';
   /** timelines you built yourself — a name plus the subjects it overlaps
    * (mirrors timelineView's Subject shape; typed inline so state imports no study code) */
-  myTimelines?: { name: string; subjects: { kind: "people" | "places" | "things"; name: string }[] }[];
+  myTimelines?: { name: string; subjects: import('./study/timelineSubjects').Subject[] }[];
   /** swipe left/right on a reading page turns the chapter (mobile) */
   swipeNav: boolean;
+  /** reading text size, 1 = the app default (0.7–1.8) */
+  readScale: number;
+  /** reading font family, null = the app default */
+  readFont: string | null;
 }
 
 export const DEFAULT_DEVICE: DeviceState = {
@@ -123,9 +138,11 @@ export const DEFAULT_DEVICE: DeviceState = {
   lastChapter: null,
   recentChapters: [],
   showAiLibrary: false,
-  scene: "none",
+  scene: "match",
   tlDepth: 2,
   swipeNav: true,
+  readScale: 1,
+  readFont: null,
 };
 
 export interface SocialAnnotation extends Annotation { author_name?: string }
@@ -171,12 +188,49 @@ export class SGState {
       this.api.setCandidates(this.device.serverUrls);
       void this.saveDevice();
     };
-    this.api.onSwitched = (url) => { this.notify(); console.info("scripture-graph: reached the server at", url); };
+    this.api.onSwitched = (url) => { void this.adoptServerUrl(url); console.info("scripture-graph: reached the server at", url); };
+  }
+
+  /** Every saved address is dead — the tunnel moved. Ask where the laptop is
+   * answering now, adopt it, and keep it for next time. Returns the address
+   * when it changed, null when there was nothing new to find. At most one
+   * lookup every ten minutes, so a phone with no signal does not hammer it. */
+  /** The address that answered becomes the one this vault starts from, so a
+   * device recovers once rather than timing out against a dead address on
+   * every launch. */
+  private async adoptServerUrl(url: string): Promise<void> {
+    if (this.settings.serverUrl !== url) {
+      this.applySettings({ serverUrl: url });
+      const save = (this.plugin as unknown as { saveSharedSettings?: () => Promise<void> }).saveSharedSettings;
+      if (typeof save === 'function') { try { await save.call(this.plugin); } catch { /* read-only vault: the candidate list still carries it */ } }
+    }
+    this.notify();
+  }
+
+  private rediscoveredAt = 0;
+  async rediscoverServer(read?: (url: string) => Promise<unknown>): Promise<string | null> {
+    if (Date.now() - this.rediscoveredAt < 600_000) return null;
+    this.rediscoveredAt = Date.now();
+    const fetchJson = read ?? (async (url: string) => {
+      const res = await requestUrl({ url, method: 'GET', throw: false });
+      if (res.status !== 200) throw new Error(`Lookup failed (${res.status})`);
+      return res.json as unknown;
+    });
+    const found = await familyServerAddress(fetchJson);
+    const known = this.device.serverUrls ?? [];
+    if (found === this.api.baseUrl && known.includes(found)) return null;
+    this.device.serverUrls = [...new Set([found, ...known])].slice(-8);
+    await this.saveDevice();
+    this.api.baseUrl = found;
+    this.api.setCandidates(this.device.serverUrls);
+    await this.adoptServerUrl(found);
+    return found;
   }
 
   async loadDevice(): Promise<void> {
     const d = await this.store.get<DeviceState>("device");
     if (d) this.device = { ...DEFAULT_DEVICE, ...d };
+    this.api.setCandidates(this.device.serverUrls ?? []);
     this.api.setToken(this.device.deviceToken);
   }
 

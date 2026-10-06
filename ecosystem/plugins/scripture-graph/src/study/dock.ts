@@ -14,7 +14,7 @@
  *     ribbon menu — the two things the old bar had that this one folds away.
  * Everything here calls surfaces that already exist; the dock is a door,
  * not a room. */
-import { App, Modal, Notice, Platform, TFile, TFolder, requestUrl } from "obsidian";
+import { App, Modal, Notice, Platform, TFile, TFolder, requestUrl, type EventRef } from "obsidian";
 import { chapterIdFromTitle, parseCanonicalVerses, parseFrontmatter } from "@scripture-graph/core-sdk";
 import type { Annotation } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
@@ -23,11 +23,16 @@ import { NotebookModal, exportJournal, notebooks } from "./notebooks";
 import { releaseKeyboard } from "./libraryView";
 import { trace } from "./trace";
 import { isTalk } from "./youtubeFind";
+import { familyStoryId } from './familyNarration';
+import type { BookmarkControls } from './bookmarkControls';
 
 export interface DockHost {
   openHome: () => void;
   openLibrary: () => void;
   openSearch: () => void;
+  /** My highlights & notes; optional so older hosts still mount the dock */
+  openMarks?: () => void;
+  openAsk: () => void;
   openTabs: () => void;
   tabsMenu: (evt: MouseEvent) => void;
   ribbonMenu: (evt: MouseEvent) => void;
@@ -35,6 +40,10 @@ export interface DockHost {
   openPath: (path: string) => void;
   /** the page under the dock right now (a note, or a page view's file) */
   currentPage: () => TFile | null;
+  bookmarkControls: BookmarkControls;
+  /** every bookmark (holding the bookmark button, or tapping it on a shelf) */
+  openBookmarks: () => void;
+  bookmarkOf: (file: TFile) => Promise<Annotation | null>;
   bookmark: (file: TFile) => Promise<void>;
   unbookmark: (a: Annotation) => Promise<void>;
   /** this week's Come Follow Me key, for the Home badge */
@@ -45,6 +54,8 @@ export interface DockHost {
   /** the video window: playing, paused, or nothing */
   videoState?: () => "playing" | "paused" | null;
   toggleVideo?: () => void;
+  listenFamily?: (file: TFile) => Promise<void>;
+  familyAudioState?: (file: TFile | null) => 'playing' | 'paused' | null;
   openNote: (link: string) => void;
 }
 
@@ -66,6 +77,20 @@ export class Dock {
   private slots = new Map<string, HTMLElement>();
   private listen = new Listener();
   private listenBtn: HTMLElement | null = null;
+  private drawerObserver: MutationObserver | null = null;
+  private drawerEvent: EventRef | null = null;
+  private drawerFrame = 0;
+
+  private syncDrawerVisibility = () => {
+    const ws = this.s.app.workspace;
+    const open = Platform.isMobile && (!ws.leftSplit.collapsed || !ws.rightSplit.collapsed);
+    this.el?.toggleClass("sg-dock-sidebar-open", open);
+  };
+
+  private scheduleDrawerVisibility = () => {
+    cancelAnimationFrame(this.drawerFrame);
+    this.drawerFrame = requestAnimationFrame(this.syncDrawerVisibility);
+  };
 
   constructor(private s: SGState, private host: DockHost) {}
 
@@ -83,7 +108,9 @@ export class Dock {
     this.homeBadge = home.createSpan({ cls: "sg-dock-dot" });
     this.slot(bar, "library", ICON.library, "Library", () => this.host.openLibrary());
     this.slot(bar, "search", ICON.search, "Search", () => this.host.openSearch());
-    this.slot(bar, "saved", ICON.saved, "Saved", () => new SavedModal(this.s, this.host).open());
+    this.slot(bar, "ai", ICON.ai, "Ask AI", () => this.host.openAsk());
+    const bookmark = this.slot(bar, "saved", ICON.saved, "Bookmark this page", () => void this.host.bookmarkControls.toggle());
+    this.host.bookmarkControls.mountButton(bookmark as HTMLButtonElement, () => this.host.openBookmarks());
     const tabs = this.slot(bar, "tabs", ICON.tabs, "Tabs", () => this.host.openTabs());
     this.tabsCount = tabs.createSpan({ cls: "sg-dock-count" });
     longPress(tabs, e => this.host.tabsMenu(e));
@@ -93,13 +120,31 @@ export class Dock {
     this.el = el;
     document.body.addClass("sg-dock-on");
     document.addEventListener("sg-dock-refresh", this.onRefresh);
+    if (Platform.isMobile) {
+      const ws = this.s.app.workspace;
+      this.drawerEvent = ws.on("layout-change", this.scheduleDrawerVisibility);
+      this.drawerObserver = new MutationObserver(this.scheduleDrawerVisibility);
+      // Swipe transitions can change drawer styles without a layout event.
+      // The dock is outside this container, so updating it cannot retrigger this observer.
+      this.drawerObserver.observe(ws.containerEl, { attributes: true, subtree: true, attributeFilter: ["class", "style"] });
+    }
+    this.syncDrawerVisibility();
     this.refresh();
   }
 
   private onRefresh = () => this.refresh();
 
+  /** Continue reading, notebooks, flashcards and trails (reached from Bookmarks). */
+  openSaved(): void { new SavedModal(this.s, this.host).open(); }
+
   unmount(): void {
+    this.host.bookmarkControls.unmountButton();
     document.removeEventListener("sg-dock-refresh", this.onRefresh);
+    this.drawerObserver?.disconnect();
+    this.drawerObserver = null;
+    if (this.drawerEvent) this.s.app.workspace.offref(this.drawerEvent);
+    this.drawerEvent = null;
+    cancelAnimationFrame(this.drawerFrame);
     this.listen.stop();
     this.el?.remove();
     this.el = null;
@@ -109,6 +154,8 @@ export class Dock {
   /** what is lit, whether ‹ has anywhere to go, how many tabs */
   refresh(): void {
     if (!this.el) return;
+    void this.host.bookmarkControls.refresh();
+    this.syncDrawerVisibility();
     try {
       const ws = this.s.app.workspace;
       const leaf = ws.activeLeaf;           // may be null before the first page
@@ -117,7 +164,7 @@ export class Dock {
       this.backBtn?.toggleClass("sg-dock-back-on", !!h?.backHistory?.length);
       const f = ws.getActiveFile();
       const lib = leaf?.view as { dockSlot?: () => string } | undefined;
-      const lit = type === "sg-library" ? (lib?.dockSlot?.() ?? "library")
+      const lit = type === "scripture-graph-ask" ? "ai" : type === "sg-library" ? (lib?.dockSlot?.() ?? "library")
         : type === "markdown" && !!f && f.path.startsWith(PERSONAL_PREFIX) && f.basename === "Study Hub" ? "home" : "";
       for (const [k, b] of this.slots) b.toggleClass("sg-dock-on-slot", k === lit);
       let n = 0;
@@ -132,16 +179,17 @@ export class Dock {
       });
       const page = this.host.currentPage();
       const video = this.host.videoState?.() ?? null;
-      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing || video === "playing");
+      this.listenBtn?.toggleClass("sg-dock-round-on", this.listen.playing || video === "playing"
+        || this.host.familyAudioState?.(page) === 'playing');
       this.listenBtn?.toggleClass("sg-dock-round-off",
-        !this.listen.canRead(this.s.app, page) && !(page && isTalk(this.s.app, page)) && !video);
+        !familyStoryId(this.s.app, page) && !this.listen.canRead(this.s.app, page) && !(page && isTalk(this.s.app, page)) && !video);
     } catch (e) {
       console.warn("scripture-graph: dock refresh", e);
     }
   }
 
   private slot(bar: HTMLElement, key: string, icon: string, label: string, onTap: () => void): HTMLElement {
-    const b = bar.createEl("button", { cls: `sg-dock-slot sg-dock-${key}`, attr: { "aria-label": label } });
+    const b = bar.createEl("button", { cls: `sg-dock-slot sg-dock-${key}`, attr: { "aria-label": label, title: label } });
     b.innerHTML = icon;
     b.onclick = (e) => { e.preventDefault(); releaseKeyboard(); trace("dock.tap", { key }); onTap(); };
     this.slots.set(key, b);
@@ -152,9 +200,14 @@ export class Dock {
    * to pause, again to resume); a chapter is read aloud; anything else with
    * a Church recording streams it */
   private toggleListen(): void {
+    const page = this.host.currentPage();
+    if (page && familyStoryId(this.s.app, page) && this.host.listenFamily) {
+      this.listen.stop();
+      void this.host.listenFamily(page).finally(() => this.refresh());
+      return;
+    }
     if (this.listen.playing) { this.listen.stop(); this.refresh(); return; }
     if (this.host.videoState?.() === "playing") { this.host.toggleVideo?.(); this.refresh(); return; }
-    const page = this.host.currentPage();
     if (page && this.host.playVideo && isTalk(this.s.app, page)) {
       const finding = new Notice("Finding the video…", 0);
       void this.host.playVideo(page).then(ok => {
@@ -295,7 +348,7 @@ class Listener {
 
 // ------------------------------------------------------------- 🔖 saved
 
-/** bookmarks, study trails, flashcards due, recent chapters — one sheet */
+/** recent chapters, notebooks, flashcards due, study trails — one sheet (bookmarks have their own) */
 class SavedModal extends Modal {
   constructor(private s: SGState, private host: DockHost) { super(s.app); }
 
@@ -303,10 +356,8 @@ class SavedModal extends Modal {
     this.modalEl.addClass("sg-lib-modal");
     const c = this.contentEl;
     c.addClass("sg-saved");
-    c.createEl("h2", { text: "Saved" });
+    c.createEl("h2", { text: "Continue & study" });
     const all = await this.s.sync.allAnnotations();
-    const marks = all.filter(a => !a.deleted_at && a.annotation_type === "bookmark")
-      .sort((a, b) => b.created_at.localeCompare(a.created_at));
     const due = all.filter(a => {
       if (a.deleted_at || a.annotation_type !== "study-marker") return false;
       try { return (JSON.parse(a.content) as { card: { due: string } }).card.due <= new Date().toISOString(); }
@@ -333,18 +384,9 @@ class SavedModal extends Modal {
       }
     };
 
-    // the page you came from: one tap to keep it
-    const here = this.host.currentPage();
-    if (here) {
-      const mine = marks.find(m => new RegExp(`\\[\\[${here.basename.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\]|\\|)`).test(m.content));
-      const keep = c.createEl("button", { cls: "sg-saved-keep",
-        text: mine ? `✕ Remove bookmark on “${here.basename}”` : `🔖 Bookmark “${here.basename}”` });
-      keep.toggleClass("sg-saved-keep-off", !!mine);
-      keep.onclick = () => {
-        const done = () => { this.close(); new SavedModal(this.s, this.host).open(); };
-        if (mine) void this.host.unbookmark(mine).then(done);
-        else void this.host.bookmark(here).then(done);
-      };
+    if (this.host.openMarks) {
+      const marks = c.createDiv({ cls: "sg-nav-list" });
+      row(marks, "🖍", "My highlights & notes", "Every mark you have made, in one place", () => this.host.openMarks!());
     }
 
     sect("Continue");
@@ -354,15 +396,6 @@ class SavedModal extends Modal {
     for (const r of recent.slice(0, 4)) {
       row(list0, "📖", r.title, new Date(r.at).toLocaleDateString(),
         () => this.host.openPath(`${r.title} - My Notes`));
-    }
-
-    sect(`Bookmarks${marks.length ? ` · ${marks.length}` : ""}`);
-    const list1 = c.createDiv({ cls: "sg-nav-list" });
-    if (!marks.length) list1.createDiv({ cls: "sg-nav-empty", text: "Nothing bookmarked yet — use the button above on any page." });
-    for (const m of marks.slice(0, 40)) {
-      const title = /\[\[([^\]|]+)/.exec(m.content)?.[1] ?? m.anchor_id;
-      row(list1, "🔖", title, new Date(m.created_at).toLocaleDateString(), () => this.host.openPath(title),
-        () => void this.host.unbookmark(m));
     }
 
     const nbs = await notebooks(this.s);
@@ -402,6 +435,7 @@ class SavedModal extends Modal {
 
 // ------------------------------------------------------------- icons (GL's line style)
 const ICON = {
+  ai: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.6 6.4L21 12l-6.4 2.6L12 21l-2.6-6.4L3 12l6.4-2.6Z"/><path d="M20 2v4M18 4h4"/></svg>`,
   home: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v10h13V10"/><path d="M10 20v-6h4v6"/></svg>`,
   library: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4" width="4" height="16" rx="0.8"/><rect x="9.5" y="4" width="4" height="16" rx="0.8"/><path d="m15.5 5.2 3.9-.9 3.1 14.6-3.9.9z"/><path d="M3.5 8h4M9.5 8h4"/></svg>`,
   search: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6"/><path d="m15.5 15.5 5 5"/></svg>`,

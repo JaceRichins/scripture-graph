@@ -7,7 +7,7 @@
  * so node can test it.
  */
 import type { App } from "obsidian";
-import { BOOKS } from "@scripture-graph/core-sdk";
+import { BOOKS, matchSearchTitle, searchTerms } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX } from "../state";
 
 // ------------------------------------------------------------ normalization
@@ -118,7 +118,8 @@ export function buildSearchIndex(
     const pages: PageRecord[] = [];
     for (const f of all) {
       if (!f.path.startsWith(LIBRARY_PREFIX)) continue;
-      if (f.path.includes("01 Scriptures/")) continue;
+      if (f.path.includes("01 Scriptures/") && !f.path.startsWith('AI Library/01 Scriptures/Book of Enoch/')) continue;
+      if (f.path.includes('/Full Text/') || f.path.includes('/00 System/')) continue;
       if (f.basename.startsWith("_")) continue;
       const fm = app.metadataCache.getFileCache(f)?.frontmatter;
       const raw = fm?.["aliases"] as unknown;
@@ -208,7 +209,7 @@ export function scoreTokens(tokens: string[], qtokens: string[], prefixOk: boole
       if (tokenMatches(t, q, isLast, prefixOk)) { present++; break; }
     }
   }
-  const need = n >= 2 ? Math.ceil(n / 2) : 1;
+  const need = n;
   if (present < need) return { tier: 9, score: 0 };
   const tier = present === n ? 2 : 3;
   // smallest window over the tokens we do have (one scan, last-seen per token)
@@ -270,7 +271,8 @@ export function scoreText(norm: string, tokens: string[], qnorm: string, qtokens
 /** Titles get the verse machinery plus a strong starts-with bonus;
  * an exact title is unbeatable. */
 export function scoreTitle(title: string, qnorm: string, qtokens: string[]): Scored {
-  return scoreTitleParts(normalize(title), tokenize(title), qnorm, qtokens);
+  const match = matchSearchTitle(title, qnorm);
+  return match ? { tier: match.corrected ? 2 : 1, score: match.score } : { tier: 9, score: 0 };
 }
 
 export function scoreTitleParts(norm: string, tokens: string[], qnorm: string, qtokens: string[]): Scored {
@@ -388,17 +390,18 @@ const byRank = (a: Scored, b: Scored) => a.tier - b.tier || b.score - a.score;
 
 export function smartSearch(q: string, index: SearchIndex): SearchResults {
   const qnorm = normalize(q);
-  const qtokens = tokenize(q);
+  const qtokens = searchTerms(q).map(stem);
   const out: SearchResults = { verses: [], pages: [], chapters: [] };
   if (!qtokens.length) return out;
   const ref = parseReference(q);
+  const exactPhrase = /^".*"$/.test(q.trim());
   if (ref) out.reference = ref;
 
   // verses — score the whole canon, keep the best, snippet only the winners
   const vhits: { rec: VerseRecord; tier: number; score: number }[] = [];
   for (const rec of index.verses) {
     const s = scoreText(rec.norm, rec.tokens, qnorm, qtokens);
-    if (s.tier < 9) vhits.push({ rec, tier: s.tier, score: s.score });
+    if (s.tier < 9 && (!exactPhrase || s.tier === 1)) vhits.push({ rec, tier: s.tier, score: s.score });
   }
   vhits.sort(byRank);
   for (const h of vhits.slice(0, 8)) {
@@ -412,9 +415,9 @@ export function smartSearch(q: string, index: SearchIndex): SearchResults {
   // pages — best of title and every alias
   const phits: { rec: PageRecord; tier: number; score: number }[] = [];
   for (const rec of index.pages) {
-    let best: Scored = scoreTitle(rec.title, qnorm, qtokens);
+    let best: Scored = scoreTitle(rec.title, q, qtokens);
     for (const a of rec.aliases) {
-      const s = scoreTitle(a, qnorm, qtokens);
+      const s = scoreTitle(a, q, qtokens);
       if (byRank(s, best) < 0) best = s;
     }
     if (best.tier < 9) phits.push({ rec, tier: best.tier, score: best.score });

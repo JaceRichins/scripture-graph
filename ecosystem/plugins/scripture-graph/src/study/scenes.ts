@@ -1,9 +1,9 @@
-/** Ambient reading scenes v3 — eleven living worlds with real depth.
- *
- * Art is generated locally (seeded SVG silhouettes: ridgelines, city walls,
- * temple colonnades, wheat, waves) and layered with parallax drift, light,
- * weather, and particles — transform/opacity motion only, reduced-motion
- * honored, readability guaranteed by per-scene scrim + ink palette. */
+/** Photographic reading worlds, backed by the managed device cache and a
+ * small embedded offline collection. Shared scrims keep scripture readable. */
+
+import { sceneArtworkUrl } from './sceneArt';
+import { SCENE_PHOTOS } from './scenePhotos';
+import { wideScene, type SceneCache } from './sceneCache';
 
 export interface SceneDef {
   id: string;
@@ -14,6 +14,87 @@ export interface SceneDef {
 }
 
 export const SCENES: SceneDef[] = [
+  { id: "emmaus-road", name: "Road to Emmaus", emoji: "🛤️", hours: [], layers: 1 },
+  { id: "bethany-courtyard", name: "Bethany Courtyard", emoji: "🏺", hours: [], layers: 1 },
+  { id: "cana-feast", name: "Wedding at Cana", emoji: "🍇", hours: [], layers: 1 },
+  { id: "nazareth-workshop", name: "Nazareth Workshop", emoji: "🪵", hours: [], layers: 1 },
+  { id: "bethesda-pool", name: "Pool of Bethesda", emoji: "💧", hours: [], layers: 1 },
+  { id: "siloam-steps", name: "Steps of Siloam", emoji: "🪨", hours: [], layers: 1 },
+  { id: "galilee-moonrise", name: "Galilee Moonrise", emoji: "🌙", hours: [], layers: 1 },
+  { id: "mustard-garden", name: "The Mustard Seed", emoji: "🌱", hours: [], layers: 1 },
+  { id: "lilies-field", name: "Lilies of the Field", emoji: "🌸", hours: [], layers: 1 },
+  { id: "sower-furrows", name: "The Sower’s Field", emoji: "🌾", hours: [], layers: 1 },
+  { id: "jericho-palms", name: "Palms of Jericho", emoji: "🌴", hours: [], layers: 1 },
+  { id: "sinai-starlight", name: "Sinai Under Stars", emoji: "✨", hours: [], layers: 1 },
+  { id: "horeb-cave", name: "The Still Small Voice", emoji: "🕊️", hours: [], layers: 1 },
+  { id: "tabernacle-dawn", name: "Tabernacle at Dawn", emoji: "⛺", hours: [], layers: 1 },
+  { id: "ruth-harvest", name: "Ruth’s Harvest", emoji: "🧺", hours: [], layers: 1 },
+  { id: "esther-garden", name: "Esther’s Garden", emoji: "🌺", hours: [], layers: 1 },
+  { id: "daniel-window", name: "Daniel’s Window", emoji: "🪟", hours: [], layers: 1 },
+  { id: "psalm-waterfall", name: "Deep Calls to Deep", emoji: "🏞️", hours: [], layers: 1 },
+  { id: "salt-sea-dawn", name: "Salt Sea Dawn", emoji: "🌅", hours: [], layers: 1 },
+  { id: "hermon-snow", name: "Snow on Hermon", emoji: "🏔️", hours: [], layers: 1 },
+  { id: "bountiful-coast", name: "Bountiful Coast", emoji: "🐚", hours: [], layers: 1 },
+  { id: "cumorah-morning", name: "Cumorah Morning", emoji: "🌿", hours: [], layers: 1 },
+  { id: "nahom-canyon", name: "Wilderness Canyon", emoji: "🏜️", hours: [], layers: 1 },
+  { id: "zarahemla-river", name: "River at Zarahemla", emoji: "🦜", hours: [], layers: 1 },
+  { id: "liberty-window", name: "Light in Liberty", emoji: "🕯️", hours: [], layers: 1 },
+  { id: "nauvoo-riverside", name: "Nauvoo Riverside", emoji: "🍂", hours: [], layers: 1 },
+  { id: "pioneer-meadow", name: "Pioneer Meadow", emoji: "🌼", hours: [], layers: 1 },
+  { id: "autumn-sanctuary", name: "Autumn Sanctuary", emoji: "🍁", hours: [], layers: 1 },
+  { id: "rain-study", name: "Rainy Day Study", emoji: "🌧️", hours: [], layers: 1 },
+  { id: "winter-hearth", name: "Winter Hearth", emoji: "🔥", hours: [], layers: 1 },
+  { id: 'alma-angel', name: 'Alma and the Angel', emoji: '✨', hours: [], layers: 1 },
+  { id: 'prison-deliverance', name: 'Alma and Amulek Delivered', emoji: '🪨', hours: [], layers: 1 },
+  { id: 'nephi-lehi-fire', name: 'Nephi and Lehi Encircled by Fire', emoji: '🔥', hours: [], layers: 1 },
+  { id: 'night-without-darkness', name: 'The Night Without Darkness', emoji: '⭐', hours: [], layers: 1 },
+  { id: 'tree-of-life', name: 'Lehi’s Tree of Life', emoji: '🌳', hours: [], layers: 1 },
+  { id: 'liahona', name: 'The Liahona', emoji: '🧭', hours: [], layers: 1 },
+  { id: 'nephi-ship', name: 'Nephi Builds a Ship', emoji: '🪵', hours: [], layers: 1 },
+  { id: 'ocean-voyage', name: 'Voyage to the Promised Land', emoji: '⛵', hours: [], layers: 1 },
+  { id: 'enos-prayer', name: 'Enos Prays', emoji: '🙏', hours: [], layers: 1 },
+  { id: 'king-benjamin', name: 'King Benjamin’s Address', emoji: '🗼', hours: [], layers: 1 },
+  { id: 'abinadi-testimony', name: 'Abinadi’s Testimony', emoji: '📜', hours: [], layers: 1 },
+  { id: 'ammon-flocks', name: 'Ammon at Sebus', emoji: '🐑', hours: [], layers: 1 },
+  { id: 'title-liberty', name: 'The Title of Liberty', emoji: '🏳️', hours: [], layers: 1 },
+  { id: 'stripling-warriors', name: 'The Stripling Warriors', emoji: '🛡️', hours: [], layers: 1 },
+  { id: 'samuel-wall', name: 'Samuel on the Wall', emoji: '🏛️', hours: [], layers: 1 },
+  { id: 'brother-jared', name: 'The Brother of Jared', emoji: '✨', hours: [], layers: 1 },
+  { id: 'jaredite-barges', name: 'The Jaredite Barges', emoji: '🌊', hours: [], layers: 1 },
+  { id: 'christ-children', name: 'Christ Blesses the Children', emoji: '🤍', hours: [], layers: 1 },
+  { id: 'moroni-record', name: 'Moroni Preserves the Record', emoji: '📖', hours: [], layers: 1 },
+  { id: 'creation', name: 'Creation', emoji: '🌍', hours: [], layers: 1 },
+  { id: 'ark', name: 'After the Flood', emoji: '🌈', hours: [], layers: 1 },
+  { id: 'exodus', name: 'The Exodus', emoji: '🌊', hours: [], layers: 1 },
+  { id: 'bethlehem', name: 'Bethlehem', emoji: '⭐', hours: [], layers: 1 },
+  { id: 'gethsemane', name: 'Gethsemane', emoji: '🫒', hours: [], layers: 1 },
+  { id: 'empty-tomb', name: 'The Empty Tomb', emoji: '🌅', hours: [], layers: 1 },
+  { id: 'lehi', name: 'Lehi’s Journey', emoji: '🏕️', hours: [], layers: 1 },
+  { id: 'nephites', name: 'Christ Appears at Bountiful', emoji: '🏛️', hours: [], layers: 1 },
+  { id: 'three-days-darkness', name: 'Three Days of Darkness', emoji: '🌑', hours: [], layers: 1 },
+  { id: 'first-vision', name: 'The First Vision', emoji: '🌳', hours: [], layers: 1 },
+  { id: 'buried-weapons', name: 'A Covenant of Peace', emoji: '🕊️', hours: [], layers: 1 },
+  { id: 'nephite-sacrament', name: 'The Sacrament at Bountiful', emoji: '🍞', hours: [], layers: 1 },
+  { id: 'burning-bush', name: 'The Burning Bush', emoji: '🔥', hours: [], layers: 1 },
+  { id: 'jordan-baptism', name: 'Baptism of Jesus', emoji: '🕊️', hours: [], layers: 1 },
+  { id: 'feeding-multitude', name: 'Feeding the Multitude', emoji: '🧺', hours: [], layers: 1 },
+  { id: 'waters-mormon', name: 'Waters of Mormon', emoji: '💧', hours: [], layers: 1 },
+  { id: 'vineyard', name: 'The Vineyard', emoji: '🍇', hours: [], layers: 1 },
+  { id: 'fishing-village', name: 'Fishing Village', emoji: '⛵', hours: [], layers: 1 },
+  { id: 'wilderness-path', name: 'Wilderness Path', emoji: '🥾', hours: [], layers: 1 },
+  { id: 'ancient-synagogue', name: 'Ancient Synagogue', emoji: '📜', hours: [], layers: 1 },
+  { id: 'shepherd-pasture', name: 'Shepherd’s Pasture', emoji: '🐑', hours: [], layers: 1 },
+  { id: 'village-well', name: 'Village Well', emoji: '🪣', hours: [], layers: 1 },
+  { id: 'potters-workshop', name: 'Potter’s Workshop', emoji: '🏺', hours: [], layers: 1 },
+  { id: 'mountain-refuge', name: 'Mountain Refuge', emoji: '⛰️', hours: [], layers: 1 },
+  { id: 'desert-oasis', name: 'Desert Oasis', emoji: '🌴', hours: [], layers: 1 },
+  { id: 'upper-room', name: 'The Upper Room', emoji: '🕯️', hours: [], layers: 1 },
+  { id: 'cedar-forest', name: 'Cedar Forest', emoji: '🌲', hours: [], layers: 1 },
+  { id: 'pilgrim-road', name: 'Pilgrim Road', emoji: '🛤️', hours: [], layers: 1 },
+  { id: "riverbank", name: "Riverbank", emoji: "🏞️", hours: [], layers: 4 },
+  { id: "shore", name: "Galilee Shore", emoji: "⛵", hours: [], layers: 4 },
+  { id: "olive", name: "Olive Hills", emoji: "🫒", hours: [], layers: 4 },
+  { id: "study", name: "Study Desk", emoji: "📖", hours: [], layers: 4 },
   { id: "sunrise", name: "Sunrise", emoji: "🌅", hours: [[5, 10]], layers: 6 },
   { id: "waters", name: "Still Waters", emoji: "🌊", hours: [[10, 16]], layers: 8 },
   { id: "mount", name: "The Mount", emoji: "⛰️", hours: [], layers: 6 },
@@ -31,6 +112,31 @@ export const SCENES: SceneDef[] = [
 ];
 
 const ROOT_CLS = "sg-scene";
+
+/** Library has no active Markdown page on a fresh phone. Match mode still
+ * needs an immediate offline backdrop while awaiting its first page match. */
+export function configuredSceneId(scene: string | undefined, lastMatched?: string): string {
+  if (scene === 'none') return 'none'; // respect an explicit photo-off choice
+  if (scene === 'match' || !scene) return SCENES.some(s => s.id === lastMatched) ? lastMatched! : 'study';
+  return scene === 'auto' || SCENES.some(s => s.id === scene) ? scene : 'study';
+}
+
+/** Only swap away from the embedded photo after the replacement decodes. */
+export function loadScenePhoto(url: string): Promise<boolean> {
+  return new Promise(resolve => {
+    const img = new Image();
+    let settled = false;
+    const finish = (ok: boolean) => {
+      if (settled) return;
+      settled = true; clearTimeout(timer); img.onload = null; img.onerror = null; resolve(ok);
+    };
+    const timer = setTimeout(() => finish(false), 15000);
+    img.onload = () => finish(img.naturalWidth > 0);
+    img.onerror = () => finish(false);
+    img.src = url;
+    if (img.complete && img.naturalWidth > 0) finish(true);
+  });
+}
 
 function lcg(seed: number): () => number {
   let s = seed;
@@ -374,12 +480,16 @@ function particles(el: HTMLElement, cls: string, n: number, seed: number,
 }
 
 export class SceneManager {
+  cache?: SceneCache;
+  private generation = 0;
+  refresh(): void { const id=this.currentId;this.currentId=null;this.apply(id); }
   private el: HTMLElement | null = null;
   private currentId: string | null = null;
 
   apply(id: string | null): void {
     const target = id === "auto" ? this.autoPick() : id;
     if (!target || target === "none") {
+      this.generation++;
       this.el?.remove();
       this.el = null;
       this.currentId = null;
@@ -388,13 +498,20 @@ export class SceneManager {
       return;
     }
     if (this.currentId === target && this.el) return;
+    const generation=++this.generation;
     this.el?.remove();
     const scene = SCENES.find(s => s.id === target) ?? SCENES[0]!;
     const el = document.body.createDiv({ cls: `${ROOT_CLS} ${ROOT_CLS}-${scene.id}` });
     document.body.insertBefore(el, document.body.firstChild);
-    for (let i = 1; i <= scene.layers; i++) el.createDiv({ cls: `sgl sgl-${i}` });
-    el.createDiv({ cls: "sgl sgl-scrim" });
-    this.decorate(scene.id, el);
+    el.addClass('sg-scene-illustrated');
+    const artwork = el.createDiv({ cls: 'sg-scene-artwork' });
+    el.addClass('sg-scene-immersive');
+    artwork.style.backgroundImage = `url("${SCENE_PHOTOS[scene.id] ?? SCENE_PHOTOS.waters}")`;
+    void this.cache?.get(scene.id,wideScene(window.innerWidth,window.innerHeight)).then(async url=>{
+      if(this.generation!==generation || this.el!==el) return;
+      if(await loadScenePhoto(url) && this.generation===generation && this.el===el) artwork.style.backgroundImage=`url("${url}")`;
+    }).catch(()=>{/* offline starter remains visible */});
+    el.setAttribute('aria-hidden', 'true');
     this.el = el;
     this.currentId = scene.id;
     document.body.addClass("sg-scene-on");
@@ -417,6 +534,23 @@ export class SceneManager {
   }
 
   private decorate(id: string, el: HTMLElement): void {
+    if (['riverbank', 'shore', 'olive', 'study'].includes(id)) {
+      el.addClass('sg-scene-landscape');
+      this.bg(el, 2, hills('#203b45', 26, -20, '#8bada3'));
+      if (id === 'riverbank') {
+        this.bg(el, 3, svgUrl(900, 400, `<path d='M420 0 C680 85 220 160 480 240 S720 350 900 400 H0 C120 290 400 320 330 225 S580 75 400 0Z' fill='#214650'/><path d='M420 0 C680 85 220 160 480 240 S720 350 900 400' fill='none' stroke='#8ab3b0' stroke-opacity='.32' stroke-width='3'/>`));
+        this.bg(el, 4, reeds(217, '#081e22'));
+      } else if (id === 'shore') {
+        this.bg(el, 3, svgUrl(900, 300, `<path d='M0 90 Q300 65 900 115 V300 H0Z' fill='#173743'/><g stroke='#95b7b7' opacity='.25' fill='none'><path d='M70 130Q230 120 370 132M440 145Q650 130 830 147M100 205Q400 180 670 207M300 260Q620 240 870 265'/></g><path d='M650 165Q700 208 755 165Z' fill='#081920'/><path d='M701 163V50L746 153H708' fill='#bdad8a' fill-opacity='.45' stroke='#14262c' stroke-width='3'/>`));
+        this.bg(el, 4, hills('#08191e', 15, 95));
+      } else if (id === 'olive') {
+        this.bg(el, 3, hills('#213c30', 42, 8, '#8d9f71'));
+        this.bg(el, 4, oak(231, '#0b211b', 760));
+      } else {
+        this.bg(el, 2, 'none');
+        this.bg(el, 3, svgUrl(900, 300, `<path d='M0 230H900V300H0Z' fill='#281d19'/><path d='M140 170Q300 140 450 185Q580 145 740 170L785 245Q600 208 450 260Q290 208 100 245Z' fill='#85755b'/><path d='M450 185V255M150 195Q300 173 420 209M480 209Q600 175 730 194M145 210Q280 191 419 223M481 223Q610 191 742 209' stroke='#c3b595' stroke-width='3' fill='none' opacity='.45'/><rect x='802' y='143' width='15' height='83' rx='3' fill='#9e8962'/><path d='M810 143Q789 120 811 94Q830 122 810 143Z' fill='#ebbb74'/>`));
+      }
+    }
     if (id === "starlight") {
       this.bg(el, 2, seededStars(7, 150, 1200, 900, 0.6, 1.4, "#ffffff"));
       this.bg(el, 3, seededStars(23, 95, 1100, 800, 0.9, 2.0, "#cdd6ff"));

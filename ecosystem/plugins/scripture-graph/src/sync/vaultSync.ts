@@ -17,9 +17,12 @@
  *
  * State: the file index (path → hash) lives in the plugin's local store,
  * not in the vault, so it never syncs itself. */
-import { Notice, TFile, normalizePath } from "obsidian";
+import { Notice, Platform, TFile, normalizePath } from "obsidian";
+import { refreshIdentity } from "../social/identity";
 import { SGState } from "../state";
 import { trace } from "../study/trace";
+import { sharedCache } from "./sharedCache";
+import { essential, pinMatches, recentConference, removeCachedCopy, stale, type Usage } from './retention';
 
 export interface SyncSection {
   key: string; label: string; prefixes: string[];
@@ -39,7 +42,7 @@ export const SECTIONS: SyncSection[] = [
     prefixes: ["AI Library/01 Scriptures/Footnotes/", "AI Library/01 Scriptures/Cross References/"], defaultOn: false },
   { key: "annotated", label: "Annotated chapter mirrors", prefixes: ["AI Library/01 Scriptures/Annotated/"], defaultOn: false },
   { key: "translations", label: "Bible translations (WEB, ASV, YLT)", prefixes: ["AI Library/01 Scriptures/Translations/"], defaultOn: false },
-  { key: "topics", label: "Gospel Topics, doctrines, people, places, events, Come Follow Me", prefixes: ["AI Library/0"], always: true },
+  { key: "topics", label: "Gospel Topics, doctrines, people, places, events, Come Follow Me", prefixes: ["AI Library/0"], defaultOn: false },
   { key: "conference", label: "General Conference (2,900 talks)", prefixes: ["AI Library/10 General Conference/"], defaultOn: false },
   { key: "family", label: "Family (ancestors, their records, photos and stories)", prefixes: ["AI Library/12 Family/"], defaultOn: false },
   { key: "history", label: "Church History (Saints, prophets, periodicals)", prefixes: ["AI Library/30 Church History/"], defaultOn: false },
@@ -56,7 +59,7 @@ const NEVER_ON_PHONES = ["AI Library/00 System/Church Music.md"];
 
 /** is this section on for the device: its switch, else its default */
 export function sectionOn(sec: SyncSection, prefs: SyncPrefs): boolean {
-  return !!sec.always || (prefs.sections[sec.key] ?? sec.defaultOn ?? true);
+  return !!sec.always || (prefs.sections[sec.key] ?? sec.defaultOn ?? false);
 }
 
 export interface SyncPrefs {
@@ -64,11 +67,13 @@ export interface SyncPrefs {
   /** paths and folder prefixes kept regardless of section switches: pages
    * opened on demand, shelves downloaded from the Library */
   pins: string[];
+  pruneDays: number;
 }
-export const DEFAULT_SYNC: SyncPrefs = { enabled: true, sections: {}, intervalMin: 30, pins: [] };
+export const DEFAULT_SYNC: SyncPrefs = { enabled: true, sections: {}, intervalMin: 30, pins: [], pruneDays: 30 };
 
 /** bumped when the rules above change shape: the next run re-decides every file */
-const RULES = 3;
+const RULES = 6;
+const USAGE_KEY = 'vaultsync:usage-v1';
 const RULES_KEY = "vaultsync:rules";
 const MANIFEST_KEY = "vaultsync:manifest";
 
@@ -106,11 +111,24 @@ function b64ToBytes(b64: string): ArrayBuffer {
   return out.buffer;
 }
 
+/** Verify the response bytes before touching a good local copy or its index. */
+async function verifiedBytes(file: { text?: string; b64?: string; h?: string }): Promise<ArrayBuffer> {
+  const bytes = file.text !== undefined ? new TextEncoder().encode(file.text).buffer
+    : file.b64 !== undefined ? b64ToBytes(file.b64) : null;
+  if (!bytes || !file.h) throw new Error('Library download is incomplete; retry when connected.');
+  const digest = await crypto.subtle.digest('SHA-256', bytes);
+  const hash = Array.from(new Uint8Array(digest), b => b.toString(16).padStart(2, '0')).join('').slice(0, 24);
+  if (hash !== file.h) throw new Error('Library download failed verification; retry when connected.');
+  return bytes;
+}
+
 export class VaultSync {
   status: SyncStatus = { running: false, phase: "idle", done: 0, total: 0, lastRun: null, lastVersion: null,
     lastError: null, files: 0, personalPushed: 0, personalPulled: 0, conflicts: 0 };
   listeners: (() => void)[] = [];
   private timer: number | null = null;
+  private startupTimer: number | null = null;
+  private activeRun: Promise<void> | null = null;
   private dirty = new Set<string>();
   private dirtyTimer: number | null = null;
   private source: boolean | null = null;
@@ -118,14 +136,103 @@ export class VaultSync {
    * that list what is not downloaded yet and for opening it on demand */
   private manifestPaths: string[] = [];
   private manifestLoaded = false;
+  private catalogRefresh: Promise<void> | null = null;
+  private catalogVersion: string | null = null;
+  private indexWrite: Promise<void> = Promise.resolve();
+  private sharedWork: Promise<unknown> = Promise.resolve();
+  private usage: Usage = {};
+  private usageLoaded = false;
+  private usageTimer: number | null = null;
+  private held = new Set<string>();
+  private manifestHashes: Index = {};
+  private lastPrune = 0;
 
-  constructor(private s: SGState, private deviceName: () => string) {}
+  private exclusive<T>(fn: () => Promise<T>): Promise<T> {
+    const work = this.sharedWork.then(fn); this.sharedWork = work.catch(() => {}); return work;
+  }
+
+  private async loadUsage(): Promise<void> {
+    if (this.usageLoaded) return;
+    this.usage = { ...((await this.cache.get<Usage>(USAGE_KEY)) ?? {}), ...this.usage };
+    this.usageLoaded = true;
+    // Older releases used exact-file pins for every lazy read. Folder pins
+    // alone represented a deliberate offline choice.
+    const prefs = syncPrefs(this.s);
+    if (prefs.pins.some(p => !p.endsWith('/'))) {
+      this.s.device.sync = { ...this.s.device.sync, pins: prefs.pins.filter(p => p.endsWith('/')) };
+      await this.s.saveDevice();
+    }
+  }
+
+  recordAccess(path: string): void {
+    if (!path.startsWith('AI Library/') && !path.startsWith('_media/')) return;
+    this.usage[path] = { used: Date.now() };
+    // Keep pictures used by a recently opened page on the same schedule.
+    for (const target of Object.keys(this.s.app.metadataCache.resolvedLinks[path] ?? {})) {
+      if (!target.endsWith('.md')) this.usage[target] = { used: Date.now() };
+    }
+    if (this.usageTimer) window.clearTimeout(this.usageTimer);
+    this.usageTimer = window.setTimeout(() => {
+      this.usageTimer = null;
+      void this.exclusive(async () => { await this.loadUsage(); await this.cache.put(USAGE_KEY, this.usage); }).catch(() => {});
+    }, 1000);
+  }
+
+  private cache: ReturnType<typeof sharedCache>;
+  constructor(private s: SGState, private deviceName: () => string) {
+    this.cache = sharedCache(s.store, (s.app as unknown as { appId?: string }).appId ?? "vault");
+  }
 
   private async loadManifestCache(): Promise<void> {
     if (this.manifestLoaded) return;
+    const m = await this.cache.get<{ version: string; paths: string[] }>(MANIFEST_KEY);
+    if (m?.paths?.length && !this.catalogVersion) {
+      this.manifestPaths = m.paths;
+      this.catalogVersion = m.version;
+      this.catalogChanged();
+    }
     this.manifestLoaded = true;
-    const m = await this.s.store.get<{ version: string; paths: string[] }>(MANIFEST_KEY);
-    if (m?.paths?.length) this.manifestPaths = m.paths;
+  }
+
+  private catalogChanged(): void {
+    if (typeof document !== "undefined") document.dispatchEvent(new CustomEvent("sg-library-catalog-changed"));
+  }
+
+  get catalogCount(): number { return this.manifestPaths.filter(p => p.endsWith('.md')).length; }
+
+  private async acceptCatalog(m: { version: string; files: { p: string }[] }): Promise<void> {
+    const changed = this.catalogVersion !== m.version;
+    this.manifestPaths = m.files.map(f => f.p);
+    this.manifestHashes = Object.fromEntries(m.files.map(f => [f.p, (f as { h?: string }).h ?? '']));
+    this.catalogVersion = m.version;
+    this.manifestLoaded = true;
+    await this.cache.put(MANIFEST_KEY, { version: m.version, paths: this.manifestPaths });
+    if (changed) this.catalogChanged();
+  }
+
+  /** Discover the shelves without downloading their files. First-use links
+   * can resolve even before the scheduled offline-core sync has started. */
+  async refreshCatalog(): Promise<void> {
+    await this.loadManifestCache();
+    if (!this.s.device.deviceToken) return;
+    if (this.catalogRefresh) return this.catalogRefresh;
+    const work = (async () => { await this.acceptCatalog(await this.s.api.vaultManifest()); })();
+    this.catalogRefresh = work;
+    try { await work; } finally { if (this.catalogRefresh === work) this.catalogRefresh = null; }
+  }
+
+  /** Lazy reads and background sync can finish together. Merge checkpoints
+   * so neither drops the other's newly cached pages from future updates. */
+  private async updateIndex(changes: Index, removed: string[] = []): Promise<void> {
+    const snapshot = { ...changes };
+    const work = this.indexWrite.then(async () => {
+      const current = (await this.cache.get<Index>(INDEX_KEY)) ?? {};
+      Object.assign(current, snapshot);
+      for (const path of removed) delete current[path];
+      await this.cache.put(INDEX_KEY, current);
+    });
+    this.indexWrite = work.catch(() => { /* later attempts may retry storage */ });
+    await work;
   }
 
   /** shared paths under a folder that this device does not hold */
@@ -165,6 +272,11 @@ export class VaultSync {
   /** one page, now: fetched, written, pinned so later runs keep it fresh.
    * Resolves once Obsidian knows the file (or gives up after a moment). */
   async fetchNow(path: string): Promise<boolean> {
+    return this.exclusive(() => this.fetchSharedNow(path));
+  }
+
+  private async fetchSharedNow(path: string): Promise<boolean> {
+    if (path.split('/').some(part => part.startsWith('.'))) return false;
     if (!this.s.device.deviceToken) return false;
     if (await this.isSource()) return false;
     const adapter = this.s.app.vault.adapter;
@@ -172,6 +284,7 @@ export class VaultSync {
       const { files } = await this.s.api.vaultBatch([path]);
       const f = files.find(x => x.p === path && !x.missing);
       if (!f) return false;
+      const bytes = await verifiedBytes(f);
       const dir = path.includes("/") ? path.slice(0, path.lastIndexOf("/")) : "";
       if (dir) {
         const parts = dir.split("/");
@@ -181,16 +294,12 @@ export class VaultSync {
         }
       }
       if (f.text !== undefined) await adapter.write(normalizePath(path), f.text);
-      else if (f.b64 !== undefined) await adapter.writeBinary(normalizePath(path), b64ToBytes(f.b64));
-      const index = (await this.s.store.get<Index>(INDEX_KEY)) ?? {};
-      index[path] = f.h ?? "";
-      await this.s.store.put(INDEX_KEY, index);
-      const prefs = syncPrefs(this.s);
-      if (!this.wanted(path, prefs)) {
-        const d = this.s.device as { sync?: Partial<SyncPrefs> };
-        d.sync = { ...(d.sync ?? {}), pins: [...prefs.pins, path] };
-        await this.s.saveDevice();
-      }
+      else if (f.b64 !== undefined) await adapter.writeBinary(normalizePath(path), bytes);
+      await this.updateIndex({ [path]: f.h ?? "" });
+      await this.loadUsage();
+      this.held.add(path);
+      this.recordAccess(path);
+      await this.cache.put(USAGE_KEY, this.usage);
       for (let i = 0; i < 30; i++) {
         if (this.s.app.vault.getAbstractFileByPath(path)) return true;
         await new Promise(r => window.setTimeout(r, 100));
@@ -215,26 +324,56 @@ export class VaultSync {
     await this.run("manual");
   }
 
+  /** true at most once an hour, and only while this device holds no library
+   * at all — the state a new member is stuck in and cannot see */
+  private silentFailureAt = 0;
+  private reportSilentFailure(): boolean {
+    if (this.status.files > 0) return false;
+    if (Date.now() - this.silentFailureAt < 3600_000) return false;
+    this.silentFailureAt = Date.now();
+    return true;
+  }
+
   private emit(): void { for (const f of this.listeners) { try { f(); } catch { /* ui */ } } }
   private set(patch: Partial<SyncStatus>): void { Object.assign(this.status, patch); this.emit(); }
 
   /** the engine's own machine holds the shared tree already */
   async isSource(): Promise<boolean> {
+    // A copied engine marker must never turn a family phone into the server.
+    if (Platform.isMobile) return false;
     if (this.source === null) this.source = await this.s.app.vault.adapter.exists(".scripture-engine/config/config.yaml");
     return this.source;
   }
 
   start(): void {
     const p = syncPrefs(this.s);
-    void this.loadManifestCache();
+    void this.loadManifestCache().catch(() => { /* the foreground run reports and retries storage errors */ });
     this.stop();
-    if (!p.enabled || !this.s.device.deviceToken) return;
-    window.setTimeout(() => void this.run("startup"), 4_000);
+    if (!this.s.device.deviceToken) return;
+    // Browsing the server catalog is independent of keeping files offline.
+    void this.refreshCatalog().catch(() => {});
+    if (!p.enabled) return;
+    this.startupTimer = window.setTimeout(() => { this.startupTimer = null; void this.run("startup"); }, 4_000);
     this.timer = window.setInterval(() => void this.run("interval"), Math.max(5, p.intervalMin) * 60_000);
+  }
+
+  /** back in the app after a while: check now rather than waiting out a timer
+   * that was not running while the phone was asleep */
+  catchUp(): void {
+    const prefs = syncPrefs(this.s);
+    if (!this.s.device.deviceToken || !prefs.enabled || this.status.running) return;
+    const last = this.status.lastRun ? Date.parse(this.status.lastRun) : 0;
+    if (Date.now() - last < Math.max(5, prefs.intervalMin) * 60_000) return;
+    void this.run("foreground");
   }
 
   stop(): void {
     if (this.timer) { window.clearInterval(this.timer); this.timer = null; }
+    if (this.startupTimer) { window.clearTimeout(this.startupTimer); this.startupTimer = null; }
+    if (this.usageTimer) {
+      window.clearTimeout(this.usageTimer); this.usageTimer = null;
+      void this.exclusive(async () => { await this.loadUsage(); await this.cache.put(USAGE_KEY, this.usage); }).catch(() => {});
+    }
   }
 
   /** a personal file changed here — push soon (debounced) */
@@ -246,16 +385,63 @@ export class VaultSync {
   }
 
   async run(reason: string): Promise<void> {
-    if (this.status.running) return;
+    // A reconnect must wait for existing work and then check again using the
+    // newly selected server/shelves. Never report success while still copying.
+    while (this.activeRun) {
+      await this.activeRun;
+      if (reason !== "manual" && reason !== "live" && reason !== "foreground") return;
+    }
+    const work = this.runOnce(reason);
+    this.activeRun = work;
+    try { await work; } finally { if (this.activeRun === work) this.activeRun = null; }
+  }
+
+  private async runOnce(reason: string): Promise<void> {
+    if (reason !== "manual" && !syncPrefs(this.s).enabled) return;
     if (!this.s.device.deviceToken) { this.set({ lastError: "not signed in" }); return; }
     this.set({ running: true, phase: "checking", lastError: null, done: 0, total: 0 });
     try {
-      if (!(await this.isSource())) await this.syncShared();
+      // Undo the 0.72.98 full-download preset if it was used. This exact
+      // all-on signature was generated by that button; keep page/folder pins.
+      if (SECTIONS.every(section => this.s.device.sync?.sections?.[section.key] === true)) {
+        this.s.device.sync = { ...this.s.device.sync, sections: {} };
+        await this.s.saveDevice();
+        this.status.lastVersion = null;
+      }
+      // Shared reading downloads must not block the user's personal notes.
+      let libraryError: string | null = null;
+      const shared = async () => {
+        if (await this.isSource()) return;
+        await this.exclusive(async () => {
+          await this.syncShared(reason === "manual");
+          await this.pruneDownloads();
+        });
+      };
+      try { await shared(); }
+      catch (e) {
+        // The laptop's address changes whenever its tunnel restarts, which
+        // silently strands every phone holding the old one. Find out where it
+        // is answering now and finish the sync, rather than failing for days.
+        let recovered: string | null = null;
+        try { recovered = await this.s.rediscoverServer(); } catch { /* still unreachable */ }
+        if (recovered) {
+          this.set({ phase: "reconnecting" });
+          try { await shared(); }
+          catch (again) { libraryError = `Library: ${String((again as Error)?.message ?? again)}`; }
+        } else {
+          libraryError = `Library: ${String((e as Error)?.message ?? e)}`;
+        }
+      }
+      this.set({ lastError: libraryError });
       await this.pushPersonal();
       await this.pullPersonal();
       this.set({ running: false, phase: "idle", lastRun: new Date().toISOString() });
+      // A failed background run used to be invisible: the reader just had an
+      // empty library and no reason for it. Report the first one too.
+      if (libraryError && (reason === "manual" || this.reportSilentFailure())) new Notice(`Sync: ${libraryError}`, 12000);
     } catch (e) {
-      this.set({ running: false, phase: "idle", lastError: String((e as Error)?.message ?? e) });
+      const error = String((e as Error)?.message ?? e);
+      this.set({ running: false, phase: "idle", lastError: [this.status.lastError, error].filter(Boolean).join('; ') });
       if (reason === "manual") new Notice(`Sync: ${this.status.lastError}`);
     }
   }
@@ -263,27 +449,55 @@ export class VaultSync {
   // ---------------------------------------------------------------- shared
 
   private wanted(path: string, prefs: SyncPrefs): boolean {
-    for (const pin of prefs.pins) if (path === pin || path.startsWith(pin)) return true;
+    // Plugin updates have their own coordinated channel. Never copy another
+    // device's settings, caches, or partially published plugin via vault sync.
+    if (path.split('/').some(part => part.startsWith('.'))) return false;
+    if (path.startsWith('AI Library/00 System/') && !NEVER_ON_PHONES.includes(path)) return true;
+    if (recentConference(path)) return true;
+    if (/^AI Library\/12 Family\/(Family Tree|Family Stories|Family Narration)\.md$/.test(path)) return true;
+    if (path.startsWith('AI Library/12 Family/_media/stories/')) {
+      // A pre-existing "keep Family" pin must not silently gain hours of audio.
+      // Only pins explicitly inside the recordings folder opt into that storage.
+      if (prefs.pins.some(pin => pin.startsWith('AI Library/12 Family/_media/stories/') && pinMatches(path, pin))) return true;
+      return !this.usage[path]?.pruned && this.held.has(path);
+    }
+    for (const pin of prefs.pins) if (pinMatches(path, pin)) return true;
     if (NEVER_ON_PHONES.includes(path)) return false;
+    if (this.usage[path]?.pruned) return false;
+    if (this.held.has(path)) return true;
+    if (path.startsWith('_media/')) return path.startsWith('_media/covers/');
     for (const sec of SECTIONS) {
       if (sec.prefixes.some(pre => path.startsWith(pre))) return sectionOn(sec, prefs);
     }
-    return true;   // everything outside the optional shelves comes along
+    // New optional collections remain discoverable through the catalog.
+    // Only explicit pins, retained reads and core sections download ahead.
+    return false;
   }
 
-  private async syncShared(): Promise<void> {
+  private async syncShared(repair = false): Promise<void> {
     const prefs = syncPrefs(this.s);
     const api = this.s.api;
     const v = await api.vaultVersion();
-    const index = (await this.s.store.get<Index>(INDEX_KEY)) ?? {};
+    const index = (await this.cache.get<Index>(INDEX_KEY)) ?? {};
+    await this.loadUsage();
+    this.held = new Set(Object.keys(index));
+    // Existing installs have no trustworthy last-opened history. Give those
+    // downloads a full retention window instead of guessing from file dates.
+    for (const p of Object.keys(index)) this.usage[p] ??= { used: Date.now() };
+    await this.cache.put(USAGE_KEY, this.usage);
     // the rules changed shape (an update): every file is decided again
     if ((await this.s.store.get<number>(RULES_KEY)) !== RULES) { this.status.lastVersion = null; await this.s.store.put(RULES_KEY, RULES); }
     await this.loadManifestCache();
-    if (v.version === this.status.lastVersion && Object.keys(index).length && this.manifestPaths.length) return;
-    this.set({ phase: "manifest" });
+    if (!repair && v.version === this.status.lastVersion && Object.keys(index).length && this.manifestPaths.length) {
+      // The server being unchanged says nothing about files evicted or lost
+      // on this device. Check the in-memory vault catalog before skipping.
+      const missing = this.manifestPaths.some(p => this.wanted(p, prefs)
+        && !this.s.app.vault.getAbstractFileByPath(p));
+      if (!missing) return;
+    }
+    this.set({ phase: "manifest", lastVersion: null });
     const m = await api.vaultManifest();
-    this.manifestPaths = m.files.map(f => f.p);
-    await this.s.store.put(MANIFEST_KEY, { version: m.version, paths: this.manifestPaths });
+    await this.acceptCatalog(m);
     const adapter = this.s.app.vault.adapter;
     const want = new Map<string, string>();
     for (const f of m.files) if (this.wanted(f.p, prefs)) want.set(f.p, f.h);
@@ -293,6 +507,8 @@ export class VaultSync {
       if (index[p] !== h) { todo.push(p); continue; }
       if (!(await adapter.exists(normalizePath(p)))) todo.push(p);
     }
+    // Make the reading pages available before downloading large records/media.
+    todo.sort((a, b) => Number(!a.endsWith(".md")) - Number(!b.endsWith(".md")));
     // what to remove: held by us (per the index) and gone from the manifest, or no longer wanted
     const gone: string[] = [];
     for (const p of Object.keys(index)) if (!want.has(p)) gone.push(p);
@@ -309,41 +525,166 @@ export class VaultSync {
         folders.add(d);
       }
     };
-    const BATCH = 120, PARALLEL = 4;
+    const BATCH = 120, PARALLEL = Platform.isMobile ? 2 : 4;
     let cursor = 0;
+    let failed = false;
     const worker = async () => {
-      while (cursor < todo.length) {
+      try { while (!failed && cursor < todo.length) {
         const chunk = todo.slice(cursor, cursor + BATCH);
-        cursor += BATCH;
-        const { files } = await api.vaultBatch(chunk);
+        cursor += chunk.length;
+        let response: Awaited<ReturnType<typeof api.vaultBatch>> | undefined;
+        for (let attempt = 0; attempt < 3; attempt++) {
+          try { response = await api.vaultBatch(chunk); break; }
+          catch (e) {
+            if (attempt === 2) throw e;
+            await new Promise(r => window.setTimeout(r, 1000 * (attempt + 1)));
+          }
+        }
+        const files = response!.files;
+        const got = new Set<string>();
         for (const f of files) {
-          if (f.missing) continue;
+          if (!chunk.includes(f.p) || got.has(f.p)) continue;
+          if (f.missing || (f.text === undefined && f.b64 === undefined)) {
+            throw new Error("A library file was unavailable. Tap reconnect to check again.");
+          }
           await ensureFolder(f.p);
           const np = normalizePath(f.p);
+          if (await adapter.exists(np)) {
+            // An engine update must not overwrite a local edit before the
+            // pruner gets its opportunity to recognize and protect that edit.
+            const bytes = await adapter.readBinary(np);
+            const digest = await crypto.subtle.digest('SHA-256', bytes);
+            const localHash = Array.from(new Uint8Array(digest), b => b.toString(16).padStart(2, '0')).join('').slice(0, 24);
+            if (localHash !== index[f.p] && localHash !== f.h) { got.add(f.p); this.status.done++; continue; }
+          }
+          const verified = await verifiedBytes(f);
           if (f.text !== undefined) await adapter.write(np, f.text);
-          else if (f.b64 !== undefined) await adapter.writeBinary(np, b64ToBytes(f.b64));
-          index[f.p] = want.get(f.p) ?? f.h ?? "";
+          else if (f.b64 !== undefined) await adapter.writeBinary(np, verified);
+          // Use the bytes' actual hash if the source changed after its manifest.
+          index[f.p] = f.h ?? want.get(f.p) ?? "";
+          this.usage[f.p] ??= { used: Date.now() };
+          got.add(f.p);
           this.status.done++;
         }
         // partial batch (size cap): ask again for what is still missing
-        const got = new Set(files.map(x => x.p));
+        if (!got.size) throw new Error("The library download stopped. Tap reconnect to resume.");
         const rest = chunk.filter(p => !got.has(p));
-        if (rest.length && rest.length < chunk.length) todo.push(...rest);
-        await this.s.store.put(INDEX_KEY, index);
+        if (rest.length) todo.push(...rest);
+        await this.updateIndex(index);
         this.emit();
-      }
+      } } catch (e) { failed = true; throw e; }
     };
-    await Promise.all(Array.from({ length: Math.min(PARALLEL, Math.max(1, todo.length)) }, worker));
+    // Keep the run locked until every writer stops, and checkpoint progress even
+    // when one request fails. The next tap resumes instead of racing old writers.
+    const results = await Promise.allSettled(Array.from({ length: Math.min(PARALLEL, Math.max(1, todo.length)) }, worker));
+    await this.updateIndex(index);
+    await this.cache.put(USAGE_KEY, this.usage);
+    this.set({ files: Object.keys(index).length });
+    const failure = results.find(r => r.status === "rejected");
+    if (failure?.status === "rejected") throw failure.reason;
     this.set({ phase: "cleaning" });
+    const removed: string[] = [];
     for (const p of gone) {
-      try { if (await adapter.exists(normalizePath(p))) await adapter.remove(normalizePath(p)); } catch { /* keep */ }
+      if (this.manifestPaths.includes(p) && this.wanted(p, syncPrefs(this.s))) continue;
+      const revoked = !this.manifestPaths.includes(p);
+      if (!revoked && essential(p)) continue;
+      const ok = await removeCachedCopy(p, index[p]!, {
+        hash: async () => {
+          const bytes = await adapter.readBinary(normalizePath(p));
+          const digest = await crypto.subtle.digest('SHA-256', bytes);
+          return Array.from(new Uint8Array(digest), b => b.toString(16).padStart(2, '0')).join('').slice(0, 24);
+        },
+        stillEligible: () => !this.manifestPaths.includes(p) || (!essential(p) && !this.wanted(p, syncPrefs(this.s))),
+        remove: () => adapter.remove(normalizePath(p)),
+      });
+      if (!ok) continue;
       delete index[p];
+      removed.push(p);
     }
-    await this.s.store.put(INDEX_KEY, index);
-    this.set({ lastVersion: v.version, files: Object.keys(index).length });
+    await this.updateIndex(index, removed);
+    if (removed.length) this.catalogChanged();
+    this.set({ lastVersion: m.version, files: Object.keys(index).length });
   }
 
   // -------------------------------------------------------------- personal
+
+  private async pruneDownloads(): Promise<void> {
+    const prefs = syncPrefs(this.s);
+    if (!Platform.isMobile || !prefs.pruneDays || Date.now() - this.lastPrune < 6 * 3600000) return;
+    // A fresh authenticated catalog proves every candidate remains recoverable.
+    await this.refreshCatalog();
+    const index = (await this.cache.get<Index>(INDEX_KEY)) ?? {};
+    const marks = (await this.s.sync.allAnnotations()).filter(a => !a.deleted_at);
+    const anchors = new Set(marks.map(a => a.anchor_id?.split('#')[0]));
+    const protectedFiles = new Set<string>();
+    const localFiles = this.s.app.vault.getFiles();
+    const byName = new Map<string, string[]>();
+    for (const file of localFiles) {
+      const name = file.path.split('/').pop()!;
+      byName.set(name, [...(byName.get(name) ?? []), file.path]);
+    }
+    for (const file of localFiles) {
+      const fm = this.s.app.metadataCache.getFileCache(file)?.frontmatter ?? {};
+      if (file.path.startsWith('Library/') || anchors.has(`node:${file.basename}`) || anchors.has(`doc:${file.path}`)
+          || [fm['sg-id'], fm.doc_id].some(id => typeof id === 'string' && (anchors.has(id) || anchors.has(`doc:${id}`)))) {
+        protectedFiles.add(file.path);
+        for (const target of Object.keys(this.s.app.metadataCache.resolvedLinks[file.path] ?? {})) protectedFiles.add(target);
+        // Personal attachments remain protected even while Obsidian is still
+        // rebuilding its link cache after launch. A failed read aborts cleanup.
+        if (file.path.endsWith('.md')) {
+          const text = await this.s.app.vault.adapter.read(file.path);
+          for (const match of text.matchAll(/\[\[([^\]|#]+)(?:[^\]]*)\]\]|\]\(([^)]+)\)/g)) {
+            let target = match[1] ?? match[2]!;
+            try { target = decodeURIComponent(target); } catch { /* literal path */ }
+            const name = target.split(/[\\/]/).pop()!.split('#')[0]!;
+            for (const path of [...(byName.get(name) ?? []), ...(byName.get(name + '.md') ?? [])]) protectedFiles.add(path);
+          }
+        }
+      }
+    }
+    const active = this.s.app.workspace.getActiveFile(); if (active) protectedFiles.add(active.path);
+    this.s.app.workspace.iterateAllLeaves(leaf => {
+      const state = leaf.view.getState();
+      for (const value of [state.file, state.path]) if (typeof value === 'string') protectedFiles.add(value);
+    });
+    const eligible = (p: string) => stale(p, this.usage, prefs.pruneDays)
+      && this.manifestHashes[p] === index[p] && !protectedFiles.has(p)
+      && !prefs.pins.some(pin => pinMatches(p, pin))
+      && !SECTIONS.some(sec => prefs.sections[sec.key] === true && sec.prefixes.some(pre => p.startsWith(pre)));
+    const removed: string[] = [];
+    let pending: string[] = [];
+    const started = Date.now();
+    let limited = false;
+    const checkpoint = async () => {
+      if (!pending.length) return;
+      await this.cache.put(USAGE_KEY, this.usage);
+      await this.updateIndex({}, pending);
+      pending = [];
+    };
+    for (const p of Object.keys(index)) {
+      if (!eligible(p)) continue;
+      if (removed.length >= 500 || Date.now() - started > 15000) { limited = true; break; }
+      const ok = await removeCachedCopy(p, index[p]!, {
+        hash: async () => {
+          const bytes = await this.s.app.vault.adapter.readBinary(normalizePath(p));
+          const hash = await crypto.subtle.digest('SHA-256', bytes);
+          return Array.from(new Uint8Array(hash), b => b.toString(16).padStart(2, '0')).join('').slice(0, 24);
+        },
+        stillEligible: () => eligible(p),
+        remove: () => this.s.app.vault.adapter.remove(normalizePath(p)),
+      });
+      if (ok) {
+        this.usage[p] = { ...this.usage[p]!, pruned: true };
+        this.held.delete(p); removed.push(p); pending.push(p);
+        // Batch checkpoints avoid rewriting the entire device index once per
+        // photo. Tombstones are saved before ownership is forgotten.
+        if (pending.length >= 25) await checkpoint();
+      }
+    }
+    await checkpoint();
+    this.lastPrune = limited ? 0 : Date.now();
+    if (removed.length) { this.catalogChanged(); this.set({ files: Object.keys(index).length - removed.length }); }
+  }
 
   private async personalIndex(): Promise<PIndex> { return (await this.s.store.get<PIndex>(PINDEX_KEY)) ?? {}; }
 
@@ -353,6 +694,7 @@ export class VaultSync {
 
   async pushPersonal(): Promise<void> {
     if (!this.s.device.deviceToken) return;
+    await refreshIdentity(this.s, true);
     const pidx = await this.personalIndex();
     const paths = this.dirty.size ? [...this.dirty] : await this.listLocalPersonal();
     this.dirty.clear();
@@ -395,6 +737,7 @@ export class VaultSync {
 
   async pullPersonal(): Promise<void> {
     if (!this.s.device.deviceToken) return;
+    await refreshIdentity(this.s, true);
     const since = (await this.s.store.get<string>(PSINCE_KEY)) ?? undefined;
     const { files, now } = await this.s.api.personalManifest(since);
     if (!files.length) { await this.s.store.put(PSINCE_KEY, now); return; }
@@ -442,7 +785,9 @@ export class VaultSync {
 
   /** wipe what this device holds of the optional shelves it no longer wants */
   async resetIndex(): Promise<void> {
-    await this.s.store.put(INDEX_KEY, {});
-    this.set({ lastVersion: null, files: 0 });
+    // Preserve ownership and downloaded hashes so changing a shelf resumes a
+    // diff, rather than forgetting every file and downloading it all again.
+    this.set({ lastVersion: null });
+    this.lastPrune = 0;
   }
 }

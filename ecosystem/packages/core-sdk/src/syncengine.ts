@@ -73,6 +73,16 @@ export class SyncEngine {
     await this.store.put(A + a.annotation_id, a);
     if (a.visibility === "local") return; // §6: never uploaded
     const sv = await this.serverVersion(a.annotation_id);
+    // A newer save supersedes an unsent queued upsert of the same annotation.
+    // Both would push against the same base version, so the second conflicted
+    // with the first and the server undid it (a bookmark saved as a note and
+    // then retyped stayed a note).
+    if (!a.deleted_at) {
+      for (const key of await this.store.keys(Q)) {
+        const queued = await this.store.get<SyncOp>(key);
+        if (queued?.kind === "upsert_annotation" && queued.annotation.annotation_id === a.annotation_id) await this.store.delete(key);
+      }
+    }
     const op: SyncOp = {
       op_id: uuid(),
       kind: a.deleted_at ? "delete_annotation" : "upsert_annotation",
@@ -146,7 +156,9 @@ export class SyncEngine {
           // server's version instead of resurrecting the mark
           if (op.kind === "delete_annotation") {
             await this.softDelete(r.server_annotation.annotation_id);
-          } else if (local.content && local.content !== r.server_annotation.content) {
+          } else if (local.content && local.content !== r.server_annotation.content && local.annotation_type !== "bookmark") {
+            // (a bookmark's content is only its latest reading place; the server's
+            // copy is as good, and a note-shaped copy of it would be junk)
             const copy: Annotation = {
               ...local,
               annotation_id: uuid(),

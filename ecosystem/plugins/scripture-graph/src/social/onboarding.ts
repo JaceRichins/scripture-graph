@@ -1,11 +1,20 @@
 /** Family onboarding (§60): open vault → welcome → invite code → done.
  * No terminals, no JSON, no API keys. */
-import { Modal, Notice, Setting } from "obsidian";
+import { Modal, Notice, Setting, Platform, requestUrl } from "obsidian";
+import { mobileJoinServer } from './joinServer';
+import { FamilyConnectModal } from './familyConnect';
 import type { SGState } from "../state";
+import { refreshIdentity } from "./identity";
 import type { AiService } from "../ai/aiService";
 
+/** "maybe later" lasts a day, not forever */
+export const WELCOME_SNOOZE_KEY = 'welcome:snoozed-until';
+
 export class WelcomeModal extends Modal {
-  constructor(private s: SGState, private ai: AiService, private onDone: () => void) {
+  /** onLater: the reader chose to wait. The prompt returns tomorrow rather
+   * than never, because an unjoined vault has no scriptures in it at all. */
+  constructor(private s: SGState, private ai: AiService, private onDone: () => void,
+    private onLater?: () => void) {
     super(s.app);
   }
 
@@ -32,6 +41,27 @@ export class WelcomeModal extends Modal {
       .addButton(b => b.setButtonText("Join").setCta().onClick(async () => {
         const code = invite.trim();
         if (!code) return void new Notice("Invite code required");
+        try {
+          const server = await mobileJoinServer(this.s.settings.serverUrl, Platform.isMobile, async url => {
+            let timer: ReturnType<typeof setTimeout> | undefined;
+            try {
+              const response = await Promise.race([
+                requestUrl({ url, method: 'GET', throw: false }),
+                new Promise<never>((_, reject) => { timer = setTimeout(() => reject(Error('Connection lookup timed out')), 12000); }),
+              ]);
+              if (response.status !== 200) throw Error('Connection lookup failed');
+              return response.json;
+            } finally { if (timer) clearTimeout(timer); }
+          });
+          if (server !== this.s.settings.serverUrl) {
+            this.s.applySettings({ serverUrl: server });
+            this.s.device.serverUrls = [...new Set([...(this.s.device.serverUrls ?? []), server])].slice(-8);
+            await this.s.saveDevice();
+          }
+        } catch {
+          new Notice('Could not reach the family server. Open your setup link in Safari and tap Connect Scripture Graph, then try again. Your invite has not been used.', 12000);
+          return;
+        }
         // owner bootstrap prints a raw device token — accept it directly
         if (code.startsWith("sgd_")) {
           try {
@@ -62,7 +92,7 @@ export class WelcomeModal extends Modal {
           await refreshIdentity(this.s);
           new Notice(`Welcome, ${session.user.display_name}!`);
           this.close();
-          this.maybeOfferAi();
+          new FamilyConnectModal(this.s, () => this.maybeOfferAi()).open();
         } catch (e) {
           // maybe it's a device-link code for an existing account
           try {
@@ -75,7 +105,9 @@ export class WelcomeModal extends Modal {
           }
         }
       }))
-      .addButton(b => b.setButtonText("Maybe later").onClick(() => this.close()));
+      .addButton(b => b.setButtonText("Maybe later").onClick(() => { this.onLater?.(); this.close(); }));
+    contentEl.createEl("p", { cls: "sg-welcome-help",
+      text: "No code? Ask whoever invited you to send you their setup link — it carries the code with it." });
   }
 
   private maybeOfferAi() {
@@ -109,17 +141,4 @@ export async function linkDevice(s: SGState, code: string, deviceName: string) {
   return session.user;
 }
 
-export async function refreshIdentity(s: SGState): Promise<void> {
-  if (!s.signedIn) return;
-  try {
-    const me = await s.api.me();
-    s.groups = (me as unknown as { groups: { group_id: string; name: string; role: string }[] }).groups ?? [];
-    for (const g of s.groups) {
-      if (!(g.group_id in s.device.showScopes.groups)) {
-        s.device.showScopes.groups[g.group_id] = true;
-      }
-    }
-    await s.saveDevice();
-    s.notify();
-  } catch { /* offline is fine */ }
-}
+export { refreshIdentity } from "./identity";

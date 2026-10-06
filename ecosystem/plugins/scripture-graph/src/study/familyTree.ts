@@ -14,47 +14,16 @@
  * canvas; the photographs themselves come only when a page is opened. */
 import { App, TFile } from "obsidian";
 import { lazyFetch } from "../sync/vaultSync";
+import { relationLabel, type FamilySpouse } from './familyRelations';
+export { relationLabel } from './familyRelations';
 
 export interface TreeNode {
+  spouses?: FamilySpouse[];
   n: string; b?: string; d?: string; f?: string; m?: string; page?: string; t?: string; living?: boolean;
   /** full dates and short places, when known */
   bf?: string; df?: string; bp?: string; dp?: string;
   /** what the shelf holds: photos & documents, stories, mentions in the library */
   ph?: number; st?: number; lib?: number;
-}
-
-const ORD = ["", "", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th", "11th", "12th"];
-
-/** "your father's mother's father · your great-grandfather" */
-export function relationLabel(data: TreeData, root: string, pid: string): { path: string; kin: string } {
-  if (pid === root) return { path: "", kin: "you" };
-  // the first path from the root up to this person (a DAG: the first found will do)
-  const seen = new Set<string>();
-  const walk = (cur: string, steps: ("f" | "m")[]): ("f" | "m")[] | null => {
-    if (cur === pid) return steps;
-    if (seen.has(cur)) return null;
-    seen.add(cur);
-    const n = data.people[cur];
-    if (!n) return null;
-    for (const side of ["f", "m"] as const) {
-      const next = n[side];
-      if (!next) continue;
-      const r = walk(next, [...steps, side]);
-      if (r) return r;
-    }
-    return null;
-  };
-  const steps = walk(root, []);
-  if (!steps) return { path: "", kin: "an ancestor" };
-  const g = steps.length;
-  const male = steps[steps.length - 1] === "f";
-  const kin = g === 1 ? (male ? "father" : "mother")
-    : g === 2 ? (male ? "grandfather" : "grandmother")
-      : g === 3 ? (male ? "great-grandfather" : "great-grandmother")
-        : `${ORD[g - 2] ?? `${g - 2}th`} great-grand${male ? "father" : "mother"}`;
-  const words = steps.map(s => s === "f" ? "father" : "mother");
-  const path = words.length > 1 ? words.map((w, i) => i < words.length - 1 ? `${w}'s` : w).join(" ") : "";
-  return { path: path ? `your ${path}` : "", kin: `your ${kin}` };
 }
 
 /** "3 Apr 1905" / "April 3, 1905" / "1905" → month-day, when the date has one */

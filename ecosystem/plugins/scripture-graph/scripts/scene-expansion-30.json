@@ -1,0 +1,186 @@
+{
+  "method": "Built-in image_gen",
+  "common": "Use case: historical-scene. Create ONE immersive photorealistic Scripture Graph reading background. Square composition, 1536x1536 requested, designed to crop gracefully to both tall phone and wide desktop. Natural travel/interior photography, tactile authentic materials, believable restrained color and light, quiet reverent atmosphere. Broad low-detail central third for scripture text; subjects and foreground details mostly toward edges. Full bleed. No text, letters, UI, watermark, border, illustration, painting, modern technology, prominent people or faces. Scene: ",
+  "scenes": [
+    {
+      "id": "emmaus-road",
+      "name": "Road to Emmaus",
+      "emoji": "🛤️",
+      "scene": "Ancient limestone footpath through soft green Judean hills at sunset, low dry-stone walls and olive trees, amber light, sage and dusty blue."
+    },
+    {
+      "id": "bethany-courtyard",
+      "name": "Bethany Courtyard",
+      "emoji": "🏺",
+      "scene": "Intimate humble first-century Judean limestone courtyard, fig tree shading the outer edge, clay water jar, woven mat, sunlight grazing pale stone, ivory and soft leaf green."
+    },
+    {
+      "id": "cana-feast",
+      "name": "Wedding at Cana",
+      "emoji": "🍇",
+      "scene": "Quiet first-century Galilean wedding courtyard after preparations, six large weathered stone water jars along a side wall, low tables with linen and grapes toward the edges, flowering vines, warm evening lamplight, no people."
+    },
+    {
+      "id": "nazareth-workshop",
+      "name": "Nazareth Workshop",
+      "emoji": "🪵",
+      "scene": "Humble ancient carpenter workshop, hand-hewn olive wood workbench at lower edge, simple iron hand tools and curled wood shavings, rough plaster walls, sunbeam from small open doorway, warm tactile wood, no modern equipment."
+    },
+    {
+      "id": "bethesda-pool",
+      "name": "Pool of Bethesda",
+      "emoji": "💧",
+      "scene": "Evocative ancient Jerusalem healing-pool setting with still turquoise water, weathered limestone colonnade and worn steps, morning light filtering through arches, subtle reflected water light on stone, empty calm atmosphere."
+    },
+    {
+      "id": "siloam-steps",
+      "name": "Steps of Siloam",
+      "emoji": "🪨",
+      "scene": "Broad worn ancient limestone steps descending toward a shallow clear pool in Jerusalem, sun-warmed stone and restful blue water, palm shadow at edge, quiet midday haze, historically evocative not an archaeological reconstruction."
+    },
+    {
+      "id": "galilee-moonrise",
+      "name": "Galilee Moonrise",
+      "emoji": "🌙",
+      "scene": "Sea of Galilee from rocky shore at blue hour, modest wooden fishing boat pulled ashore at side, luminous moon reflected on calm dark indigo water, layered distant hills, silver blue and muted violet."
+    },
+    {
+      "id": "mustard-garden",
+      "name": "The Mustard Seed",
+      "emoji": "🌱",
+      "scene": "Levantine garden with tall golden mustard flowers growing beside a small rustic dry-stone wall, tiny songbirds at far edge, gentle spring morning, sunlit meadow receding into hazy hills, hopeful natural green and yellow."
+    },
+    {
+      "id": "lilies-field",
+      "name": "Lilies of the Field",
+      "emoji": "🌸",
+      "scene": "Open Galilean meadow with red and ivory wild anemones and delicate spring flowers concentrated at lower corners, soft green rolling hills, luminous pearly morning sky, gentle breeze and restful spacious middle distance."
+    },
+    {
+      "id": "sower-furrows",
+      "name": "The Sower’s Field",
+      "emoji": "🌾",
+      "scene": "Ancient hillside farm after sowing, gently curved rich brown earthen furrows leading toward hazy hills, small woven seed basket at lower edge and golden grasses along boundary, soft early light, earthy peaceful rural landscape."
+    },
+    {
+      "id": "jericho-palms",
+      "name": "Palms of Jericho",
+      "emoji": "🌴",
+      "scene": "Ancient oasis outside Jericho, graceful date palms framing a quiet irrigation channel, sun-warmed ochre earth, distant desert cliffs, filtered golden midday light, lush palm fronds contrasting soft terracotta."
+    },
+    {
+      "id": "sinai-starlight",
+      "name": "Sinai Under Stars",
+      "emoji": "✨",
+      "scene": "Immense rugged Sinai granite mountains under a realistic deep navy starry sky, subtle Milky Way, small warm ancient campfire far at lower edge, moonlit desert trail through rocks, reverent vastness, restrained believable night exposure."
+    },
+    {
+      "id": "horeb-cave",
+      "name": "The Still Small Voice",
+      "emoji": "🕊️",
+      "scene": "View from inside a shallow rugged mountain cave at Horeb into calm dawn over desert ridges after a storm, textured shadowed rock frames edges, delicate golden light across distant mountains, quiet gentle air and no dramatic effects."
+    },
+    {
+      "id": "tabernacle-dawn",
+      "name": "Tabernacle at Dawn",
+      "emoji": "⛺",
+      "scene": "Respectful evocative ancient Israelite wilderness tabernacle courtyard from outside its linen enclosure, simple fabric tent and bronze-toned basin seen at a distance, desert mountains and dawn haze, muted ivory linen and dusty gold, no people, no fantasy palace."
+    },
+    {
+      "id": "ruth-harvest",
+      "name": "Ruth’s Harvest",
+      "emoji": "🧺",
+      "scene": "Golden barley harvest field near ancient Bethlehem, small bundles of gathered stalks and woven basket in lower corner, ancient olive terraces beyond, soft amber late-afternoon light, quiet hopeful abundance, no people."
+    },
+    {
+      "id": "esther-garden",
+      "name": "Esther’s Garden",
+      "emoji": "🌺",
+      "scene": "Evocative ancient Persian palace garden, shallow narrow reflecting channel through formal greenery, cypress and pomegranate trees, distant stone columns with restrained Achaemenid-inspired forms, soft rose-gold dusk, tranquil garden dominates."
+    },
+    {
+      "id": "daniel-window",
+      "name": "Daniel’s Window",
+      "emoji": "🪟",
+      "scene": "Ancient Babylonian upper-room interior with open timber-shuttered window facing a distant warm brick city, simple woven prayer mat at lower edge, cool morning air and golden sunlight on mudbrick and plaster, contemplative empty room, no modern minarets."
+    },
+    {
+      "id": "psalm-waterfall",
+      "name": "Deep Calls to Deep",
+      "emoji": "🏞️",
+      "scene": "Secluded limestone waterfall in a lush ravine reminiscent of northern Israel, crystal water spilling into a tranquil jade pool, mossy rocks and delicate ferns framing edges, diffuse cool morning light, natural realistic scale."
+    },
+    {
+      "id": "salt-sea-dawn",
+      "name": "Salt Sea Dawn",
+      "emoji": "🌅",
+      "scene": "Quiet mineral shoreline of the Dead Sea at dawn, delicate white salt formations along lower edges, perfectly still pale turquoise water and mauve desert mountains, soft apricot horizon, minimal spacious peaceful composition."
+    },
+    {
+      "id": "hermon-snow",
+      "name": "Snow on Hermon",
+      "emoji": "🏔️",
+      "scene": "Snow-dusted Mount Hermon landscape in clear winter morning, soft rolling white slopes above dark distant ridges, lone weathered juniper at edge, pale blue shadows and warm sunrise touching the summit, still fresh air."
+    },
+    {
+      "id": "bountiful-coast",
+      "name": "Bountiful Coast",
+      "emoji": "🐚",
+      "scene": "Evocative ancient Arabian coast for Nephi’s Bountiful, lush tropical wadi opening onto a sheltered turquoise sea, dark rocky headlands and palms at edges, sandy foreground and sea mist, luminous morning, no boats or modern structures."
+    },
+    {
+      "id": "cumorah-morning",
+      "name": "Cumorah Morning",
+      "emoji": "🌿",
+      "scene": "Gentle wooded hill in rural western New York at misty early-autumn dawn, dew on meadow grasses, maples just turning gold, serene view across rolling countryside, natural photographic realism, no monuments or modern structures."
+    },
+    {
+      "id": "nahom-canyon",
+      "name": "Wilderness Canyon",
+      "emoji": "🏜️",
+      "scene": "Ancient Arabian wilderness route through towering warm sandstone canyon walls, narrow natural path and weathered gravel, open soft sky and shaft of late afternoon sunlight, rose and ochre stone, quiet shelter and journey, no carved buildings."
+    },
+    {
+      "id": "zarahemla-river",
+      "name": "River at Zarahemla",
+      "emoji": "🦜",
+      "scene": "Imaginative Book of Mormon river landscape, broad tranquil tropical river seen from a shaded bank, distant low ancient earth-and-stone settlement barely visible beyond forest, restrained plausible architecture, emerald canopy and soft morning mist, no archaeological location claim."
+    },
+    {
+      "id": "liberty-window",
+      "name": "Light in Liberty",
+      "emoji": "🕯️",
+      "scene": "Quiet evocative nineteenth-century rough limestone room, small high barred window casting a gentle shaft of daylight across worn timber floor and folded wool blanket at edge, intimate hopeful stillness, no people, no distress, warm light and cool stone."
+    },
+    {
+      "id": "nauvoo-riverside",
+      "name": "Nauvoo Riverside",
+      "emoji": "🍂",
+      "scene": "Mississippi riverbank in the 1840s near Nauvoo, tranquil broad river and distant tree line, simple wooden landing at lower side, cottonwood leaves, warm sunset reflections and open sky, no modern boats or structures."
+    },
+    {
+      "id": "pioneer-meadow",
+      "name": "Pioneer Meadow",
+      "emoji": "🌼",
+      "scene": "Peaceful nineteenth-century western mountain meadow, small covered wagon resting far to one side near aspens, spring wildflowers at lower edges, distant blue mountain range, sunlit clouds after rain, environment dominates, no people."
+    },
+    {
+      "id": "autumn-sanctuary",
+      "name": "Autumn Sanctuary",
+      "emoji": "🍁",
+      "scene": "Immersive woodland clearing with brilliant but natural gold and copper autumn leaves, narrow gentle stream and mossy stones, low morning mist, soft diffused amber sunlight, quiet empty forest, spacious calm center."
+    },
+    {
+      "id": "rain-study",
+      "name": "Rainy Day Study",
+      "emoji": "🌧️",
+      "scene": "Warm timeless reading nook by a rain-streaked window, closed unmarked leather-bound book and ceramic cup at lower corner of an oak desk, leafy garden blurred beyond glass, soft overcast daylight and gentle amber lamplight, no readable writing or screens."
+    },
+    {
+      "id": "winter-hearth",
+      "name": "Winter Hearth",
+      "emoji": "🔥",
+      "scene": "Inviting rustic stone cottage study at winter dusk, modest glowing fireplace to one side, wool-covered armchair and small table with closed unmarked book near edge, snow-covered trees through a deep window, amber embers and cool blue outside, no people."
+    }
+  ]
+}

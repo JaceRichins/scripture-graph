@@ -1,6 +1,9 @@
 import esbuild from "esbuild";
 import { execSync } from "node:child_process";
 import { readFileSync } from "node:fs";
+import { bundleLibraryCovers } from './scripts/bundle-library-covers.mjs';
+
+bundleLibraryCovers();
 
 // Stamp the bundle with what it IS: manifest version, git sha of the tree
 // it was built from (the release commit lands after the build), and when.
@@ -17,6 +20,7 @@ const at = new Date().toISOString().replace(/\.\d+Z$/, "Z");
 await esbuild.build({
   entryPoints: ["src/main.ts"],
   bundle: true,
+  loader: { '.jpg': 'dataurl' },
   external: ["obsidian"],
   format: "cjs",
   platform: "browser",

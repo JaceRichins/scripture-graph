@@ -10,19 +10,27 @@
  * themes (Faith, Doubt, Testimony …) applied to the page as a whole, and the
  * same link rules as everywhere else — scripture links travel, verse links
  * peek, other library pages float. */
-import { ItemView, MarkdownRenderer, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { ItemView, MarkdownRenderer, Menu, Notice, Platform, TFile, WorkspaceLeaf, type ViewStateResult } from "obsidian";
+import { addPrintItems } from '../printing/printMenu';
 import { LIBRARY_PREFIX, SGState } from "../state";
 import { AnnotationService, COLOR_HEX } from "../social/annotations";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "../study/themeLibrary";
 import { historyBack, recordHistory } from "../study/leafNav";
 import { youtubeIdOf } from "../study/youtubeFind";
 import { trace } from "../study/trace";
+import { addSendPageItem, sendPage } from '../social/pageSharing';
+import { PageRefresh } from './pageRefresh';
+import { documentTitle } from '../ai/documentContext';
+import { lessonRoot, lessonProject, projectKind } from '../ai/lessonProject';
 
 export const DOC_VIEW = "scripture-graph-doc";
 
 /** folders whose pages are reading surfaces of their own (the folder MOC
  * page itself — "Questions", "General Conference" — stays a sheet) */
 const DOC_KINDS: { prefix: string; eyebrow: string; moc: string }[] = [
+  { prefix: `${LIBRARY_PREFIX}05 Events/`, eyebrow: "Event", moc: "Events.md" },
+  { prefix: `${LIBRARY_PREFIX}08 Sunday Lessons/`, eyebrow: "Sunday lessons", moc: "Sunday Lessons.md" },
+  { prefix: `${LIBRARY_PREFIX}12 Family/Stories/`, eyebrow: "Family story", moc: "Stories.md" },
   { prefix: `${LIBRARY_PREFIX}50 Questions/`, eyebrow: "Hard question", moc: "Questions.md" },
   { prefix: `${LIBRARY_PREFIX}10 General Conference/`, eyebrow: "General Conference", moc: "General Conference.md" },
   { prefix: `${LIBRARY_PREFIX}65 Secondary Sources/`, eyebrow: "Podcasts & talks", moc: "Secondary Sources.md" },
@@ -31,6 +39,7 @@ const DOC_KINDS: { prefix: string; eyebrow: string; moc: string }[] = [
 ];
 
 export function docKindFor(path: string): { eyebrow: string } | null {
+  if (lessonRoot(path) && path.endsWith('.md')) return { eyebrow: 'Lesson' };
   for (const k of DOC_KINDS) {
     if (!path.startsWith(k.prefix)) continue;
     if (path === k.prefix + k.moc) return null;
@@ -50,6 +59,8 @@ export interface DocHost {
   unbookmark: (id: string) => Promise<void>;
   /** the Library page — the way back when the tab has no history */
   openLibrary: () => void;
+  openLessonHome?: (folder: string, resources?: boolean) => void;
+  openMyWork?: () => void;
   /** power users only: the raw markdown page */
   openRaw: ((file: TFile) => void) | null;
   /** play a YouTube video in the app's corner player */
@@ -58,6 +69,11 @@ export interface DocHost {
 
 export class DocView extends ItemView {
   private path: string | null = null;
+  private refresh = new PageRefresh();
+  private renderedContent: string | null = null;
+  private renderedPath: string | null = null;
+  private emptyRead: { since: number; timer: number } | null = null;
+  private changed = () => { void this.render(); };
 
   constructor(leaf: WorkspaceLeaf, private s: SGState, private ann: AnnotationService,
     private host: DocHost) {
@@ -68,9 +84,18 @@ export class DocView extends ItemView {
   getViewType() { return DOC_VIEW; }
   getDisplayText() {
     const f = this.file();
-    return f ? f.basename : "Scripture Graph";
+    return f ? documentTitle(this.app, f) : "Scripture Graph";
   }
   getIcon() { return "file-text"; }
+
+  onPaneMenu(menu: Menu, source: string): void {
+    super.onPaneMenu(menu, source);
+    const file = this.file();
+    if (file) {
+      addSendPageItem(menu, this.s, file);
+      addPrintItems(menu, this.app, file);
+    }
+  }
 
   getState(): Record<string, unknown> { return { path: this.path }; }
 
@@ -78,6 +103,7 @@ export class DocView extends ItemView {
     await super.setState(state, result);
     const p = (state as { path?: unknown } | null)?.path;
     if (typeof p === "string" && p && p !== this.path) {
+      this.clearEmptyRead();
       this.path = p;
       if (this.contentEl.hasClass("sg-doc")) await this.render();
     }
@@ -85,14 +111,27 @@ export class DocView extends ItemView {
 
   async onOpen() {
     this.contentEl.addClass("sg-doc");
-    this.s.onChange.push(() => void this.render());
+    this.registerEvent(this.app.metadataCache.on('changed', file => { if (file.path === this.path) this.changed(); }));
+    this.s.onChange.push(this.changed);
     if (this.path) await this.render();
+  }
+
+  async onClose() {
+    this.clearEmptyRead();
+    this.refresh.cancel();
+    const index = this.s.onChange.indexOf(this.changed);
+    if (index >= 0) this.s.onChange.splice(index, 1);
   }
 
   private file(): TFile | null {
     if (!this.path) return null;
     const af = this.app.vault.getAbstractFileByPath(this.path);
     return af instanceof TFile ? af : null;
+  }
+
+  private clearEmptyRead() {
+    if (this.emptyRead) window.clearTimeout(this.emptyRead.timer);
+    this.emptyRead = null;
   }
 
   /** the page's stable graph anchor: the engine's sg-id when it has one,
@@ -104,28 +143,50 @@ export class DocView extends ItemView {
   }
 
   private async render() {
-    const root = this.contentEl;
-    root.empty();
+    const update = this.refresh.begin(this.contentEl, this.path ?? '');
+    const root = update.root;
     const file = this.file();
-    if (!file) { root.createEl("p", { text: "This page is not in the vault." }); return; }
+    if (!file) {
+      // A sync can briefly make the current file unavailable. Keep the last
+      // readable page until it can be refreshed, rather than collapsing it.
+      if (this.renderedPath !== null && this.renderedPath === this.path) return;
+      root.createEl("p", { text: "This page is not in the vault." });
+      if (update.commit()) this.renderedContent = this.renderedPath = null;
+      return;
+    }
     const kind = docKindFor(file.path) ?? { eyebrow: "Library" };
+    const lesson = lessonRoot(file.path);
+    this.contentEl.toggleClass('sg-doc-lesson', !!lesson);
     const fm = (this.app.metadataCache.getFileCache(file)?.frontmatter ?? {}) as Record<string, unknown>;
     const page = root.createDiv({ cls: "sg-doc-page" });
 
     // ---- head: the way back, eyebrow, title, status, actions ----
     const head = page.createDiv({ cls: "sg-doc-head" });
-    const back = head.createEl("button", { cls: "sg-doc-back", text: "‹ Back" });
+    const nav = lesson ? head.createDiv({ cls: 'sg-doc-lesson-nav' }) : head;
+    const research = !!lesson && projectKind(lesson) === 'research';
+    const back = nav.createEl("button", { cls: "sg-doc-back", text: lesson ? (research ? '‹ Research home' : lesson.startsWith('Library/Study Plans/') ? '‹ Study plan home' : '‹ Lesson home') : '‹ Back' });
     back.onclick = () => {
+      if (lesson && this.host.openLessonHome) { this.host.openLessonHome(lesson); return; }
       // the leaf's own back stack first (recordHistory fed it); the Library
       // page when there is nothing to go back to
       if (!historyBack(this.leaf)) this.host.openLibrary();
     };
-    head.createDiv({ cls: "sg-doc-eyebrow", text: kind.eyebrow });
+    if (lesson) {
+      nav.createEl('button', { cls: 'sg-doc-back', text: research ? 'Research pages' : 'Resources' }).onclick = () => this.host.openLessonHome?.(lesson, true);
+      nav.createEl('button', { cls: 'sg-doc-back', text: 'My Work' }).onclick = () => this.host.openMyWork?.();
+    }
+    const primaryPage = !!lesson && lessonProject(this.app, lesson).primary?.path === file.path;
+    head.createDiv({ cls: "sg-doc-eyebrow", text: lesson && !primaryPage ? (research ? 'Research page' : 'Lesson resource') : research ? 'Research report' : kind.eyebrow });
     // "And We Talk of Christ (Elder Gary E. Stevenson, April 2025)": the title
     // is the title; the parenthetical becomes pills beneath it
-    const parenMatch = /^(.*\S)\s+\(([^()]+)\)$/.exec(file.basename);
-    const title = parenMatch ? parenMatch[1]! : file.basename;
+    const displayTitle = documentTitle(this.app, file);
+    const parenMatch = /^(.*\S)\s+\(([^()]+)\)$/.exec(displayTitle);
+    const title = parenMatch ? parenMatch[1]! : displayTitle;
     head.createEl("h1", { cls: "sg-doc-title", text: title });
+    if (!lesson) {
+      const send = head.createEl('button', { cls: 'sg-family-send-button', text: 'Send to family' });
+      send.onclick = () => sendPage(this.s, file);
+    }
     const meta = head.createDiv({ cls: "sg-doc-meta" });
     const status = String(fm["status"] ?? "");
     if (status) {
@@ -174,6 +235,7 @@ export class DocView extends ItemView {
 
     // ---- themes: the page as a whole carries study themes (stackable) ----
     const mine = await this.ann.mine(anchor);
+    if (!update.current()) return;
     const active = new Set(mine.filter(a => a.annotation_type === "highlight" && a.theme && !a.selected_text)
       .map(a => a.theme!.toLowerCase()));
     const customs = (this.s.settings.themes ?? [])
@@ -191,16 +253,52 @@ export class DocView extends ItemView {
     }
     // ---- body: the page, one block per section ----
     const body = page.createDiv({ cls: "sg-doc-body markdown-rendered" });
+    let signature: string | null = null;
     try {
       const md = await this.app.vault.cachedRead(file);
+      if (!update.current()) return;
+      signature = JSON.stringify([file.path, md, fm, worn]);
+      // Identity polling and reconnects normally change nothing on this page.
+      // Keep its DOM, selection, media and touch scrolling intact in that case.
+      if (signature === this.renderedContent) { this.clearEmptyRead(); return; }
+      // In-place sync writes can briefly expose an empty file. Confirm an
+      // empty result after the write has had time to settle. A genuinely
+      // cleared file still updates without erasing the page for a brief read.
+      if (!md.trim() && this.renderedPath === file.path) {
+        if (!this.emptyRead) {
+          this.emptyRead = { since: Date.now(), timer: window.setTimeout(this.changed, 350) };
+          return;
+        }
+        if (Date.now() - this.emptyRead.since < 350) return;
+      }
+      this.clearEmptyRead();
       const scratch = createDiv();
       await MarkdownRenderer.render(this.app, md, scratch, file.path, this);
       this.sectionize(scratch, body, file.basename);
+      if (file.path.startsWith(`${LIBRARY_PREFIX}05 Events/`)) {
+        const jumps = page.createEl('nav', { cls: 'sg-doc-event-nav' });
+        jumps.setAttr('aria-label', 'On this event page');
+        for (const [heading, label] of [['Historical Context', 'History'], ['Historical Sources', 'Sources'], ['Teachings About This Event', 'Teachings']]) {
+          const destination = Array.from(body.querySelectorAll<HTMLElement>('.sg-doc-sec-h'))
+            .find(h => h.textContent?.trim() === heading);
+          if (!destination) continue;
+          const jump = jumps.createEl('button', { cls: 'sg-doc-back', text: label });
+          jump.onclick = () => destination.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        }
+        page.insertBefore(jumps, body);
+      }
     } catch {
+      // An error placeholder is shorter than the document and clamps its
+      // scroll position to zero. A failed background read must leave it intact.
+      if (!update.current() || this.renderedPath === file.path) return;
+      signature = null;
       body.setText("This page could not be loaded.");
     }
     body.addEventListener("click", (evt) => this.onLinkClick(evt, file), { capture: true });
-    root.scrollTop = 0;
+    if (update.commit()) {
+      this.renderedContent = signature;
+      this.renderedPath = signature === null ? null : file.path;
+    }
   }
 
   /** the flat render becomes blocks: each `##` heading with everything

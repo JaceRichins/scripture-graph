@@ -5,9 +5,11 @@ import type SGPlugin from "./main";
 import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
+import { backgroundVisibility } from './study/backgroundVisibility';
+import { SceneStorageModal } from './study/sceneStorage';
 import { BUILD } from "./build";
 import { SECTIONS, syncPrefs, sectionOn } from "./sync/vaultSync";
-import { SetupLinkModal, bestPublicUrl, buildSetupLink } from "./social/setupLink";
+import { InviteLinkModal, SetupLinkModal, bestPublicUrl, buildSetupLink } from "./social/setupLink";
 
 export class SGSettingsTab extends PluginSettingTab {
   constructor(private p: SGPlugin) { super(p.app, p); }
@@ -41,6 +43,7 @@ export class SGSettingsTab extends PluginSettingTab {
     const line = el.createDiv({ cls: "setting-item-description sg-sync-status" });
     const paint = () => {
       const when = st.lastRun ? new Date(st.lastRun).toLocaleString() : "never";
+      line.toggleClass("sg-sync-failed", !st.running && !!st.lastError);
       line.setText(st.running
         ? `${st.phase}${st.total ? ` — ${st.done.toLocaleString()} of ${st.total.toLocaleString()} files` : "…"}`
         : `Last sync ${when} · ${st.files.toLocaleString()} files on this device`
@@ -59,9 +62,13 @@ export class SGSettingsTab extends PluginSettingTab {
       }));
     const known = [s.settings.serverUrl, ...(s.device.serverUrls ?? [])].filter((u, i, a) => u && a.indexOf(u) === i);
     el.createDiv({ cls: "setting-item-description", text: `Reachable at: ${known.join("  ·  ")}` });
-    new Setting(el).setName("Sync now").addButton(b => b.setButtonText("Sync").onClick(async () => {
-      await vs.run("manual"); paint();
-    }));
+    new Setting(el).setName("Sync now")
+      .setDesc("Brings this device up to date with the family server: the library and your own notes.")
+      .addButton(b => b.setButtonText("Sync").setCta().onClick(async () => {
+        b.setButtonText("Syncing…").setDisabled(true);
+        try { await this.p.syncEverything(); }
+        finally { b.setButtonText("Sync").setDisabled(false); paint(); }
+      }));
     new Setting(el).setName("Check every")
       .addDropdown(d => d.addOptions({ "15": "15 minutes", "30": "30 minutes", "60": "hour", "180": "3 hours" })
         .setValue(String(prefs.intervalMin)).onChange(async v => {
@@ -69,6 +76,12 @@ export class SGSettingsTab extends PluginSettingTab {
           await s.saveDevice(); vs.start();
         }));
     el.createEl("h3", { text: "What this device carries" });
+    new Setting(el).setName('Clean up unused downloads')
+      .setDesc('On phones, remove replaceable downloads after this long without use. Scriptures, conference from the last two years, personal work, bookmarked or annotated pages, and deliberately saved offline collections stay. Older installs get a fresh grace period. Files remain searchable on the server.')
+      .addDropdown(d => d.addOptions({ '30': '30 days', '60': '60 days', '90': '90 days', '180': '180 days', '0': 'Never' })
+        .setValue(String(prefs.pruneDays)).onChange(async value => {
+          s.device.sync = { ...s.device.sync, pruneDays: Number(value) }; await s.saveDevice();
+        }));
     for (const sec of SECTIONS) {
       new Setting(el).setName(sec.label)
         .setDesc(sec.always ? "Always" : sec.defaultOn === false ? "Off: the Library still lists it, and a page is fetched the moment you open it. On: all of it, offline." : "")
@@ -78,6 +91,17 @@ export class SGSettingsTab extends PluginSettingTab {
             await s.saveDevice();
             await vs.resetIndex();        // the next run adds or removes the shelf
           }));
+    }
+    if (prefs.pins.some(pin => pin.endsWith('/'))) {
+      el.createEl('h3', { text: 'Saved offline collections' });
+      for (const pin of prefs.pins.filter(value => value.endsWith('/'))) {
+        new Setting(el).setName(pin.split('/').filter(Boolean).pop() ?? pin)
+          .setDesc('Kept offline until you allow cleanup. Your personal files are always protected.')
+          .addButton(button => button.setButtonText('Allow cleanup').onClick(async () => {
+            s.device.sync = { ...s.device.sync, pins: syncPrefs(s).pins.filter(value => value !== pin) };
+            await s.saveDevice(); await vs.resetIndex(); this.display();
+          }));
+      }
     }
   }
 
@@ -106,6 +130,16 @@ export class SGSettingsTab extends PluginSettingTab {
           try { await s.api.logoutDevice(); } catch { /* offline */ }
           s.device.deviceToken = null; s.device.userId = null;
           await s.saveDevice(); this.display();
+        }));
+      // Anyone can bring someone in, not only the owner: the person doing the
+      // inviting is the one holding the phone.
+      new Setting(el).setName("Invite someone to the family")
+        .setDesc("One link. They tap it, install, and their scriptures download — nothing to type.")
+        .addButton(b => b.setButtonText("Make invite link").setCta().onClick(async () => {
+          try {
+            const invite = await s.api.createSetupInvite(s.groups[0]?.group_id ?? null);
+            new InviteLinkModal(this.p, invite, s.device.displayName ?? null).open();
+          } catch (e) { new Notice(`Could not make a link: ${(e as Error).message}`, 8000); }
         }));
       new Setting(el).setName("Link another device")
         .setDesc("Creates a one-time code (valid 1 hour) to sign THIS account in on your phone")
@@ -179,18 +213,11 @@ export class SGSettingsTab extends PluginSettingTab {
 
     new Setting(el).setName("Swipe to turn the chapter")
       .setDesc("On the phone, a firm left/right swipe on a reading page moves "
-        + "one chapter (Obsidian's sidebar swipes step aside there). "
-        + "Turn off to give reading pages back to the sidebars.")
+        + "one chapter. Sidebars always open with their buttons, even when "
+        + "chapter swiping is turned off.")
       .addToggle(t => t.setValue(s.device.swipeNav !== false)
         .onChange(async v => {
           s.device.swipeNav = v;
-          // hand open reading pages back (or claim them) immediately
-          if (!v) {
-            for (const leaf of s.app.workspace.getLeavesOfType("markdown")) {
-              const ce = (leaf.view as { contentEl?: HTMLElement }).contentEl;
-              if (ce) delete ce.dataset.ignoreSwipe;
-            }
-          }
           await s.saveDevice();
         }));
 
@@ -199,14 +226,26 @@ export class SGSettingsTab extends PluginSettingTab {
       .addDropdown(d => {
         d.addOption("none", "None (plain)");
         d.addOption("auto", "Auto — follow the time of day");
-        d.addOption("match", "📖 Match the chapter");
+        d.addOption("match", "📖 Match this page");
         for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
         d.setValue(s.device.scene ?? "none").onChange(async v => {
           s.device.scene = v;
           await s.saveDevice();
-          this.p.scenes.apply(v);
+          this.p.applyConfiguredScene();
         });
       });
+
+    new Setting(el).setName('Background photo visibility')
+      .setDesc('Higher values show more of the photo. Lower values darken it for reading. Default: 35%.')
+      .addSlider(slider => slider.setLimits(0, 100, 5).setValue(backgroundVisibility(s.device.backgroundVisibility))
+        .setDynamicTooltip().onChange(async value => {
+          s.device.backgroundVisibility = value;
+          this.p.applyReadingPrefs();
+          await s.saveDevice();
+        }));
+    new Setting(el).setName('Scene storage & offline favorites').setDesc('Download scenes as needed, with a default 100 MB cache.').addButton(b=>b.setButtonText('Manage scenes').onClick(()=>{
+      if(this.p.scenes.cache)new SceneStorageModal(s.app,this.p.scenes.cache,()=>s.device.sceneCacheMB??100,async mb=>{s.device.sceneCacheMB=mb;await s.saveDevice();}).open();
+    }));
 
     // ------------------------------------------------------------ sharing
     el.createEl("h2", { text: "Sharing & privacy" });
@@ -235,65 +274,23 @@ export class SGSettingsTab extends PluginSettingTab {
         s.device.showScopes.public = v; await s.saveDevice(); s.notify();
       }));
 
-    // ----------------------------------------------------------------- ai
-    el.createEl("h2", { text: "AI (your own wallet — never a shared key)" });
-    if (!s.aiConnected) {
-      new Setting(el).setName("Connect AI").setDesc(
-        "Authorizes Scripture Graph to use YOUR OpenRouter balance. ~$10 lasts a long time.")
-        .addButton(b => b.setButtonText("Connect AI").setCta().onClick(async () => {
-          await this.p.ai.beginConnect();
-          new Notice("Finish in the browser — Obsidian catches the redirect. " +
-            "If it doesn't return, paste the code below.");
-          this.display();
+    // ---------------------------------------------------------------- ask
+    el.createEl("h2", { text: "Ask" });
+    new Setting(el).setName("Answered by the family server")
+      .setDesc("A ChatGPT session runs on the family's own computer, reads the library, and replies. " +
+        "It can also act for you: open pages, highlight, connect passages, write lesson plans, change these settings. " +
+        "Nothing to sign up for and no keys on this phone.");
+    new Setting(el).setName("Reading text size")
+      .setDesc("Also: ask the assistant to make the text bigger.")
+      .addSlider(sl => sl.setLimits(70, 180, 5).setValue(Math.round((s.device.readScale || 1) * 100)).setDynamicTooltip()
+        .onChange(async v => { s.device.readScale = v / 100; await s.saveDevice(); this.p.applyReadingPrefs(); }));
+    if (s.aiConnected) {
+      // a wallet connected in an earlier version: it is only a fallback now, and it can go
+      new Setting(el).setName("Your own AI wallet (old)")
+        .setDesc("An OpenRouter key from before. Used only if the family server can't answer. Forget it?")
+        .addButton(b => b.setButtonText("Forget key").setWarning().onClick(async () => {
+          await this.p.ai.disconnect(); this.display();
         }));
-      new Setting(el).setName("Paste authorization code")
-        .setDesc("Only needed if the browser redirect didn't come back")
-        .addText(t => t.setPlaceholder("code from openrouter.ai").then(t2 => {
-          new Setting(el).addButton(b => b.setButtonText("Finish connection").onClick(async () => {
-            try { await this.p.ai.completeConnect(t2.getValue()); this.display(); }
-            catch (e) { new Notice((e as Error).message); }
-          }));
-        }));
-    } else {
-      new Setting(el).setName("AI connected ✓")
-        .addButton(b => b.setButtonText("Disconnect").setWarning()
-          .onClick(async () => { await this.p.ai.disconnect(); this.display(); }));
-      new Setting(el).setName("Preferred models").addDropdown(d => d
-        .addOption("auto", "AUTO — recommended")
-        .addOption("fast", "Fast & cheap")
-        .addOption("deep", "Deep research")
-        .addOption("best", "Highest quality")
-        .addOption("cheapest", "Cheapest")
-        .addOption("specific", "Specific model…")
-        .setValue(s.device.aiTier)
-        .onChange(async v => { s.device.aiTier = v as Tier; await s.saveDevice(); this.display(); }));
-      if (s.device.aiTier === "specific") {
-        new Setting(el).setName("Model id").setDesc("Advanced: any OpenRouter model id")
-          .addText(t => t.setValue(s.device.aiSpecificModel ?? "")
-            .setPlaceholder(TIER_CANDIDATES.deep[0] ?? "")
-            .onChange(async v => { s.device.aiSpecificModel = v.trim() || null; await s.saveDevice(); }));
-      }
-      new Setting(el).setName("Monthly safety cap (USD)")
-        .setDesc("Scripture Graph stops starting AI requests past this amount")
-        .addText(t => {
-          void this.p.state.budget.state().then(b => t.setValue(String(b.capUsd)));
-          t.onChange(async v => {
-            const n = Number(v);
-            if (Number.isFinite(n) && n >= 0) await this.p.state.budget.setCap(n);
-          });
-        });
-      void this.p.state.budget.state().then(async b => {
-        const wallet = await this.p.ai.wallet();
-        new Setting(el).setName(
-          `This month: $${b.spentUsd.toFixed(2)} / $${b.capUsd.toFixed(2)}`)
-          .setDesc(wallet
-            ? `OpenRouter wallet: $${wallet.usageUsd.toFixed(2)} used${wallet.limitUsd ? ` of $${wallet.limitUsd}` : ""}`
-            : "");
-      });
-      new Setting(el).setName("Let AI read my private notes as context")
-        .setDesc("Off by default. AI never modifies your notes either way (§27).")
-        .addToggle(t => t.setValue(s.device.aiUsePersonalNotes)
-          .onChange(async v => { s.device.aiUsePersonalNotes = v; await s.saveDevice(); }));
     }
 
     // ----------------------------------------------------------- my data
@@ -307,7 +304,7 @@ export class SGSettingsTab extends PluginSettingTab {
       ? `build ${BUILD.sha}`
       : `⚠ code is v${BUILD.version} (${BUILD.sha}) — main.js hasn't synced yet`;
     new Setting(el).setName(`Plugin version: v${this.p.manifest.version} · ${code}`)
-      .setDesc("Updates come straight from your family server — no sync games")
+      .setDesc("Updates install automatically from GitHub when the app opens or returns to the foreground. The family server is a fallback.")
       .addButton(b => b.setButtonText("Check for updates")
         .onClick(() => void this.p.checkForUpdate(false)));
     new Setting(el).setName("Debug: copy interaction log")

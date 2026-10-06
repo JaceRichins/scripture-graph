@@ -1,0 +1,1044 @@
+{
+  "emmaus-road": {
+    "portrait": {
+      "file": "emmaus-road-portrait-e0e3664704d0c758.jpg",
+      "bytes": 478809,
+      "sha256": "e0e3664704d0c758c681c92aa889d380accacfe1b9f49f89154ce8e1f0c37e36",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/emmaus-road-portrait-e0e3664704d0c758.jpg"
+    }
+  },
+  "bethany-courtyard": {
+    "portrait": {
+      "file": "bethany-courtyard-portrait-0fac7f5c8ca3a556.jpg",
+      "bytes": 378110,
+      "sha256": "0fac7f5c8ca3a556a746385ae7afb6be9ca31301dad0f578d4e7ef385cd698a8",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/bethany-courtyard-portrait-0fac7f5c8ca3a556.jpg"
+    }
+  },
+  "cana-feast": {
+    "portrait": {
+      "file": "cana-feast-portrait-029f0918ac83e2a0.jpg",
+      "bytes": 395809,
+      "sha256": "029f0918ac83e2a0841c11bd29fe9c021b275cd39db56767aff13d6be1dc0d2d",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/cana-feast-portrait-029f0918ac83e2a0.jpg"
+    }
+  },
+  "nazareth-workshop": {
+    "portrait": {
+      "file": "nazareth-workshop-portrait-eb075936a2f1a012.jpg",
+      "bytes": 303522,
+      "sha256": "eb075936a2f1a01237ffd6b0ab25df15b63397cbdba70fa7bbb9e39adf7bf864",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nazareth-workshop-portrait-eb075936a2f1a012.jpg"
+    }
+  },
+  "bethesda-pool": {
+    "portrait": {
+      "file": "bethesda-pool-portrait-a6e6897b7ba20d91.jpg",
+      "bytes": 351954,
+      "sha256": "a6e6897b7ba20d910b3d339bca5b2aee9ef6b7e038047b231c3ee553cdc04503",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/bethesda-pool-portrait-a6e6897b7ba20d91.jpg"
+    }
+  },
+  "siloam-steps": {
+    "portrait": {
+      "file": "siloam-steps-portrait-92abbf8dbc0d47ca.jpg",
+      "bytes": 424292,
+      "sha256": "92abbf8dbc0d47ca0800229cfeda9604a67c7312b773244305d5e43bc3cf4fc6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/siloam-steps-portrait-92abbf8dbc0d47ca.jpg"
+    }
+  },
+  "galilee-moonrise": {
+    "portrait": {
+      "file": "galilee-moonrise-portrait-20121455353b4df0.jpg",
+      "bytes": 251710,
+      "sha256": "20121455353b4df053d34c015cdf6ba6e400dc8a772395c8d50f4f9230abc26f",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/galilee-moonrise-portrait-20121455353b4df0.jpg"
+    }
+  },
+  "mustard-garden": {
+    "portrait": {
+      "file": "mustard-garden-portrait-a771bf7708f88f4b.jpg",
+      "bytes": 408256,
+      "sha256": "a771bf7708f88f4be337d84b3d6905da18e45039ed5071b8bc0f61246e5ee603",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/mustard-garden-portrait-a771bf7708f88f4b.jpg"
+    }
+  },
+  "lilies-field": {
+    "portrait": {
+      "file": "lilies-field-portrait-1d37794230857f18.jpg",
+      "bytes": 372261,
+      "sha256": "1d37794230857f18790a92f53bfdf64b1006bc91d410d29ae43df11bda41cee6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/lilies-field-portrait-1d37794230857f18.jpg"
+    }
+  },
+  "sower-furrows": {
+    "portrait": {
+      "file": "sower-furrows-portrait-bc3a8539a549f6b2.jpg",
+      "bytes": 436973,
+      "sha256": "bc3a8539a549f6b271c2e0d0ed096a0af2771771de892bd81cf5bb74914c4315",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/sower-furrows-portrait-bc3a8539a549f6b2.jpg"
+    }
+  },
+  "jericho-palms": {
+    "portrait": {
+      "file": "jericho-palms-portrait-845da9a6a2b41a1b.jpg",
+      "bytes": 479472,
+      "sha256": "845da9a6a2b41a1b1a76d213661077d9680f074f6d26ecfa91189567f8817a32",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/jericho-palms-portrait-845da9a6a2b41a1b.jpg"
+    }
+  },
+  "sinai-starlight": {
+    "portrait": {
+      "file": "sinai-starlight-portrait-4c957de86478af56.jpg",
+      "bytes": 314147,
+      "sha256": "4c957de86478af56c615941619a0f4ba3cc899d02bde8a5ec651b87145e781c1",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/sinai-starlight-portrait-4c957de86478af56.jpg"
+    }
+  },
+  "horeb-cave": {
+    "portrait": {
+      "file": "horeb-cave-portrait-3a1448831a8e2509.jpg",
+      "bytes": 318183,
+      "sha256": "3a1448831a8e25090ac8f2f3faf7b9bfe9c1085bc2598b09863e7118aa7f66af",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/horeb-cave-portrait-3a1448831a8e2509.jpg"
+    }
+  },
+  "tabernacle-dawn": {
+    "portrait": {
+      "file": "tabernacle-dawn-portrait-5a91b656a4f689b9.jpg",
+      "bytes": 290310,
+      "sha256": "5a91b656a4f689b9c16750443db43a89f817ae7c75172e01b75a5a043905e281",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/tabernacle-dawn-portrait-5a91b656a4f689b9.jpg"
+    }
+  },
+  "ruth-harvest": {
+    "portrait": {
+      "file": "ruth-harvest-portrait-d8975277448a702d.jpg",
+      "bytes": 481406,
+      "sha256": "d8975277448a702d54787de9278bb842f61b640d11face7ef8745b291055bcbd",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ruth-harvest-portrait-d8975277448a702d.jpg"
+    }
+  },
+  "esther-garden": {
+    "portrait": {
+      "file": "esther-garden-portrait-bbef121554c44ea7.jpg",
+      "bytes": 367184,
+      "sha256": "bbef121554c44ea765a19b1b59293a2221a46a52be2381dc86f1be8e7b6f6aa9",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/esther-garden-portrait-bbef121554c44ea7.jpg"
+    }
+  },
+  "daniel-window": {
+    "portrait": {
+      "file": "daniel-window-portrait-cd28200dfa075127.jpg",
+      "bytes": 337191,
+      "sha256": "cd28200dfa0751275d5f921cf2f65292b1c98650cde6ac5fa3a63bd8930ac607",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/daniel-window-portrait-cd28200dfa075127.jpg"
+    }
+  },
+  "psalm-waterfall": {
+    "portrait": {
+      "file": "psalm-waterfall-portrait-18fa9bc385a6865b.jpg",
+      "bytes": 429466,
+      "sha256": "18fa9bc385a6865b8af7f9bd7ff426d8332d4ea277d1a7ff71b0e0046d5d5171",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/psalm-waterfall-portrait-18fa9bc385a6865b.jpg"
+    }
+  },
+  "salt-sea-dawn": {
+    "portrait": {
+      "file": "salt-sea-dawn-portrait-c7c9386f6d80ce25.jpg",
+      "bytes": 209932,
+      "sha256": "c7c9386f6d80ce25a43ba8b5385a8e0b586561b9ffa56fe1e690272b4c26d03b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/salt-sea-dawn-portrait-c7c9386f6d80ce25.jpg"
+    }
+  },
+  "hermon-snow": {
+    "portrait": {
+      "file": "hermon-snow-portrait-bb9752a156babd29.jpg",
+      "bytes": 303158,
+      "sha256": "bb9752a156babd295a8146dfb86dd5165693403174b88807e95db212b8e55fc9",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/hermon-snow-portrait-bb9752a156babd29.jpg"
+    }
+  },
+  "bountiful-coast": {
+    "portrait": {
+      "file": "bountiful-coast-portrait-053ef3ad740489ee.jpg",
+      "bytes": 323766,
+      "sha256": "053ef3ad740489ee48afc2733efb3afcb78234324680f05c35bb31159d06ece3",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/bountiful-coast-portrait-053ef3ad740489ee.jpg"
+    }
+  },
+  "cumorah-morning": {
+    "portrait": {
+      "file": "cumorah-morning-portrait-91af56ca409a3034.jpg",
+      "bytes": 393882,
+      "sha256": "91af56ca409a3034212e99c359ac06766bc1f824ddf4ca9c233c1505833b276c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/cumorah-morning-portrait-91af56ca409a3034.jpg"
+    }
+  },
+  "nahom-canyon": {
+    "portrait": {
+      "file": "nahom-canyon-portrait-6e7734df2ebdf3b5.jpg",
+      "bytes": 351111,
+      "sha256": "6e7734df2ebdf3b592f16549916ac53021e278d1fc8f22d401f8b6d5dd778632",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nahom-canyon-portrait-6e7734df2ebdf3b5.jpg"
+    }
+  },
+  "zarahemla-river": {
+    "portrait": {
+      "file": "zarahemla-river-portrait-5e92034b177e8507.jpg",
+      "bytes": 326430,
+      "sha256": "5e92034b177e8507175f84292e8efc398cdcfda64ea6cc500ccab928ba4a3b7a",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/zarahemla-river-portrait-5e92034b177e8507.jpg"
+    }
+  },
+  "liberty-window": {
+    "portrait": {
+      "file": "liberty-window-portrait-89cf23e8c7caa4e8.jpg",
+      "bytes": 333252,
+      "sha256": "89cf23e8c7caa4e84d2f0e47b7e2086b91548079b5c4057a973f59190164ddcb",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/liberty-window-portrait-89cf23e8c7caa4e8.jpg"
+    }
+  },
+  "nauvoo-riverside": {
+    "portrait": {
+      "file": "nauvoo-riverside-portrait-40830ffaf1b94498.jpg",
+      "bytes": 367442,
+      "sha256": "40830ffaf1b944988864304a626ef8879ecaa92aee5d297d9d90fda9ca59098e",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nauvoo-riverside-portrait-40830ffaf1b94498.jpg"
+    }
+  },
+  "pioneer-meadow": {
+    "portrait": {
+      "file": "pioneer-meadow-portrait-6e5687d19fcb3550.jpg",
+      "bytes": 419623,
+      "sha256": "6e5687d19fcb3550d8aa35a6170de7b4209d4742a85e14f5eec7153129dbead0",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/pioneer-meadow-portrait-6e5687d19fcb3550.jpg"
+    }
+  },
+  "autumn-sanctuary": {
+    "portrait": {
+      "file": "autumn-sanctuary-portrait-ea4c1cbfe219fc6f.jpg",
+      "bytes": 411802,
+      "sha256": "ea4c1cbfe219fc6f9b10bafa042219d9693812cad48d5a61e0fc527d19c58125",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/autumn-sanctuary-portrait-ea4c1cbfe219fc6f.jpg"
+    }
+  },
+  "rain-study": {
+    "portrait": {
+      "file": "rain-study-portrait-aa91b0f027745b4b.jpg",
+      "bytes": 339154,
+      "sha256": "aa91b0f027745b4bf616612acc84ee2eefe86c933dd91614171ee7f26a3eb1ce",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/rain-study-portrait-aa91b0f027745b4b.jpg"
+    }
+  },
+  "winter-hearth": {
+    "portrait": {
+      "file": "winter-hearth-portrait-da4572ab759f47ff.jpg",
+      "bytes": 311450,
+      "sha256": "da4572ab759f47ff0bd574278fb53550a3411c54c226bda073e0a0a05237ebbd",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/winter-hearth-portrait-da4572ab759f47ff.jpg"
+    }
+  },
+  "sunrise": {
+    "portrait": {
+      "file": "sunrise-portrait-1b608faa8fb8d250.jpg",
+      "bytes": 496154,
+      "sha256": "1b608faa8fb8d2509e54c14e76d19336b5ea292c251bb2222ec007eed24511b7",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/sunrise-portrait-1b608faa8fb8d250.jpg"
+    }
+  },
+  "waters": {
+    "portrait": {
+      "file": "waters-portrait-cb314b81aabaa4de.jpg",
+      "bytes": 261403,
+      "sha256": "cb314b81aabaa4de1f20fd49bf6871859439e3e21a99082b4252f83fd6ae6091",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/waters-portrait-cb314b81aabaa4de.jpg"
+    }
+  },
+  "mount": {
+    "portrait": {
+      "file": "mount-portrait-3ffd95b15812f728.jpg",
+      "bytes": 361215,
+      "sha256": "3ffd95b15812f7280bbbdf16c4835efba9dcda96665099e69366df1002d3b2c7",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/mount-portrait-3ffd95b15812f728.jpg"
+    }
+  },
+  "garden": {
+    "portrait": {
+      "file": "garden-portrait-791d9cacd0f3d580.jpg",
+      "bytes": 517748,
+      "sha256": "791d9cacd0f3d5804077afccd6ea6e0bbed7c42c16018adec950ee3faed4f039",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/garden-portrait-791d9cacd0f3d580.jpg"
+    }
+  },
+  "fields": {
+    "portrait": {
+      "file": "fields-portrait-69c83faf8d16ae92.jpg",
+      "bytes": 359002,
+      "sha256": "69c83faf8d16ae924b5e95c1fe9002be4bf53099e875f83b6a0370897ef26b3a",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/fields-portrait-69c83faf8d16ae92.jpg"
+    }
+  },
+  "storm": {
+    "portrait": {
+      "file": "storm-portrait-9451337ba56515e4.jpg",
+      "bytes": 359876,
+      "sha256": "9451337ba56515e4ce8589a5ce76ac36a54d5573160e2ff76326f34a0554151f",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/storm-portrait-9451337ba56515e4.jpg"
+    }
+  },
+  "temple": {
+    "portrait": {
+      "file": "temple-portrait-f4cae04b207bb7f7.jpg",
+      "bytes": 328989,
+      "sha256": "f4cae04b207bb7f7a64b6ef9ea67943664e9216dea768807f6b650c399a7c08e",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/temple-portrait-f4cae04b207bb7f7.jpg"
+    }
+  },
+  "city": {
+    "portrait": {
+      "file": "city-portrait-5cda34d152e60a46.jpg",
+      "bytes": 368055,
+      "sha256": "5cda34d152e60a4627c28a5a9f4c70191e30f7dd96e14268d09dcfed2001e85d",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/city-portrait-5cda34d152e60a46.jpg"
+    }
+  },
+  "warcamp": {
+    "portrait": {
+      "file": "warcamp-portrait-1bad207ff7491a9f.jpg",
+      "bytes": 318739,
+      "sha256": "1bad207ff7491a9fb5490c671ce96d9c22500b3a9e9c1a4c45a0e388ac0d8593",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/warcamp-portrait-1bad207ff7491a9f.jpg"
+    }
+  },
+  "prison": {
+    "portrait": {
+      "file": "prison-portrait-867542ccb8da1655.jpg",
+      "bytes": 332804,
+      "sha256": "867542ccb8da165540fc0df21c5205a07e9703f398ed9737e1aa01968389fe01",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/prison-portrait-867542ccb8da1655.jpg"
+    }
+  },
+  "desert": {
+    "portrait": {
+      "file": "desert-portrait-da523e8663e43dcc.jpg",
+      "bytes": 291443,
+      "sha256": "da523e8663e43dcca9f8118a52524a97b9b5b4e4a066b92b7dcaed7cf5117f21",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/desert-portrait-da523e8663e43dcc.jpg"
+    }
+  },
+  "starlight": {
+    "portrait": {
+      "file": "starlight-portrait-67dc976d509d10de.jpg",
+      "bytes": 314644,
+      "sha256": "67dc976d509d10de43b5f60ed7f72c48354cc0f07118d27aa9547f2453fa227f",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/starlight-portrait-67dc976d509d10de.jpg"
+    }
+  },
+  "candle": {
+    "portrait": {
+      "file": "candle-portrait-4eb9e21b6b276f02.jpg",
+      "bytes": 257096,
+      "sha256": "4eb9e21b6b276f02f65f83b81a4eeb4ffacc68ab157c1bf3824e5603b47cbb9c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/candle-portrait-4eb9e21b6b276f02.jpg"
+    }
+  },
+  "grove": {
+    "portrait": {
+      "file": "grove-portrait-dd631e5a95611297.jpg",
+      "bytes": 498202,
+      "sha256": "dd631e5a956112972f96e4f8a0bd0d3cf8fa4d7a943a3d6cb43d4ebda5a1af66",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/grove-portrait-dd631e5a95611297.jpg"
+    }
+  },
+  "riverbank": {
+    "portrait": {
+      "file": "riverbank-portrait-85deef59df44fd69.jpg",
+      "bytes": 482648,
+      "sha256": "85deef59df44fd698af11243db0f9fa36e3ae9fd0fc50c9fd006536447fbc6cf",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/riverbank-portrait-85deef59df44fd69.jpg"
+    }
+  },
+  "shore": {
+    "portrait": {
+      "file": "shore-portrait-d82158f0e7baca92.jpg",
+      "bytes": 371648,
+      "sha256": "d82158f0e7baca926754761d3fae103c99a29b487e61b172632c1db637b6f98e",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/shore-portrait-d82158f0e7baca92.jpg"
+    }
+  },
+  "olive": {
+    "portrait": {
+      "file": "olive-portrait-313e421eaa946494.jpg",
+      "bytes": 568082,
+      "sha256": "313e421eaa946494ea96dda4b0f214e16ba65205edccc7c0c4843b32bf01608c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/olive-portrait-313e421eaa946494.jpg"
+    }
+  },
+  "study": {
+    "portrait": {
+      "file": "study-portrait-e90adfd7eb309781.jpg",
+      "bytes": 282671,
+      "sha256": "e90adfd7eb3097816ec3220d80574e1c249185227a6e80acb1f5bcbff21ccda7",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/study-portrait-e90adfd7eb309781.jpg"
+    }
+  },
+  "creation": {
+    "portrait": {
+      "file": "creation-portrait-76ddbfbbbe8d8eaf.jpg",
+      "bytes": 441831,
+      "sha256": "76ddbfbbbe8d8eafe13b5603035b7cf6e33cd4e4edcea6ae8d9102c19dc20c6c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/creation-portrait-76ddbfbbbe8d8eaf.jpg"
+    },
+    "wide": {
+      "file": "creation-wide-40746e7d675271bb.jpg",
+      "bytes": 392851,
+      "sha256": "40746e7d675271bbc356fdb19a2d97cd099852fe65909e3c3446bdeeee145546",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/creation-wide-40746e7d675271bb.jpg"
+    }
+  },
+  "ark": {
+    "portrait": {
+      "file": "ark-portrait-d196ea53af744273.jpg",
+      "bytes": 357756,
+      "sha256": "d196ea53af744273fd899a408722b298bac84f3058cb25b60d69f4bd7d28a25e",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ark-portrait-d196ea53af744273.jpg"
+    },
+    "wide": {
+      "file": "ark-wide-266a7a41bbbc3928.jpg",
+      "bytes": 356945,
+      "sha256": "266a7a41bbbc3928f7cdaba3082834e8290464adf709e9248c60b40715aedc35",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ark-wide-266a7a41bbbc3928.jpg"
+    }
+  },
+  "exodus": {
+    "portrait": {
+      "file": "exodus-portrait-8f21f35c49975258.jpg",
+      "bytes": 377829,
+      "sha256": "8f21f35c49975258e7729c525e83688ab3b5ad5c53b7a97d47446c0b0314450c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/exodus-portrait-8f21f35c49975258.jpg"
+    },
+    "wide": {
+      "file": "exodus-wide-f4586359c2f3e9e3.jpg",
+      "bytes": 399319,
+      "sha256": "f4586359c2f3e9e34dd05b03525ec88d79229e41dece583b1da773d5aff3d8cc",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/exodus-wide-f4586359c2f3e9e3.jpg"
+    }
+  },
+  "bethlehem": {
+    "portrait": {
+      "file": "bethlehem-portrait-fcf3d9398fe78323.jpg",
+      "bytes": 383056,
+      "sha256": "fcf3d9398fe78323bd3f946bd509b598051d7f2262df6ec65938fa3f1e5a573e",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/bethlehem-portrait-fcf3d9398fe78323.jpg"
+    },
+    "wide": {
+      "file": "bethlehem-wide-a2b64bad5697a99e.jpg",
+      "bytes": 339570,
+      "sha256": "a2b64bad5697a99e61c4f93818ff445ebf829bab72c9a5c03353116486c12da7",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/bethlehem-wide-a2b64bad5697a99e.jpg"
+    }
+  },
+  "gethsemane": {
+    "portrait": {
+      "file": "gethsemane-portrait-9857d1b8f66ca76c.jpg",
+      "bytes": 478340,
+      "sha256": "9857d1b8f66ca76c4998b6575c0df41a8b4c8dd00a2d117ae72fbcccb8e68e61",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/gethsemane-portrait-9857d1b8f66ca76c.jpg"
+    },
+    "wide": {
+      "file": "gethsemane-wide-6b12cb5eeaf4ac82.jpg",
+      "bytes": 430361,
+      "sha256": "6b12cb5eeaf4ac8222975a6ce176afa838734bdf9cde862de8571463d278e209",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/gethsemane-wide-6b12cb5eeaf4ac82.jpg"
+    }
+  },
+  "empty-tomb": {
+    "portrait": {
+      "file": "empty-tomb-portrait-7152626f730de946.jpg",
+      "bytes": 367113,
+      "sha256": "7152626f730de9461d396d50e25eb2225a72dd78e1d3b9e69e4c22d5c13a66b0",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/empty-tomb-portrait-7152626f730de946.jpg"
+    },
+    "wide": {
+      "file": "empty-tomb-wide-749ace48a477913a.jpg",
+      "bytes": 353118,
+      "sha256": "749ace48a477913ab6de7108f2f6e2802841d5410caa54afb06af8223dde52cc",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/empty-tomb-wide-749ace48a477913a.jpg"
+    }
+  },
+  "lehi": {
+    "portrait": {
+      "file": "lehi-portrait-597f5b985712aa28.jpg",
+      "bytes": 393561,
+      "sha256": "597f5b985712aa28f035edc7e2cd38cf3532ac12559896367a44d450423f2270",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/lehi-portrait-597f5b985712aa28.jpg"
+    },
+    "wide": {
+      "file": "lehi-wide-0344c74aac18b124.jpg",
+      "bytes": 438073,
+      "sha256": "0344c74aac18b1249f8e3eb36d9dfbc23d061684185404f80646ef11d3fdf912",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/lehi-wide-0344c74aac18b124.jpg"
+    }
+  },
+  "nephites": {
+    "portrait": {
+      "file": "nephites-portrait-5d1fe5e91577adbe.jpg",
+      "bytes": 311551,
+      "sha256": "5d1fe5e91577adbe7e31f361e8f02cfe0e24f639cebbd7ee2d81acfd6367bc93",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephites-portrait-5d1fe5e91577adbe.jpg"
+    },
+    "wide": {
+      "file": "nephites-wide-a72f8313c271b23c.jpg",
+      "bytes": 396527,
+      "sha256": "a72f8313c271b23c37eb95e143a57594f7d614b2dd4f36d8360eb2fcdbf5ea00",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephites-wide-a72f8313c271b23c.jpg"
+    }
+  },
+  "burning-bush": {
+    "portrait": {
+      "file": "burning-bush-portrait-41d3e9c46f2a4e3f.jpg",
+      "bytes": 260472,
+      "sha256": "41d3e9c46f2a4e3f23458f47b80336f74e5b49031af24b772c4749048a407e5d",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/burning-bush-portrait-41d3e9c46f2a4e3f.jpg"
+    },
+    "wide": {
+      "file": "burning-bush-wide-c019e25891fadadd.jpg",
+      "bytes": 312739,
+      "sha256": "c019e25891fadadd4c1adc3a23e7cf3b6578ef23b0f29f681e12794a6ceab594",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/burning-bush-wide-c019e25891fadadd.jpg"
+    }
+  },
+  "jordan-baptism": {
+    "portrait": {
+      "file": "jordan-baptism-portrait-40ab362db51f454f.jpg",
+      "bytes": 382284,
+      "sha256": "40ab362db51f454ff3f5d97e6c8004f33d2543b25d68ca9659ae616004a6f31b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/jordan-baptism-portrait-40ab362db51f454f.jpg"
+    },
+    "wide": {
+      "file": "jordan-baptism-wide-9b8338d30344f60e.jpg",
+      "bytes": 348784,
+      "sha256": "9b8338d30344f60e265bc07d4d440068d926b18368eb794d0bd8ba8a32dc6b4c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/jordan-baptism-wide-9b8338d30344f60e.jpg"
+    }
+  },
+  "feeding-multitude": {
+    "portrait": {
+      "file": "feeding-multitude-portrait-8d6ff02738710424.jpg",
+      "bytes": 390838,
+      "sha256": "8d6ff027387104240313c0c22c5c97a0d5b8eb97fa3b54502d74527eab6d4299",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/feeding-multitude-portrait-8d6ff02738710424.jpg"
+    },
+    "wide": {
+      "file": "feeding-multitude-wide-f3bb243a42dd7283.jpg",
+      "bytes": 331764,
+      "sha256": "f3bb243a42dd72833a50ab6fd0836938607db33a5737d204a15ae4080281ebf5",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/feeding-multitude-wide-f3bb243a42dd7283.jpg"
+    }
+  },
+  "waters-mormon": {
+    "portrait": {
+      "file": "waters-mormon-portrait-aad6376bae0932d5.jpg",
+      "bytes": 391763,
+      "sha256": "aad6376bae0932d555dcba67b2ef910f1362a8a983dfe2bcbf14ce34700724eb",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/waters-mormon-portrait-aad6376bae0932d5.jpg"
+    },
+    "wide": {
+      "file": "waters-mormon-wide-9e0767f7ac6f86d1.jpg",
+      "bytes": 382660,
+      "sha256": "9e0767f7ac6f86d110ca4f4cd9e5b2973444387002ee711e91ef115b79dbe601",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/waters-mormon-wide-9e0767f7ac6f86d1.jpg"
+    }
+  },
+  "three-days-darkness": {
+    "portrait": {
+      "file": "three-days-darkness-portrait-2d0faad467cdabee.jpg",
+      "bytes": 166345,
+      "sha256": "2d0faad467cdabee1a0bdcd2d271872890cc3468d4c0674eacfc9fa11ebe68ef",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/three-days-darkness-portrait-2d0faad467cdabee.jpg"
+    },
+    "wide": {
+      "file": "three-days-darkness-wide-9371c0c48f713321.jpg",
+      "bytes": 230832,
+      "sha256": "9371c0c48f713321584bba7ff21e00844d2dac744f4535417a4ce1b69a06bd1a",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/three-days-darkness-wide-9371c0c48f713321.jpg"
+    }
+  },
+  "first-vision": {
+    "portrait": {
+      "file": "first-vision-portrait-e0f7eefee7286190.jpg",
+      "bytes": 439951,
+      "sha256": "e0f7eefee728619054e4bda4c7351b6c024d9edab74f36ea150516eab852bce0",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/first-vision-portrait-e0f7eefee7286190.jpg"
+    },
+    "wide": {
+      "file": "first-vision-wide-f14aae7224d86a5d.jpg",
+      "bytes": 521532,
+      "sha256": "f14aae7224d86a5d87d9eda463534431a2853ba4b6d16eac3bef8b5711650f0b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/first-vision-wide-f14aae7224d86a5d.jpg"
+    }
+  },
+  "buried-weapons": {
+    "portrait": {
+      "file": "buried-weapons-portrait-8a62146787abe51f.jpg",
+      "bytes": 380302,
+      "sha256": "8a62146787abe51fac32049b9d8be9e4799a30afe289f8f042d99a684b059a92",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/buried-weapons-portrait-8a62146787abe51f.jpg"
+    },
+    "wide": {
+      "file": "buried-weapons-wide-bc767cb9c1587c12.jpg",
+      "bytes": 464670,
+      "sha256": "bc767cb9c1587c125b8bf302b365da59596817ab5d884bfbb7f07b2c034d3156",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/buried-weapons-wide-bc767cb9c1587c12.jpg"
+    }
+  },
+  "nephite-sacrament": {
+    "portrait": {
+      "file": "nephite-sacrament-portrait-eeba5965625fc988.jpg",
+      "bytes": 331395,
+      "sha256": "eeba5965625fc9886cc714e626e190ae123bd314da5f30e49e8d410363a073e6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephite-sacrament-portrait-eeba5965625fc988.jpg"
+    },
+    "wide": {
+      "file": "nephite-sacrament-wide-f9554bf460166580.jpg",
+      "bytes": 414187,
+      "sha256": "f9554bf460166580b8a876254b23587c7e606cf14df5d0c46d1e2eda0e5ca4f6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephite-sacrament-wide-f9554bf460166580.jpg"
+    }
+  },
+  "alma-angel": {
+    "portrait": {
+      "file": "alma-angel-portrait-93ed1eebdcfea094.jpg",
+      "bytes": 353209,
+      "sha256": "93ed1eebdcfea094228fe1198e83e117d4d361e057cd10376ae39a4f8bd3ff16",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/alma-angel-portrait-93ed1eebdcfea094.jpg"
+    },
+    "wide": {
+      "file": "alma-angel-wide-42782a647c5d5c6f.jpg",
+      "bytes": 399012,
+      "sha256": "42782a647c5d5c6fa13d18156434d4f06d5e0693949e24f0c67d8e54f47bf6bd",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/alma-angel-wide-42782a647c5d5c6f.jpg"
+    }
+  },
+  "prison-deliverance": {
+    "portrait": {
+      "file": "prison-deliverance-portrait-081fc56f1ae59878.jpg",
+      "bytes": 410052,
+      "sha256": "081fc56f1ae598786bb86bec440076f49c7e4115f2ecc9a6a637481fc16b5945",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/prison-deliverance-portrait-081fc56f1ae59878.jpg"
+    },
+    "wide": {
+      "file": "prison-deliverance-wide-ef8df40483f381a9.jpg",
+      "bytes": 411339,
+      "sha256": "ef8df40483f381a9e2dfa44a6a5ab2cd0d80fe8f73afd7e30f81d263a8a54589",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/prison-deliverance-wide-ef8df40483f381a9.jpg"
+    }
+  },
+  "nephi-lehi-fire": {
+    "portrait": {
+      "file": "nephi-lehi-fire-portrait-968be3840be67e35.jpg",
+      "bytes": 348592,
+      "sha256": "968be3840be67e35b57955a0091a9553f4f93a52b97d9f6aff960674dcb75626",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephi-lehi-fire-portrait-968be3840be67e35.jpg"
+    },
+    "wide": {
+      "file": "nephi-lehi-fire-wide-f7f41734f5a2e288.jpg",
+      "bytes": 347271,
+      "sha256": "f7f41734f5a2e288e4e4d8355cfcfa8aae1ccf51f8738884f433fe8ba6b5b808",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephi-lehi-fire-wide-f7f41734f5a2e288.jpg"
+    }
+  },
+  "night-without-darkness": {
+    "portrait": {
+      "file": "night-without-darkness-portrait-ba140658c9c6607e.jpg",
+      "bytes": 410086,
+      "sha256": "ba140658c9c6607e1d029eedd12898b36aaa360162cc0fd8b260d35902f0b0c6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/night-without-darkness-portrait-ba140658c9c6607e.jpg"
+    },
+    "wide": {
+      "file": "night-without-darkness-wide-487e06fa42336b95.jpg",
+      "bytes": 450181,
+      "sha256": "487e06fa42336b959ccffb4487ad90cf4d5958c711a352f55ad654876925edd6",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/night-without-darkness-wide-487e06fa42336b95.jpg"
+    }
+  },
+  "tree-of-life": {
+    "portrait": {
+      "file": "tree-of-life-portrait-e28a16de8ebd6145.jpg",
+      "bytes": 413631,
+      "sha256": "e28a16de8ebd61453035e9b9999987a049b886457185b50df4857bc853140a5f",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/tree-of-life-portrait-e28a16de8ebd6145.jpg"
+    },
+    "wide": {
+      "file": "tree-of-life-wide-e045b3bc46a67bf9.jpg",
+      "bytes": 354457,
+      "sha256": "e045b3bc46a67bf9808f1f2036723f6c846577d0e02ab6629589b675339d1044",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/tree-of-life-wide-e045b3bc46a67bf9.jpg"
+    }
+  },
+  "liahona": {
+    "portrait": {
+      "file": "liahona-portrait-a2bb5c511e47187a.jpg",
+      "bytes": 317489,
+      "sha256": "a2bb5c511e47187a6bd75f25460bbc6d0b10233794006b592a85dbac7a8d913c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/liahona-portrait-a2bb5c511e47187a.jpg"
+    },
+    "wide": {
+      "file": "liahona-wide-edbbd11612d3be8e.jpg",
+      "bytes": 305571,
+      "sha256": "edbbd11612d3be8e6300d81680cf5141d62141464ffc9333edfb1cdf4b9a6011",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/liahona-wide-edbbd11612d3be8e.jpg"
+    }
+  },
+  "nephi-ship": {
+    "portrait": {
+      "file": "nephi-ship-portrait-9e2219b0f387dbdd.jpg",
+      "bytes": 307406,
+      "sha256": "9e2219b0f387dbdd1c42ea7f8265ddb79f7f59177c320e45a8706d33c27e2e63",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephi-ship-portrait-9e2219b0f387dbdd.jpg"
+    },
+    "wide": {
+      "file": "nephi-ship-wide-6b5132ab94abd691.jpg",
+      "bytes": 334363,
+      "sha256": "6b5132ab94abd6912715e1e42ca7e840e5fa86e882952600bcdf49220c49dea1",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/nephi-ship-wide-6b5132ab94abd691.jpg"
+    }
+  },
+  "ocean-voyage": {
+    "portrait": {
+      "file": "ocean-voyage-portrait-e832e00f1d975ebb.jpg",
+      "bytes": 281926,
+      "sha256": "e832e00f1d975ebba6a0c0aad44888f812b4669a8a2a8556536442f548e974de",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ocean-voyage-portrait-e832e00f1d975ebb.jpg"
+    },
+    "wide": {
+      "file": "ocean-voyage-wide-40d889a82df94f41.jpg",
+      "bytes": 306896,
+      "sha256": "40d889a82df94f411bcf32ed1dc2faf10a45afa801ffa5bc498ab22d03ee5c5f",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ocean-voyage-wide-40d889a82df94f41.jpg"
+    }
+  },
+  "enos-prayer": {
+    "portrait": {
+      "file": "enos-prayer-portrait-57b7d41ef10d0727.jpg",
+      "bytes": 373500,
+      "sha256": "57b7d41ef10d0727e14bda9398a5e31fa8a24d7011eb149119895ecb10d49422",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/enos-prayer-portrait-57b7d41ef10d0727.jpg"
+    },
+    "wide": {
+      "file": "enos-prayer-wide-45b262271417412e.jpg",
+      "bytes": 377781,
+      "sha256": "45b262271417412e3782fa9a156f4ac31494bdfc95a32c18b6bfe134e4a61832",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/enos-prayer-wide-45b262271417412e.jpg"
+    }
+  },
+  "king-benjamin": {
+    "portrait": {
+      "file": "king-benjamin-portrait-5dad5d13b8ea647f.jpg",
+      "bytes": 369622,
+      "sha256": "5dad5d13b8ea647f4bdf9f731f968cb48d7246386984286fe11be3731097a317",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/king-benjamin-portrait-5dad5d13b8ea647f.jpg"
+    },
+    "wide": {
+      "file": "king-benjamin-wide-f0390149abfac597.jpg",
+      "bytes": 348368,
+      "sha256": "f0390149abfac5978c3d652f7b413d8a8a4c6233abb209ca626bb0e6dd4708a5",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/king-benjamin-wide-f0390149abfac597.jpg"
+    }
+  },
+  "abinadi-testimony": {
+    "portrait": {
+      "file": "abinadi-testimony-portrait-e0b6f8fd0f5adfdd.jpg",
+      "bytes": 208942,
+      "sha256": "e0b6f8fd0f5adfddcd7b2e2f141056ea2fd89da104e3e02dd742323bced4e93c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/abinadi-testimony-portrait-e0b6f8fd0f5adfdd.jpg"
+    },
+    "wide": {
+      "file": "abinadi-testimony-wide-2cca715b7b4e1f1d.jpg",
+      "bytes": 242890,
+      "sha256": "2cca715b7b4e1f1d355e91f28a11a38e81552a9136bec32766348663dbbfa26d",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/abinadi-testimony-wide-2cca715b7b4e1f1d.jpg"
+    }
+  },
+  "ammon-flocks": {
+    "portrait": {
+      "file": "ammon-flocks-portrait-4393a9fcd7eb0547.jpg",
+      "bytes": 367081,
+      "sha256": "4393a9fcd7eb0547b29ffb277b8a095207e2715eb2893827e56ee0b6ce38c189",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ammon-flocks-portrait-4393a9fcd7eb0547.jpg"
+    },
+    "wide": {
+      "file": "ammon-flocks-wide-10b4047d6f7646a8.jpg",
+      "bytes": 417522,
+      "sha256": "10b4047d6f7646a866cac91d46160b6238a5eceeb6889692112d8d8b09363f30",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ammon-flocks-wide-10b4047d6f7646a8.jpg"
+    }
+  },
+  "title-liberty": {
+    "portrait": {
+      "file": "title-liberty-portrait-970bac93a0c464ae.jpg",
+      "bytes": 322145,
+      "sha256": "970bac93a0c464aef9bf5cef25fc3f9e7df1cf63aec87bad4e2e6dff1dddbc85",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/title-liberty-portrait-970bac93a0c464ae.jpg"
+    },
+    "wide": {
+      "file": "title-liberty-wide-993495c6e945606c.jpg",
+      "bytes": 313797,
+      "sha256": "993495c6e945606c95ff2e3eefae0bb71f2792c2bb4bb26b640fd0d847dcee11",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/title-liberty-wide-993495c6e945606c.jpg"
+    }
+  },
+  "stripling-warriors": {
+    "portrait": {
+      "file": "stripling-warriors-portrait-5d4adf83581290fc.jpg",
+      "bytes": 403267,
+      "sha256": "5d4adf83581290fc6414a8f96ba27da752cef4ce09df80b3d5f291f3f0161e70",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/stripling-warriors-portrait-5d4adf83581290fc.jpg"
+    },
+    "wide": {
+      "file": "stripling-warriors-wide-47fbb572f1a339e7.jpg",
+      "bytes": 368131,
+      "sha256": "47fbb572f1a339e767876c7d8e2260887c18c5780bc77f9358ea0eee43cbb208",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/stripling-warriors-wide-47fbb572f1a339e7.jpg"
+    }
+  },
+  "samuel-wall": {
+    "portrait": {
+      "file": "samuel-wall-portrait-2a632f0ead0b542e.jpg",
+      "bytes": 336803,
+      "sha256": "2a632f0ead0b542e386306d60dd6c86b93d0797af8836e2fb5f8b64c83367b8b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/samuel-wall-portrait-2a632f0ead0b542e.jpg"
+    },
+    "wide": {
+      "file": "samuel-wall-wide-ead56c0b056ed576.jpg",
+      "bytes": 351642,
+      "sha256": "ead56c0b056ed5762643d07909ab345bd3a78f11a85240c544c0f16630fdc72a",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/samuel-wall-wide-ead56c0b056ed576.jpg"
+    }
+  },
+  "brother-jared": {
+    "portrait": {
+      "file": "brother-jared-portrait-a7d1c6e8d820a536.jpg",
+      "bytes": 225156,
+      "sha256": "a7d1c6e8d820a536667555a005b5ef132775cb6fd1a72dc10ed430cabf84f6e0",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/brother-jared-portrait-a7d1c6e8d820a536.jpg"
+    },
+    "wide": {
+      "file": "brother-jared-wide-018f8279817010d8.jpg",
+      "bytes": 261478,
+      "sha256": "018f8279817010d84bcb6c18fdc1df5df18adf681fc1bc3dc1654fd58f3559de",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/brother-jared-wide-018f8279817010d8.jpg"
+    }
+  },
+  "jaredite-barges": {
+    "portrait": {
+      "file": "jaredite-barges-portrait-33bc2dde707a8c4d.jpg",
+      "bytes": 345703,
+      "sha256": "33bc2dde707a8c4db5d110d24216353791d8d4d51b43d638b40276574f8c9614",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/jaredite-barges-portrait-33bc2dde707a8c4d.jpg"
+    },
+    "wide": {
+      "file": "jaredite-barges-wide-124fb1316faf4b03.jpg",
+      "bytes": 365416,
+      "sha256": "124fb1316faf4b03f1853afd32167df5131382b3324d91654c52b0e7a7d98d8b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/jaredite-barges-wide-124fb1316faf4b03.jpg"
+    }
+  },
+  "christ-children": {
+    "portrait": {
+      "file": "christ-children-portrait-a58d5d5b29dd7496.jpg",
+      "bytes": 447020,
+      "sha256": "a58d5d5b29dd7496f7f1a8e850dc9191d753c0a71b7e3d2fe8821e8586e4fb5c",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/christ-children-portrait-a58d5d5b29dd7496.jpg"
+    },
+    "wide": {
+      "file": "christ-children-wide-bbcd8ff952a91b6e.jpg",
+      "bytes": 465000,
+      "sha256": "bbcd8ff952a91b6e3848d4949fdeb758a799b91d8ff42e34e1f254493397789d",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/christ-children-wide-bbcd8ff952a91b6e.jpg"
+    }
+  },
+  "moroni-record": {
+    "portrait": {
+      "file": "moroni-record-portrait-17f96c0b9dc17e76.jpg",
+      "bytes": 451477,
+      "sha256": "17f96c0b9dc17e76272103c6869c1f7bda0311826c0fbc6e8528b619485f5215",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/moroni-record-portrait-17f96c0b9dc17e76.jpg"
+    },
+    "wide": {
+      "file": "moroni-record-wide-df86c29d7a7ca3c9.jpg",
+      "bytes": 395247,
+      "sha256": "df86c29d7a7ca3c93d8a79fb7907ca115f25eae33008cfec896702a8c5961e95",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/moroni-record-wide-df86c29d7a7ca3c9.jpg"
+    }
+  },
+  "vineyard": {
+    "portrait": {
+      "file": "vineyard-portrait-450d798e66127646.jpg",
+      "bytes": 403521,
+      "sha256": "450d798e6612764627fd924a89c269f7f0fe1355ed2c4bd2b9f79c48fc686193",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/vineyard-portrait-450d798e66127646.jpg"
+    },
+    "wide": {
+      "file": "vineyard-wide-bcefe65c8adebf0d.jpg",
+      "bytes": 388795,
+      "sha256": "bcefe65c8adebf0da97d2ef1c059089a41cfbe4b88f6f0c342bcbc72ad7e8547",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/vineyard-wide-bcefe65c8adebf0d.jpg"
+    }
+  },
+  "fishing-village": {
+    "portrait": {
+      "file": "fishing-village-portrait-34d238419bb99c8c.jpg",
+      "bytes": 344257,
+      "sha256": "34d238419bb99c8c5c54cca42637b2ecf9944070729565cdcb75bd826d1edb5b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/fishing-village-portrait-34d238419bb99c8c.jpg"
+    },
+    "wide": {
+      "file": "fishing-village-wide-315675c0c4225573.jpg",
+      "bytes": 333338,
+      "sha256": "315675c0c4225573ef7edc26d8a82ba270503b4a6f26794cc07eed490dfa59da",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/fishing-village-wide-315675c0c4225573.jpg"
+    }
+  },
+  "wilderness-path": {
+    "portrait": {
+      "file": "wilderness-path-portrait-a5a033c696582a04.jpg",
+      "bytes": 352842,
+      "sha256": "a5a033c696582a04acdee9b6f120361a90260600c7eb4db14d0763d6c8aec9cf",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/wilderness-path-portrait-a5a033c696582a04.jpg"
+    },
+    "wide": {
+      "file": "wilderness-path-wide-db927d10376cd47e.jpg",
+      "bytes": 342923,
+      "sha256": "db927d10376cd47e2851f9429952b90fda45167e4957bff4acd2ea4c00ea1584",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/wilderness-path-wide-db927d10376cd47e.jpg"
+    }
+  },
+  "ancient-synagogue": {
+    "portrait": {
+      "file": "ancient-synagogue-portrait-37a801c2b2baa501.jpg",
+      "bytes": 330506,
+      "sha256": "37a801c2b2baa50133f84930264828f9102208a6bf01716e00c44b7c3c1991f8",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ancient-synagogue-portrait-37a801c2b2baa501.jpg"
+    },
+    "wide": {
+      "file": "ancient-synagogue-wide-66f8b6a09aeb91f1.jpg",
+      "bytes": 329484,
+      "sha256": "66f8b6a09aeb91f156c2ee6558065a06f477a0e88888336c181edaf22183f208",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/ancient-synagogue-wide-66f8b6a09aeb91f1.jpg"
+    }
+  },
+  "shepherd-pasture": {
+    "portrait": {
+      "file": "shepherd-pasture-portrait-18cc9661985c08fc.jpg",
+      "bytes": 359819,
+      "sha256": "18cc9661985c08fc8e9b56b67d86a59e92503fa2c5b3107f00ce2508dd9d9633",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/shepherd-pasture-portrait-18cc9661985c08fc.jpg"
+    },
+    "wide": {
+      "file": "shepherd-pasture-wide-8c720e4757f1b986.jpg",
+      "bytes": 361872,
+      "sha256": "8c720e4757f1b986e5e669711be4dcaad04d5f1b8bd5dd33ecd84eb41e300499",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/shepherd-pasture-wide-8c720e4757f1b986.jpg"
+    }
+  },
+  "village-well": {
+    "portrait": {
+      "file": "village-well-portrait-6f375e78ac5dd337.jpg",
+      "bytes": 392156,
+      "sha256": "6f375e78ac5dd3372bc0ff5617e6c17f5d31ad0e7bf22d9292003e6f7b2a4436",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/village-well-portrait-6f375e78ac5dd337.jpg"
+    },
+    "wide": {
+      "file": "village-well-wide-43ca805d1125469e.jpg",
+      "bytes": 434078,
+      "sha256": "43ca805d1125469e5f4263df1469eef6e77c76e89ea5063200e6faf37926cc36",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/village-well-wide-43ca805d1125469e.jpg"
+    }
+  },
+  "potters-workshop": {
+    "portrait": {
+      "file": "potters-workshop-portrait-0e6d0b0d190c42ea.jpg",
+      "bytes": 305614,
+      "sha256": "0e6d0b0d190c42ea379cc7f17ac5bbc121d2371af88f19fdd4df5474fb290b0b",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/potters-workshop-portrait-0e6d0b0d190c42ea.jpg"
+    },
+    "wide": {
+      "file": "potters-workshop-wide-6ed2cc2e3f900611.jpg",
+      "bytes": 314316,
+      "sha256": "6ed2cc2e3f9006111ad13fd17c411590edbfe9ed9f90608a531ac3c1d4f7caa5",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/potters-workshop-wide-6ed2cc2e3f900611.jpg"
+    }
+  },
+  "mountain-refuge": {
+    "portrait": {
+      "file": "mountain-refuge-portrait-d28dce30fa81c552.jpg",
+      "bytes": 290282,
+      "sha256": "d28dce30fa81c5529a94db63175849dfa3cec5bb584a33115b058ee6cc4811df",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/mountain-refuge-portrait-d28dce30fa81c552.jpg"
+    },
+    "wide": {
+      "file": "mountain-refuge-wide-247e6b931a4a4686.jpg",
+      "bytes": 339098,
+      "sha256": "247e6b931a4a468693e6a83d8446bd375ebf0cfe38af776d39e293bf69b31f52",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/mountain-refuge-wide-247e6b931a4a4686.jpg"
+    }
+  },
+  "desert-oasis": {
+    "portrait": {
+      "file": "desert-oasis-portrait-02f7de26cfeafdfd.jpg",
+      "bytes": 385772,
+      "sha256": "02f7de26cfeafdfd7f910e02cefd5ea3bcb26a57c87ff3106fddbba9af6a0ad1",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/desert-oasis-portrait-02f7de26cfeafdfd.jpg"
+    },
+    "wide": {
+      "file": "desert-oasis-wide-7b5162611b4961f1.jpg",
+      "bytes": 363160,
+      "sha256": "7b5162611b4961f15c99a9df92e0a81e0cba7731729932ab1b6cb1ae2d5793ac",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/desert-oasis-wide-7b5162611b4961f1.jpg"
+    }
+  },
+  "upper-room": {
+    "portrait": {
+      "file": "upper-room-portrait-210aa18d705326cb.jpg",
+      "bytes": 251620,
+      "sha256": "210aa18d705326cb45d59dd5594a46c52ba62b342930c146d022d72b4b840ef1",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/upper-room-portrait-210aa18d705326cb.jpg"
+    },
+    "wide": {
+      "file": "upper-room-wide-94d3f6cef030ccc4.jpg",
+      "bytes": 246157,
+      "sha256": "94d3f6cef030ccc4d4377e3aa9c68410b88f4e5f42ff2410ea1f0eed4f5a4048",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/upper-room-wide-94d3f6cef030ccc4.jpg"
+    }
+  },
+  "cedar-forest": {
+    "portrait": {
+      "file": "cedar-forest-portrait-2d9f2b174fb55187.jpg",
+      "bytes": 483852,
+      "sha256": "2d9f2b174fb55187a350e9cdbb1c8f1be7920d94a808ec208d52a3d9211cb2af",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/cedar-forest-portrait-2d9f2b174fb55187.jpg"
+    },
+    "wide": {
+      "file": "cedar-forest-wide-e21aba637913436d.jpg",
+      "bytes": 513933,
+      "sha256": "e21aba637913436db361f0aa18c88c5f4f9bd1fd213e9104d5a6f34f910c57c9",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/cedar-forest-wide-e21aba637913436d.jpg"
+    }
+  },
+  "pilgrim-road": {
+    "portrait": {
+      "file": "pilgrim-road-portrait-da73aa6049100e30.jpg",
+      "bytes": 433577,
+      "sha256": "da73aa6049100e30f736b7deaf5f902be53551bd5f4f64952b64bdb348e5d4d4",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/pilgrim-road-portrait-da73aa6049100e30.jpg"
+    },
+    "wide": {
+      "file": "pilgrim-road-wide-33c62704894c5429.jpg",
+      "bytes": 430096,
+      "sha256": "33c62704894c5429747bddbef54b93df8bbdf84e5ddd961b2e8f4a77eef50dd8",
+      "url": "https://github.com/JaceRichins/scripture-graph/releases/download/scene-library-v1/pilgrim-road-wide-33c62704894c5429.jpg"
+    }
+  }
+}

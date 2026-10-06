@@ -1,0 +1,1575 @@
+{
+  "version": 1,
+  "date": "2026-09-12",
+  "points": [
+    {
+      "id": "jerusalem",
+      "name": "Jerusalem",
+      "world": "old",
+      "xy": [
+        35.23,
+        31.78
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Jerusalem.md"
+    },
+    {
+      "id": "bethlehem",
+      "name": "Bethlehem",
+      "world": "old",
+      "xy": [
+        35.2,
+        31.7
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Bethlehem.md"
+    },
+    {
+      "id": "nazareth",
+      "name": "Nazareth",
+      "world": "old",
+      "xy": [
+        35.3,
+        32.7
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Nazareth.md"
+    },
+    {
+      "id": "capernaum",
+      "name": "Capernaum",
+      "world": "old",
+      "xy": [
+        35.58,
+        32.88
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Capernaum.md"
+    },
+    {
+      "id": "jericho",
+      "name": "Jericho",
+      "world": "old",
+      "xy": [
+        35.44,
+        31.87
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Jericho.md"
+    },
+    {
+      "id": "bethany",
+      "name": "Bethany",
+      "world": "old",
+      "xy": [
+        35.26,
+        31.77
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Bethany.md"
+    },
+    {
+      "id": "hebron",
+      "name": "Hebron",
+      "world": "old",
+      "xy": [
+        35.1,
+        31.53
+      ],
+      "ref": "ot",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Hebron.md"
+    },
+    {
+      "id": "beersheba",
+      "name": "Beersheba",
+      "world": "old",
+      "xy": [
+        34.79,
+        31.25
+      ],
+      "ref": "ot",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Beersheba.md"
+    },
+    {
+      "id": "lachish",
+      "name": "Lachish",
+      "world": "old",
+      "xy": [
+        34.85,
+        31.56
+      ],
+      "ref": "ot",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Lachish.md"
+    },
+    {
+      "id": "gaza",
+      "name": "Gaza",
+      "world": "old",
+      "xy": [
+        34.46,
+        31.5
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Gaza.md"
+    },
+    {
+      "id": "samaria",
+      "name": "Samaria",
+      "world": "old",
+      "xy": [
+        35.19,
+        32.28
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Samaria.md"
+    },
+    {
+      "id": "shiloh",
+      "name": "Shiloh",
+      "world": "old",
+      "xy": [
+        35.29,
+        32.06
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Shiloh.md"
+    },
+    {
+      "id": "mount-carmel",
+      "name": "Mount Carmel",
+      "world": "old",
+      "xy": [
+        35.04,
+        32.73
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Mount Carmel.md"
+    },
+    {
+      "id": "mount-of-olives",
+      "name": "Mount of Olives",
+      "world": "old",
+      "xy": [
+        35.25,
+        31.78
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Mount of Olives.md"
+    },
+    {
+      "id": "gethsemane",
+      "name": "Gethsemane",
+      "world": "old",
+      "xy": [
+        35.24,
+        31.78
+      ],
+      "ref": "nt",
+      "note": "Traditional area at the Mount of Olives; an exact garden boundary is not established.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Gethsemane.md"
+    },
+    {
+      "id": "galilee",
+      "name": "Galilee",
+      "world": "old",
+      "xy": [
+        35.35,
+        32.8
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Galilee.md"
+    },
+    {
+      "id": "judea",
+      "name": "Judea",
+      "world": "old",
+      "xy": [
+        35.12,
+        31.65
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Judea.md"
+    },
+    {
+      "id": "jordan-river",
+      "name": "Jordan River",
+      "world": "old",
+      "xy": [
+        35.56,
+        32.1
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Jordan River.md"
+    },
+    {
+      "id": "mount-nebo-pisgah",
+      "name": "Mount Nebo (Pisgah)",
+      "world": "old",
+      "xy": [
+        35.73,
+        31.77
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Mount Nebo (Pisgah).md"
+    },
+    {
+      "id": "moab",
+      "name": "Moab",
+      "world": "old",
+      "xy": [
+        35.75,
+        31.45
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Moab.md"
+    },
+    {
+      "id": "qumran",
+      "name": "Qumran",
+      "world": "old",
+      "xy": [
+        35.46,
+        31.74
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Qumran.md"
+    },
+    {
+      "id": "masada",
+      "name": "Masada",
+      "world": "old",
+      "xy": [
+        35.35,
+        31.32
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Masada.md"
+    },
+    {
+      "id": "damascus",
+      "name": "Damascus",
+      "world": "old",
+      "xy": [
+        36.31,
+        33.51
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Damascus.md"
+    },
+    {
+      "id": "antioch",
+      "name": "Antioch",
+      "world": "old",
+      "xy": [
+        36.16,
+        36.2
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Antioch.md"
+    },
+    {
+      "id": "tarsus",
+      "name": "Tarsus",
+      "world": "old",
+      "xy": [
+        34.9,
+        36.92
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Tarsus.md"
+    },
+    {
+      "id": "ephesus",
+      "name": "Ephesus",
+      "world": "old",
+      "xy": [
+        27.34,
+        37.94
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Ephesus.md"
+    },
+    {
+      "id": "patmos",
+      "name": "Patmos",
+      "world": "old",
+      "xy": [
+        26.54,
+        37.31
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Patmos.md"
+    },
+    {
+      "id": "athens",
+      "name": "Athens",
+      "world": "old",
+      "xy": [
+        23.73,
+        37.97
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Athens.md"
+    },
+    {
+      "id": "corinth",
+      "name": "Corinth",
+      "world": "old",
+      "xy": [
+        22.88,
+        37.91
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Corinth.md"
+    },
+    {
+      "id": "rome",
+      "name": "Rome",
+      "world": "old",
+      "xy": [
+        12.49,
+        41.89
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Rome.md"
+    },
+    {
+      "id": "nicaea",
+      "name": "Nicaea",
+      "world": "old",
+      "xy": [
+        29.72,
+        40.43
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Nicaea.md"
+    },
+    {
+      "id": "chalcedon",
+      "name": "Chalcedon",
+      "world": "old",
+      "xy": [
+        29.03,
+        40.99
+      ],
+      "ref": "nt",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Chalcedon.md"
+    },
+    {
+      "id": "babylon",
+      "name": "Babylon",
+      "world": "old",
+      "xy": [
+        44.42,
+        32.54
+      ],
+      "ref": "ot",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Babylon.md"
+    },
+    {
+      "id": "haran",
+      "name": "Haran",
+      "world": "old",
+      "xy": [
+        39.03,
+        36.87
+      ],
+      "ref": "ot",
+      "note": "Approximate modern site anchor; consult the linked place page for historical identification.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Haran.md"
+    },
+    {
+      "id": "ur",
+      "name": "Ur",
+      "world": "old",
+      "xy": [
+        46.1,
+        30.96
+      ],
+      "ref": "ot",
+      "note": "Traditional southern Mesopotamian identification at Tell el-Muqayyar; the identification of Abraham’s Ur is debated.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Ur.md"
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "world": "old",
+      "xy": [
+        31.2,
+        30.0
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Egypt.md"
+    },
+    {
+      "id": "red-sea",
+      "name": "Red Sea",
+      "world": "old",
+      "xy": [
+        36.0,
+        23.0
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Red Sea.md"
+    },
+    {
+      "id": "canaan",
+      "name": "Canaan",
+      "world": "old",
+      "xy": [
+        35.15,
+        32.0
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Canaan.md"
+    },
+    {
+      "id": "assyria",
+      "name": "Assyria",
+      "world": "old",
+      "xy": [
+        43.0,
+        36.0
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Assyria.md"
+    },
+    {
+      "id": "midian",
+      "name": "Midian",
+      "world": "old",
+      "xy": [
+        35.5,
+        28.0
+      ],
+      "ref": "ot",
+      "note": "Regional label only. This point does not imply a city, exact center, or fixed ancient borders.",
+      "status": "region",
+      "path": "AI Library/04 Places/Midian.md"
+    },
+    {
+      "id": "palmyra",
+      "name": "Palmyra",
+      "world": "new",
+      "xy": [
+        -77.23,
+        43.06
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Palmyra.md"
+    },
+    {
+      "id": "manchester-new-york",
+      "name": "Manchester (New York)",
+      "world": "new",
+      "xy": [
+        -77.23,
+        42.97
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Manchester (New York).md"
+    },
+    {
+      "id": "sacred-grove",
+      "name": "Sacred Grove",
+      "world": "new",
+      "xy": [
+        -77.24,
+        43.04
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Sacred Grove.md"
+    },
+    {
+      "id": "fayette",
+      "name": "Fayette",
+      "world": "new",
+      "xy": [
+        -76.8,
+        42.78
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Fayette.md"
+    },
+    {
+      "id": "harmony-pennsylvania",
+      "name": "Harmony (Pennsylvania)",
+      "world": "new",
+      "xy": [
+        -75.65,
+        41.95
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Harmony (Pennsylvania).md"
+    },
+    {
+      "id": "colesville",
+      "name": "Colesville",
+      "world": "new",
+      "xy": [
+        -75.65,
+        42.18
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Colesville.md"
+    },
+    {
+      "id": "kirtland",
+      "name": "Kirtland",
+      "world": "new",
+      "xy": [
+        -81.36,
+        41.63
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Kirtland.md"
+    },
+    {
+      "id": "hiram-ohio",
+      "name": "Hiram (Ohio)",
+      "world": "new",
+      "xy": [
+        -81.14,
+        41.31
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Hiram (Ohio).md"
+    },
+    {
+      "id": "independence-missouri",
+      "name": "Independence (Missouri)",
+      "world": "new",
+      "xy": [
+        -94.42,
+        39.09
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Independence (Missouri).md"
+    },
+    {
+      "id": "liberty-jail",
+      "name": "Liberty Jail",
+      "world": "new",
+      "xy": [
+        -94.42,
+        39.25
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Liberty Jail.md"
+    },
+    {
+      "id": "far-west",
+      "name": "Far West",
+      "world": "new",
+      "xy": [
+        -94.12,
+        39.67
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Far West.md"
+    },
+    {
+      "id": "adam-ondi-ahman",
+      "name": "Adam-ondi-Ahman",
+      "world": "new",
+      "xy": [
+        -93.98,
+        39.99
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Adam-ondi-Ahman.md"
+    },
+    {
+      "id": "nauvoo",
+      "name": "Nauvoo",
+      "world": "new",
+      "xy": [
+        -91.38,
+        40.55
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Nauvoo.md"
+    },
+    {
+      "id": "carthage",
+      "name": "Carthage",
+      "world": "new",
+      "xy": [
+        -91.14,
+        40.42
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Carthage.md"
+    },
+    {
+      "id": "winter-quarters",
+      "name": "Winter Quarters",
+      "world": "new",
+      "xy": [
+        -95.96,
+        41.34
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Winter Quarters.md"
+    },
+    {
+      "id": "salt-lake-valley",
+      "name": "Salt Lake Valley",
+      "world": "new",
+      "xy": [
+        -111.89,
+        40.76
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Salt Lake Valley.md"
+    },
+    {
+      "id": "mountain-meadows",
+      "name": "Mountain Meadows",
+      "world": "new",
+      "xy": [
+        -113.64,
+        37.48
+      ],
+      "ref": "history",
+      "note": "Approximate modern historical place anchor. These nineteenth-century locations do not establish Book of Mormon city identifications.",
+      "status": "approximate",
+      "path": "AI Library/04 Places/Mountain Meadows.md"
+    },
+    {
+      "id": "hill-cumorah-new-york",
+      "name": "Hill Cumorah (New York)",
+      "world": "new",
+      "xy": [
+        -77.22,
+        43.0
+      ],
+      "ref": "history",
+      "note": "The New York hill associated with Joseph Smith’s account of obtaining the plates. Its equivalence to the battlefield in Mormon 6 is a separate, disputed identification.",
+      "status": "approximate",
+      "path": "AI Library/91 Maps/Locations/Hill Cumorah (New York).md"
+    },
+    {
+      "id": "zarahemla",
+      "name": "Zarahemla",
+      "world": "bom",
+      "xy": [
+        440,
+        340
+      ],
+      "ref": "Alma 22:27–34; Alma 6:7",
+      "note": "North of the Nephi border; Gideon is across Sidon. City/land extent and exact river separation are unknown.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Zarahemla.md"
+    },
+    {
+      "id": "land-of-nephi",
+      "name": "Land of Nephi",
+      "world": "bom",
+      "xy": [
+        430,
+        625
+      ],
+      "ref": "Alma 22:27–34",
+      "note": "South of Zarahemla across the wilderness. The position of its city within the larger land is unknown.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Land of Nephi.md"
+    },
+    {
+      "id": "land-of-bountiful",
+      "name": "Land of Bountiful",
+      "world": "bom",
+      "xy": [
+        440,
+        170
+      ],
+      "ref": "Alma 22:29–33",
+      "note": "North of Zarahemla and south of Desolation. The city is not necessarily the center of the land.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Land of Bountiful.md"
+    },
+    {
+      "id": "desolation",
+      "name": "Desolation",
+      "world": "bom",
+      "xy": [
+        440,
+        55
+      ],
+      "ref": "Alma 22:30–32",
+      "note": "North of Bountiful; extent and distances not specified.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Desolation.md"
+    },
+    {
+      "id": "sidon",
+      "name": "Sidon",
+      "world": "bom",
+      "xy": [
+        510,
+        330
+      ],
+      "ref": "Alma 22:27; Alma 2:15,34; Alma 6:7",
+      "note": "Book of Mormon river, not the Phoenician city. Head near Manti/southern border; a northward reach is inferred. Mouth and complete course are unknown.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Sidon.md"
+    },
+    {
+      "id": "manti",
+      "name": "Manti",
+      "world": "bom",
+      "xy": [
+        510,
+        470
+      ],
+      "ref": "Alma 22:27; Alma 16:6–7",
+      "note": "Near the head of Sidon, by the southern wilderness. Exact position unknown.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Manti.md"
+    },
+    {
+      "id": "melek",
+      "name": "Melek",
+      "world": "bom",
+      "xy": [
+        310,
+        350
+      ],
+      "ref": "Alma 8:3–6",
+      "note": "West of Sidon; Ammonihah lies three days north of the land of Melek. These are not surveyed city-to-city endpoints.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Melek.md"
+    },
+    {
+      "id": "ammonihah",
+      "name": "Ammonihah",
+      "world": "bom",
+      "xy": [
+        310,
+        270
+      ],
+      "ref": "Alma 8:6",
+      "note": "Three days north from Melek; distance depends on travel rate and the departure point.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Ammonihah.md"
+    },
+    {
+      "id": "gideon-land",
+      "name": "Gideon (land)",
+      "world": "bom",
+      "xy": [
+        600,
+        360
+      ],
+      "ref": "Alma 6:7",
+      "note": "Across Sidon from Zarahemla, east of the river in the valley. Diagram spacing is illustrative.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Gideon (land).md"
+    },
+    {
+      "id": "jershon",
+      "name": "Jershon",
+      "world": "bom",
+      "xy": [
+        700,
+        255
+      ],
+      "ref": "Alma 27:22",
+      "note": "East by the sea, south of Bountiful; broad land, not a precisely located city.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Jershon.md"
+    },
+    {
+      "id": "antionum",
+      "name": "Antionum",
+      "world": "bom",
+      "xy": [
+        700,
+        385
+      ],
+      "ref": "Alma 31:3",
+      "note": "East of Zarahemla, nearly bordering the sea, south of Jershon; wilderness to its south.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Antionum.md"
+    },
+    {
+      "id": "mulek-city",
+      "name": "Mulek (city)",
+      "world": "bom",
+      "xy": [
+        700,
+        195
+      ],
+      "ref": "Alma 51:26; Alma 52:17–23",
+      "note": "On the eastern front; near enough to Bountiful for the described maneuvers. Exact mileage unknown.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Mulek (city).md"
+    },
+    {
+      "id": "moroni-city",
+      "name": "Moroni (city)",
+      "world": "bom",
+      "xy": [
+        770,
+        470
+      ],
+      "ref": "Alma 50:13–15",
+      "note": "By the east sea near the southern boundary; distinguish the city from Moroni the person.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Moroni (city).md"
+    },
+    {
+      "id": "nephihah",
+      "name": "Nephihah",
+      "world": "bom",
+      "xy": [
+        695,
+        447
+      ],
+      "ref": "Alma 50:14",
+      "note": "Between Moroni and Aaron; this diagram places Aaron inland as an illustrative choice.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Nephihah.md"
+    },
+    {
+      "id": "aaron-eastern-city",
+      "name": "Aaron (eastern city)",
+      "world": "bom",
+      "xy": [
+        620,
+        435
+      ],
+      "ref": "Alma 50:14",
+      "note": "Borders Nephihah; not automatically the Aaron in Alma 8:13.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Aaron (eastern city).md"
+    },
+    {
+      "id": "lehi-city",
+      "name": "Lehi (city)",
+      "world": "bom",
+      "xy": [
+        770,
+        310
+      ],
+      "ref": "Alma 50:15,25",
+      "note": "Northward along the eastern seashore; borders Morianton.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Lehi (city).md"
+    },
+    {
+      "id": "morianton-city",
+      "name": "Morianton (city)",
+      "world": "bom",
+      "xy": [
+        745,
+        350
+      ],
+      "ref": "Alma 50:25",
+      "note": "Neighbor of Lehi on the seashore. North/south ordering between these neighbors is not fixed here by the text.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Morianton (city).md"
+    },
+    {
+      "id": "waters-of-mormon",
+      "name": "Waters of Mormon",
+      "world": "bom",
+      "xy": [
+        330,
+        590
+      ],
+      "ref": "Mosiah 18:4–5; Mosiah 23:1–3",
+      "note": "Associated with Alma’s refuge. Exact distance and direction from Nephi are not supplied; western offset is only for readability.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Waters of Mormon.md"
+    },
+    {
+      "id": "helam",
+      "name": "Helam",
+      "world": "bom",
+      "xy": [
+        370,
+        500
+      ],
+      "ref": "Mosiah 23:3–4,19–20",
+      "note": "Reached after eight days in Alma’s escape. Position along a generally northward diagram route is illustrative, not a stated bearing.",
+      "status": "relative",
+      "path": "AI Library/04 Places/Helam.md"
+    },
+    {
+      "id": "valley-of-alma",
+      "name": "Valley of Alma",
+      "world": "bom",
+      "xy": [
+        380,
+        470
+      ],
+      "ref": "Mosiah 24:20–25",
+      "note": "An all-day journey from Helam; then twelve wilderness days before Zarahemla. Bearing is not supplied.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Valley of Alma.md"
+    },
+    {
+      "id": "first-inheritance",
+      "name": "First inheritance",
+      "world": "bom",
+      "xy": [
+        220,
+        640
+      ],
+      "ref": "Alma 22:28",
+      "note": "West in Nephi by the seashore. This does not determine a transoceanic landing route.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/First inheritance.md"
+    },
+    {
+      "id": "narrow-neck-of-land",
+      "name": "Narrow neck of land",
+      "world": "bom",
+      "xy": [
+        440,
+        110
+      ],
+      "ref": "Alma 22:32; Ether 10:20",
+      "note": "A connecting neck between northward and southward lands. Its identity with every narrow pass or defensive line is an interpretation.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Narrow neck of land.md"
+    },
+    {
+      "id": "narrow-strip-of-wilderness",
+      "name": "Narrow strip of wilderness",
+      "world": "bom",
+      "xy": [
+        590,
+        535
+      ],
+      "ref": "Alma 22:27",
+      "note": "Separates Nephi and Zarahemla, running east–west. Not the northern narrow neck.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Narrow strip of wilderness.md"
+    },
+    {
+      "id": "sea-east",
+      "name": "Sea east",
+      "world": "bom",
+      "xy": [
+        890,
+        340
+      ],
+      "ref": "Alma 22:27; Alma 50:13",
+      "note": "Relative eastern water body; present ocean or lake identification not established.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Sea east.md"
+    },
+    {
+      "id": "sea-west",
+      "name": "Sea west",
+      "world": "bom",
+      "xy": [
+        100,
+        340
+      ],
+      "ref": "Alma 22:28,32",
+      "note": "Relative western water body; shape and modern identification unknown.",
+      "status": "relative",
+      "path": "AI Library/91 Maps/Locations/Sea west.md"
+    },
+    {
+      "id": "cumorah",
+      "name": "Cumorah",
+      "world": "bom",
+      "xy": null,
+      "ref": "Mormon 6:4–6; Ether 15:11",
+      "note": "Region of many waters, rivers and fountains; Ramah is identified with the same hill. No coordinate or unique distance to Zarahemla is supplied. Do not silently equate it with the New York plates hill.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Cumorah.md"
+    },
+    {
+      "id": "amulon",
+      "name": "Amulon",
+      "world": "bom",
+      "xy": null,
+      "ref": "Mosiah 23:30–35",
+      "note": "Found by a lost army before it reaches Helam; its bearing and distance cannot be fixed.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Amulon.md"
+    },
+    {
+      "id": "shilom",
+      "name": "Shilom",
+      "world": "bom",
+      "xy": null,
+      "ref": "Mosiah 9:6–8",
+      "note": "Neighboring settlement in Zeniff’s account; direction and separation from Lehi-Nephi are unspecified.",
+      "status": "unplaced",
+      "path": "AI Library/91 Maps/Locations/Shilom.md"
+    },
+    {
+      "id": "shem",
+      "name": "Shem",
+      "world": "bom",
+      "xy": null,
+      "ref": "Mormon 2:20–21",
+      "note": "A later retreat setting; insufficient constraints to put on this Alma-era diagram.",
+      "status": "unplaced",
+      "path": "AI Library/91 Maps/Locations/Shem.md"
+    },
+    {
+      "id": "sherrizah",
+      "name": "Sherrizah",
+      "world": "bom",
+      "xy": null,
+      "ref": "Moroni 9:7",
+      "note": "A late-war place without sufficient geographical constraints for this map.",
+      "status": "unplaced",
+      "path": "AI Library/91 Maps/Locations/Sherrizah.md"
+    },
+    {
+      "id": "onidah",
+      "name": "Onidah",
+      "world": "bom",
+      "xy": null,
+      "ref": "Alma 32:4; Alma 47:5",
+      "note": "Hill and place-of-arms references should not be merged without argument.",
+      "status": "unplaced",
+      "path": "AI Library/91 Maps/Locations/Onidah.md"
+    },
+    {
+      "id": "bountiful-old-world",
+      "name": "Bountiful (Old World)",
+      "world": "old",
+      "xy": null,
+      "ref": "1 Nephi 17:5–6",
+      "note": "A coastal place in Lehi’s journey; proposed identifications in southern Arabia remain hypotheses.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Bountiful (Old World).md"
+    },
+    {
+      "id": "nahom",
+      "name": "Nahom",
+      "world": "old",
+      "xy": null,
+      "ref": "1 Nephi 16:34; 1 Nephi 17:1",
+      "note": "Named burial locality followed by an eastward journey. Proposed NHM correlations do not fix an exact burial coordinate.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Nahom.md"
+    },
+    {
+      "id": "valley-of-lemuel",
+      "name": "Valley of Lemuel",
+      "world": "old",
+      "xy": null,
+      "ref": "1 Nephi 2:5–10",
+      "note": "Valley and continually flowing river near the Red Sea; a modern wadi identification is not established.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Valley of Lemuel.md"
+    },
+    {
+      "id": "bethel",
+      "name": "Bethel",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Bethel.md"
+    },
+    {
+      "id": "cana",
+      "name": "Cana",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Cana.md"
+    },
+    {
+      "id": "garden-of-eden",
+      "name": "Garden of Eden",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Garden of Eden.md"
+    },
+    {
+      "id": "golgotha",
+      "name": "Golgotha",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Golgotha.md"
+    },
+    {
+      "id": "gomorrah",
+      "name": "Gomorrah",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Gomorrah.md"
+    },
+    {
+      "id": "haun-s-mill",
+      "name": "Haun's Mill",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Haun's Mill.md"
+    },
+    {
+      "id": "jackson-county",
+      "name": "Jackson County",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Jackson County.md"
+    },
+    {
+      "id": "khor-kharfot",
+      "name": "Khor Kharfot",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Khor Kharfot.md"
+    },
+    {
+      "id": "kolob",
+      "name": "Kolob",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Kolob.md"
+    },
+    {
+      "id": "marib",
+      "name": "Marib",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Marib.md"
+    },
+    {
+      "id": "mount-moriah",
+      "name": "Mount Moriah",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Mount Moriah.md"
+    },
+    {
+      "id": "mount-sinai",
+      "name": "Mount Sinai",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Mount Sinai.md"
+    },
+    {
+      "id": "mount-zion",
+      "name": "Mount Zion",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Mount Zion.md"
+    },
+    {
+      "id": "nain",
+      "name": "Nain",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Nain.md"
+    },
+    {
+      "id": "olishem",
+      "name": "Olishem",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Olishem.md"
+    },
+    {
+      "id": "potiphar-s-hill",
+      "name": "Potiphar's Hill",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Potiphar's Hill.md"
+    },
+    {
+      "id": "sepphoris",
+      "name": "Sepphoris",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Sepphoris.md"
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Sodom.md"
+    },
+    {
+      "id": "susquehanna-river",
+      "name": "Susquehanna River",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Susquehanna River.md"
+    },
+    {
+      "id": "zion-s-camp",
+      "name": "Zion's Camp",
+      "world": "unplaced",
+      "xy": null,
+      "ref": "",
+      "note": "Not assigned a coordinate in this atlas. Read the place page for its sources and identification questions.",
+      "status": "unplaced",
+      "path": "AI Library/04 Places/Zion's Camp.md"
+    },
+    {
+      "id": "jerusalem-bom",
+      "name": "Jerusalem (Book of Mormon)",
+      "world": "bom",
+      "xy": null,
+      "status": "unplaced",
+      "ref": "Alma 21:1; 3 Nephi 9:7",
+      "note": "A settlement near the waters of Mormon; destroyed by waters. Distinct from Jerusalem in the Old World.",
+      "path": "AI Library/91 Maps/Locations/Jerusalem (Book of Mormon).md"
+    },
+    {
+      "id": "nephi-city",
+      "name": "Nephi (city)",
+      "world": "bom",
+      "xy": null,
+      "status": "unplaced",
+      "ref": "Mosiah 7:1–4; Mosiah 9:6–8",
+      "note": "City of Nephi / Lehi-Nephi; distinct from the larger land of Nephi. Kaminaljuyu is a published candidate, not an established identification.",
+      "path": "AI Library/91 Maps/Locations/Nephi (city).md"
+    }
+  ],
+  "routes": [
+    {
+      "a": "waters-of-mormon",
+      "b": "helam",
+      "days": 8,
+      "ref": "Mosiah 23:1–4",
+      "note": "Escape from the Mormon-area refuge; not a measured Nephi-city segment."
+    },
+    {
+      "a": "helam",
+      "b": "valley-of-alma",
+      "days": 1,
+      "ref": "Mosiah 24:20",
+      "note": "The text says they traveled all day."
+    },
+    {
+      "a": "valley-of-alma",
+      "b": "zarahemla",
+      "days": 12,
+      "ref": "Mosiah 24:24–25",
+      "note": "Wilderness travel; not a straight line."
+    },
+    {
+      "a": "melek",
+      "b": "ammonihah",
+      "days": 3,
+      "ref": "Alma 8:6",
+      "note": "From the land of Melek; northward, endpoint precision unknown."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "meso",
+      "name": "Southern Mexico / Tehuantepec",
+      "center": [
+        -94.6,
+        17.5
+      ],
+      "bounds": [
+        -100,
+        12,
+        -87,
+        23
+      ],
+      "crossing": [
+        [
+          -94.55,
+          18.15
+        ],
+        [
+          -95.2,
+          16.17
+        ]
+      ],
+      "ref": "neck",
+      "fit": "An isthmus, two ocean coasts and southern highlands make this a useful comparison region.",
+      "problem": "The selected coast anchors are roughly 230 km apart. That is much longer than 1½ days at the illustrative 10–50 km/day rates. A shorter partial line, unusually fast travel, or other reading is required. Compass alignment and the identity of Sidon remain unresolved.",
+      "km": 230.7
+    },
+    {
+      "id": "panama",
+      "name": "Panama / northern South America",
+      "center": [
+        -79.7,
+        9.0
+      ],
+      "bounds": [
+        -85,
+        4,
+        -74,
+        13
+      ],
+      "crossing": [
+        [
+          -79.92,
+          9.36
+        ],
+        [
+          -79.56,
+          8.94
+        ]
+      ],
+      "ref": "neck",
+      "fit": "A short ocean-to-ocean land connection is a closer match to a short crossing under the illustrative daily-distance assumptions.",
+      "problem": "Width alone does not locate Zarahemla, Nephi or Sidon. The local land axis is not simply north–south. Modern canals and reservoirs cannot be used as ancient evidence.",
+      "km": 61.2
+    },
+    {
+      "id": "lakes",
+      "name": "Great Lakes / Niagara",
+      "center": [
+        -79.2,
+        43.0
+      ],
+      "bounds": [
+        -85,
+        39,
+        -74,
+        47
+      ],
+      "crossing": [
+        [
+          -79.05,
+          42.9
+        ],
+        [
+          -79.07,
+          43.25
+        ]
+      ],
+      "ref": "models",
+      "fit": "The selected lake-to-lake separation is short; this region is relevant to Great Lakes proposals and New York Cumorah traditions.",
+      "problem": "It requires inland lakes to serve as seas. A short connection alone does not satisfy all land, river, coast and directional constraints. Great Lakes and Mississippi/Ohio Heartland proposals are distinct models.",
+      "km": 39.0
+    },
+    {
+      "id": "heartland",
+      "name": "Mississippi / Ohio Heartland",
+      "center": [
+        -90,
+        39
+      ],
+      "bounds": [
+        -96,
+        32,
+        -80,
+        46
+      ],
+      "crossing": null,
+      "ref": "models",
+      "fit": "Relevant to nineteenth-century interpretive traditions and proposals involving the Mississippi and Ohio valleys.",
+      "problem": "No single agreed narrow-neck transect is assumed here. Hopewell archaeology documents Indigenous societies; it does not itself identify Nephite cities. Modern U.S. borders are not a textual geographical constraint."
+    }
+  ],
+  "sources": {
+    "ot": [
+      "Old Testament atlas",
+      "https://www.churchofjesuschrist.org/study/scriptures/bible-maps/map-9?lang=eng"
+    ],
+    "nt": [
+      "New Testament atlas",
+      "https://www.churchofjesuschrist.org/study/scriptures/bible-maps/map-11?lang=eng"
+    ],
+    "history": [
+      "Restoration atlas",
+      "https://www.churchofjesuschrist.org/study/scriptures/history-maps/map-6?lang=eng"
+    ],
+    "policy": [
+      "Church position on Book of Mormon geography",
+      "https://www.churchofjesuschrist.org/study/manual/gospel-topics/book-of-mormon-geography?lang=eng"
+    ],
+    "models": [
+      "Andrew H. Hedges: Book of Mormon Geographies",
+      "https://byustudies.byu.edu/article/book-of-mormon-geographies"
+    ],
+    "neck": [
+      "Andrew H. Hedges: The Narrow Neck of Land (2008)",
+      "https://rsc.byu.edu/vol-9-no-3-2008/narrow-neck-land"
+    ],
+    "sorenson": [
+      "Mesoamerican proposal, BYU Studies chart 160",
+      "https://byustudies.byu.edu/online-book/charting-the-book-of-mormon/1046"
+    ],
+    "hilton": [
+      "Hilton and Hilton: Sidon / Grijalva proposal (1992)",
+      "https://scholarsarchive.byu.edu/jbms/vol1/iss1/8/"
+    ],
+    "earth": [
+      "Natural Earth: public-domain map data",
+      "https://www.naturalearthdata.com/about/terms-of-use/"
+    ],
+    "hopewell": [
+      "National Park Service: Hopewell Earthworks",
+      "https://www.nps.gov/places/hopewell-earthworks.htm"
+    ]
+  },
+  "basemap_sha256": {
+    "land": "e874b27a51d146452be360cafb3cc50c86001074a67d534113e6534682f9826b",
+    "lakes": "d350b75978b26fe839b797c2c529b2fb8f47fb3983c03f4964e36d5df9378a52"
+  }
+}

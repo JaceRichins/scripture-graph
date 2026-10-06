@@ -31,7 +31,7 @@ class FakeApi {
     this.pushes.push(ops);
     return { results: ops.map(o => this.respond(o)) };
   }
-  async syncPull(_c: string | null) {
+  async syncPull(_c: string | null): Promise<{ annotations: Annotation[]; next_cursor: string }> {
     return { annotations: [], next_cursor: "c1" };
   }
 }
@@ -174,5 +174,39 @@ describe("sync engine (§12, §46)", () => {
     });
     await s.flush(api as never);
     expect((await s.allAnnotations()).find(x => x.annotation_id === a.annotation_id)).toBeUndefined();
+  });
+
+  it("saving one annotation twice before a sync pushes it once and never conflicts with itself " +
+     "(bookmark bug: a note retyped as a bookmark stayed a note)", async () => {
+    const s = new SyncEngine(new MemoryStore());
+    const a = ann({ annotation_type: "note", anchor_type: "node", anchor_id: "node:Page", content: "Bookmark: [[Page]]" });
+    await s.save(a);
+    await s.save({ ...a, annotation_type: "bookmark" });
+    expect(await s.pendingCount()).toBe(1);
+    // the server's rule: an existing record conflicts unless the base matches its version
+    const server = new Map<string, Annotation>();
+    const api = new FakeApi();
+    api.respond = op => {
+      const existing = server.get(op.annotation.annotation_id);
+      if (existing && existing.version !== op.base_version) return { op_id: op.op_id, status: "conflict", server_annotation: existing };
+      const stored = { ...op.annotation, version: (existing?.version ?? 0) + 1 };
+      server.set(stored.annotation_id, stored);
+      return { op_id: op.op_id, status: "applied", server_annotation: stored };
+    };
+    expect(await s.flush(api as never)).toMatchObject({ applied: 1, conflicts: 0 });
+    expect((await s.getAnnotation(a.annotation_id))!.annotation_type).toBe("bookmark");
+    expect(server.get(a.annotation_id)!.annotation_type).toBe("bookmark");
+  });
+
+  it("a bookmark whose reading place lost a conflict never spawns a conflict-copy note", async () => {
+    const s = new SyncEngine(new MemoryStore());
+    const a = ann({ annotation_type: "bookmark", anchor_type: "chapter", anchor_id: "alma-36", content: "Bookmark: [[Alma 36]]\nsg-bookmark {\"v\":1,\"path\":\"x\",\"title\":\"Alma 36\",\"place\":null,\"at\":null}" });
+    await s.save(a);
+    const api = new FakeApi();
+    api.respond = op => ({ op_id: op.op_id, status: "conflict", server_annotation: { ...op.annotation, content: "Bookmark: [[Alma 36]]", version: 3 } });
+    expect((await s.flush(api as never)).conflicts).toBe(1);
+    const all = await s.allAnnotations();
+    expect(all).toHaveLength(1);
+    expect(all[0]!.content).toBe("Bookmark: [[Alma 36]]");
   });
 });

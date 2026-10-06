@@ -1,14 +1,16 @@
 /** Annotation service: local-first writes, visibility, social queries,
  * background sync. Rendering decorates the reading view — canonical files
  * are never modified (§4, §65). */
-import { Menu, Modal, Notice, TFile } from "obsidian";
+import { Menu, Modal, Notice, Platform, TFile } from "obsidian";
 import {
   makePartialAnchor, nowIso, parseVerseId, uuid, verseDisplay,
-  type Annotation, type Visibility,
+  type Annotation, type Visibility, parseBookmark,
 } from "@scripture-graph/core-sdk";
+import { refreshIdentity } from "./identity";
 import { CANONICAL_PREFIX, SGState, type SocialAnnotation } from "../state";
 import { themeRibbons, themeSpec, themeWash } from "../study/themeLibrary";
 import { connectionOf, isConnectionNote } from "../study/connect";
+import { fitMobileModal } from '../study/mobileModalViewport';
 
 export const COLORS = ["yellow", "green", "blue", "pink", "orange"] as const;
 
@@ -24,29 +26,43 @@ export const MARK_BG: Record<string, string> = {
 };
 
 export class NoteModal extends Modal {
+  private releaseViewport: (() => void) | null = null;
+  private focusTimer: number | null = null;
+  private inputEl: HTMLTextAreaElement | null = null;
   constructor(state: SGState, private refLabel: string,
-    private onSubmit: (text: string) => void) {
+    private onSubmit: (text: string) => void, private initial = "") {
     super(state.app);
   }
   onOpen() {
+    if (Platform.isMobile) this.releaseViewport = fitMobileModal(this.modalEl, 'sg-note-mobile', 'sg-note-keyboard');
     this.contentEl.addClass("sg-note-modal");
     this.contentEl.createEl("h3", { text: `Note on ${this.refLabel}` });
     const ta = this.contentEl.createEl("textarea", {
-      attr: { placeholder: "Your thought…" },
+      attr: { placeholder: "Your thought…", 'aria-label': `Note on ${this.refLabel}` },
     });
-    const btn = this.contentEl.createEl("button", { text: "Save" });
+    ta.value = this.initial;
+    this.inputEl = ta;
+    const footer = this.contentEl.createDiv({cls:'sg-note-footer'});
+    const btn = footer.createEl("button", { cls:'mod-cta', text: "Save" });
     btn.addEventListener("click", () => {
       const v = ta.value.trim();
       this.close();
       if (v) this.onSubmit(v);
     });
-    setTimeout(() => ta.focus(), 30);
+    this.focusTimer = window.setTimeout(() => { if (ta.isConnected) ta.focus(); }, 30);
   }
-  onClose() { this.contentEl.empty(); }
+  onClose() {
+    if (this.focusTimer !== null) window.clearTimeout(this.focusTimer);
+    this.inputEl?.blur(); this.inputEl = null;
+    this.releaseViewport?.(); this.releaseViewport = null;
+    this.contentEl.empty();
+  }
 }
 
 export class AnnotationService {
   private syncTimer: number | null = null;
+  /** runs after each successful push and pull, before listeners are told */
+  afterSync: () => Promise<void> = async () => {};
 
   constructor(private s: SGState) {
     s.redecorate = () => this.redecorateOpen();
@@ -57,11 +73,11 @@ export class AnnotationService {
   async redecorateOpen(): Promise<void> {
     const seen = new Set<HTMLElement>();
     const paras = document.querySelectorAll<HTMLElement>(
-      ".markdown-preview-view [data-verse-id], .sg-reader [data-verse-id]");
+      ".markdown-preview-view [data-verse-id], .sg-reader [data-verse-id], [data-sg-study-block]");
     for (const p of Array.from(paras)) {
       if (seen.has(p)) continue;
       seen.add(p);
-      const vid = p.getAttribute("data-verse-id");
+      const vid = p.getAttribute("data-verse-id") ?? p.getAttribute('data-sg-doc-anchor');
       if (!vid) continue;
       const mine = await this.mine(vid);
       decorateVerse(this.s, this, p, vid, mine, this.social(vid));
@@ -78,13 +94,15 @@ export class AnnotationService {
     window.setTimeout(() => void this.syncNow(), delayMs);
   }
 
-  async syncNow(): Promise<void> {
+  async syncNow(strict = false): Promise<void> {
     if (!this.s.signedIn) return;
     try {
+      await refreshIdentity(this.s, true);
       await this.s.sync.flush(this.s.api);
       await this.s.sync.pull(this.s.api);
+      try { await this.afterSync(); } catch { /* a repair must never stop sync */ }
       this.s.notify();
-    } catch { /* offline — queue persists (§12) */ }
+    } catch (error) { if (strict) throw error; /* offline — queue persists (§12) */ }
   }
 
   // -------------------------------------------------------------- writes
@@ -121,6 +139,16 @@ export class AnnotationService {
     this.s.rerenderReading();
   }
 
+  /** A bookmark is one annotation saved once, so the server never receives a note first. */
+  async addBookmark(anchorId: string, content: string): Promise<Annotation> {
+    const a = this.base(anchorId, "bookmark");
+    a.content = content;
+    await this.s.sync.save(a);
+    this.scheduleSync();
+    this.s.rerenderReading();
+    return a;
+  }
+
   async addNote(anchorId: string, text: string, quoted: string | null,
     visibility: Visibility, groupId: string | null): Promise<void> {
     const a = this.base(anchorId, "note");
@@ -153,6 +181,17 @@ export class AnnotationService {
     if (!a || a.author_user_id !== this.s.device.userId && a.author_user_id !== null) return;
     const next = { ...a, visibility, group_id: groupId, updated_at: nowIso() };
     await this.s.sync.save(next);
+    this.scheduleSync();
+    this.s.rerenderReading();
+  }
+
+  /** change my note's words; any phrase it quoted is kept, and the sync engine
+   * versions the change like every other edit */
+  async editNote(id: string, text: string): Promise<void> {
+    const a = await this.s.sync.getAnnotation(id);
+    if (!a || a.annotation_type !== "note" || a.author_user_id !== this.s.device.userId && a.author_user_id !== null) return;
+    const quoted = /^>\s*"[^\n]*"\s*\n+/.exec(a.content)?.[0] ?? "";
+    await this.s.sync.save({ ...a, content: `${quoted}${text}`, updated_at: nowIso() });
     this.scheduleSync();
     this.s.rerenderReading();
   }
@@ -236,6 +275,9 @@ export function decorateVerse(
   }
   mine = mine.filter(a => !a.deleted_at);
   social = social.filter(a => !a.deleted_at);
+  // notes beside the verse: the line is the verse's next sibling, never inside it
+  const after = p.nextElementSibling;
+  if (after instanceof HTMLElement && after.classList.contains("sg-margin-note") && after.dataset.sgNoteFor === verseId) after.remove();
 
   const all = [
     ...(s.device.showScopes.mine ? mine : []),
@@ -269,13 +311,13 @@ export function decorateVerse(
       chip.style.borderBottom = `2px solid ${sp.c1}`;
       chip.onclick = (e) => {
         e.stopPropagation();
-        new NotesPopover(s, svc, verseId).open();
+        new NotesPopover(s, svc, verseId, p.getAttribute('data-sg-doc-title') ?? undefined).open();
       };
     }
   }
 
   // every annotation type leaves a visible, tappable trace on its verse
-  const openPopover = () => new NotesPopover(s, svc, verseId).open();
+  const openPopover = () => new NotesPopover(s, svc, verseId, p.getAttribute('data-sg-doc-title') ?? undefined).open();
   if (s.device.showScopes.mine) {
     const has = (test: (a: Annotation) => boolean) => mine.some(test);
     const kinds: [(a: Annotation) => boolean, string, string][] = [
@@ -287,7 +329,7 @@ export function decorateVerse(
     for (const [test, glyph, label] of kinds) {
       if (has(test)) {
         const icon = p.createSpan({ cls: `sgh-note-icon${glyph === "⇄" ? " sgh-conn-icon" : ""}`, text: glyph });
-        icon.setAttribute("aria-label", label);
+        icon.setAttribute("aria-label", p.hasAttribute('data-sg-study-block') ? label.replace('verse', 'passage') : label);
         icon.onclick = openPopover;
       }
     }
@@ -302,6 +344,35 @@ export function decorateVerse(
     });
     badge.onclick = openPopover;
   }
+  // My own words, shown beneath the verse they belong to (Aa: Notes beside
+  // verses). Placed after the verse, not in it, so the verse's text -- what is
+  // copied, quoted, searched, and matched for highlights -- stays scripture only.
+  const notes = s.device.showScopes.mine && p.hasAttribute("data-verse-id")
+    ? mine.filter(a => a.annotation_type === "note" && !isConnectionNote(a) && a.content.trim()
+      && !a.content.startsWith("Song:") && !a.content.startsWith("⚠ Conflict copy"))
+      .sort((a, b) => b.updated_at.localeCompare(a.updated_at))
+    : [];
+  if (notes.length) {
+    const line = document.createElement("div");
+    line.className = "sg-margin-note";
+    line.dataset.sgNoteFor = verseId;
+    line.setAttribute("role", "button");
+    line.setAttribute("aria-label", `Your note${notes.length > 1 ? "s" : ""} on this verse — tap to open`);
+    line.appendChild(document.createTextNode(noteBody(notes[0]!.content)));
+    if (notes.length > 1) {
+      const more = document.createElement("span");
+      more.className = "sg-margin-more";
+      more.textContent = `+${notes.length - 1}`;
+      line.appendChild(more);
+    }
+    line.onclick = openPopover;
+    p.insertAdjacentElement("afterend", line);
+  }
+}
+
+/** a note's own words, without the quoted phrase it may begin with */
+export function noteBody(content: string): string {
+  return content.replace(/^>\s*"[^\n]*"\s*\n+/, "").trim();
 }
 
 /** Apply the mark's visual treatment (theme-aware): fill, underline, bold,
@@ -333,7 +404,7 @@ function styleMark(mark: HTMLElement, h: Annotation): void {
 function applyMark(p: HTMLElement, h: Annotation): void {
   const cls = `sgh sgh-${h.color ?? "yellow"}`;
   if (!h.selected_text) {
-    const strong = p.querySelector("strong");
+    const strong = p.hasAttribute('data-sg-study-block') ? null : p.querySelector("strong");
     let node = strong ? strong.nextSibling : p.firstChild;
     const mark = document.createElement("mark");
     mark.className = cls;
@@ -356,7 +427,8 @@ function applyMark(p: HTMLElement, h: Annotation): void {
   const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
   const nodes: Text[] = [];
   for (let t = walker.nextNode() as Text | null; t; t = walker.nextNode() as Text | null) {
-    if (t.parentElement?.closest(".sg-conn-chip, .sg-fn-chip, .sg-fn-mark, .sgh-note-icon, .sg-badge, .sg-theme-badges, strong")) continue;
+    if (t.parentElement?.closest(".sg-conn-chip, .sg-fn-chip, .sg-fn-mark, .sgh-note-icon, .sg-badge, .sg-theme-badges")) continue;
+    if (!p.hasAttribute('data-sg-study-block') && t.parentElement?.closest('strong')) continue;
     nodes.push(t);
   }
   const joined = nodes.map(n => n.data).join("");
@@ -385,13 +457,13 @@ function applyMark(p: HTMLElement, h: Annotation): void {
 
 /** Verse popover: my notes + shared notes/highlights, with actions. */
 export class NotesPopover extends Modal {
-  constructor(private s: SGState, private svc: AnnotationService, private verseId: string) {
+  constructor(private s: SGState, private svc: AnnotationService, private verseId: string, private passageTitle?: string) {
     super(s.app);
   }
   async onOpen() {
     const { contentEl } = this;
     contentEl.addClass("sg-popover");
-    contentEl.createEl("h3", { text: verseDisplay(this.verseId) ?? this.verseId });
+    contentEl.createEl("h3", { text: this.passageTitle ?? verseDisplay(this.verseId) ?? this.verseId });
     const mine = await this.svc.mine(this.verseId);
     const social = this.svc.social(this.verseId);
     if (mine.length) {
@@ -432,7 +504,7 @@ export class NotesPopover extends Modal {
         div.createEl("p", { text: "🃏 Flashcard" });
       }
     } else if (a.annotation_type === "bookmark") {
-      div.createEl("p", { text: `🔖 ${a.content || "Bookmark"}` });
+      div.createEl("p", { text: `🔖 Bookmarked: ${parseBookmark(a.content).title ?? "this page"}` });
     } else if (isConnectionNote(a)) {
       const c = connectionOf(a.content)!;
       const go = div.createEl("button", { cls: "sg-ann-connect", text: `⇄ ${verseDisplay(c.anchor) ?? c.target}` });
@@ -443,6 +515,13 @@ export class NotesPopover extends Modal {
     }
     if (isMine) {
       const actions = div.createDiv({ cls: "sg-ann-actions" });
+      if (a.annotation_type === "note" && !isConnectionNote(a) && !a.content.startsWith("Song:") && !a.content.startsWith("⚠ Conflict copy")) {
+        const edit = actions.createEl("button", { text: "Edit" });
+        edit.onclick = () => {
+          this.close();
+          new NoteModal(this.s, "this verse", text => void this.svc.editNote(a.annotation_id, text), noteBody(a.content)).open();
+        };
+      }
       const share = actions.createEl("button", { text: "Change sharing" });
       share.onclick = (e) => {
         this.svc.visibilityMenu((vis, gid, label) => {

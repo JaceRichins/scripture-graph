@@ -1,3 +1,6 @@
+import { renderRemoteSearch, type LibraryHit } from './remoteSearch';
+import { ENOCH_VOLUME, renderEnochChapters } from './enoch';
+import { COMMANDMENTS_VOLUME, renderCommandmentsChapters } from './commandments';
 import type { MusicPlayer } from "./music";
 import type { AnnotationService } from "../social/annotations";
 /** 📖 The Navigator — Gospel-Library-style volume → book → chapter jumping.
@@ -9,7 +12,7 @@ import type { AnnotationService } from "../social/annotations";
 import { App, Modal } from "obsidian";
 import { BOOKS, chapterTitle, type BookInfo } from "@scripture-graph/core-sdk";
 import { cascade, iconHue, navIcon, type NavIconName } from "./navIcons";
-import { buildSearchIndex, searchIndexReady, smartSearch, type SearchResults } from "./search";
+import { buildSearchIndex, parseReference, searchIndexReady, smartSearch, type SearchResults } from "./search";
 import { type TimelinePreset } from "./timelineView";
 
 export interface GroupActivityRow {
@@ -26,8 +29,10 @@ export interface FolderListing {
 }
 
 export interface NavigatorHost {
+  refreshCatalog?: () => Promise<void>;
+  searchLibrary?: (query: string) => Promise<{ results: LibraryHit[] }>;
   openChapter(title: string): void;
-  openNote(linkText: string): void;
+  openNote(linkText: string): void | boolean | Promise<void | boolean>;
   lastChapter(): { slug: string; title: string } | null;
   recentChapters(): { slug: string; title: string }[];
   groupActivity(): Promise<GroupActivityRow[]>;
@@ -45,9 +50,12 @@ export interface NavigatorHost {
   scene?: (id: string | null) => void;
   /** the scene on screen right now (its id), for the page to say so */
   sceneCurrent?: () => string | null;
+  /** Exact assigned artwork through the bounded, verified device cache. */
+  scenePhoto?: (id: string, wide: boolean) => Promise<string>;
   /** play audio files from the vault (fetched on demand) in the app's player, as one queue */
   playFiles?: (items: { path: string; title: string; sub: string; open?: () => void }[]) => Promise<void>;
   openTimeline(): void;
+  openMyWork(): void;
   openTimelinePreset(p: TimelinePreset): void;
   newTimeline(onDone: () => void): void;
 }
@@ -83,6 +91,8 @@ export const VOLUMES: { name: string; icon: NavIconName }[] = [
   { name: "Book of Mormon", icon: "book-of-mormon" },
   { name: "Doctrine and Covenants", icon: "doctrine" },
   { name: "Pearl of Great Price", icon: "pearl" },
+  { name: ENOCH_VOLUME, icon: "page" },
+  { name: COMMANDMENTS_VOLUME, icon: "doctrine" },
 ];
 
 type NavView =
@@ -110,7 +120,21 @@ export class SGNavigatorModal extends Modal {
     }
   }
 
-  onOpen(): void { this.render(); }
+  private catalogTimer: number | null = null;
+  private catalogChanged = () => {
+    if (this.catalogTimer !== null) window.clearTimeout(this.catalogTimer);
+    this.catalogTimer = window.setTimeout(() => {
+      this.catalogTimer = null;
+      if (!this.contentEl.isConnected || this.searchQuery.trim()) return;
+      if (document.activeElement?.matches("input, textarea, [contenteditable='true']")) { this.catalogChanged(); return; }
+      this.render();
+    }, 750);
+  };
+  onOpen(): void {
+    document.addEventListener('sg-library-catalog-changed', this.catalogChanged);
+    this.render();
+    void this.host.refreshCatalog?.().catch(() => {});
+  }
 
   /** leave the way we arrived: a quick fade-down instead of a hard pop */
   private closing = false;
@@ -127,6 +151,8 @@ export class SGNavigatorModal extends Modal {
   }
 
   onClose(): void {
+    document.removeEventListener('sg-library-catalog-changed', this.catalogChanged);
+    if (this.catalogTimer !== null) window.clearTimeout(this.catalogTimer);
     if (this.searchTimer !== null) window.clearTimeout(this.searchTimer);
     this.contentEl.empty();
   }
@@ -220,27 +246,25 @@ export class SGNavigatorModal extends Modal {
    * instead of stranding the progress row forever. */
   private runSearch(q: string, body: HTMLElement): void {
     const seq = ++this.searchSeq;
-    const fail = () => {
-      if (seq !== this.searchSeq || this.view.kind !== "home") return;
-      body.empty();
-      body.createDiv({ cls: "sg-nav-progress", text: "Search isn't available right now." });
+    body.empty();
+    const ref = parseReference(q);
+    if (ref) this.renderResults({ reference: ref, verses: [], pages: [], chapters: [] }, body.createDiv());
+    const remote = body.createDiv();
+    const local = body.createDiv();
+    const current = () => seq === this.searchSeq && this.view.kind === 'home';
+    let localResults: SearchResults | undefined;
+    let serverPaths = new Set<string>();
+    const renderLocal = () => {
+      if (current() && localResults) this.renderResults({ ...localResults, reference: undefined,
+        pages: localResults.pages.filter(p => !serverPaths.has(p.path)) }, local);
     };
-    if (!searchIndexReady()) {
-      body.empty();
-      const prog = body.createDiv({ cls: "sg-nav-progress", text: "Reading the scriptures… 0%" });
-      buildSearchIndex(this.app, (done, total) => {
-        const pct = total ? Math.round((done / total) * 100) : 100;
-        prog.setText(`Reading the scriptures… ${pct}%`);
-      }).then(index => {
-        if (seq !== this.searchSeq || this.view.kind !== "home") return;
-        this.renderResults(smartSearch(q, index), body);
-      }).catch(fail);
-      return;
-    }
+    if (this.host.searchLibrary) void renderRemoteSearch(remote, q, this.host.searchLibrary, current,
+      hit => { if (hit.path) this.host.openPath(hit.path); else this.host.openNote(hit.title); this.close(); },
+      hits => { serverPaths = new Set(hits.flatMap(h => h.path ? [h.path] : [])); renderLocal(); });
+    local.createDiv({ cls: 'sg-nav-progress', text: 'Searching downloaded pages…' });
     buildSearchIndex(this.app).then(index => {
-      if (seq !== this.searchSeq || this.view.kind !== "home") return;
-      this.renderResults(smartSearch(q, index), body);
-    }).catch(fail);
+      localResults = smartSearch(q, index); renderLocal();
+    }).catch(() => { if (current()) { local.empty(); local.createDiv({ text: 'Local search is unavailable.' }); } });
   }
 
   private renderResults(res: SearchResults, body: HTMLElement): void {
@@ -249,11 +273,11 @@ export class SGNavigatorModal extends Modal {
     // invoke the destination first, then close — the peek/sheet stacks freely
     const open = (go: () => void) => { go(); this.close(); };
     if (!res.reference && !res.verses.length && !res.pages.length && !res.chapters.length) {
-      body.createDiv({ cls: "sg-nav-empty", text: "Nothing found. Try fewer or different words." });
+      body.createDiv({ cls: "sg-nav-empty", text: "No matches in downloaded pages." });
       return;
     }
     let ri = 0;
-    if (res.reference || res.verses.length) {
+    if (res.reference) {
       body.createDiv({ cls: "sg-nav-sect", text: "Scriptures" });
     }
     if (res.reference) {
@@ -269,6 +293,17 @@ export class SGNavigatorModal extends Modal {
         else this.host.openChapter(ref.title);
       });
     }
+    if (res.pages.length) {
+      body.createDiv({ cls: "sg-nav-sect", text: "Downloaded library" });
+      for (const p of res.pages) {
+        const row = body.createDiv({ cls: "sg-nav-row sg-nav-file" });
+        cascade(row, ri++);
+        navIcon(row, "page");
+        row.createSpan({ cls: "sg-nav-name", text: p.title });
+        row.onclick = () => open(() => this.host.openPath(p.path));
+      }
+    }
+    if (res.verses.length) body.createDiv({ cls: "sg-nav-sect", text: "Scripture passages" });
     for (const v of res.verses) {
       const row = body.createDiv({ cls: "sg-nav-row sg-nav-vrow" });
       cascade(row, ri++);
@@ -283,16 +318,6 @@ export class SGNavigatorModal extends Modal {
       }
       if (at < v.snippet.length) snip.createSpan({ text: v.snippet.slice(at) });
       row.onclick = () => open(() => this.host.openNote(`${v.chapter}#^${v.anchor}`));
-    }
-    if (res.pages.length) {
-      body.createDiv({ cls: "sg-nav-sect", text: "Library" });
-      for (const p of res.pages) {
-        const row = body.createDiv({ cls: "sg-nav-row sg-nav-file" });
-        cascade(row, ri++);
-        navIcon(row, "page");
-        row.createSpan({ cls: "sg-nav-name", text: p.title });
-        row.onclick = () => open(() => this.host.openPath(p.path));
-      }
     }
     if (res.chapters.length) {
       body.createDiv({ cls: "sg-nav-sect", text: "Chapters" });
@@ -395,6 +420,8 @@ export class SGNavigatorModal extends Modal {
   }
 
   private renderBooks(c: HTMLElement, volume: string): void {
+    if (volume === ENOCH_VOLUME) { renderEnochChapters(c, path => { this.host.openPath(path); this.close(); }); return; }
+    if (volume === COMMANDMENTS_VOLUME) { renderCommandmentsChapters(c, path => { this.host.openPath(path); this.close(); }); return; }
     const grid = c.createDiv({ cls: "sg-nav-books" });
     let i = 0;
     for (const b of BOOKS.filter(x => x.volume === volume)) {
@@ -422,6 +449,9 @@ export class SGNavigatorModal extends Modal {
   }
 
   private renderFolder(c: HTMLElement, path: string): void {
+    if (['AI Library', 'AI Library/01 Scriptures'].includes(path.replace(/\\/g, '/').replace(/\/+$/, ''))) {
+      this.renderLibrary(c); return;
+    }
     const listing = this.host.listFolder(path);
     // conference years read best newest-first
     const yearish = listing.folders.length > 3

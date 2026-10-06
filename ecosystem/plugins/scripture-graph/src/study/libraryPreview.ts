@@ -11,7 +11,9 @@
 import { App, Component, MarkdownRenderer, Modal, TFile } from "obsidian";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
 import { registerSheet, unregisterSheet } from "./sheetRegistry";
+import { isSupplementalPage } from './supplementalScriptures';
 import type { Subject } from "./timelineView";
+import { sendPage } from '../social/pageSharing';
 
 /** host hook: does this page name a timeline subject, and how to focus it */
 export interface TimelineHook {
@@ -30,6 +32,7 @@ export function sheetTargetFor(app: App, linktext: string, sourcePath: string): 
   const dest = app.metadataCache.getFirstLinkpathDest(base, sourcePath);
   if (!dest) return null;
   if (!dest.path.startsWith(LIBRARY_PREFIX)) return null;
+  if (isSupplementalPage(dest.path)) return null;
   if (NAVIGATE_PREFIXES.some(p => dest.path.startsWith(p))) return null;
   return dest;
 }
@@ -72,6 +75,8 @@ export class LibraryPreviewModal extends Modal {
       if (prev) void this.show(prev, null);
     };
     this.sheetTitleEl = head.createSpan({ cls: "sg-lib-title" });
+    const send = head.createEl('button', { cls: 'sg-lib-btn', text: 'Send', attr: { 'aria-label': 'Send to family' } });
+    send.onclick = () => sendPage(this.s, this.current);
     if (this.timeline) {
       const tl = head.createEl("button", { cls: "sg-lib-btn sg-lib-tl", text: "⏳" });
       tl.setAttr("aria-label", "See it in the Timeline");

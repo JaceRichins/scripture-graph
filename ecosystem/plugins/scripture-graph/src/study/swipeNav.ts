@@ -14,9 +14,13 @@ import { Platform, type Plugin, type TFile } from "obsidian";
 import { BOOKS, chapterIdFromTitle } from "@scripture-graph/core-sdk";
 import { ANNOTATED_PREFIX, CANONICAL_PREFIX, PERSONAL_PREFIX, SGState } from "../state";
 import { trace } from "./trace";
+import { adjacentEnochChapter, enochChapterNumber, isEnochPage } from './enoch';
+import { adjacentCommandmentsChapter, commandmentsChapterNumber, isCommandmentsPage } from './commandments';
 
 /** "Genesis 50" + next → "Exodus 1"; null at the canon's ends */
 export function adjacentChapterTitle(title: string, dir: 1 | -1): string | null {
+  if (enochChapterNumber(title) !== null) return adjacentEnochChapter(title, dir);
+  if (commandmentsChapterNumber(title) !== null) return adjacentCommandmentsChapter(title, dir);
   const id = chapterIdFromTitle(title);
   if (!id) return null;
   const dash = id.lastIndexOf("-");
@@ -36,6 +40,8 @@ export function adjacentChapterTitle(title: string, dir: 1 | -1): string | null 
 
 export function readingChapterTitle(f: TFile | null): string | null {
   if (!f) return null;
+  if (isEnochPage(f.path) && enochChapterNumber(f.basename) !== null) return f.basename;
+  if (isCommandmentsPage(f.path) && commandmentsChapterNumber(f.basename) !== null) return f.basename;
   if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(" - My Notes")) {
     return f.basename.slice(0, -" - My Notes".length);
   }
@@ -121,8 +127,8 @@ export function registerSwipeNav(
 ): void {
   if (!Platform.isMobile) return;
 
-  // Obsidian's drawers are silenced at the source: chapter reading pages
-  // carry data-ignore-swipe (set in main.ts), the same opt-out gate the
+  // Obsidian's drawers are silenced at the source: the mobile workspace
+  // carries data-ignore-swipe (sidebarSwipeGuard), the same opt-out gate the
   // app's own sliders and canvas use, so its swipe recognizer never fires
   // there. That leaves this detector free to be SIMPLE — two passive
   // listeners, no event interception, nothing that can fight the browser:

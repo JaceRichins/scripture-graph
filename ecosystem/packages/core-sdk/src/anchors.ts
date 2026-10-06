@@ -20,10 +20,16 @@ export interface BookInfo {
 
 export const BOOKS: BookInfo[] = booksJson as BookInfo[];
 export const BOOK_BY_SLUG: Map<string, BookInfo> = new Map(BOOKS.map(b => [b.slug, b]));
+// Supplemental collections use the same stable reading/annotation anchors,
+// without changing the standard-works shelf order or canonical BOOKS list.
+BOOK_BY_SLUG.set('enoch', { name: '1 Enoch', prefix: '1 Enoch', slug: 'enoch',
+  volume: 'Book of Enoch', chapters: 108, aliases: ['1 Enoch', 'Enoch'], volumeSeq: 6, bookSeq: 1 });
+BOOK_BY_SLUG.set('commandments', { name: 'Book of Commandments', prefix: 'Book of Commandments', slug: 'commandments',
+  volume: 'Book of Commandments (1833)', chapters: 65, aliases: ['Book of Commandments'], volumeSeq: 7, bookSeq: 1 });
 
 const ALIAS_MAP: Map<string, BookInfo> = (() => {
   const m = new Map<string, BookInfo>();
-  for (const b of BOOKS) {
+  for (const b of BOOK_BY_SLUG.values()) {
     const forms = new Set<string>([b.name, b.prefix, ...b.aliases]);
     for (const raw of forms) {
       const f = raw.replace(/[—–]/g, "-");

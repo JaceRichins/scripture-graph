@@ -8,6 +8,10 @@ import {
   verseDisplay, type Annotation, type ContextItem,
 } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, LIBRARY_PREFIX, SGState } from "../state";
+import { isEnochPage } from '../study/enoch';
+import { enochReadingBody } from '../study/enochStudy';
+import { isCommandmentsPage } from '../study/commandments';
+import { commandmentsReadingBody } from '../study/commandmentsStudy';
 
 async function read(s: SGState, file: TFile): Promise<string> {
   return s.app.vault.cachedRead(file);
@@ -20,6 +24,14 @@ function fileByTitle(s: SGState, title: string): TFile | null {
 async function chapterContext(s: SGState, chapterTitle: string, verseId: string | null,
   items: ContextItem[]): Promise<void> {
   const canonical = fileByTitle(s, chapterTitle);
+  if (canonical && isCommandmentsPage(canonical.path)) {
+    items.push({ label: `${chapterTitle} (1833 edition, full text)`, wikilink: chapterTitle,
+      text: commandmentsReadingBody(await read(s, canonical)), priority: 1 });
+  }
+  if (canonical && isEnochPage(canonical.path)) {
+    items.push({ label: `${chapterTitle} (full text)`, wikilink: chapterTitle,
+      text: enochReadingBody(await read(s, canonical)), priority: 1 });
+  }
   if (canonical && canonical.path.startsWith(CANONICAL_PREFIX)) {
     const { body } = parseFrontmatter(await read(s, canonical));
     const verses = parseCanonicalVerses(body);

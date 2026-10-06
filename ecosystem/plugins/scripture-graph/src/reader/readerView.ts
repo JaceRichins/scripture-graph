@@ -6,6 +6,9 @@ import {
 } from "@scripture-graph/core-sdk";
 import { CANONICAL_PREFIX, SGState } from "../state";
 import { AnnotationService, decorateVerse } from "../social/annotations";
+import { addSendPageItem, sendPage } from '../social/pageSharing';
+import { PageRefresh } from './pageRefresh';
+import { addPrintItems } from '../printing/printMenu';
 
 export const READER_VIEW = "scripture-graph-reader";
 
@@ -25,6 +28,8 @@ export class ReaderView extends ItemView {
   private chapterTitle: string | null = null;
   private activeLenses = new Set<string>(["doctrine", "related"]);
   private familyLens = true;
+  private refresh = new PageRefresh();
+  private changed = () => { void this.render(); };
 
   constructor(leaf: WorkspaceLeaf, private s: SGState, private ann: AnnotationService,
     private openAsk: (chapter: string | null, verse: string | null, seed?: string) => void) {
@@ -35,6 +40,15 @@ export class ReaderView extends ItemView {
   getViewType() { return READER_VIEW; }
   getDisplayText() { return this.chapterTitle ?? "Scripture Graph"; }
   getIcon() { return "book-open"; }
+
+  onPaneMenu(menu: Menu, source: string): void {
+    super.onPaneMenu(menu, source);
+    const file = this.canonicalFile();
+    if (file) {
+      addSendPageItem(menu, this.s, file);
+      addPrintItems(menu, this.app, file);
+    }
+  }
 
   /** the chapter rides the leaf state, so tab history (and the back
    * arrow) can restore exactly the page you were reading */
@@ -48,21 +62,27 @@ export class ReaderView extends ItemView {
     if (typeof ch === "string" && ch && ch !== this.chapterTitle) {
       this.chapterTitle = ch;
       // render now if the view is already attached; onOpen covers the rest
-      if (this.contentEl.hasClass("sg-reader")) await this.render();
+      if (this.contentEl.hasClass("sg-reader")) await this.render(true);
     }
   }
 
   async setChapter(title: string) {
     this.chapterTitle = title;
-    await this.render();
+    await this.render(true);
   }
 
   async onOpen() {
     this.contentEl.addClass("sg-reader");
     // taps + right-clicks are handled by the plugin-wide StudyBar/context menu
-    this.s.onChange.push(() => void this.render());
-    if (this.chapterTitle) await this.render();
+    this.s.onChange.push(this.changed);
+    if (this.chapterTitle) await this.render(true);
     else this.contentEl.createEl("p", { text: "Open a chapter with “Open in Scripture Graph reader”." });
+  }
+
+  async onClose() {
+    this.refresh.cancel();
+    const index = this.s.onChange.indexOf(this.changed);
+    if (index >= 0) this.s.onChange.splice(index, 1);
   }
 
   private canonicalFile(): TFile | null {
@@ -71,34 +91,38 @@ export class ReaderView extends ItemView {
     return f && f.path.startsWith(CANONICAL_PREFIX) ? f : null;
   }
 
-  private async render() {
-    const root = this.contentEl;
-    root.empty();
+  private async render(fetchSocial = false) {
+    const chapter = this.chapterTitle;
+    const update = this.refresh.begin(this.contentEl, chapter ?? '');
+    const root = update.root;
     const file = this.canonicalFile();
-    if (!file || !this.chapterTitle) return;
+    if (!file || !chapter) { update.commit(); return; }
     const raw = await this.app.vault.cachedRead(file);
+    if (!update.current()) return;
     const { frontmatter, body } = parseFrontmatter(raw);
-    const slug = String(frontmatter["slug"] ?? chapterIdFromTitle(this.chapterTitle) ?? "");
+    const slug = String(frontmatter["slug"] ?? chapterIdFromTitle(chapter) ?? "");
     const verses = parseCanonicalVerses(body);
 
     // ---- top bar ----
     const bar = root.createDiv({ cls: "sg-reader-bar" });
-    bar.createEl("h2", { text: this.chapterTitle });
+    bar.createEl("h2", { text: chapter });
+    const send = bar.createEl('button', { cls: 'sg-ask-btn', text: 'Send to family' });
+    send.onclick = () => sendPage(this.s, file);
     const graphBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "🕸" });
     graphBtn.setAttribute("aria-label", "Connections graph");
     graphBtn.onclick = () => {
       void import("../study/studyBar").then(m =>
-        m.openLocalGraphFor(this.s, this.chapterTitle));
+        m.openLocalGraphFor(this.s, chapter));
     };
     const myBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "✏️ My notes" });
     myBtn.onclick = () => {
-      const companion = `${this.chapterTitle} - My Notes`;
+      const companion = `${chapter} - My Notes`;
       if (this.app.metadataCache.getFirstLinkpathDest(companion, "")) {
         void this.app.workspace.openLinkText(companion, "");
       }
     };
-    const askBtn = bar.createEl("button", { cls: "sg-ask-btn", text: "✨ Ask AI" });
-    askBtn.onclick = () => this.openAsk(this.chapterTitle, null);
+    const askBtn = bar.createEl("button", { cls: "sg-ask-btn sg-reader-ai-top", text: "✨ Ask AI" });
+    askBtn.onclick = () => this.openAsk(chapter, null);
 
     const lensBar = root.createDiv({ cls: "sg-lens-bar" });
     for (const l of LENSES) {
@@ -114,7 +138,7 @@ export class ReaderView extends ItemView {
     const fam = lensBar.createEl("button", {
       cls: `sg-lens ${this.familyLens ? "on" : ""}`, text: "👥 Family",
     });
-    fam.onclick = () => { this.familyLens = !this.familyLens; void this.render(); };
+    fam.onclick = () => { this.familyLens = !this.familyLens; void this.render(true); };
 
     // ---- scripture ----
     const scriptureEl = root.createDiv({ cls: "sg-reader-scripture" });
@@ -125,14 +149,14 @@ export class ReaderView extends ItemView {
       p.createEl("strong", { text: String(v.verse) });
       p.appendText(" " + v.text);
       const mine = await this.ann.mine(v.verseId);
+      if (!update.current()) return;
       const social = this.familyLens ? this.ann.social(v.verseId) : [];
       decorateVerse(this.s, this.ann, p, v.verseId, mine, social);
     }
-    void this.ann.refreshSocial(anchors);
 
     // ---- lens sections from the study guide ----
     const guide = this.app.metadataCache.getFirstLinkpathDest(
-      `${this.chapterTitle} - Study Guide`, "");
+      `${chapter} - Study Guide`, "");
     if (guide) {
       const gBody = parseFrontmatter(await this.app.vault.cachedRead(guide)).body;
       const secs = sections(gBody);
@@ -146,10 +170,14 @@ export class ReaderView extends ItemView {
           box.createEl("summary", { text: `${l.icon} ${pretty(name)}` });
           const bodyEl = box.createDiv();
           await MarkdownRenderer.render(this.app, content!, bodyEl,
-            `${CANONICAL_PREFIX}x.md`, this);
+            guide.path, this);
+          if (!update.current()) return;
         }
       }
     }
+    // refreshSocial itself notifies state listeners. A notification-triggered
+    // render must not start another fetch/render loop.
+    if (update.commit() && fetchSocial) void this.ann.refreshSocial(anchors);
   }
 }
 

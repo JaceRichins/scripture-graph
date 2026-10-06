@@ -12,11 +12,12 @@ export type NavIconName =
   | "continue" | "target" | "verse" | "page" | "chapter" | "folder"
   | "conference" | "dictionary" | "topics" | "person" | "place" | "event"
   | "doctrines" | "papers" | "history" | "evidence" | "question"
-  | "scholarship" | "podcast" | "graph";
+  | "scholarship" | "podcast" | "graph" | "photos";
 
 interface IconDef { h: string; s: string }
 
 const I: Record<NavIconName, IconDef> = {
+  photos: { h: '#81c8c3', s: '<rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8" cy="9" r="1.5"/><path d="m3 17 5-5 4 4 4-6 5 7"/>' },
   "old-testament": {                                     // a parchment scroll
     h: "#e7b95c",
     s: `<path d="M6 4.5h11a2.5 2.5 0 0 1 2.5 2.5v9.5"/>

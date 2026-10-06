@@ -1,0 +1,50 @@
+[
+  {
+    "id": "samabaj-sonar-2011",
+    "title": "Sonar reveals Samabaj's submerged plaza",
+    "caption": "Open the original Samabaj sonar figure: submerged plaza and stelae. This is instrument imagery, not an underwater photograph.",
+    "site": "Samabaj",
+    "category": "underwater",
+    "places": [
+      "jerusalem-bom"
+    ],
+    "source": "https://www.asociaciontikal.com/simposio-24-ano-2010/13-medrano_rev-doc/",
+    "figureUrl": "https://www.asociaciontikal.com/wp-content/uploads/2017/03/image2-110.jpeg",
+    "credit": "Sonia Medrano / Proyecto Arqueol\u00f3gico Subacu\u00e1tico Atitl\u00e1n / Asociaci\u00f3n Tikal, 2011, Figure 2",
+    "date": "2011 proceedings of 2010 symposium",
+    "limit": "Report proposes approximately AD 300 inundation from ceramics, not a directly measured flooding year. Reuse license unverified; open the source to view the original.",
+    "mediaType": "sonar-research-figure"
+  },
+  {
+    "id": "samabaj-plan-2011",
+    "title": "The excavators' plan of submerged Samabaj",
+    "caption": "Open the original excavators' plan of Samabaj. A documented inland lake settlement whose proposed Book of Mormon identity is unconfirmed.",
+    "site": "Samabaj",
+    "category": "underwater",
+    "places": [
+      "jerusalem-bom"
+    ],
+    "source": "https://www.asociaciontikal.com/simposio-24-ano-2010/13-medrano_rev-doc/",
+    "figureUrl": "https://www.asociaciontikal.com/wp-content/uploads/2017/03/image1-114-927x1024.jpeg",
+    "credit": "S. Medrano and A. Linares; E. Mencos / Proyecto Arqueol\u00f3gico Subacu\u00e1tico Atitl\u00e1n, 2011, Figure 1",
+    "date": "2011 proceedings of 2010 symposium",
+    "limit": "Approximately AD 300 ceramic-based inundation interpretation; current standing water does not alone date the submergence. Reuse license unverified; open the source to view the original.",
+    "mediaType": "archaeological-site-plan"
+  },
+  {
+    "id": "tetimpa-operation31-famsi",
+    "title": "Tetimpa houses beneath Popocat\u00e9petl",
+    "caption": "View the original researchers' photograph of Tetimpa Operation 31 and Popocat\u00e9petl.",
+    "site": "Tetimpa",
+    "category": "buried",
+    "places": [
+      "geology-popocatepetl"
+    ],
+    "source": "https://www.famsi.org/reports/02042es/section06.htm",
+    "figureUrl": "https://www.famsi.org/reports/02042es/02042esPlunket01.pdf",
+    "credit": "Patricia Plunket and Gabriela Uru\u00f1uela / FAMSI, Dating Cholula, Figure 3",
+    "date": "2005 English report / 2006 Spanish version",
+    "limit": "Report predates the 2024 Lorenzo chronology revision; its first-century-CE description should not be reused as current consensus. Reuse license unverified; open the source to view the original.",
+    "mediaType": "photograph"
+  }
+]

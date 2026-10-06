@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import vm from 'node:vm';
+import ts from 'typescript';
+const source = fs.readFileSync(new URL('../src/ai/pageContext.ts', import.meta.url), 'utf8');
+const context = vm.createContext({ exports: {} });
+vm.runInContext(ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS } }).outputText, context);
+const resolve = context.exports.projectDocument;
+const folder = 'Library/Lessons/Trust';
+assert.equal(resolve(folder, [`${folder}/Reference index.md`, `${folder}/Trust.md`, `${folder}/Trust - Preparation guide.md`]), `${folder}/Trust.md`);
+assert.equal(resolve(folder, [`${folder}/Reference - Proverbs.md`, `${folder}/Revised lesson.md`]), `${folder}/Revised lesson.md`);
+assert.equal(resolve(folder, [`${folder}/One.md`, `${folder}/Two.md`]), null);
+assert.equal(resolve(folder, [`${folder}/Reference index.md`]), null);
+assert.equal(resolve('Library/Lessons', [`${folder}/Trust.md`]), null);
+console.log('Project context checks passed: main lesson, renamed lesson, ambiguous folder, reference-only folder, no project selected.');

@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-11",
+  "tool": "Built-in image_gen",
+  "note": "Devotional artistic interpretations. Full artwork is lazy loaded; offline previews are bundled.",
+  "scenes": [
+    {
+      "id": "alma-angel",
+      "name": "Alma and the Angel",
+      "chapter": "Mosiah 27",
+      "slug": "mosiah-27",
+      "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng",
+      "portraitSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-2ee69f33-9df9-48d4-8cb3-1080f8f21827.png",
+      "wideSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-e3b211e3-4abd-45bb-9160-7523ef8e77c0.png",
+      "portraitFile": "alma-angel-portrait.jpg",
+      "wideFile": "alma-angel-wide.jpg",
+      "portraitPrompt": "Use case: historical-scene. Create a cinematic photorealistic devotional illustration for a Book of Mormon scripture reading background, portrait 1024x1536. Mosiah 27:11-18: Alma the Younger and the four sons of Mosiah encounter an angel descending as if in a cloud; the earth trembles. Exactly five young adult men in simple ancient woven tunics on a rugged footpath, astonished and fallen to their knees or ground, one foremost looking upward. One luminous human angel in a white robe above the path, no wings, within a brilliant cloud. Broad atmospheric ancient American highland valley, textured stone and vegetation, no specific archaeological civilization asserted. Naturalistic human proportions, believable cloth, dramatic volumetric ivory light against blue-gray clouds, reverent awe, premium cinematic realism. Figures occupy lower half, environment provides calm space for reading overlay, no extreme close-ups. No text, lettering, watermark, modern items, European castles or armor, fantasy weapons, gore. This is a devotional artistic interpretation, not documentary evidence. One single finished image, not a collage.",
+      "widePrompt": "Recompose this devotional Mosiah 27 angelic visitation artwork as a 1536x1024 landscape desktop scripture background. Keep exactly the same five young men, one white-robed wingless angel, ancient woven clothing, highland setting, cinematic photorealistic style and dramatic clouds. Widen the vista naturally, keeping all five men's heads and hands inside frame. Angel upper right, men below, broad distant valley and cloud space on left for reader text. One complete image, no panels, text or watermark."
+    },
+    {
+      "id": "prison-deliverance",
+      "name": "Alma and Amulek Delivered",
+      "chapter": "Alma 14",
+      "slug": "alma-14",
+      "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng",
+      "portraitSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-dc1ab422-e009-4ad4-a467-bb44198935bd.png",
+      "wideSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-e2057ca5-e8ae-4cb7-92da-151c0dbf2578.png",
+      "portraitFile": "prison-deliverance-portrait.jpg",
+      "wideFile": "prison-deliverance-wide.jpg",
+      "portraitPrompt": "Use case: historical-scene. Single portrait 1024x1536 cinematic photorealistic devotional illustration for Book of Mormon reading background. Alma 14:28: Alma and Amulek emerge unharmed from a ruined prison after its walls have fallen. Exactly two adult male prophets in weathered simple ancient woven tunics, standing together in middle distance framed by a vast breach in thick crumbling stone walls. Broken rope bonds on dusty foreground ground. Sunlight streams through settling golden dust, massive rubble on either side, blue sky opening above; dramatic deliverance, solemn faith and relief. Ancient American stone-and-timber construction imaginatively evoked, no asserted precise archaeological reconstruction. No victims or bodies, no graphic injuries, no battle, no other people. Realistic human anatomy and natural stone textures, reverent restrained film still, impressive environmental scale, calm space for reading overlay. No text, lettering, watermark, modern objects, medieval European dungeon bars or fantasy armor. One complete image, not a collage.",
+      "widePrompt": "Recompose this Alma 14 deliverance scene as a 1536x1024 wide landscape desktop scripture background. Preserve the same two prophets, their identities and clothing, unharmed, ancient stone prison rubble, broken ropes, sunlit dust and cinematic photorealistic style. Widen the ruins and sky naturally; place the two figures in the right-middle third with complete bodies and unclipped feet. More broad atmospheric ruin space left for reading overlay. No other people, bodies, gore, text, watermark, collage or modern elements."
+    },
+    {
+      "id": "nephi-lehi-fire",
+      "name": "Nephi and Lehi Encircled by Fire",
+      "chapter": "Helaman 5",
+      "slug": "hel-5",
+      "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng",
+      "portraitSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-3984debb-3f30-470d-ab38-a57f0b4014db.png",
+      "wideSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-eb3391b4-e6fd-4b2b-b794-750e49e0bcfb.png",
+      "portraitFile": "nephi-lehi-fire-portrait.jpg",
+      "wideFile": "nephi-lehi-fire-wide.jpg",
+      "portraitPrompt": "Use case: historical-scene. Create one portrait 1024x1536 cinematic photorealistic devotional illustration of Helaman 5:23-24 for a Book of Mormon reader background. Nephi and Lehi, two adult brother missionaries in simple weathered ancient woven tunics, stand unharmed inside a towering encircling pillar of golden fire in a dark stone prison. Fire encircles them without burning skin or clothing; the central air around them is clear. Their expressions are calm and uplifted, light reflecting on their faces. A few astonished adult onlookers are small silhouettes beyond the fire at the far edges, with vast blue-charcoal shadow and rough ancient stone above. Tall flames form a radiant column, warm gold and soft white against deep indigo, believable cinematic fire lighting and material textures. Reverent miraculous deliverance, not horror. Full bodies in lower middle, environmental scale and breathing room. Ancient American setting is a devotional interpretation without asserted archaeology. No text, watermark, modern items, armor, winged beings, burning people, injury, gore or collage.",
+      "widePrompt": "Recompose this Helaman 5 Nephi and Lehi scene into a 1536x1024 landscape desktop background. Preserve the same two brothers' faces and clothes, whole bodies unharmed and not burning, clear space within a brilliant gold pillar of fire, realistic cinematic lighting and reverent mood. Widen the dark rough stone prison and distant onlookers naturally; fire and brothers centered slightly right, broad blue-charcoal stone space left for reading. Replace barred windows with simple unbarred high stone openings, no European dungeon styling. No text, watermark, new central figures, gore or collage."
+    },
+    {
+      "id": "night-without-darkness",
+      "name": "The Night Without Darkness",
+      "chapter": "3 Nephi 1",
+      "slug": "3ne-1",
+      "source": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/1?lang=eng",
+      "portraitSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-1a4d9ff3-38e2-4264-8e28-513378641f34.png",
+      "wideSource": "C:\\Users\\jacer\\.codex\\generated_images\\01a0935c-39f4-7771-a418-999eeaf770a1\\exec-2a80b2a6-f47f-404f-8084-65e59230b0f4.png",
+      "portraitFile": "night-without-darkness-portrait.jpg",
+      "wideFile": "night-without-darkness-wide.jpg",
+      "portraitPrompt": "Use case: historical-scene. One portrait 1024x1536 cinematic photorealistic devotional Book of Mormon illustration. 3 Nephi 1:15-19, the sign of Christ's birth: the sun has already set, yet the entire night is miraculously as bright as midday. Wide elevated view over an ancient American valley settlement of modest plaster-and-stone homes and terraces, distant mountains, lush vegetation. A small gathering of families in simple ancient woven clothes on foreground terrace look upward with wonder and relief. The scene is flooded with luminous cool ivory and pale blue ambient daylight even though no sun or moon is visible; no dark night sky, no sunset orange, no star field. Very subtle single new star may be a small bright point in the vast pale blue-white sky. Spacious glowing sky dominates upper half, richly detailed valley below, clean atmospheric depth. Joyful quiet awe, natural people, premium cinematic realism and credible materials. Architecture and clothing are imaginative devotional interpretation, not an archaeological claim. No Bethlehem manger, no European buildings, no modern things, no text, labels, watermark, collage or excessive fantasy effects.",
+      "widePrompt": "Recompose this 3 Nephi 1 night-without-darkness devotional image into a 1536x1024 landscape desktop scripture background. Preserve same family, clothing, architecture, valley, cinematic photorealism. The sun has set but it is miraculously as light as midday: keep luminous pale-blue and ivory sky and bright entire valley, NO sun disc, NO moon, NO dark star field. Preserve single subtle new star. Widen valley and sky naturally, family on right third with complete faces, generous luminous environment left for reader text. No text, watermarks, collage or modern items."
+    }
+  ]
+}

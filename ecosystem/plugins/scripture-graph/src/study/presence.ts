@@ -7,6 +7,8 @@
  *   that fits (Psalm 23 → still waters, the Exodus → desert).
  */
 
+import { CHAPTER_PHOTOS } from './photoAssignments.generated';
+
 export interface Voice {
   author: string;      // vault page name to link when it exists
   display?: string;    // shown name when different
@@ -141,7 +143,51 @@ export function voiceFor(slug: string): { v: Voice; chapterLine: string | null }
 
 // ------------------------------------------------------- scene matching
 
-const SCENE_KEYWORDS: [string, RegExp][] = [
+const SCENE_KEYWORDS: [string, RegExp, number?][] = [
+  ['tree-of-life', /\b(lehi[’']s (?:dream|vision|iron rod)|vision of the tree of life)\b/gi, 2],
+  ['liahona', /\b(liahona|ball of curious workmanship)\b/gi, 2],
+  ['nephi-ship', /\b(nephi (?:builds?|built|building) (?:a |the )?ship|nephi[’']s shipbuilding|building the ship at bountiful)\b/gi, 2],
+  ['ocean-voyage', /\b(nephi[’']s (?:voyage|ship)|lehi[’']s ocean crossing|voyage to the promised land)\b/gi, 2],
+  ['enos-prayer', /\b(enos[’']s? prayer|enos prays?|enos prayed)\b/gi, 2],
+  ['king-benjamin', /\b(king benjamin|benjamin[’']s (?:address|tower|speech))\b/gi, 2],
+  ['abinadi-testimony', /\b(abinadi)\b/gi, 2],
+  ['ammon-flocks', /\b(waters of sebus|ammon (?:protects?|defends?|protected|defended) (?:the )?flocks|ammon at sebus)\b/gi, 2],
+  ['title-liberty', /\b(title of liberty)\b/gi, 2],
+  ['stripling-warriors', /\b(stripling (?:warriors|soldiers)|helaman[’']s (?:army|sons)|two thousand young men)\b/gi, 2],
+  ['samuel-wall', /\b(samuel (?:the lamanite|on the wall))\b/gi, 2],
+  ['brother-jared', /\b(brother of jared|sixteen (?:small )?stones)\b/gi, 2],
+  ['jaredite-barges', /\b(jaredite barges|jaredites[’']? (?:voyage|barges)|barges of the jaredites)\b/gi, 2],
+  ['christ-children', /\b((?:christ|jesus) bless(?:es|ed|ing) (?:the )?nephite children|children at bountiful)\b/gi, 2],
+  ['moroni-record', /\b(moroni (?:buries|burying|preserves|preserving|hides|hiding|seals) (?:the )?(?:record|plates)|moroni[’']s (?:stone box|farewell))\b/gi, 2],
+  // Named events deserve more weight than the generic setting words they contain.
+  ['burning-bush', /\b(burning bush|bush that burn(?:ed|s)|bush was not consumed)\b/gi, 2],
+  ['jordan-baptism', /\b(baptism of (?:jesus|christ)|jesus[’']?s? baptism|jesus (?:was |is )?baptized|baptiz(?:ing|ed) jesus)\b/gi, 2],
+  ['feeding-multitude', /\b(feeding (?:the )?(?:multitude|five thousand|5,000)|five loaves|loaves and (?:two )?(?:fishes|fish)|fed the multitude)\b/gi, 2],
+  ['waters-mormon', /\b(waters of mormon|alma baptiz(?:ed|es|ing)|baptism at mormon)\b/gi, 2],
+  ['vineyard', /\b(vineyards?|grape vines?|grapes?|winepress)\b/gi],
+  ['fishing-village', /\b(fishing village|fishing harbor|fishing harbour|capernaum|bethsaida)\b/gi],
+  ['wilderness-path', /\b(wilderness path|desert path|wilderness trail|path through the wilderness|road to jericho)\b/gi],
+  ['ancient-synagogue', /\b(synagogues?|torah scroll)\b/gi],
+  ['creation', /\b(creation|created the heavens|in the beginning)\b/gi],
+  ['ark', /\b(noah|noah’s ark|noah's ark|after the flood)\b/gi],
+  ['exodus', /\b(parting the sea|red sea|parted the sea|crossing the sea)\b/gi],
+  ['bethlehem', /\b(bethlehem|nativity|manger|birth of jesus)\b/gi],
+  ['gethsemane', /\b(gethsemane|garden of gethsemane)\b/gi],
+  ['empty-tomb', /\b(empty tomb|he is risen|resurrection of jesus)\b/gi],
+  ['lehi', /\b(lehi’s journey|lehi's journey|valley of lemuel)\b/gi],
+  ['nephites', /\b(christ visits|christ visiting|temple in bountiful|jesus visits the nephites)\b/gi],
+  ['shepherd-pasture', /\b(shepherd[’']s pasture|green pastures?|sheepfolds?|grazing sheep)\b/gi],
+  ['village-well', /\b(village well|jacob[’']s well|woman at the well|drawing water from (?:a|the) well)\b/gi],
+  ['potters-workshop', /\b(potter[’']s (?:workshop|house|wheel)|pottery workshop|shaping clay)\b/gi],
+  ['mountain-refuge', /\b(mountain refuge|mountain shelter|cave of adullam|shelter in the mountains)\b/gi],
+  ['desert-oasis', /\b(desert oasis|oasis|oases|springs of elim)\b/gi],
+  ['upper-room', /\b(upper room|upper chamber)\b/gi],
+  ['cedar-forest', /\b(cedar forest|cedar woods|cedars of lebanon)\b/gi],
+  ['pilgrim-road', /\b(pilgrim(?:s|[’']s|s[’'])? road|pilgrimage road|pilgrimage to jerusalem|road to emmaus)\b/gi],
+  ["riverbank", /\b(jordan|riverbank|river|baptism|baptized|baptize)\b/gi],
+  ["shore", /\b(galilee|shore|fishing|fishermen|fishing nets|boat)\b/gi],
+  ["olive", /\b(olive|olives|oliveyard|gethsemane)\b/gi],
+  ["study", /\b(lesson|preparation|discussion|teaching plan|study plan|wisdom|proverbs)\b/gi],
   ["warcamp", /\b(armies|army|battle|wars?|swords?|shields?|banners?|standard of|captains?|soldiers?|fight|slay|slain|smite|smitten|warriors?|chariots?|siege|fortif(y|ied|ications?)|encamp|spears?|title of liberty)/gi],
   ["prison", /\b(prison(er|s)?|dungeon|chains?|jail|bound with|bonds|fetters|captive|cell|deliver(ed)? out of|liberty jail)/gi],
   ["storm", /\b(storm|tempest|whirlwind|thunder|lightning|billows?|tossed|waves)/gi],
@@ -160,43 +206,72 @@ const SCENE_KEYWORDS: [string, RegExp][] = [
 /** curated worlds for books/chapters where the right scene is known —
  * keyword scoring is only the fallback */
 export const SCENE_OVERRIDES: Record<string, string> = {
+  'john-2': 'cana-feast', 'john-5': 'bethesda-pool', 'john-9': 'siloam-steps',
+  'john-11': 'bethany-courtyard', 'matt-13': 'sower-furrows',
+  'mark-4': 'mustard-garden',
+  'luke-12': 'lilies-field', 'luke-19': 'jericho-palms',
+  'matt-6': 'lilies-field', 'luke-24': 'emmaus-road',
+  'ruth-2': 'ruth-harvest', 'esth-7': 'esther-garden',
+  'dan-6': 'daniel-window', 'ps-42': 'psalm-waterfall', 'ps-133': 'hermon-snow',
+  'ex-24': 'sinai-starlight', 'ex-40': 'tabernacle-dawn',
+  'ezek-47': 'salt-sea-dawn', 'morm-6': 'cumorah-morning',
+  'alma-6': 'zarahemla-river', 'dc-124': 'nauvoo-riverside', 'dc-136': 'pioneer-meadow',
+  'mosiah-27': 'alma-angel',
+  // The darkness is the aftermath of the storm; keep Christ's arrival distinct.
+  '3ne-8':'three-days-darkness', '3ne-9':'three-days-darkness', '3ne-10':'three-days-darkness',
+  'alma-24':'buried-weapons', '3ne-18':'nephite-sacrament',
+  '1ne-8':'tree-of-life', '1ne-11':'tree-of-life', '1ne-16':'liahona',
+  '1ne-17':'nephi-ship', 'enos-1':'enos-prayer',
+  'mosiah-3':'king-benjamin', 'mosiah-4':'king-benjamin', 'mosiah-5':'king-benjamin',
+  'mosiah-12':'abinadi-testimony', 'mosiah-13':'abinadi-testimony', 'mosiah-14':'abinadi-testimony', 'mosiah-15':'abinadi-testimony', 'mosiah-16':'abinadi-testimony',
+  'alma-17':'ammon-flocks', 'hel-13':'samuel-wall',
+  '3ne-17':'christ-children',
+  // Moroni 10 is his closing record; the stone-box setting is an artistic
+  // interpretation, not a claim that this chapter narrates its burial.
+  'moro-10':'moroni-record',
+  'gen-6':'ark', 'gen-7':'ark', 'gen-8':'ark', 'gen-9':'ark', 'matt-28':'empty-tomb', 'mark-16':'empty-tomb', 'john-20':'empty-tomb', '3ne-11':'nephites', '1ne-2':'lehi',
   // chapters — landmark moments land in their own world
-  "ps-23": "waters", "gen-1": "starlight", "gen-2": "garden", "gen-3": "garden",
-  "ex-3": "desert", "ex-14": "waters", "ex-19": "mount", "ex-20": "mount",
-  "matt-2": "starlight", "matt-5": "mount", "matt-6": "mount", "matt-7": "mount",
-  "matt-8": "storm", "matt-13": "fields", "matt-26": "garden", "matt-27": "city",
-  "mark-4": "storm", "john-13": "candle", "john-15": "garden", "john-17": "candle",
-  "luke-2": "starlight", "luke-8": "storm", "luke-15": "fields", "luke-22": "garden",
-  "acts-27": "storm", "1kgs-19": "mount", "1kgs-8": "temple", "2chr-6": "temple",
+  "ps-23": "waters", "matt-3": "jordan-baptism", "luke-3": "jordan-baptism", "john-21": "shore", "jacob-5": "olive", "ps-1": "riverbank", "gen-1": "creation", "gen-2": "garden", "gen-3": "garden",
+  // Mark 1 and John 1 include several settings: use their page text rather than
+  // assigning the entire chapter to the baptism (John records the witness).
+  "ex-3": "burning-bush", "ex-14": "exodus", "ex-19": "mount", "ex-20": "mount",
+  "matt-14": "feeding-multitude", "mark-6": "feeding-multitude", "luke-9": "feeding-multitude", "john-6": "feeding-multitude",
+  "mosiah-18": "waters-mormon", "matt-20": "vineyard", "luke-4": "ancient-synagogue",
+  "john-4": "village-well", "jer-18": "potters-workshop",
+  "matt-2": "starlight", "matt-5": "mount", "matt-7": "mount",
+  "matt-8": "storm", "matt-26": "gethsemane", "matt-27": "city",
+  "john-13": "upper-room", "john-15": "garden", "john-17": "candle",
+  "luke-2": "bethlehem", "luke-8": "storm", "luke-15": "fields", "luke-22": "gethsemane",
+  "acts-27": "storm", "1kgs-19": "horeb-cave", "1kgs-8": "temple", "2chr-6": "temple",
   "isa-6": "temple", "ps-122": "city", "ps-127": "city", "ps-84": "temple",
   "neh-2": "city", "neh-4": "city", "jonah-1": "storm", "jonah-2": "waters",
-  "3ne-1": "starlight", "3ne-12": "temple", "3ne-13": "temple", "3ne-14": "temple",
-  "1ne-18": "storm", "ether-2": "mount", "ether-3": "mount", "ether-6": "storm",
-  "hel-14": "city", "hel-16": "city", "alma-32": "fields", "alma-36": "sunrise",
-  "mosiah-2": "temple", "jsh-1": "sunrise",
+  "3ne-1": "night-without-darkness", "3ne-12": "temple", "3ne-13": "temple", "3ne-14": "temple",
+  "1ne-18": "ocean-voyage", "ether-2": "jaredite-barges", "ether-3": "brother-jared", "ether-6": "jaredite-barges",
+  "hel-14": "samuel-wall", "hel-16": "samuel-wall", "alma-32": "fields", "alma-36": "sunrise",
+  "mosiah-2": "king-benjamin", "jsh-1": "first-vision",
   // ⚔️ the war chapters — the whole Alma war block and the canon's battles
   "alma-2": "warcamp", "alma-43": "warcamp", "alma-44": "warcamp",
-  "alma-45": "warcamp", "alma-46": "warcamp", "alma-47": "warcamp",
+  "alma-45": "warcamp", "alma-46": "title-liberty", "alma-47": "warcamp",
   "alma-48": "warcamp", "alma-49": "warcamp", "alma-50": "warcamp",
-  "alma-51": "warcamp", "alma-52": "warcamp", "alma-53": "warcamp",
-  "alma-54": "warcamp", "alma-55": "warcamp", "alma-56": "warcamp",
-  "alma-57": "warcamp", "alma-58": "warcamp", "alma-59": "warcamp",
+  "alma-51": "warcamp", "alma-52": "warcamp", "alma-53": "stripling-warriors",
+  "alma-54": "warcamp", "alma-55": "warcamp", "alma-56": "stripling-warriors",
+  "alma-57": "stripling-warriors", "alma-58": "stripling-warriors", "alma-59": "warcamp",
   "alma-60": "warcamp", "alma-61": "warcamp", "alma-62": "warcamp",
   "1sam-17": "warcamp", "2kgs-6": "warcamp",
   "josh-6": "warcamp", "josh-8": "warcamp", "josh-10": "warcamp",
-  "josh-3": "waters", "josh-4": "waters",
+  "josh-3": "riverbank", "josh-4": "riverbank",
   "3ne-3": "warcamp", "3ne-4": "warcamp",
   "ether-13": "warcamp", "ether-14": "warcamp", "ether-15": "warcamp",
   "hel-1": "warcamp", "morm-8": "candle", "morm-9": "candle",
   // ⛓️ the prison chapters — captivity, and the light that gets in
   "gen-39": "prison", "gen-40": "prison",
   "jer-37": "prison", "jer-38": "prison",
-  "dan-3": "prison", "dan-6": "prison",
+  "dan-3": "prison",
   "acts-12": "prison", "acts-16": "prison",
-  "alma-14": "prison", "hel-5": "prison",
+  "alma-14": "prison-deliverance", "hel-5": "nephi-lehi-fire",
   "mosiah-21": "prison", "mosiah-24": "prison",
   "ps-142": "prison",
-  "dc-121": "prison", "dc-122": "prison", "dc-123": "prison",
+  "dc-121": "liberty-window", "dc-122": "liberty-window", "dc-123": "liberty-window",
   // whole books
   "2tim": "candle", "eph": "candle", "philip": "candle", "col": "candle",
   "philem": "candle", "rev": "starlight", "abr": "starlight",
@@ -208,16 +283,26 @@ export const SCENE_OVERRIDES: Record<string, string> = {
 
 /** pick the ambient scene: curated override first, else the chapter's words */
 export function matchScene(chapterText: string, slug?: string): string {
+  // Shared with Photos: complete canonical assignments work offline and do not
+  // change as sync adds headings or backlinks. Non-scripture pages still match
+  // their own text below.
+  if (slug && CHAPTER_PHOTOS[slug]?.length) return CHAPTER_PHOTOS[slug]![0]!;
+  return matchPageScene(chapterText, slug);
+}
+
+export function matchPageScene(chapterText: string, slug?: string): string {
   if (slug) {
     if (SCENE_OVERRIDES[slug]) return SCENE_OVERRIDES[slug]!;
-    const dash = slug.lastIndexOf("-");
-    const book = dash > 0 ? slug.slice(0, dash) : slug;
-    if (SCENE_OVERRIDES[book]) return SCENE_OVERRIDES[book]!;
+    // Whole-book defaults are used only if this page has no stronger setting.
   }
-  let best = "sunrise";
+  const book = slug?.replace(/-\d+$/, '');
+  let best = (book && SCENE_OVERRIDES[book]) || "study";
   let bestScore = 0;
-  for (const [scene, re] of SCENE_KEYWORDS) {
-    const score = (chapterText.match(re) ?? []).length;
+  const clean = chapterText.replace(/(^|\n)---\r?\n[\s\S]*?\r?\n---/, '$1').replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_match, _path, label) => label ?? '').replace(/https?:\/\/\S+/g, '');
+  const title = clean.split('\n').filter(line => /^#{1,2} /.test(line)).join(' ');
+  for (const [scene, re, weight = 1] of SCENE_KEYWORDS) {
+    const hits = clean.match(re) ?? [];
+    const score = (Math.min(hits.length, 8) + new Set(hits.map(hit => hit.toLowerCase())).size * 2 + (title.match(re) ?? []).length * 4) * weight;
     if (score > bestScore) {
       bestScore = score;
       best = scene;

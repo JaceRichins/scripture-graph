@@ -54,6 +54,9 @@ export type Annotation = z.infer<typeof Annotation>;
 export const User = z.object({
   user_id: z.string().uuid(),
   display_name: z.string().min(1).max(80),
+  family_person_id: z.string().nullable().optional(),
+  family_spouse_id: z.string().nullable().optional(),
+  family_spouse_label: z.enum(['wife', 'husband', 'spouse']).nullable().optional(),
   role: z.enum(["owner", "member"]).default("member"),
   created_at: z.string(),
 });

@@ -11,7 +11,7 @@ interface LeafInternals {
   getHistoryState?: () => unknown;
   updateHeader?: () => void;
   getViewState?: () => unknown;
-  history?: { backHistory: unknown[]; forwardHistory: unknown[]; back?: () => void;
+  history?: { backHistory: unknown[]; forwardHistory: unknown[]; back?: () => void; forward?: () => void;
               pushState?: (entry: unknown) => void };
   trigger?: (name: string) => void;
   view?: { getViewType?: () => string; getEphemeralState?: () => unknown };
@@ -27,8 +27,13 @@ export function recordHistory(leaf: unknown): void {
   const type = l.view?.getViewType?.() ?? "empty";
   if (type === "empty") return;              // a blank tab isn't a place
   // native entry shape when available; hand-built twin otherwise
-  const hs = l.getHistoryState?.()
+  let hs = l.getHistoryState?.()
     ?? { state: l.getViewState?.() ?? {}, eState: l.view?.getEphemeralState?.() ?? {} };
+  const ephemeral = l.view?.getEphemeralState?.() as Record<string, unknown> | undefined;
+  if (ephemeral?.sgReadingPosition && hs && typeof hs === 'object') {
+    const entry = hs as { eState?: Record<string, unknown> };
+    hs = { ...entry, eState: { ...entry.eState, ...ephemeral } };
+  }
   // Obsidian's own pushState: it caps the stack, clears the forward
   // history AND fires "history-change" on the leaf — the event the mobile
   // navbar's ‹ › listen for. A raw push left the arrows grey (user-reported).
@@ -44,6 +49,13 @@ export function historyBack(leaf: unknown): boolean {
   const h = (leaf as LeafInternals).history;
   if (!h?.backHistory?.length || typeof h.back !== "function") return false;
   h.back();
+  return true;
+}
+
+export function historyForward(leaf: unknown): boolean {
+  const h = (leaf as LeafInternals).history;
+  if (!h?.forwardHistory?.length || typeof h.forward !== "function") return false;
+  h.forward();
   return true;
 }
 

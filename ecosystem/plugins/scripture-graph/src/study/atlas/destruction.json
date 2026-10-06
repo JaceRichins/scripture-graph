@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-09-12",
+  "layerLabel": "Real geological sites — comparisons, not identified Book of Mormon cities",
+  "interpretation": "The Book of Mormon is treated as a historical account for reconstruction. None of these observed events is established as its destruction event. Date labels describe the cited evidence; they are not all equivalent probability intervals.",
+  "markers": [
+    {
+      "id": "geology-popocatepetl",
+      "name": "Popocatépetl · Lorenzo pumice",
+      "lon": -98.622,
+      "lat": 19.023,
+      "coordinateMeaning": "Smithsonian volcano location; not a Tetimpa excavation coordinate or proposed city",
+      "siteStatus": "documented",
+      "dateRange": "Approximately 40 cal BCE (2024 study)",
+      "datePrecision": "Approximate estimate; full sample probability intervals not verified",
+      "connectionStatus": "dating-conflict",
+      "textEvent": "Burial, fire, darkness: 3 Nephi 8:8–10, 19–23; 9:5–10",
+      "summary": "Real explosive eruption and affected settlements. Older Tetimpa research placed burial in AD 50–100; newer Lorenzo pumice research dates the event to about 40 BCE. Do not present it as a verified AD 34 eruption or identify a named city.",
+      "sourceUrls": [
+        "https://volcano.si.edu/volcano.cfm?vn=341090",
+        "https://doi.org/10.1016/j.jvolgeores.2023.107974",
+        "https://doi.org/10.1144/GSL.SP.2000.171.01.16"
+      ],
+      "path": "AI Library/91 Maps/Locations/Popocatépetl.md"
+    },
+    {
+      "id": "geology-ilopango",
+      "name": "Ilopango · Tierra Blanca Joven",
+      "lon": -89.053,
+      "lat": 13.672,
+      "coordinateMeaning": "Smithsonian caldera location; not a proposed city",
+      "siteStatus": "documented",
+      "dateRange": "431 ± 2 CE (2020 ice-core correlation)",
+      "datePrecision": "Published uncertainty; different from a generic approximate range",
+      "connectionStatus": "chronology-mismatch",
+      "textEvent": "Possible volcanic darkness and burial mechanism: 3 Nephi 8:19–23",
+      "summary": "Powerful eruption provides a physical analogue, but its published fifth-century date is centuries too late for the AD 33–34 target. The older 539/540 proposal also fails that target. No Book of Mormon city identified.",
+      "sourceUrls": [
+        "https://volcano.si.edu/volcano.cfm?vn=343060",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7584997/"
+      ],
+      "path": "AI Library/91 Maps/Locations/Ilopango.md"
+    },
+    {
+      "id": "geology-baru",
+      "name": "Barú · early catalogued eruption",
+      "lon": -82.543,
+      "lat": 8.808,
+      "coordinateMeaning": "Smithsonian volcano location; not a proposed city",
+      "siteStatus": "documented",
+      "dateRange": "260 ± 150 CE (Smithsonian catalog entry)",
+      "datePrecision": "Catalog uncertainty, not a verified AD 34 occurrence",
+      "connectionStatus": "chronology-mismatch",
+      "textEvent": "Explosive-volcanism comparison: 3 Nephi 8:19–23",
+      "summary": "Panama has real volcanic mechanisms. This listed eruption range does not reach AD 34. An incomplete catalog leaves research open but does not establish a missing eruption or settlement match.",
+      "sourceUrls": [
+        "https://volcano.si.edu/volcano.cfm?vn=346010"
+      ],
+      "path": "AI Library/91 Maps/Locations/Barú.md"
+    },
+    {
+      "id": "geology-new-madrid",
+      "name": "New Madrid seismic zone · 1811–1812",
+      "lon": -89.96,
+      "lat": 36.0,
+      "coordinateMeaning": "USGS catalog estimate for the 16 December 1811 08:15 UTC earthquake; historical epicenter uncertain and estimates differ",
+      "siteStatus": "documented",
+      "dateRange": "16 December 1811–7 February 1812 sequence",
+      "datePrecision": "Historical event dates; coordinate is an estimated epicenter",
+      "connectionStatus": "mechanism-only",
+      "textEvent": "Ground failure and water replacing land: 3 Nephi 8:13–18; 9:6–8",
+      "summary": "Inland earthquakes can cause liquefaction, alter drainage, and create lakes; volcanic arcs are not the only regions with ground-failure mechanisms. This sequence is far too late. Paleoseismic events around AD 300, 900, and 1450 do not establish an AD 34 match.",
+      "sourceUrls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/official18111216081500000/region-info",
+        "https://www.usgs.gov/programs/earthquake-hazards/new-madrid-seismic-zone"
+      ],
+      "path": "AI Library/91 Maps/Locations/New Madrid seismic zone.md"
+    }
+  ]
+}

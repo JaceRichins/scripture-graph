@@ -14,6 +14,9 @@ import { ConnectionsModal, clearConnectionsCache, connectionsFor, mergeConnectio
 import { openLocalGraphFor } from "../study/studyBar";
 import { TranslationsModal, isBiblical } from "../study/translations";
 import { FootnotesModal, footnotesFor, type Footnote } from "../reader/footnotes";
+import { chapterIdFromTitle } from '@scripture-graph/core-sdk';
+import { supplementalChapterNumber, isSupplementalPage } from '../study/supplementalScriptures';
+import { decorateStudyText } from './studyTextAnnotations';
 
 export interface SelectionHit {
   verseId: string;
@@ -27,10 +30,16 @@ export function registerReadingIntegration(
 ): void {
   // ---- decorations + verse-id stamping -----------------------------------
   plugin.registerMarkdownPostProcessor(async (el: HTMLElement, ctx: MarkdownPostProcessorContext) => {
-    if (!ctx.sourcePath?.startsWith(CANONICAL_PREFIX)) return;
+    if (ctx.sourcePath?.startsWith('AI Library/01 Scriptures/Study Guides/')) {
+      await decorateStudyText(el, ctx.sourcePath, s, svc);
+      return;
+    }
+    const title = ctx.sourcePath?.split('/').pop()!.replace(/\.md$/, '') ?? '';
+    const supplemental = isSupplementalPage(ctx.sourcePath ?? '') && supplementalChapterNumber(title) !== null;
+    if (!ctx.sourcePath?.startsWith(CANONICAL_PREFIX) && !supplemental) return;
     const fm = plugin.app.metadataCache.getCache(ctx.sourcePath)?.frontmatter as
       { slug?: string } | undefined;
-    const slug = fm?.slug;
+    const slug = supplemental ? chapterIdFromTitle(title) : fm?.slug;
     if (!slug) return;
     const anchors: string[] = [];
     const paragraphs: { p: HTMLElement; verseId: string }[] = [];
@@ -101,9 +110,9 @@ export function registerReadingIntegration(
       };
       first.p.parentElement?.insertBefore(strip, first.p);
     }
-    if (first && !el.querySelector(".sg-voice")) {
+    if (first && !first.p.querySelector('.sg-dropcap')) {
       const found = voiceFor(slug);
-      if (found) {
+      if (found && !el.querySelector('.sg-voice')) {
         const { v } = found;
         const strip = createDiv({ cls: "sg-voice" });
         const who = strip.createSpan({ cls: "sg-voice-who", text: `✒️ ${v.display ?? v.author}` });

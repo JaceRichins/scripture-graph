@@ -14,6 +14,7 @@
 import { Menu, Modal, Notice, Platform, Setting, TFile, type Plugin } from "obsidian";
 import { chapterTitle, parseVerseId, verseDisplay, type Visibility } from "@scripture-graph/core-sdk";
 import type { SGState } from "../state";
+import { tidyMenus } from "./readingSettings";
 import { AnnotationService, COLORS, COLOR_HEX, NoteModal, NotesPopover } from "../social/annotations";
 import { recordHistory } from "./leafNav";
 import { THEME_LIBRARY, themeSpec, type ThemeSpec } from "./themeLibrary";
@@ -130,6 +131,7 @@ export class StudyBar {
   private barEl: HTMLElement | null = null;
   private selTimer: number | null = null;
   private lastSig = "";
+  private stylesExpanded = false;
   // touch-tap discrimination state (mobile)
   private downX = 0;
   private downY = 0;
@@ -220,6 +222,9 @@ export class StudyBar {
     // existing marks/icons open the verse popover (Gospel Library parity)
     const mark = target.closest("mark.sgh, .sgh-note-icon, .sg-badge");
     if (mark) {
+      const study = mark.closest<HTMLElement>('[data-sg-study-block]');
+      const anchor = study?.getAttribute('data-sg-doc-anchor');
+      if (anchor) { new NotesPopover(this.s, this.ann, anchor, study!.getAttribute('data-sg-doc-title') ?? undefined).open(); return; }
       const p = mark.closest("[data-verse-id], p");
       const vid = this.verseIdOf(p);
       if (vid) {
@@ -276,15 +281,18 @@ export class StudyBar {
     const p = anchor.closest("[data-verse-id], p");
     const vid = this.verseIdOf(p);
     if (!vid) {
-      const page = anchor.closest(".sg-doc-page") as HTMLElement | null;
+      const page = anchor.closest("[data-sg-doc-anchor]") as HTMLElement | null;
       const docAnchor = page?.getAttribute("data-sg-doc-anchor");
       if (page && docAnchor) {
         if (this.doc?.selected === text && this.doc.anchor === docAnchor) return;
         trace("capture.doc", { anchor: docAnchor, len: text.length });
         for (const v of this.sel.verses) v.el.removeClass("sg-vsel");
         this.sel = { verses: [], partial: null };
+        const end = native.focusNode instanceof Element ? native.focusNode : native.focusNode?.parentElement;
+        if (page.hasAttribute('data-sg-study-block') && !page.contains(end ?? null)) return;
         this.doc = { anchor: docAnchor, path: page.getAttribute("data-sg-doc-path") ?? "",
-          title: page.getAttribute("data-sg-doc-title") ?? "", selected: text };
+          title: page.getAttribute("data-sg-doc-title") ?? "", selected: text,
+          blockText: page.getAttribute('data-sg-study-text') ?? undefined };
         this.render();
         return;
       }
@@ -299,6 +307,7 @@ export class StudyBar {
 
   private verseIdOf(el: Element | null): string | null {
     if (!el) return null;
+    if (el.closest('[data-sg-study-block]')) return null;
     const direct = (el as HTMLElement).getAttribute?.("data-verse-id")
       ?? (el.closest("[data-verse-id]") as HTMLElement | null)?.getAttribute("data-verse-id");
     if (direct && parseVerseId(direct)) return direct;
@@ -384,6 +393,7 @@ export class StudyBar {
   }
 
   clear(): void {
+    this.stylesExpanded = false;
     trace("bar.clear", { hadPartial: !!this.sel.partial, verses: this.sel.verses.length });
     // leaving phrase mode is the right moment to let go of the native selection
     if (this.sel.partial || this.doc) window.getSelection()?.removeAllRanges();
@@ -398,7 +408,7 @@ export class StudyBar {
 
   /** a phrase selected on a document page (a talk, a question, a history
    * page): no verse to anchor to, so the page itself is the anchor */
-  private doc: { anchor: string; path: string; title: string; selected: string } | null = null;
+  private doc: { anchor: string; path: string; title: string; selected: string; blockText?: string } | null = null;
 
   private get active(): boolean {
     return this.sel.verses.length > 0 || this.sel.partial !== null || this.doc !== null;
@@ -429,7 +439,7 @@ export class StudyBar {
     const sig = JSON.stringify([this.sel.verses.map(v => v.verseId),
       this.sel.partial?.selected, scope, this.s.device.lastColor,
       this.s.device.lastStyle, this.s.device.lastTheme,
-      this.s.device.barExpanded,
+      this.stylesExpanded,
       (this.s.settings.themes ?? []).length]);
     if (sig === this.lastSig && this.barEl) return;      // no DOM churn
     this.lastSig = sig;
@@ -468,14 +478,13 @@ export class StudyBar {
     }
 
     // row 3 (optional): styles + themes live behind one quiet disclosure —
-    // the default bar stays calm; the choice is remembered per device
-    const expanded = this.s.device.barExpanded;
+    // the default bar stays calm; expansion lasts for this selection only
+    const expanded = this.stylesExpanded;
     const disclose = bar.createEl("button", { cls: "sg-bar-disclose" });
     disclose.createSpan({ text: "Styles & themes" });
     disclose.createSpan({ cls: "sg-bar-disclose-chev", text: expanded ? "⌄" : "›" });
     disclose.onclick = () => {
-      this.s.device.barExpanded = !expanded;
-      void this.s.saveDevice();
+      this.stylesExpanded = !expanded;
       this.render();
     };
     if (expanded) {
@@ -522,14 +531,23 @@ export class StudyBar {
       const b = row.createEl("button", { text: label });
       b.onclick = fn;
     };
-    act("📝 Note", () => this.doNote());
-    act("⇄ Connect", () => this.doConnect());
-    act("📤 Share", () => void this.doShare());
+    act("✦ Ask AI", () => this.doAsk());
+    row.firstElementChild?.addClass("sg-selection-ai");
+    act("Note", () => this.doNote());
+    act("Connect", () => this.doConnect());
     const firstSel = this.sel.partial ?? this.sel.verses[0] ?? null;
-    const more = row.createEl("button", { cls: "sg-act-more", text: "⋯" });
+    const more = row.createEl("button", { cls: "sg-act-more sg-more-btn", text: "⋯" });
     more.setAttribute("aria-label", "More actions");
+    more.setAttribute("aria-haspopup", "menu");
     more.onclick = (e) => {
       const menu = new Menu();
+      // Tidy menus: the "Styles & themes" row is hidden (CSS) and opens from
+      // here instead; the picker itself still unfolds in the bar.
+      if (tidyMenus()) {
+        menu.addItem(i => i.setTitle(expanded ? "Hide styles & themes" : "🖍 Styles & themes")
+          .setChecked(expanded).onClick(() => disclose.click()));
+        menu.addSeparator();
+      }
       menu.addItem(i => i.setTitle("🃏 Flashcard").onClick(() => void this.doFlashcard()));
       // 🌐 parallel translations — Bible verses only (WEB/ASV/YLT are local files)
       if (firstSel && isBiblical(firstSel.verseId)) {
@@ -544,7 +562,6 @@ export class StudyBar {
         (this.s.app as unknown as { commands?: { executeCommandById?: (id: string) => void } })
           .commands?.executeCommandById?.("scripture-graph:reading-settings");
       }));
-      menu.addItem(i => i.setTitle("✨ Ask AI").onClick(() => this.doAsk()));
       menu.showAtMouseEvent(e);
     };
     void this.showExisting(bar, colors, row, more);
@@ -611,10 +628,10 @@ export class StudyBar {
 
   /** the bar for a phrase on a document page: the page's themes, a note
    * quoting the phrase, Ask AI, share; copy, bookmark, graph and reading
-   * settings behind ⋯. No colors: highlights belong to verses. */
+   * settings behind ⋯. Embedded study paragraphs also support text marks. */
   private renderDoc(): void {
     const doc = this.doc!;
-    const sig = JSON.stringify(["doc", doc.anchor, doc.selected, (this.s.settings.themes ?? []).length]);
+    const sig = JSON.stringify(["doc", doc.anchor, doc.selected, this.s.device.lastColor, this.s.device.lastStyle, this.s.device.lastShareScope, (this.s.settings.themes ?? []).length]);
     if (sig === this.lastSig && this.barEl) return;
     this.lastSig = sig;
     if (!this.barEl) this.barEl = document.body.createDiv({ cls: "sg-studybar" });
@@ -628,6 +645,23 @@ export class StudyBar {
     close.onclick = () => this.clear();
     const short = doc.selected.length > 90 ? doc.selected.slice(0, 88).trimEnd() + "…" : doc.selected;
     bar.createDiv({ cls: "sg-studybar-quote", text: `“${short}”` });
+
+    if (doc.blockText) {
+      const scope = top.createEl('button', {cls:'sg-scope-chip',text:SCOPE_LABEL[this.s.device.lastShareScope.visibility] ?? 'Sharing'});
+      scope.onclick = event => this.pickScope(event);
+      const colors = bar.createDiv({cls:'sg-studybar-colors'});
+      for (const color of COLORS) {
+        const dot = colors.createEl('button',{cls:`sg-dot sg-dot-${color}`,attr:{'aria-label':`Mark ${color}`}});
+        dot.style.backgroundColor = COLOR_HEX[color]!;
+        dot.onclick = () => void this.highlightStudyText(color);
+      }
+      const styles = bar.createDiv({cls:'sg-studybar-styles'});
+      for (const [style, label] of [['highlight','🖍'],['underline','U̲'],['bold','B'],['italic','I']] as const) {
+        const button = styles.createEl('button',{cls:'sg-style-chip',text:label,attr:{'aria-label':`${style} style`}});
+        button.toggleClass('sg-style-on', (this.s.device.lastStyle || 'highlight') === style);
+        button.onclick = () => { this.s.device.lastStyle = style; void this.s.saveDevice(); this.render(); };
+      }
+    }
 
     // themes go on the page as a whole (what the page head used to offer)
     const trow = bar.createDiv({ cls: "sg-studybar-themes" });
@@ -656,30 +690,31 @@ export class StudyBar {
 
     const row = bar.createDiv({ cls: "sg-studybar-actions" });
     const act = (label: string, fn: () => void) => { const b = row.createEl("button", { text: label }); b.onclick = fn; };
-    act("✨ Ask AI", () => {
-      const seed = `About "${doc.selected}" — `;
+    act("✦ Ask AI", () => {
+      const seed = `Selected from ${doc.title}:\n“${doc.selected}”\n\nMy request: `;
       this.clear();
       this.openAsk(seed, doc.anchor);
     });
-    act("📝 Note", () => {
+    row.firstElementChild?.addClass("sg-selection-ai");
+    act("Note", () => {
       const { visibility, groupId } = this.s.device.lastShareScope;
-      new NoteModal(this.s, doc.title, (text) => {
-        void this.ann.addNote(doc.anchor, text, doc.selected, visibility, groupId);
-        new Notice(`Note saved — ${doc.title}`);
-        this.clear();
+      this.clear(); // The selection toolbar must not cover the note editor.
+      new NoteModal(this.s, doc.title, async (text) => {
+        try { await this.ann.addNote(doc.anchor, text, doc.selected, visibility, groupId); new Notice(`Note saved — ${doc.title}`); }
+        catch { new Notice('Could not save that note. Please try again.'); }
       }).open();
     });
-    act("⇄ Connect", () => {
+    act("Connect", () => {
       const src = { anchor: doc.anchor, label: doc.title, quoted: doc.selected };
       this.clear();
       new ConnectModal(this.s, this.ann, src, () => this.s.rerenderReading()).open();
     });
-    act("📤 Share", () => void this.shareText(doc.selected, doc.title));
     const more = row.createEl("button", { cls: "sg-act-more", text: "⋯" });
     more.setAttribute("aria-label", "More actions");
     more.onclick = (e) => {
       const menu = new Menu();
       menu.addItem(i => i.setTitle("📋 Copy").onClick(() => void this.copyText(doc.selected, doc.title)));
+      menu.addItem(i => i.setTitle("Share selection").onClick(() => void this.shareText(doc.selected, doc.title)));
       const file = this.s.app.vault.getAbstractFileByPath(doc.path);
       if (file instanceof TFile) {
         menu.addItem(i => i.setTitle("🔖 Bookmark this page").onClick(() => void (async () => {
@@ -695,6 +730,25 @@ export class StudyBar {
       }));
       menu.showAtMouseEvent(e);
     };
+  }
+
+  private async highlightStudyText(color: string): Promise<void> {
+    const doc = this.doc;
+    if (!doc?.blockText || !doc.blockText.includes(doc.selected)) return;
+    const {visibility, groupId} = this.s.device.lastShareScope;
+    const style = this.s.device.lastStyle || 'highlight';
+    try {
+      const existing = (await this.ann.mine(doc.anchor)).filter(a => !a.deleted_at && a.annotation_type === 'highlight'
+        && !a.theme && a.color === color && (a.style || 'highlight') === style && a.selected_text === doc.selected);
+      if (existing.length) {
+        for (const mark of existing) await this.ann.remove(mark.annotation_id);
+      } else {
+        await this.ann.addHighlight(doc.anchor, color, doc.blockText, doc.selected, visibility, groupId, style, null);
+      }
+      this.s.device.lastColor = color; void this.s.saveDevice();
+      new Notice(existing.length ? 'Mark removed' : `Marked ${doc.title}`);
+      this.clear();
+    } catch { new Notice('Could not save that mark. Please try again.'); }
   }
 
   private async shareText(text: string, ref: string): Promise<void> {
@@ -898,7 +952,8 @@ export class StudyBar {
 
   private doAsk(): void {
     const anchor = this.sel.partial?.verseId ?? this.sel.verses[0]?.verseId ?? null;
-    const seed = this.sel.partial ? `About "${this.sel.partial.selected}" — ` : "";
+    const selected = this.sel.partial?.selected ?? this.sel.verses.map(v => v.verseText).join("\n");
+    const seed = `Selected from ${this.refLabel()}:\n“${selected}”\n\nMy request: `;
     this.clear();
     this.openAsk(seed, anchor);
   }

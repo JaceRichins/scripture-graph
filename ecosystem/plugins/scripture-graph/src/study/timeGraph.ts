@@ -26,6 +26,7 @@ import {
 } from "d3-force";
 import { TFile, type App } from "obsidian";
 import { type TimelineEvent } from "./timelineView";
+import { eventDate, eventHasCalendarDate } from './timelineMetadata';
 
 /** color by FOLDER — the vault's own shelves, so new folders simply
  * arrive wearing the palette the Graphs shelf already speaks */
@@ -362,7 +363,7 @@ export class TimeGraph {
       const n: GNode = {
         id: `e:${ev.id}`, type: "event", ev, label: ev.t,
         rgb, tint: rgb, size: 10, deg: 0, accent: false,
-        year: ev.y0, known: true,
+        year: eventHasCalendarDate(ev) ? ev.y0 : null, known: eventHasCalendarDate(ev),
         ax: laneX, ay: py, axK: true,
         a: 0, hop: -1, drop: 0, born: seq++ * 2,
         x: laneX + (Math.random() - 0.5) * 60, fy: py, y: py,
@@ -829,7 +830,7 @@ export class TimeGraph {
       .createSpan({ cls: "sg-tg-chip-name", text: n.label });
     if (n.type === "event") {
       const ev = n.ev!;
-      const span = ev.y0 === ev.y1 ? yearStr(ev.y0) : `${yearStr(ev.y0)} – ${yearStr(ev.y1)}`;
+      const span = eventDate(ev);
       chip.createDiv({ cls: "sg-tg-chip-sub", text: `${span} · ${ev.note}` });
       const row = chip.createDiv({ cls: "sg-tg-chip-row" });
       for (const t of (ev.chapters ?? []).slice(0, 3)) {
