@@ -4,6 +4,7 @@
 import { sceneArtworkUrl } from './sceneArt';
 import { SCENE_PHOTOS } from './scenePhotos';
 import { wideScene, type SceneCache } from './sceneCache';
+import { isScripturePhoto, sceneForScripture } from './photoPolicy';
 
 export interface SceneDef {
   id: string;
@@ -117,7 +118,7 @@ const ROOT_CLS = "sg-scene";
  * needs an immediate offline backdrop while awaiting its first page match. */
 export function configuredSceneId(scene: string | undefined, lastMatched?: string): string {
   if (scene === 'none') return 'none'; // respect an explicit photo-off choice
-  if (scene === 'match' || !scene) return SCENES.some(s => s.id === lastMatched) ? lastMatched! : 'study';
+  if (scene === 'match' || !scene) return lastMatched && isScripturePhoto(lastMatched) ? lastMatched : 'waters';
   return scene === 'auto' || SCENES.some(s => s.id === scene) ? scene : 'study';
 }
 
@@ -481,13 +482,16 @@ function particles(el: HTMLElement, cls: string, n: number, seed: number,
 
 export class SceneManager {
   cache?: SceneCache;
+  scriptureContext?: () => string | null;
   private generation = 0;
   refresh(): void { const id=this.currentId;this.currentId=null;this.apply(id); }
   private el: HTMLElement | null = null;
   private currentId: string | null = null;
 
   apply(id: string | null): void {
-    const target = id === "auto" ? this.autoPick() : id;
+    const requested = id === "auto" ? this.autoPick() : id;
+    const slug = this.scriptureContext?.();
+    const target = requested && requested !== 'none' && slug ? sceneForScripture(requested, slug) : requested;
     if (!target || target === "none") {
       this.generation++;
       this.el?.remove();

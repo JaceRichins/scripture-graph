@@ -32,7 +32,8 @@ export class ReaderView extends ItemView {
   private changed = () => { void this.render(); };
 
   constructor(leaf: WorkspaceLeaf, private s: SGState, private ann: AnnotationService,
-    private openAsk: (chapter: string | null, verse: string | null, seed?: string) => void) {
+    private openAsk: (chapter: string | null, verse: string | null, seed?: string) => void,
+    private matchScene?: (file: TFile) => void) {
     super(leaf);
     this.navigation = true;   // a page: replaceable in-place, back-arrow aware
   }
@@ -97,6 +98,7 @@ export class ReaderView extends ItemView {
     const root = update.root;
     const file = this.canonicalFile();
     if (!file || !chapter) { update.commit(); return; }
+    this.matchScene?.(file);
     const raw = await this.app.vault.cachedRead(file);
     if (!update.current()) return;
     const { frontmatter, body } = parseFrontmatter(raw);

@@ -421,6 +421,12 @@ export class SGLibraryView extends ItemView {
         thumbnail: id => PHOTO_THUMBNAILS[id],
         select: id => this.go({ kind: 'photos', photo: id }),
         open: title => this.host.openChapter(title),
+        usePersonal: id => {
+          this.s.device.scene = id;
+          void this.s.saveDevice();
+          this.host.scene?.(id);
+          new Notice('Personal background selected. Scripture pages keep scripture photos.');
+        },
         preview: row => new EventBackgroundPreview(this.app,
           { scene: row.id, name: 'Artistic reading background', chapter: row.name, slug: '', volume: '' },
           (id, wide) => this.host.scenePhoto?.(id, wide) ?? Promise.reject(new Error('Photo cache unavailable'))).open(),

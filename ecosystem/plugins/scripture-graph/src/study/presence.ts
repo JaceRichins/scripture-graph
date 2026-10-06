@@ -8,6 +8,7 @@
  */
 
 import { CHAPTER_PHOTOS } from './photoAssignments.generated';
+import { canUseForScripture, SCRIPTURE_FALLBACKS } from './photoPolicy';
 
 export interface Voice {
   author: string;      // vault page name to link when it exists
@@ -206,6 +207,7 @@ const SCENE_KEYWORDS: [string, RegExp, number?][] = [
 /** curated worlds for books/chapters where the right scene is known —
  * keyword scoring is only the fallback */
 export const SCENE_OVERRIDES: Record<string, string> = {
+  'gen-5': 'creation',
   'john-2': 'cana-feast', 'john-5': 'bethesda-pool', 'john-9': 'siloam-steps',
   'john-11': 'bethany-courtyard', 'matt-13': 'sower-furrows',
   'mark-4': 'mustard-garden',
@@ -231,7 +233,7 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   'moro-10':'moroni-record',
   'gen-6':'ark', 'gen-7':'ark', 'gen-8':'ark', 'gen-9':'ark', 'matt-28':'empty-tomb', 'mark-16':'empty-tomb', 'john-20':'empty-tomb', '3ne-11':'nephites', '1ne-2':'lehi',
   // chapters — landmark moments land in their own world
-  "ps-23": "waters", "matt-3": "jordan-baptism", "luke-3": "jordan-baptism", "john-21": "shore", "jacob-5": "olive", "ps-1": "riverbank", "gen-1": "creation", "gen-2": "garden", "gen-3": "garden",
+  "ps-23": "waters", "matt-3": "jordan-baptism", "luke-3": "jordan-baptism", "john-21": "shore", "jacob-5": "olive", "ps-1": "riverbank", "gen-1": "creation", "gen-2": "grove", "gen-3": "grove",
   // Mark 1 and John 1 include several settings: use their page text rather than
   // assigning the entire chapter to the baptism (John records the witness).
   "ex-3": "burning-bush", "ex-14": "exodus", "ex-19": "mount", "ex-20": "mount",
@@ -239,12 +241,12 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   "mosiah-18": "waters-mormon", "matt-20": "vineyard", "luke-4": "ancient-synagogue",
   "john-4": "village-well", "jer-18": "potters-workshop",
   "matt-2": "starlight", "matt-5": "mount", "matt-7": "mount",
-  "matt-8": "storm", "matt-26": "gethsemane", "matt-27": "city",
-  "john-13": "upper-room", "john-15": "garden", "john-17": "candle",
+  "matt-8": "storm", "matt-26": "gethsemane", "matt-27": "olive",
+  "john-13": "upper-room", "john-15": "garden", "john-17": "upper-room",
   "luke-2": "bethlehem", "luke-8": "storm", "luke-15": "fields", "luke-22": "gethsemane",
   "acts-27": "storm", "1kgs-19": "horeb-cave", "1kgs-8": "temple", "2chr-6": "temple",
-  "isa-6": "temple", "ps-122": "city", "ps-127": "city", "ps-84": "temple",
-  "neh-2": "city", "neh-4": "city", "jonah-1": "storm", "jonah-2": "waters",
+  "isa-6": "temple", "ps-122": "pilgrim-road", "ps-127": "sunrise", "ps-84": "temple",
+  "neh-2": "pilgrim-road", "neh-4": "warcamp", "jonah-1": "storm", "jonah-2": "waters",
   "3ne-1": "night-without-darkness", "3ne-12": "temple", "3ne-13": "temple", "3ne-14": "temple",
   "1ne-18": "ocean-voyage", "ether-2": "jaredite-barges", "ether-3": "brother-jared", "ether-6": "jaredite-barges",
   "hel-14": "samuel-wall", "hel-16": "samuel-wall", "alma-32": "fields", "alma-36": "sunrise",
@@ -262,7 +264,7 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   "josh-3": "riverbank", "josh-4": "riverbank",
   "3ne-3": "warcamp", "3ne-4": "warcamp",
   "ether-13": "warcamp", "ether-14": "warcamp", "ether-15": "warcamp",
-  "hel-1": "warcamp", "morm-8": "candle", "morm-9": "candle",
+  "hel-1": "warcamp", "morm-8": "moroni-record", "morm-9": "moroni-record",
   // ⛓️ the prison chapters — captivity, and the light that gets in
   "gen-39": "prison", "gen-40": "prison",
   "jer-37": "prison", "jer-38": "prison",
@@ -273,10 +275,10 @@ export const SCENE_OVERRIDES: Record<string, string> = {
   "ps-142": "prison",
   "dc-121": "liberty-window", "dc-122": "liberty-window", "dc-123": "liberty-window",
   // whole books
-  "2tim": "candle", "eph": "candle", "philip": "candle", "col": "candle",
-  "philem": "candle", "rev": "starlight", "abr": "starlight",
+  "2tim": "prison", "eph": "prison", "philip": "prison", "col": "prison",
+  "philem": "prison", "rev": "starlight", "abr": "starlight",
   "ex": "desert", "num": "desert", "deut": "desert",
-  "ruth": "fields", "song": "garden", "lam": "city", "neh": "city",
+  "ruth": "fields", "song": "garden", "lam": "waters", "neh": "pilgrim-road",
   "hag": "temple", "lev": "temple",
   "josh": "warcamp", "judg": "warcamp", "morm": "warcamp",
 };
@@ -286,8 +288,13 @@ export function matchScene(chapterText: string, slug?: string): string {
   // Shared with Photos: complete canonical assignments work offline and do not
   // change as sync adds headings or backlinks. Non-scripture pages still match
   // their own text below.
-  if (slug && CHAPTER_PHOTOS[slug]?.length) return CHAPTER_PHOTOS[slug]![0]!;
-  return matchPageScene(chapterText, slug);
+  if (slug) {
+    const assigned = CHAPTER_PHOTOS[slug]?.find(id => canUseForScripture(id, slug));
+    if (assigned) return assigned;
+    const candidate = matchPageScene(chapterText, slug);
+    return canUseForScripture(candidate, slug) ? candidate : SCRIPTURE_FALLBACKS[0];
+  }
+  return matchPageScene(chapterText);
 }
 
 export function matchPageScene(chapterText: string, slug?: string): string {

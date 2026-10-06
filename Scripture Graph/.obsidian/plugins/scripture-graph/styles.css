@@ -4443,3 +4443,7 @@ body.sg-glass.is-mobile.sg-read-focus .view-content > .sg-doc-page {
   .sg-photo-filters { gap: 8px; }
   .sg-photo-filters input, .sg-photo-filters select { flex-basis: 100%; }
 }
+
+.sg-photo-collections { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; }
+.sg-photo-collections button { min-height: 44px; white-space: normal; }
+.sg-photo-collections button[aria-pressed="true"] { background: var(--interactive-accent); color: var(--text-on-accent); }

@@ -6,6 +6,7 @@ import { CHAPTER_PHOTOS } from '../../plugins/scripture-graph/src/study/photoAss
 import { photoLibrary, filterPhotos } from '../../plugins/scripture-graph/src/study/photoGallery';
 import { matchScene, SCENE_OVERRIDES } from '../../plugins/scripture-graph/src/study/presence';
 import { PHOTO_CONNECTIONS } from '../../plugins/scripture-graph/src/study/photoConnections';
+import { canUseForScripture, isScripturePhoto, PERSONAL_PHOTOS, sceneForScripture } from '../../plugins/scripture-graph/src/study/photoPolicy';
 
 const plugin = new URL('../../plugins/scripture-graph/', import.meta.url);
 const source = readFileSync(new URL('src/study/scenes.ts', plugin), 'utf8');
@@ -17,7 +18,8 @@ it('covers the complete canon and every photo with valid, unique links that agre
   expect(Object.keys(CHAPTER_PHOTOS)).toEqual(slugs);
   expect(rows).toHaveLength(95);
   for (const row of rows) {
-    expect(row.chapters.length, row.id).toBeGreaterThan(0);
+    if (isScripturePhoto(row.id)) expect(row.chapters.length, row.id).toBeGreaterThan(0);
+    else expect(row.chapters, row.id).toHaveLength(0);
     expect(new Set(row.chapters.map(c => c.slug)).size).toBe(row.chapters.length);
     expect(row.chapters.every(ch => slugs.includes(ch.slug))).toBe(true);
   }
@@ -26,6 +28,7 @@ it('covers the complete canon and every photo with valid, unique links that agre
     expect(related.length).toBeGreaterThan(0);
     expect(new Set(related).size).toBe(related.length);
     expect(related.every(id => scenes.some(s => s.id === id))).toBe(true);
+    expect(related.every(id => canUseForScripture(id, slug))).toBe(true);
     expect(matchScene('unrelated sync metadata battle city', slug)).toBe(related[0]);
     expect(rows.flatMap(row => row.chapters.filter(ch => ch.slug === slug && ch.primary))).toHaveLength(1);
   }
@@ -47,12 +50,36 @@ it('keeps event identities distinct and newer scenes attached to the right passa
 it('limits domination without forcing a photo into an unrelated event', () => {
   const counts = rows.map(row => row.chapters.filter(ch => ch.primary).length);
   expect(Math.max(...counts) / Object.keys(CHAPTER_PHOTOS).length).toBeLessThan(.12);
-  expect(counts.filter(n => n > 0).length).toBeGreaterThanOrEqual(90);
+  for (const row of rows.filter(r => !isScripturePhoto(r.id))) expect(row.chapters).toHaveLength(0);
   // These alternatives share chapters with more specific, preserved events.
   expect(CHAPTER_PHOTOS['1ne-17']![0]).toBe('nephi-ship');
   expect(CHAPTER_PHOTOS['1ne-17']).toContain('bountiful-coast');
   expect(CHAPTER_PHOTOS['1ne-16']![0]).toBe('liahona');
   expect(CHAPTER_PHOTOS['1ne-16']).toContain('nahom-canyon');
+});
+
+it('excludes all audited personal scenes and unreviewed photos from scripture, including stale data', () => {
+  expect(matchScene('', 'gen-5')).toBe('creation');
+  expect(filterPhotos(rows)).toHaveLength(90);
+  expect(filterPhotos(rows, '', '', 'personal').map(r => r.id).sort()).toEqual(Object.keys(PERSONAL_PHOTOS).sort());
+  expect(filterPhotos(rows, 'rain')).toHaveLength(0);
+  expect(filterPhotos(rows, 'rain', '', 'personal').map(r => r.id)).toEqual(['rain-study']);
+  for (const id of Object.keys(PERSONAL_PHOTOS)) {
+    expect(Object.values(CHAPTER_PHOTOS).some(ids => ids.includes(id)), id).toBe(false);
+    expect(sceneForScripture(id, 'gen-5')).toBe('creation');
+    expect(sceneForScripture(id, 'enoch-1')).toBe('waters');
+  }
+  expect(isScripturePhoto('unreviewed-new-photo')).toBe(false);
+  expect(canUseForScripture('liberty-window', 'gen-5')).toBe(false);
+  expect(canUseForScripture('liberty-window', 'dc-121')).toBe(true);
+  expect(canUseForScripture('first-vision', 'gen-5')).toBe(false);
+  const original = CHAPTER_PHOTOS['gen-5']!;
+  try {
+    CHAPTER_PHOTOS['gen-5'] = ['rain-study', 'city', 'creation'];
+    expect(matchScene('', 'gen-5')).toBe('creation');
+    expect(sceneForScripture('study', 'gen-5')).toBe('creation');
+  } finally { CHAPTER_PHOTOS['gen-5'] = original; }
+  expect(matchScene('# Lesson preparation\nStudy and teaching plan.')).toBe('study');
 });
 
 it('searches exact chapter numbers, collections, and photo names', () => {

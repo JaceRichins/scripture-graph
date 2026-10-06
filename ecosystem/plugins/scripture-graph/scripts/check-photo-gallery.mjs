@@ -48,13 +48,21 @@ try {
   await search.fill('nothing matches this');assert.equal(await page.locator('.sg-photo-card').count(),0);
   await search.fill('');await page.getByRole('combobox').selectOption('Book of Mormon');assert.ok(await page.locator('.sg-photo-card').count()>0);
   await page.getByRole('combobox').selectOption('');
-  // Browse every page: each of the 95 scenes appears exactly once.
+  // Browse every page: each of the 90 approved scripture scenes appears once.
   const seen=[];
   while(true){seen.push(...await page.locator('.sg-photo-name').allTextContents());const next=page.getByRole('button',{name:'Next',exact:true});if(await next.isDisabled())break;await next.click();}
-  assert.equal(seen.length,95);assert.equal(new Set(seen).size,95);
+  assert.equal(seen.length,90);assert.equal(new Set(seen).size,90);
+  assert.ok(!seen.includes('Rainy Day Study'));assert.ok(!seen.includes('The City'));
+  await page.getByRole('button',{name:'Personal backgrounds (5)',exact:true}).click();
+  assert.equal(await page.locator('.sg-photo-card').count(),5);
+  await page.getByRole('button',{name:/^Rainy Day Study,/}).click();
+  assert.equal(await page.locator('.sg-photo-chapter-link').count(),0);
+  assert.ok((await page.locator('#content').textContent()).includes('No scripture assignments'));
+  await page.getByRole('button',{name:'‹ Photos',exact:true}).click();
+  assert.equal(await page.getByRole('button',{name:'Personal backgrounds (5)',exact:true}).getAttribute('aria-pressed'),'true');
   await page.setViewportSize({width:1280,height:900});await page.evaluate(()=>{window.state={};window.show();document.querySelector('main').scrollTop=0});
   await page.screenshot({path:path.join(out,'photos-desktop.png')});
   assert.ok(await page.evaluate(()=>document.body.scrollWidth<=1280));
   assert.deepEqual(errors,[]);
-  console.log('Photos UI passed: 95 distinct cards, 12/page, no gallery downloads, exact chapter search, collections, full preview, chapter links, preserved Back filters, no horizontal overflow on phone or desktop.');
+  console.log('Photos UI passed: 90 scripture photos, 5 separate personal backgrounds without chapter links, 12/page, no gallery downloads, exact chapter search, collections, full preview, chapter links, preserved Back filters, no horizontal overflow on phone or desktop.');
 } finally { await browser.close(); }

@@ -2,6 +2,7 @@ import { expect, it } from 'vitest';
 import { readFileSync } from 'node:fs';
 import vm from 'node:vm';
 import ts from 'typescript';
+import { isScripturePhoto, sceneForScripture, PERSONAL_PHOTOS } from '../../plugins/scripture-graph/src/study/photoPolicy';
 
 function sceneRuntime() {
   const elements: any[] = [], images: any[] = [], classes = new Set<string>();
@@ -22,24 +23,44 @@ function sceneRuntime() {
     compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 },
   }).outputText;
   vm.runInNewContext(code, { exports, Image, document, window: { innerWidth: 390, innerHeight: 844 }, setTimeout, clearTimeout,
-    require: (name: string) => name === './scenePhotos' ? { SCENE_PHOTOS: { study: 'data:study', waters: 'data:waters' } }
-      : name === './sceneCache' ? { wideScene: () => false } : {},
+    require: (name: string) => name === './scenePhotos' ? { SCENE_PHOTOS: { study: 'data:study', waters: 'data:waters', creation: 'data:creation' } }
+      : name === './sceneCache' ? { wideScene: () => false }
+        : name === './photoPolicy' ? { isScripturePhoto, sceneForScripture } : {},
   });
   return { ...exports, elements, images, classes };
 }
 
 it('starts a fresh matching-mode Library with bundled artwork while preserving explicit off and valid choices', () => {
   const { configuredSceneId, SceneManager, elements, classes } = sceneRuntime();
-  expect(configuredSceneId('match')).toBe('study');
-  expect(configuredSceneId('match', 'none')).toBe('study');
-  expect(configuredSceneId('match', 'retired-scene')).toBe('study');
+  expect(configuredSceneId('match')).toBe('waters');
+  expect(configuredSceneId('match', 'none')).toBe('waters');
+  expect(configuredSceneId('match', 'retired-scene')).toBe('waters');
+  for (const id of Object.keys(PERSONAL_PHOTOS)) expect(configuredSceneId('match', id)).toBe('waters');
   expect(configuredSceneId('match', 'waters')).toBe('waters');
   expect(configuredSceneId('none', 'waters')).toBe('none');
   expect(configuredSceneId('auto')).toBe('auto');
   const manager = new SceneManager();
   manager.apply(configuredSceneId('match'));
   expect(classes.has('sg-scene-on')).toBe(true);
-  expect(elements[0].children[0].style.backgroundImage).toBe('url("data:study")');
+  expect(elements[0].children[0].style.backgroundImage).toBe('url("data:waters")');
+});
+
+it('blocks personal scenes at display time, including saved/manual choices, refresh, and auto', () => {
+  const { SceneManager, elements } = sceneRuntime();
+  const manager = new SceneManager();
+  manager.scriptureContext = () => 'gen-5';
+  for (const id of Object.keys(PERSONAL_PHOTOS)) {
+    manager.apply(id);
+    expect(manager.current()).toBe('creation');
+  }
+  expect(elements.every((e: any) => e.children[0].style.backgroundImage === 'url("data:creation")')).toBe(true);
+  manager.autoPick = () => 'city';
+  manager.apply('auto'); expect(manager.current()).toBe('creation');
+  manager.apply('none'); expect(manager.current()).toBe(null);
+  manager.scriptureContext = () => null;
+  manager.apply('study'); expect(manager.current()).toBe('study');
+  manager.scriptureContext = () => 'gen-5';
+  manager.refresh(); expect(manager.current()).toBe('creation');
 });
 
 it('keeps the offline photo when a cached image cannot decode, and replaces it only after successful load', async () => {

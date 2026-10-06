@@ -31,8 +31,7 @@ export const PHOTO_CONNECTIONS: Record<string, PhotoConnection> = {
   'nauvoo-riverside': refs('dc-124 dc-127 dc-128 dc-135', 'Revelation, letters, and events associated with Nauvoo; a contextual riverside setting.'),
   'pioneer-meadow': refs('dc-136', 'Instructions for the pioneer journey at Winter Quarters. The meadow evokes the later journey, not the place where the section was received.'),
   'autumn-sanctuary': refs('eccl-3 ps-104', 'Seasons and the works of creation. A contemplative reading atmosphere, not an ancient sanctuary reconstruction.'),
-  'rain-study': refs('prov-2 james-1 dc-88', 'Seeking wisdom and learning. A modern reading atmosphere, not the historical setting of the passage.'),
-  'winter-hearth': refs('2tim-4', 'Paul asks Timothy to come before winter. This is a reading atmosphere, not a depiction of Paul’s prison.'),
+  creation: refs('gen-1 gen-5 moses-2 abr-4', 'Creation, or a passage recalling creation. Genesis 5:1–2 opens its genealogy by recalling the creation of humanity; the landscape does not depict the named generations.'),
   'grove': refs('jsh-1 enos-1 ps-1', 'Trees and prayer: a general contemplative setting, distinct from the event artwork.'),
   'shepherd-pasture': refs('ps-23 john-10 ezek-34 luke-15', 'Shepherds, sheep, and the care of the flock.'),
   'mountain-refuge': refs('1sam-22 1sam-24 ps-57', 'David’s refuge in caves; the precise cave is not reconstructed.'),
@@ -51,22 +50,19 @@ export const PHOTO_CONNECTIONS: Record<string, PhotoConnection> = {
 export interface SettingRule { ids: string[]; words: RegExp; reason: string; }
 export const SETTING_RULES: SettingRule[] = [
   { ids: ['temple'], words: /\b(temple|altar|priests?|offerings?|sanctuary|tabernacle)\b/gi, reason: 'Temple, worship, and offerings' },
-  { ids: ['city'], words: /\b(city|cities|jerusalem|walls?|gates?|streets?|towers?)\b/gi, reason: 'Cities, walls, and gates' },
   { ids: ['warcamp'], words: /\b(armies|army|battle|war|wars|swords?|soldiers?|captains?|siege)\b/gi, reason: 'Conflict and armies' },
   { ids: ['prison'], words: /\b(prison|prisoners?|dungeon|chains|fetters|captivity|captive)\b/gi, reason: 'Captivity and deliverance' },
   { ids: ['desert', 'wilderness-path'], words: /\b(wilderness|desert|journey|journeyed|tents?|encamped)\b/gi, reason: 'Wilderness and journeys' },
   { ids: ['waters', 'riverbank'], words: /\b(waters?|rivers?|fountains?|streams?|baptized|baptism)\b/gi, reason: 'Water and baptism imagery' },
   { ids: ['storm'], words: /\b(storm|tempest|whirlwind|thunder|lightning|waves|billows)\b/gi, reason: 'Storm and troubled waters' },
   { ids: ['mount', 'mountain-refuge'], words: /\b(mountain|mountains|hills?|mount|rocks?|refuge)\b/gi, reason: 'Mountains, rock, and refuge' },
-  { ids: ['fields', 'sower-furrows'], words: /\b(harvest|wheat|barley|reap|sow|sower|seed|fields?|tares)\b/gi, reason: 'Fields, sowing, and harvest imagery' },
+  { ids: ['fields', 'sower-furrows'], words: /\b(harvest|wheat|barley|reap|sow|sower|fields?|tares)\b/gi, reason: 'Fields, sowing, and harvest imagery' },
   { ids: ['garden'], words: /\b(garden|gardens|trees?|branches|fruit|eden)\b/gi, reason: 'Gardens, trees, and fruit imagery' },
   { ids: ['olive'], words: /\b(olive|olives|oliveyard|oliveyards)\b/gi, reason: 'Olive trees and their imagery' },
   { ids: ['vineyard'], words: /\b(vineyard|vineyards|grapes|winepress|vines?)\b/gi, reason: 'Vines and vineyards' },
   { ids: ['shepherd-pasture'], words: /\b(shepherds?|pastures?|sheep|flocks?|lambs?)\b/gi, reason: 'Shepherd and flock imagery' },
   { ids: ['starlight'], words: /\b(stars?|moon|heavens?|firmament)\b/gi, reason: 'The heavens and celestial imagery' },
   { ids: ['sunrise'], words: /\b(morning|dawn|light|arise|shine)\b/gi, reason: 'Morning and light imagery' },
-  { ids: ['candle'], words: /\b(lamps?|candles?|light|watch|oil)\b/gi, reason: 'Light, lamps, and watchfulness' },
-  { ids: ['study', 'rain-study', 'winter-hearth'], words: /\b(wisdom|learning|knowledge|understanding|teach|study|book|write|written)\b/gi, reason: 'A reading atmosphere for wisdom, teaching, or records' },
   { ids: ['grove', 'autumn-sanctuary'], words: /\b(pray|prayer|prayers|meditate|meditation|ponder)\b/gi, reason: 'A contemplative reading atmosphere for prayer and reflection' },
 ];
 

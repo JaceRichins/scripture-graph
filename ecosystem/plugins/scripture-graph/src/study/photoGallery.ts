@@ -1,15 +1,17 @@
 import { BOOKS, chapterTitle } from '@scripture-graph/core-sdk';
-import { CHAPTER_PHOTOS } from './photoAssignments.generated';
+import { CHAPTER_PHOTOS, FALLBACK_CHAPTERS } from './photoAssignments.generated';
 import { connectionReason } from './photoConnections';
+import { isScripturePhoto, PERSONAL_PHOTOS } from './photoPolicy';
 
 export interface PhotoChapter { slug: string; title: string; volume: string; primary: boolean; }
 export interface LibraryPhoto { id: string; name: string; chapters: PhotoChapter[]; }
-export interface PhotoGalleryState { query?: string; volume?: string; page?: number; }
+export interface PhotoGalleryState { query?: string; volume?: string; page?: number; collection?: 'scripture' | 'personal'; }
 export interface PhotoGalleryIO {
   thumbnail(id: string): string | undefined;
   select(id: string): void;
   preview(photo: LibraryPhoto): void;
   open(title: string): void;
+  usePersonal?(id: string): void;
 }
 
 function chapterQuery(query: string): string | null {
@@ -30,10 +32,11 @@ export function photoLibrary(names: { id: string; name: string }[]): LibraryPhot
   return [...rows.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
-export function filterPhotos(rows: LibraryPhoto[], query = '', volume = ''): LibraryPhoto[] {
+export function filterPhotos(rows: LibraryPhoto[], query = '', volume = '', collection: 'scripture' | 'personal' = 'scripture'): LibraryPhoto[] {
   const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const exact = chapterQuery(query);
   return rows.filter(row => {
+    if (isScripturePhoto(row.id) !== (collection === 'scripture')) return false;
     const chapters = row.chapters.filter(c => !volume || c.volume === volume);
     if (exact) return chapters.some(ch => ch.slug === exact);
     return (!volume || chapters.length > 0) && terms.every(term =>
@@ -51,6 +54,7 @@ function filters(c: HTMLElement, state: PhotoGalleryState, placeholder: string, 
   volumes.value = state.volume ?? '';
   search.oninput = () => { state.query = search.value; state.page = 0; change(); };
   volumes.onchange = () => { state.volume = volumes.value; state.page = 0; change(); };
+  return { search, volumes };
 }
 
 function paginate(c: HTMLElement, state: PhotoGalleryState, count: number, size: number, render: () => void, top: HTMLElement) {
@@ -67,12 +71,26 @@ function paginate(c: HTMLElement, state: PhotoGalleryState, count: number, size:
 export function renderPhotoGallery(c: HTMLElement, rows: LibraryPhoto[], state: PhotoGalleryState, io: PhotoGalleryIO): void {
   c.addClass('sg-photo-library');
   const chapters = new Set(rows.flatMap(row => row.chapters.map(ch => ch.slug))).size;
-  c.createEl('p', { cls: 'sg-photo-intro', text: `${rows.length} reading photos · ${chapters.toLocaleString()} chapters. Explore a photo to see its scripture connections.` });
-  filters(c, state, 'Search photos or chapters…', () => render());
+  const scriptureCount = rows.filter(row => isScripturePhoto(row.id)).length;
+  const tabs = c.createDiv({ cls: 'sg-photo-collections', attr: { 'aria-label': 'Photo collection' } });
+  const scripture = tabs.createEl('button', { text: `Scripture photos (${scriptureCount})` });
+  const personal = tabs.createEl('button', { text: `Personal backgrounds (${rows.length - scriptureCount})` });
+  const intro = c.createEl('p', { cls: 'sg-photo-intro' });
+  const controls = filters(c, state, 'Search photos or chapters…', () => render());
+  const choose = (collection: 'scripture' | 'personal') => {
+    state.collection = collection; state.query = ''; state.volume = ''; state.page = 0;
+    controls.search.value = ''; controls.volumes.value = ''; render();
+  };
+  scripture.onclick = () => choose('scripture'); personal.onclick = () => choose('personal');
   const results = c.createDiv();
   const render = () => {
     results.empty();
-    const matches = filterPhotos(rows, state.query, state.volume);
+    const isPersonal = state.collection === 'personal';
+    scripture.setAttribute('aria-pressed', String(!isPersonal)); personal.setAttribute('aria-pressed', String(isPersonal));
+    controls.volumes.hidden = isPersonal;
+    intro.setText(isPersonal ? 'Backgrounds for personal notes and general study. These are excluded from scripture pages and chapter assignments.'
+      : `${scriptureCount} scripture photos · ${chapters.toLocaleString()} chapters. Explore a photo to see its scripture connections.`);
+    const matches = filterPhotos(rows, state.query, state.volume, state.collection);
     state.page = Math.min(Math.max(0, state.page ?? 0), Math.max(0, Math.ceil(matches.length / 12) - 1));
     results.createEl('p', { cls: 'sg-photo-count', text: `${matches.length} photos`, attr: { 'aria-live': 'polite' } });
     const grid = results.createDiv({ cls: 'sg-photo-grid' });
@@ -81,9 +99,9 @@ export function renderPhotoGallery(c: HTMLElement, rows: LibraryPhoto[], state: 
       const src = io.thumbnail(row.id);
       if (src) card.createEl('img', { attr: { src, alt: row.name, loading: 'lazy', decoding: 'async', width: '320', height: '400' } });
       card.createSpan({ cls: 'sg-photo-name', text: row.name });
-      card.createSpan({ cls: 'sg-photo-meta', text: `${row.chapters.length} connected chapter${row.chapters.length === 1 ? '' : 's'}` });
+      card.createSpan({ cls: 'sg-photo-meta', text: isPersonal ? 'Personal use only' : `${row.chapters.length} connected chapter${row.chapters.length === 1 ? '' : 's'}` });
       const shown = row.chapters.filter(ch => (!state.volume || ch.volume === state.volume));
-      card.createSpan({ cls: 'sg-photo-refs', text: shown.slice(0, 2).map(ch => ch.title).join(' · ') + (shown.length > 2 ? '…' : '') });
+      card.createSpan({ cls: 'sg-photo-refs', text: isPersonal ? 'Not assigned to scripture' : shown.slice(0, 2).map(ch => ch.title).join(' · ') + (shown.length > 2 ? '…' : '') });
       card.onclick = () => io.select(row.id);
     }
     if (!matches.length) results.createEl('p', { text: 'No photos match. Try another chapter, photo name, or scripture collection.' });
@@ -92,8 +110,8 @@ export function renderPhotoGallery(c: HTMLElement, rows: LibraryPhoto[], state: 
   render();
   const about = c.createEl('details', { cls: 'sg-photo-about' });
   about.createEl('summary', { text: 'How photos connect to scripture' });
-  about.createEl('p', { text: 'Named events and locations have explicit chapter links. General landscapes connect through themes in the scripture text. Modern study rooms are reading atmospheres. These are artistic backgrounds, including AI-created imagery; they are not historical photographs or evidence of a geographic identification.' });
-  about.createEl('p', { text: 'In Match chapter mode, each chapter has a stable default. Among similarly relevant settings, the matcher favors less-used photos and avoids adjacent repeats. Every photo has chapter connections; some are alternatives where a more specific event remains the default. Several scenes may fit one chapter.' });
+  about.createEl('p', { text: 'Scripture photos are reviewed for suitability. Modern rooms and later-era personal scenes are kept in Personal backgrounds and never assigned to scripture. These are artistic backgrounds, including AI-created imagery; they are not historical photographs or evidence of a geographic identification.' });
+  about.createEl('p', { text: 'Named events and locations have explicit chapter links. General landscapes can reflect themes. When no setting fits, a neutral natural backdrop is labeled as such. Relevance comes before variety: the matcher balances suitable choices, never assigns an unsuitable photo just to use it, and keeps a stable default for each chapter.' });
 }
 
 export function renderPhotoDetail(c: HTMLElement, row: LibraryPhoto, state: PhotoGalleryState, io: PhotoGalleryIO): void {
@@ -103,6 +121,13 @@ export function renderPhotoDetail(c: HTMLElement, row: LibraryPhoto, state: Phot
   if (src) hero.createEl('img', { attr: { src, alt: row.name } });
   hero.createSpan({ text: 'Open full photo ↗' });
   hero.onclick = () => io.preview(row);
+  if (!isScripturePhoto(row.id)) {
+    c.createEl('p', { cls: 'sg-photo-intro', text: 'Personal background · No scripture assignments' });
+    c.createEl('p', { text: PERSONAL_PHOTOS[row.id] ?? 'This photo has not been approved for scripture use.' });
+    c.createEl('p', { text: 'Use this on personal pages. Scripture pages automatically keep an appropriate scripture background.' });
+    if (io.usePersonal) c.createEl('button', { text: 'Use for personal pages' }).onclick = () => io.usePersonal?.(row.id);
+    return;
+  }
   const defaults = row.chapters.filter(ch => ch.primary).length;
   c.createEl('p', { cls: 'sg-photo-intro', text: `${row.chapters.length} connected chapter${row.chapters.length === 1 ? '' : 's'} · Default in ${defaults}` });
   c.createEl('p', { cls: 'sg-photo-note', text: 'Artistic reading background. “Default” is what Match chapter mode shows. Other links are related passages or thematic alternatives.' });
@@ -121,7 +146,9 @@ export function renderPhotoDetail(c: HTMLElement, row: LibraryPhoto, state: Phot
       const link = item.createEl('button', { cls: 'sg-photo-chapter-link', text: ch.title });
       if (ch.primary) item.createSpan({ cls: 'sg-photo-default', text: 'Default' });
       link.onclick = () => io.open(ch.title);
-      item.createEl('p', { text: connectionReason(row.id, ch.slug) });
+      item.createEl('p', { text: FALLBACK_CHAPTERS.has(ch.slug)
+        ? 'Neutral natural backdrop. No specific setting was identified for this chapter; this is not an illustration of its events.'
+        : connectionReason(row.id, ch.slug) });
     }
     if (!matches.length) list.createEl('p', { text: 'No connected chapters match these filters.' });
     paginate(list, state, matches.length, 24, render, list);

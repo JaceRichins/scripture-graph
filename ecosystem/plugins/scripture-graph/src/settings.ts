@@ -5,6 +5,7 @@ import type SGPlugin from "./main";
 import { WelcomeModal, linkDevice, refreshIdentity } from "./social/onboarding";
 import { TIER_CANDIDATES, type Tier } from "@scripture-graph/core-sdk";
 import { SCENES } from "./study/scenes";
+import { isScripturePhoto } from './study/photoPolicy';
 import { backgroundVisibility } from './study/backgroundVisibility';
 import { SceneStorageModal } from './study/sceneStorage';
 import { BUILD } from "./build";
@@ -222,12 +223,12 @@ export class SGSettingsTab extends PluginSettingTab {
         }));
 
     new Setting(el).setName("Reading scene")
-      .setDesc("An ambient living backdrop behind the scriptures")
+      .setDesc("Personal backgrounds apply to personal pages. Scripture pages always use suitable scripture photos.")
       .addDropdown(d => {
         d.addOption("none", "None (plain)");
         d.addOption("auto", "Auto — follow the time of day");
         d.addOption("match", "📖 Match this page");
-        for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}`);
+        for (const sc of SCENES) d.addOption(sc.id, `${sc.emoji} ${sc.name}${isScripturePhoto(sc.id) ? '' : ' (personal pages)'}`);
         d.setValue(s.device.scene ?? "none").onChange(async v => {
           s.device.scene = v;
           await s.saveDevice();

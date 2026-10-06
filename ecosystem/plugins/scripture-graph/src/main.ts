@@ -57,6 +57,7 @@ import { Spotify } from "./study/spotify";
 import { StudyService } from "./study/study";
 import { StudyBar, openLocalGraphFor } from "./study/studyBar";
 import { SCENES, SceneManager, configuredSceneId } from "./study/scenes";
+import { canUseForScripture } from './study/photoPolicy';
 import { Menu } from "obsidian";
 import { addPrintItems, addLessonPrintItem } from './printing/printMenu';
 import { SGSettingsTab } from "./settings";
@@ -122,6 +123,7 @@ export default class SGPlugin extends Plugin {
     try { await applyDefaultAppearance(this.state); }
     catch { new Notice('Could not save the new appearance defaults. They will retry when Obsidian opens again.'); }
     this.scenes.cache = new SceneCache(this.app.vault.adapter, `${this.manifest.dir ?? `${this.app.vault.configDir}/plugins/${this.manifest.id}`}/scene-cache`, () => this.state.device.sceneCacheMB ?? 100);
+    this.scenes.scriptureContext = () => this.scripturePhotoContext();
     this.applyConfiguredScene(); // show bundled art before deferred sync/startup
     const choosePhoto = (id: string) => {
       this.state.device.scene = id;
@@ -129,10 +131,12 @@ export default class SGPlugin extends Plugin {
       void this.state.saveDevice();
     };
     registerPhotoShortcuts(this,
-      () => { if (!this.scenes.current()) choosePhoto("study"); },
+      () => { if (!this.scenes.current()) choosePhoto(this.scripturePhotoContext() ? 'waters' : 'study'); },
       () => {
-        const current = SCENES.findIndex(scene => scene.id === this.scenes.current());
-        choosePhoto(SCENES[(current + 1) % SCENES.length]!.id);
+        const slug = this.scripturePhotoContext();
+        const choices = SCENES.filter(scene => !slug || canUseForScripture(scene.id, slug));
+        const current = choices.findIndex(scene => scene.id === this.scenes.current());
+        choosePhoto(choices[(current + 1) % choices.length]!.id);
       });
     let sceneWide=wideScene(window.innerWidth,window.innerHeight);
     this.registerDomEvent(window,'online',()=>this.scenes.refresh());
@@ -199,7 +203,8 @@ export default class SGPlugin extends Plugin {
         ? (f) => { void this.app.workspace.getLeaf().openFile(f); } : null,
     }));
     this.registerPageView(READER_VIEW, leaf =>
-      new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed)));
+      new ReaderView(leaf, this.state, this.ann, (c, v, seed) => void this.openAsk(c, v, seed),
+        file => { if (this.app.workspace.activeLeaf === leaf) void this.matchSceneToChapter(file); }));
 
     // ---- 🎵 the music player: one queue, one bar above the dock ----------
     const spotify = new Spotify({
@@ -505,8 +510,16 @@ export default class SGPlugin extends Plugin {
     });
 
     // ---- study-trail tracking + read-only enforcement ----------------------
+    const guardScripturePhoto = () => {
+      const current = this.scenes.current();
+      if (current && this.scripturePhotoContext()) this.scenes.apply(current);
+    };
+    this.registerEvent(this.app.workspace.on('layout-change', guardScripturePhoto));
+    this.registerEvent(this.app.workspace.on('active-leaf-change', guardScripturePhoto));
+    this.app.workspace.onLayoutReady(guardScripturePhoto);
     this.registerEvent(this.app.workspace.on("file-open", f => {
       if (!f) return;
+      guardScripturePhoto();
       if (isSupplementalPage(f.path) && supplementalChapterNumber(f.basename) !== null) {
         void this.showSupplementalStudyFor(f);
         return;
@@ -1514,11 +1527,36 @@ export default class SGPlugin extends Plugin {
     document.body.toggleClass("sg-fab-on", on);
   }
 
+  /** Only a scripture reader or its linked My Notes page activates the guard. */
+  private scripturePhotoContext(): string | null {
+    const active = this.app.workspace.activeLeaf?.view;
+    if (active?.getViewType() === READER_VIEW) {
+      const chapter = (active.getState() as { chapter?: unknown }).chapter;
+      return typeof chapter === 'string' ? chapterIdFromTitle(chapter) ?? 'scripture' : 'scripture';
+    }
+    const f = this.app.workspace.getActiveViewOfType(MarkdownView)?.file;
+    if (!f) return null;
+    if (f.path.startsWith(CANONICAL_PREFIX) || isSupplementalPage(f.path)) {
+      return chapterIdFromTitle(f.basename)
+        ?? (this.app.metadataCache.getFileCache(f)?.frontmatter?.slug as string | undefined) ?? 'scripture';
+    }
+    if (f.path.startsWith(PERSONAL_PREFIX) && f.basename.endsWith(' - My Notes')) {
+      const title = f.basename.replace(/ - My Notes$/, '');
+      return chapterIdFromTitle(title) ?? (supplementalChapterNumber(title) !== null ? 'scripture' : null);
+    }
+    return null;
+  }
+
   /** In "match" mode the scene follows the chapter's own words.
    * A My Notes page only CONTAINS an embed reference — the scripture text
    * lives in the canonical file, so resolve to that before scoring. */
   async matchSceneToChapter(f: TFile): Promise<void> {
-    if (this.state.device.scene !== "match") return;
+    if (this.state.device.scene !== "match") {
+      // Entering/leaving a chapter also re-applies the personal choice through
+      // the final display guard, even when the user selected it manually.
+      this.scenes.apply(configuredSceneId(this.state.device.scene, this.state.device.lastMatchedScene));
+      return;
+    }
     let target: TFile | null = null;
     if (f.path.startsWith(CANONICAL_PREFIX) && chapterIdFromTitle(f.basename)) {
       target = f;
@@ -1532,7 +1570,8 @@ export default class SGPlugin extends Plugin {
     try {
       const { matchScene } = await import("./study/presence");
       const slug = (this.app.metadataCache.getFileCache(target)?.frontmatter as
-        { slug?: string } | undefined)?.slug;
+        { slug?: string } | undefined)?.slug
+        ?? ((target.path.startsWith(CANONICAL_PREFIX) || isSupplementalPage(target.path)) ? chapterIdFromTitle(target.basename) ?? 'scripture' : undefined);
       const text = `# ${target.basename}\n` + await this.app.vault.cachedRead(target);
       const id = matchScene(text, slug);
       this.scenes.apply(id);
@@ -1563,7 +1602,8 @@ export default class SGPlugin extends Plugin {
     menu.addItem(i => i.setTitle("📖 Match this page — setting & subject")
       .onClick(() => set("match", "match the chapter")));
     menu.addSeparator();
-    for (const s of SCENES) {
+    const scriptureSlug = this.scripturePhotoContext();
+    for (const s of SCENES.filter(scene => !scriptureSlug || canUseForScripture(scene.id, scriptureSlug))) {
       menu.addItem(i => i.setTitle(`${s.emoji} ${s.name}`)
         .onClick(() => set(s.id, s.name)));
     }

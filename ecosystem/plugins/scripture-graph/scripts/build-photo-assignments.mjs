@@ -8,11 +8,11 @@ import vm from 'node:vm';
 import { execFileSync } from 'node:child_process';
 import ts from 'typescript';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const bundle = await build({ stdin: { contents: `export { SCENE_OVERRIDES, matchPageScene } from './src/study/presence'; export * from './src/study/photoConnections';`, resolveDir: root }, bundle: true, write: false, format: 'cjs', platform: 'node' });
+const bundle = await build({ stdin: { contents: `export { SCENE_OVERRIDES, matchPageScene } from './src/study/presence'; export * from './src/study/photoConnections'; export * from './src/study/photoPolicy';`, resolveDir: root }, bundle: true, write: false, format: 'cjs', platform: 'node' });
 const context = { exports: {}, module: { exports: {} }, require: createRequire(import.meta.url) };
 context.exports = context.module.exports;
 vm.runInNewContext(bundle.outputFiles[0].text, context);
-const { SCENE_OVERRIDES, matchPageScene, PHOTO_CONNECTIONS, SETTING_RULES } = context.module.exports;
+const { SCENE_OVERRIDES, matchPageScene, PHOTO_CONNECTIONS, SETTING_RULES, isScripturePhoto, canUseForScripture, SCRIPTURE_FALLBACKS } = context.module.exports;
 const books = JSON.parse(readFileSync(resolve(root, '../../packages/core-sdk/src/books.json'), 'utf8'));
 const sceneIds = [...readFileSync(resolve(root, 'src/study/scenes.ts'), 'utf8').matchAll(/\{ id: ["']([^"']+)["']/g)].map(m => m[1]);
 const canonical = resolve(root, '../../../Scripture Graph/AI Library/01 Scriptures/Canonical');
@@ -23,11 +23,10 @@ for (const file of walk(canonical).filter(file => file.endsWith('.md'))) {
   const slug = /^slug: ([\w-]+)\r?$/m.exec(text)?.[1];
   if (slug) texts.set(slug, text);
 }
-const candidates = new Map(), oldCounts = {}, primaryCounts = Object.fromEntries(sceneIds.map(id => [id, 0]));
+const candidates = new Map(), fallbackChapters = [], primaryCounts = Object.fromEntries(sceneIds.map(id => [id, 0]));
 for (const book of books) for (let number = 1; number <= book.chapters; number++) {
   const slug = `${book.slug}-${number}`, text = texts.get(slug);
   if (!text) throw Error(`Missing canonical chapter ${slug}`);
-  const old = matchPageScene(text, slug); oldCounts[old] = (oldCounts[old] ?? 0) + 1;
   // Only the immutable verse text supplies keyword evidence, never generated
   // commentary, links, metadata, or repeated titles.
   const clean = text.split(/\r?\n/).filter(line => /^\*\*\d+\*\*/.test(line)).join('\n').replace(/\^[\w-]+/g, '');
@@ -37,16 +36,23 @@ for (const book of books) for (let number = 1; number <= book.chapters; number++
     const hits = clean.match(rule.words) ?? [];
     if (!hits.length) continue;
     const score = Math.min(hits.length, 5) + new Set(hits.map(word => word.toLowerCase())).size * 2;
-    for (const id of rule.ids) scores.set(id, Math.max(scores.get(id) ?? 0, score));
+    for (const id of rule.ids) {
+      if (!canUseForScripture(id, slug)) throw Error(`Ineligible setting ${id}: ${slug}`);
+      scores.set(id, Math.max(scores.get(id) ?? 0, score));
+    }
   }
   // Explicit connections remain visible even when another event is the default.
   const explicit = Object.entries(PHOTO_CONNECTIONS).filter(([, rule]) => rule.chapters.includes(slug)).map(([id]) => id);
   const locked = SCENE_OVERRIDES[slug];
+  for (const id of [...explicit, ...(locked ? [locked] : [])]) if (!canUseForScripture(id, slug)) throw Error(`Ineligible scripture photo ${id}: ${slug}`);
   const best = Math.max(0, ...scores.values());
   const eligible = [...scores].filter(([, score]) => score >= Math.max(4, best * .70));
   for (const id of explicit) if (!eligible.some(([s]) => s === id)) eligible.push([id, best + 5]);
   if (locked && !eligible.some(([s]) => s === locked)) eligible.push([locked, best + 10]);
-  if (!eligible.length) eligible.push(...['study', 'rain-study', 'winter-hearth'].map(id => [id, 1]));
+  if (!eligible.length) {
+    eligible.push(...SCRIPTURE_FALLBACKS.map(id => [id, 1]));
+    fallbackChapters.push(slug);
+  }
   candidates.set(slug, { eligible, locked, explicit });
   if (locked) primaryCounts[locked]++;
 }
@@ -65,20 +71,26 @@ for (const [slug, { eligible, locked, explicit }] of candidates) {
   previous = chosen; previousBook = book;
 }
 const connected = new Set(Object.values(assignments).flat());
-for (const id of sceneIds) if (!connected.has(id)) throw Error(`Unassigned photo: ${id}`);
+// Coverage never overrides suitability. Personal and unmatched photos can have
+// zero scripture assignments; do not invent connections to make a count pass.
 for (const [id, rule] of Object.entries(PHOTO_CONNECTIONS)) {
   if (!sceneIds.includes(id)) throw Error(`Unknown photo ${id}`);
   for (const slug of rule.chapters) if (!assignments[slug]?.includes(id)) throw Error(`Invalid connection ${id}: ${slug}`);
 }
-for (const ids of Object.values(assignments)) for (const id of ids) if (!sceneIds.includes(id)) throw Error(`Unknown assignment ${id}`);
+for (const [slug, ids] of Object.entries(assignments)) for (const id of ids) {
+  if (!sceneIds.includes(id) || !canUseForScripture(id, slug)) throw Error(`Invalid assignment ${id}: ${slug}`);
+}
 const code = '// Generated by scripts/build-photo-assignments.mjs from canonical verse text.\n// First photo is the stable default; remaining photos are related alternatives.\nexport const CHAPTER_PHOTOS: Record<string, string[]> = {\n'
-  + Object.entries(assignments).map(([slug, ids]) => `  ${JSON.stringify(slug)}: ${JSON.stringify(ids)},`).join('\n') + '\n};\n';
+  + Object.entries(assignments).map(([slug, ids]) => `  ${JSON.stringify(slug)}: ${JSON.stringify(ids)},`).join('\n') + '\n};\n'
+  + 'export const FALLBACK_CHAPTERS = new Set<string>(' + JSON.stringify(fallbackChapters) + ');\n';
 writeFileSync(resolve(root, 'src/study/photoAssignments.generated.ts'), code);
-const report = { chapters: Object.keys(assignments).length, photos: sceneIds.length, connectedPhotos: connected.size,
+const report = { chapters: Object.keys(assignments).length, photos: sceneIds.length, scripturePhotos: sceneIds.filter(isScripturePhoto).length,
+  excludedPersonalPhotos: sceneIds.filter(id => !isScripturePhoto(id)), connectedPhotos: connected.size,
+  fallbackChapters: fallbackChapters.length,
   defaultPhotos: Object.values(primaryCounts).filter(n => n > 0).length,
-  relatedOnly: sceneIds.filter(id => !primaryCounts[id]),
+  relatedOnly: sceneIds.filter(id => isScripturePhoto(id) && !primaryCounts[id]),
   mostUsed: Object.entries(primaryCounts).sort((a,b) => b[1]-a[1]),
-  method: 'Exact passages first; relevant setting candidates within 70% of top keyword score; deterministic usage balancing and adjacent-chapter penalty. No forced unrelated assignments.' };
+  method: 'Reviewed scripture photos only. Exact passages first; relevant setting candidates within 70% of top keyword score; usage balancing only after eligibility. Neutral natural scenery when no setting matches. No coverage requirement for unsuitable or unrelated photos.' };
 // Capture the previous committed matcher for a before/after audit when it has
 // no generated-table dependency. Once committed, future runs omit this field.
 const before = execFileSync('git', ['show', 'HEAD:ecosystem/plugins/scripture-graph/src/study/presence.ts'], {cwd:root,encoding:'utf8'});
